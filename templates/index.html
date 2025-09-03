@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>NADRA Bot</title>
+  <link rel="stylesheet" href="static/css/style.css" />
+</head>
+<body>
+  <!-- Chat Toggle Button -->
+  <div class="chat-toggle" onclick="toggleChat()">💬</div>
+
+  <!-- Chatbot Panel -->
+  <div class="chat-wrapper" id="chat-wrapper">
+    <div class="chat-header">
+      <span>Nadra Agent</span>
+      <span class="close-btn" onclick="toggleChat()">✖</span>
+    </div>
+    <div class="chat-body" id="chat-body">
+      <!-- Messages will be appended here -->
+    </div>
+    <div class="chat-footer">
+      <input type="text" id="chat-input" placeholder="Type your message..." onkeydown="handleKeyPress(event)">
+      <button onclick="sendMessage()">➤</button>
+    </div>
+  </div>
+
+  <script src="static/js/script.js"></script>
+</body>
+</html>
