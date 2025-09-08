@@ -1,7 +1,7 @@
 {
   "file_name": "eligibility_final.md",
   "domain": "Identity_Services",
-  "total_qa_pairs": 25,
+  "total_qa_pairs": 65,
   "qa_data": [
     {
       "question": "What is the general requirement for registration with NADRA?",
@@ -44,32 +44,36 @@
       "answer": "POC (Pakistan Origin Card) is available to a prescribed class of foreigners or dual nationals. This is based on Section 11 of the NADRA Ordinance."
     },
     {
-      "question": "What documents are needed for a Pakistan Origin Card (POC)?",
+      "question": "What documents are required for Pakistan Origin Card (POC)?",
       "answer": "Required documents for POC include: Old Pakistani passport, MNIC, parent's ID documents, Foreign Passport, and Registered Marriage Certificate (if applicable)."
     },
     {
       "question": "Who is eligible for an Alien Registration Card?",
-      "answer": "Foreigners legally residing in Pakistan (except restricted nationalities) are eligible for an Alien Registration Card. This is based on Section 13 and Section 14-D of the Foreigners Act 1946."
+      "answer": "Foreigners legally residing in Pakistan (except restricted nationalities) are eligible for Alien Registration Card. This is based on Section 13 and Section 14-D of the Foreigners Act 1946."
     },
     {
-      "question": "What documents are required for an Alien Registration Card?",
+      "question": "What documents are required for Alien Registration Card?",
       "answer": "Required documents for Alien Registration Card include: Foreign Passport and Valid Pakistani Visa."
     },
     {
-      "question": "What is a Cancellation Certificate and who needs it?",
-      "answer": "A Cancellation Certificate (Due to Death) is for deceased Pakistani citizens who had a 13-digit registration number. This is based on Section 17 of the NADRA Ordinance."
+      "question": "Who can apply for a Cancellation Certificate due to death?",
+      "answer": "Cancellation Certificate due to death can be applied for deceased Pakistani citizens who had a 13-digit registration number. This is based on Section 17 of the NADRA Ordinance."
     },
     {
-      "question": "What documents are required for a Cancellation Certificate due to death?",
-      "answer": "The required document is a Death certificate issued by Union Council or foreign authority."
+      "question": "What documents are required for Cancellation Certificate due to death?",
+      "answer": "Required document is a Death certificate issued by Union Council or foreign authority."
     },
     {
-      "question": "What is the legal consequence of providing false information to NADRA?",
-      "answer": "As per Section 30 (1) of the NADRA Ordinance, it is a criminal offence to provide false or misleading information or fake documents when applying for NADRA services."
+      "question": "What happens if someone provides false information or fake documents to NADRA?",
+      "answer": "As per Section 30 (1) of the NADRA Ordinance, providing false or misleading information or fake documents is a criminal offence and can result in legal prosecution."
     },
     {
-      "question": "Can someone under 18 years apply for a regular CNIC?",
-      "answer": "No, someone under 18 years cannot apply for a regular National Identity Card (NIC). They are eligible for either a Juvenile Card or Child Registration Certificate (CRC), both of which are for Pakistani Citizens under 18 years."
+      "question": "What constitutes 'exceptional cases' for documentary proof?",
+      "answer": "Exceptional cases refer to situations where standard required documents are not available, and alternative documentary proof may be accepted. For example, pre-1979 government-issued documents for Juvenile Cards or other official documents that can establish identity and citizenship."
+    },
+    {
+      "question": "What are pre-1979 government-issued documents and when are they accepted?",
+      "answer": "Pre-1979 government-issued documents are historical identification documents issued before 1979. They may be accepted in exceptional cases as alternative proof for Juvenile Card applications when standard documents are not available."
     },
     {
       "question": "What is the difference between eligibility for Juvenile Card and CRC?",
@@ -88,10 +92,6 @@
       "answer": "Yes, Alien Registration Cards are available to foreigners legally residing in Pakistan, but there are exceptions for restricted nationalities. The specific restricted nationalities would be defined in the detailed policy."
     },
     {
-      "question": "What are pre-1979 government-issued documents and when are they accepted?",
-      "answer": "Pre-1979 government-issued documents are historical identification documents issued before 1979. They may be accepted in exceptional cases as alternative proof for Juvenile Card applications when standard documents are not available."
-    },
-    {
       "question": "Can dual nationals apply for Pakistani identity documents?",
       "answer": "Yes, dual nationals who belong to a prescribed class can apply for Pakistan Origin Card (POC) based on Section 11 of the NADRA Ordinance."
     },
@@ -102,6 +102,158 @@
     {
       "question": "Where can I find detailed documentation policy for NADRA services?",
       "answer": "For detailed documentation policy, you can visit: https://www.nadra.gov.pk/download/registration-policy/"
+    },
+    {
+      "question": "What happens when a Pakistani citizen turns 18 - do they need to change their document?",
+      "answer": "Yes, when a Pakistani citizen turns 18, they must transition from child documents (CRC or Juvenile Card) to adult National Identity Card (NIC) as per Section 10 eligibility criteria requiring age 18 or above."
+    },
+    {
+      "question": "Can someone have multiple types of NADRA identity documents simultaneously?",
+      "answer": "Generally, each person is eligible for one primary identity document based on their citizenship status and residency. However, specific policies may allow certain combinations, such as having both NIC and NICOP for different purposes."
+    },
+    {
+      "question": "What does 'prescribed class of foreigners' mean for POC eligibility?",
+      "answer": "The 'prescribed class of foreigners' refers to specific categories of foreign nationals defined in NADRA policies who are eligible for POC, typically including those of Pakistani origin or with family connections to Pakistan."
+    },
+    {
+      "question": "Is Pakistani citizenship required for all NADRA identity documents?",
+      "answer": "No, Pakistani citizenship is required for NIC, Juvenile Card, CRC, and NICOP. However, POC is for prescribed classes of foreigners/dual nationals, and Alien Registration Card is specifically for non-Pakistani foreigners."
+    },
+    {
+      "question": "What constitutes 'Blood Relative/Head of Family' for document requirements?",
+      "answer": "Blood Relative/Head of Family typically includes parents, siblings, children, or the designated head of the family unit who can provide supporting identification documents to establish family relationships and citizenship."
+    },
+    {
+      "question": "Can someone apply for NADRA documents if they don't have a Birth Certificate?",
+      "answer": "In exceptional cases, alternative documentary proof may suffice when Birth Certificates are not available. The specific alternatives depend on the type of document being applied for and individual circumstances."
+    },
+    {
+      "question": "What is the difference between Certificate of Citizenship and other proof of citizenship?",
+      "answer": "Certificate of Citizenship is a formal document proving Pakistani citizenship, while 'other proof of citizenship' may include documents like family member's NADRA cards, passports, or other official records that establish citizenship status."
+    },
+    {
+      "question": "Are there age restrictions for any NADRA identity documents besides NIC?",
+      "answer": "Yes, CRC and Juvenile Card are restricted to under 18 years (Section 9), while NIC requires 18 or above (Section 10). NICOP, POC, and Alien Registration Card don't have specific age restrictions mentioned in basic eligibility."
+    },
+    {
+      "question": "What happens if eligibility requirements are not met for a NADRA document?",
+      "answer": "If eligibility requirements are not met, the application will be rejected. Applicants should ensure they meet all criteria and have proper documentary evidence before applying, or seek guidance on alternative documents in exceptional cases."
+    },
+    {
+      "question": "Can eligibility criteria change over time?",
+      "answer": "Yes, eligibility criteria can be updated through amendments to the NADRA Ordinance or changes in policy. Applicants should refer to the current documentation policy on NADRA's website for the most up-to-date requirements."
+    },
+    {
+      "question": "Is there an appeals process if someone disagrees with eligibility determination?",
+      "answer": "While not specifically mentioned in the basic eligibility criteria, NADRA typically has grievance redressal mechanisms. Applicants should contact NADRA offices or check their website for specific appeals procedures."
+    },
+    {
+      "question": "Do eligibility requirements differ for urgent or emergency applications?",
+      "answer": "The basic eligibility criteria remain the same regardless of processing urgency. However, emergency situations may have special procedures for document verification, though fundamental eligibility must still be established."
+    },
+    {
+      "question": "What is the significance of the 13-digit registration number mentioned for death certificates?",
+      "answer": "The 13-digit registration number refers to the unique identifier assigned to Pakistani citizens in NADRA's system. It's required for Cancellation Certificate applications to ensure the deceased person was registered in NADRA's database."
+    },
+    {
+      "question": "Can foreign marriage certificates be used for any NADRA applications?",
+      "answer": "While not explicitly mentioned in basic eligibility criteria, foreign marriage certificates may be relevant for POC applications where registered marriage certificate is required, particularly for foreign spouses of Pakistani nationals."
+    },
+    {
+      "question": "What makes someone a 'Non-Resident Pakistani' for NICOP eligibility?",
+      "answer": "Non-Resident Pakistanis are Pakistani citizens who are living outside Pakistan or intending to reside abroad. NICOP is specifically designed for this category under Section 12 of the NADRA Ordinance."
+    },
+    {
+      "question": "Are there any medical or health requirements for NADRA document eligibility?",
+      "answer": "The basic eligibility criteria don't mention specific medical requirements. However, biometric capture may require physical presence and ability to provide fingerprints and photographs as part of the application process."
+    },
+    {
+      "question": "Can someone apply for NADRA documents if they have criminal background?",
+      "answer": "The eligibility criteria don't explicitly exclude individuals with criminal backgrounds, but providing false information is a criminal offense. Each case may be evaluated individually based on the nature of the background."
+    },
+    {
+      "question": "What is the difference between Pakistani citizenship and Pakistani origin for document eligibility?",
+      "answer": "Pakistani citizenship (required for NIC, CRC, Juvenile Card, NICOP) means being a legal citizen of Pakistan. Pakistani origin (relevant for POC) refers to having ancestral or family connections to Pakistan without necessarily being a current citizen."
+    },
+    {
+      "question": "Can temporary residents in Pakistan apply for any NADRA documents?",
+      "answer": "Temporary residents who are foreigners can apply for Alien Registration Card if they meet the legal residency requirements under Section 13 and Section 14-D of the Foreigners Act 1946."
+    },
+    {
+      "question": "Are there any financial requirements for establishing eligibility for NADRA documents?",
+      "answer": "The basic eligibility criteria don't mention financial requirements. However, applicants must pay prescribed fees for document processing, and some may need to demonstrate legal residence or relationships."
+    },
+    {
+      "question": "What happens to eligibility if someone's citizenship status changes?",
+      "answer": "Changes in citizenship status may affect eligibility for different document types. For example, if someone loses Pakistani citizenship, they may need to switch from NIC to POC or other appropriate documents based on their new status."
+    },
+    {
+      "question": "Can adoptive family relationships be used for establishing eligibility?",
+      "answer": "While the criteria mention 'Blood Relative/Head of Family,' specific policies on adoptive relationships would need to be confirmed from detailed NADRA documentation policies, as legal adoption creates family relationships."
+    },
+    {
+      "question": "Are there any residency duration requirements for Pakistani citizens applying for NADRA documents?",
+      "answer": "For Pakistani citizens applying for NIC, CRC, or Juvenile Card, there are no specific residency duration requirements mentioned. However, NICOP is specifically for those residing or intending to reside abroad."
+    },
+    {
+      "question": "What constitutes 'intending to reside abroad' for NICOP eligibility?",
+      "answer": "This refers to Pakistani citizens who plan to live outside Pakistan in the future. The specific documentation requirements for proving this intention would be detailed in NADRA's complete policy documentation."
+    },
+    {
+      "question": "Can stateless persons apply for any NADRA identity documents?",
+      "answer": "The eligibility criteria require Pakistani citizenship for most documents. Stateless persons would need to establish their citizenship status first or may potentially qualify for specific categories under exceptional circumstances."
+    },
+    {
+      "question": "Are there any educational requirements for NADRA document eligibility?",
+      "answer": "The basic eligibility criteria don't mention educational requirements. Eligibility is primarily based on citizenship, age, residency status, and supporting documentation rather than educational qualifications."
+    },
+    {
+      "question": "What documentation is needed to prove family relationships for eligibility?",
+      "answer": "Family relationships are typically proven through Blood Relative/Head of Family's National ID Card, Birth Certificates showing parental information, Marriage Certificates, or other official documents that establish family connections."
+    },
+    {
+      "question": "Can someone apply for multiple NADRA document types if they meet different eligibility criteria?",
+      "answer": "Depending on individual circumstances, someone might be eligible for different document types (e.g., Pakistani citizen living abroad might be eligible for both NIC and NICOP), but specific policies govern which combinations are allowed."
+    },
+    {
+      "question": "Are there any language requirements for NADRA document applications?",
+      "answer": "The eligibility criteria don't specify language requirements. However, documentation may need to be in Urdu or English, and translation services might be required for foreign documents."
+    },
+    {
+      "question": "What verification process is used to confirm eligibility for NADRA documents?",
+      "answer": "NADRA verifies eligibility through document authentication, biometric verification, database checks, and validation of supporting evidence. The specific verification process may vary based on the type of document and individual circumstances."
+    },
+    {
+      "question": "Can religious minorities apply for all types of NADRA identity documents?",
+      "answer": "Yes, eligibility is based on citizenship, age, and residency status rather than religion. Pakistani citizens from all religious backgrounds can apply for appropriate NADRA documents based on their circumstances."
+    },
+    {
+      "question": "Are there any restrictions based on place of birth for NADRA document eligibility?",
+      "answer": "Place of birth is not mentioned as a restriction in basic eligibility criteria. Pakistani citizenship is the primary requirement, regardless of where the person was born, though birth certificates may be required as supporting documentation."
+    },
+    {
+      "question": "What should someone do if they meet eligibility criteria but lack required documents?",
+      "answer": "In such cases, applicants should explore 'exceptional cases' provisions where alternative documentary proof may suffice, or contact NADRA offices for guidance on acceptable alternative documentation for their specific situation."
+    },
+    {
+      "question": "Can someone whose eligibility was previously rejected reapply for NADRA documents?",
+      "answer": "While not explicitly stated in eligibility criteria, individuals whose applications were rejected can typically reapply once they address the reasons for rejection and provide proper documentation to meet eligibility requirements."
+    },
+    {
+      "question": "Are there any special eligibility provisions for overseas Pakistanis beyond NICOP?",
+      "answer": "NICOP is specifically designed for overseas Pakistanis. However, depending on their specific circumstances, overseas Pakistanis might also be eligible for other documents like POC if they hold dual nationality."
+    },
+    {
+      "question": "What is the relationship between NADRA eligibility and Pakistani passport eligibility?",
+      "answer": "While related, these are separate processes. NADRA documents often serve as foundational identity proof for passport applications, but each has its own eligibility criteria managed by different authorities."
+    },
+    {
+      "question": "Can foreign authorities issue documents that satisfy NADRA eligibility requirements?",
+      "answer": "Yes, certain foreign-issued documents are acceptable, such as foreign authority death certificates for cancellation certificates, foreign marriage certificates for POC, and valid foreign passports for Alien Registration Cards."
+    },
+    {
+      "question": "How do name variations affect eligibility for NADRA documents?",
+      "answer": "While not specifically addressed in basic eligibility criteria, name consistency across supporting documents is important. Variations may require additional documentation or explanations to establish identity continuity during the application process."
     }
   ]
 }
