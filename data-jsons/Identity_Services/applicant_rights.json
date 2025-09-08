@@ -1,7 +1,7 @@
 {
   "file_name": "applicant_rights_final.md",
   "domain": "Identity_Services",
-  "total_qa_pairs": 15,
+  "total_qa_pairs": 28,
   "qa_data": [
     {
       "question": "What are the basic rights of an applicant when applying for NADRA services?",
@@ -62,6 +62,46 @@
     {
       "question": "What happens if NADRA violates an applicant's rights?",
       "answer": "Applicants have the right to accountability, which means they can hold NADRA accountable for service quality and escalate issues through proper channels if their rights are violated or services do not meet standards."
+    },
+    {"question": "How can I exercise my right to timely service if my application is delayed?",
+      "answer": "If your application exceeds the promised delivery timeline, you can: 1) Contact NADRA call center at 1777, 2) File a complaint at https://complaints.nadra.gov.pk, 3) Visit the registration center with your receipt, 4) Escalate to regional office if center doesn't respond, 5) Use your accountability rights to demand explanation and resolution."
+    },
+    {"question": "What specific accommodations are available for disabled applicants under special assistance rights?",
+      "answer": "Special assistance includes: wheelchair accessibility at centers, priority queue service, assistance with form filling, alternative biometric capture methods if needed, extended time for procedures, sign language interpreters where available, and family member assistance permission"
+    },
+    {"question": "How can I access and correct my personal records maintained by NADRA?",
+      "answer": "To access your records: 1) Visit any NADRA center with your CNIC, 2) Request data verification/correction, 3) Submit required documents for changes, 4) Use PAK-ID app for basic information viewing, 5) Submit written request for detailed record access."
+    },
+    {"question": "What constitutes a violation of my data privacy and security rights?",
+      "answer": "Violations include: unauthorized sharing of your personal data with third parties, data breaches exposing your information, staff accessing your records without legitimate purpose, selling personal information, or failure to secure databases against cyber threats."
+    },
+    {"question": "What are the timeframes for grievance redressal under my complaint rights?",
+      "answer": "NADRA typically resolves complaints within 7 days for standard issues. Complex cases may take up to 30 days. You should receive acknowledgment within 24-48 hours of complaint submission and regular updates on resolution progress."
+    },
+    {"question": "What should I do if NADRA staff violates my right to fair treatment?",
+      "answer": "If you face discrimination or disrespectful treatment: 1) Note staff details and incident specifics, 2) Report immediately to the center supervisor, 3) File formal complaint with evidence, 4) Escalate to regional office if unresolved"
+    },
+    {
+      "question": "Can I demand compensation if NADRA violates my applicant rights?",
+      "answer": "While NADRA is accountable for service quality, compensation policies depend on the specific violation and circumstances. You can demand remedial action, re-processing without additional fees, expedited service, or formal apology. For significant damages, legal consultation may be needed"
+    },
+    {"question": "What happens if I'm not satisfied with NADRA's response to my rights violation complaint?",
+      "answer": "If unsatisfied with the response: 1) Escalate to higher authorities within NADRA, 2) Contact Federal Ombudsman, 3) Approach relevant parliamentary committees, 4) File court petition for fundamental rights violations, 5) Use NADRA media channels for public accountability."
+    },
+    {"question": "How can I verify the authenticity of NADRA fees to ensure fee transparency?",
+      "answer": "To verify fees: 1) Check official NADRA website for current fee structure, 2) Request written fee breakdown at the center, 3) Avoid paying unofficial agents, 4) Use NADRA helpline (1777) for fee inquiries, 5) Report any discrepancies or overcharging to NADRA complaints portal."
+    },
+    {"question": "Are these applicant rights legally enforceable or just service standards?",
+      "answer": "These rights are based on NADRA's mandate under the NADRA Ordinance 2000 and constitutional guarantees. They are legally enforceable through administrative complaints, ombudsman, and courts, not just voluntary service standards"
+    },
+    {"question": "What constitutes 'clear updates on application status' under timely service rights?",
+      "answer": "Clear updates should include: current processing stage, expected completion date, any additional requirements, reason for delays if any, tracking reference number, and contact information for follow-up. Updates should be provided proactively or upon request."
+    },
+    {"question": "How can I ensure my personal data is protected when applying for NADRA services?",
+      "answer": "To protect your data: 1) Only provide information to authorized NADRA personnel, 2) Avoid sharing sensitive details with third parties, 3) Use secure channels for online applications, 4) Regularly monitor your records for unauthorized changes, 5) Report any suspicious activity immediately to NADRA."
+    },
+    {"question": "Can I refuse to pay if NADRA violates fee transparency rights?",
+      "answer": "If you suspect overcharging or hidden fees: 1) Request detailed fee breakdown, 2) Verify against official rates, 3) Pay only official amounts, 4) Document any discrepancies, 5) File immediate complaint, 6) Refuse to pay unauthorized charges while complying with official fees."
     }
   ]
 }
