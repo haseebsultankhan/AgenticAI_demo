@@ -1,0 +1,87 @@
+{
+  "file_name": "greeting_message.md",
+  "domain": "System_Messages",
+  "total_qa_pairs": 23,
+  "qa_data": [
+    {
+      "question": "welcome_greeting_main",
+      "answer": "🇵🇰 Assalam-o-Alaikum! Welcome to NADRA Information Assistant! I'm here to help you with information about NADRA services, procedures, and requirements. You can ask me about: ✅ CNIC, NICOP, POC services ✅ Fee structures and processing times ✅ Required documents ✅ Succession certificates ✅ Arms licenses ✅ Registration procedures ✅ NADRA center locations. How may I assist you today?"
+    },
+    {
+      "question": "welcome_greeting_english",
+      "answer": "🇵🇰 Welcome to NADRA Information Assistant! I'm your digital guide for all NADRA-related queries. Whether you need information about identity documents, registration procedures, fees, or any other NADRA service, I'm here to help 24/7. Simply type your question and I'll provide you with accurate, up-to-date information. What would you like to know about NADRA services?"
+    },
+    {
+      "question": "welcome_greeting_urdu",
+      "answer": "🇵🇰 السلام علیکم! نادرا انفارمیشن اسسٹنٹ میں آپ کا خیر مقدم! میں آپ کی نادرا کی خدمات، طریقہ کار، اور ضروریات کے بارے میں معلومات فراہم کرنے کے لیے یہاں موجود ہوں۔ آپ مجھ سے پوچھ سکتے ہیں: شناختی کارڈ کی خدمات، فیس کی تفصیلات، ضروری دستاویزات، جانشینی سرٹیفکیٹ، اسلحہ لائسنس۔ آج میں آپ کی کیا مدد کر سکتا ہوں؟"
+    },
+    {
+      "question": "welcome_greeting_services_overview",
+      "answer": "Welcome to NADRA Information Service! 🏛️ I can help you with comprehensive information about: 📋 **Identity Services**: CNIC, Smart NIC, modifications, renewals 🌍 **International Services**: NICOP, POC for overseas Pakistanis 👨‍👩‍👧‍👦 **Family Services**: FRC, CRC, succession certificates 🔫 **Arms Licenses**: Federal and provincial procedures 🏢 **Center Information**: Locations, timings, contact details 💰 **Fees & Processing**: Current rates and timelines. What specific information do you need?"
+    },
+    {
+      "question": "welcome_greeting_first_time",
+      "answer": "🆕 New to NADRA services? Welcome! I'm here to guide you through everything you need to know. NADRA (National Database & Registration Authority) is Pakistan's premier organization for identity management and registration services. I can help you understand: 🎯 Which service you need (CNIC, NICOP, POC), 📄 What documents to bring, 💵 How much it costs, ⏱️ How long it takes, 🏢 Where to apply. Let's start - what service are you interested in?"
+    },
+    {
+      "question": "welcome_greeting_returning_user",
+      "answer": "Welcome back! 👋 I'm glad to assist you again with your NADRA queries. Whether you're following up on previous information or have new questions about NADRA services, I'm here to help. You can ask about any updates to procedures, new requirements, or completely different services. What can I help you with today?"
+    },
+    {
+      "question": "welcome_greeting_urgent_help",
+      "answer": "Need urgent assistance? 🚨 I'm here to help with information, but for immediate service processing: 📞 **Call NADRA Helpline**: 1777 (24/7 support) 🏢 **Visit nearest center**: For same-day processing 📱 **Use PAK-ID app**: For some urgent services 🌐 **Online portal**: www.nadra.gov.pk. Meanwhile, I can provide you with all the information you need about procedures and requirements. What urgent matter can I help clarify?"
+    },
+    {
+      "question": "welcome_greeting_overseas",
+      "answer": "🌍 Overseas Pakistani? Welcome! I can help you with information about: 🛂 **NICOP**: National Identity Card for Overseas Pakistanis 📜 **POC**: Pakistan Origin Card services 🏛️ **Embassy services**: Documentation procedures 📱 **PAK-ID app**: Online services for overseas nationals 💰 **Zone-based fees**: Different rates for Zone A (USA/Europe) and Zone B (Middle East/Africa) 📋 **Required documents**: What you need from your current country. Which service interests you?"
+    },
+    {
+      "question": "welcome_greeting_mobile_user",
+      "answer": "📱 Using mobile? Perfect! I'm optimized for mobile users and can help you with quick, clear information about NADRA services. You can also: 📲 **Download PAK-ID app** for some services 💬 **Get SMS updates** using NADRA short codes 🔍 **Find nearest center** locations 📞 **Save helpline numbers**: 1777 for quick access. I'll keep my responses mobile-friendly. What information do you need?"
+    },
+    {
+      "question": "welcome_greeting_student",
+      "answer": "👨‍🎓 Student or young applicant? Welcome! Many students have questions about: 🆔 **First-time CNIC** at age 18 📚 **Student discounts** and procedures 📋 **Required documents** for young adults 👥 **Family registration** certificates 🎓 **University admission** document requirements 🌍 **Study abroad** documentation (NICOP/POC). I'll explain everything in simple terms. What do you need help with?"
+    },
+    {
+      "question": "welcome_greeting_senior_citizen",
+      "answer": "🧓 Respected senior citizen, welcome! I'm here to make NADRA information easy to understand. Common queries for seniors include: 🆔 **CNIC renewal** procedures 🏥 **Medical certificate** requirements 👨‍👩‍👧‍👦 **Family documentation** needs 🚐 **Mobile van services** for home visits 📞 **Priority services** available 💺 **Special assistance** at centers. I'll provide clear, step-by-step information. How may I assist you today?"
+    },
+    {
+      "question": "welcome_greeting_business_owner",
+      "answer": "👔 Business owner? Welcome! I can help with NADRA services relevant to businesses: 🏢 **Business registration** documentation 🆔 **Employee verification** services 📋 **Bulk applications** procedures 🔍 **Document verification** for staff 💼 **Corporate accounts** with NADRA 📊 **Data services** for businesses 🚐 **Mobile services** for corporate locations. What business-related NADRA information do you need?"
+    },
+    {
+      "question": "welcome_greeting_documentation_help",
+      "answer": "📄 Need help with documents? I'm your guide! I can clarify: ✅ **What documents you need** for each service 📷 **Photo requirements** and specifications 📝 **Form filling** guidance 🔍 **Document verification** process 📋 **Attestation requirements** 💾 **Digital copies** vs. originals 🗂️ **Document organization** tips. Let me know which service you're preparing documents for, and I'll provide a complete checklist!"
+    },
+    {
+      "question": "welcome_greeting_fee_inquiry",
+      "answer": "💰 Looking for fee information? I have the complete, updated fee structure! I can tell you about: 🆔 **CNIC fees**: Normal, Urgent, Executive 🌍 **NICOP costs**: Zone A and Zone B rates 📜 **POC charges**: All categories 👶 **CRC/FRC fees**: Child and family certificates 💼 **Executive services**: Premium processing 🔄 **Modification costs**: Various changes 📋 **Free services**: What's available at no cost. Which service fees do you want to know about?"
+    },
+    {
+      "question": "welcome_greeting_processing_time",
+      "answer": "⏰ Want to know processing times? I can help! NADRA offers different processing speeds: 🐌 **Normal processing**: Standard timeline ⚡ **Urgent processing**: Faster service 🚄 **Executive processing**: Premium speed 📱 **PAK-ID services**: Instant for some functions 🏢 **Walk-in services**: Same-day options 📅 **Appointment-based**: Scheduled services. Processing times vary by service type and category. Which service timeline interests you?"
+    },
+    {
+      "question": "welcome_greeting_location_finder",
+      "answer": "📍 Looking for NADRA center locations? I can help you find: 🏢 **Registration centers** in your city 🚐 **Mobile van schedules** 🏛️ **Regional offices** contacts 🕘 **Center timings** and working hours 📞 **Contact numbers** for specific locations 🚌 **Public transport** accessibility 🅿️ **Parking availability** information. Which city or area are you looking for NADRA services in?"
+    },
+    {
+      "question": "welcome_greeting_complaint_resolution",
+      "answer": "🔧 Have a complaint or need issue resolution? I can guide you to the right channels: 🌐 **Online complaints**: https://complaints.nadra.gov.pk 📞 **Call center**: 1777 for immediate help 📧 **Email support**: csd@nadra.gov.pk 📝 **Center registers**: In-person complaint filing 👥 **Social media**: Official NADRA accounts 📊 **Tracking systems**: Follow your complaint status. NADRA resolves 93% of complaints within 7 days. How can I help address your concern?"
+    },
+    {
+      "question": "welcome_greeting_policy_updates",
+      "answer": "📢 Looking for latest policy updates? I provide information based on current available documentation, including: 📋 **Registration policies** 💰 **Fee structure changes** 📄 **Document requirements** updates ⚖️ **Legal framework** changes 🌐 **Online service** enhancements 📱 **Mobile app** features. For the most current updates, always verify with official sources. What policy information are you seeking?"
+    },
+    {
+      "question": "welcome_greeting_special_cases",
+      "answer": "🔍 Have a special or complex case? I can help with information about: 👥 **Transgender registration** procedures 🏠 **Orphan registration** policies 👶 **Minor applications** requirements 🌍 **Foreign nationals** registration 🔄 **Correction procedures** for errors 📋 **Special circumstances** documentation ⚖️ **Legal heir** processes 🏥 **Medical cases** considerations. Every case is important - what specific situation do you need help with?"
+    },
+    {
+      "question": "welcome_greeting_thank_you",
+      "answer": "🙏 Thank you for choosing NADRA Information Assistant! Remember: 📞 **24/7 Help**: Call 1777 anytime 🌐 **Official website**: www.nadra.gov.pk 📱 **PAK-ID app**: For mobile services 🏢 **Visit centers**: For personalized assistance 📧 **Email support**: csd@nadra.gov.pk 🔄 **Always verify**: Current requirements before visiting. I'm here whenever you need NADRA information. Your satisfaction and access to accurate information is my priority! 🇵🇰"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "file_name": "default_message.md",
+  "domain": "System_Messages",
+  "total_qa_pairs": 18,
+  "qa_data": [
+    {
+      "question": "default_response_not_found",
+      "answer": "I apologize, but I couldn't find specific information about your query in my database. For immediate assistance, please contact NADRA through: 📞 Call Center: 1777 or 051-111-786-100 (24/7 support), 🌐 Online Complaints: https://complaints.nadra.gov.pk, 📧 Email: csd@nadra.gov.pk, 🏢 Visit your nearest NADRA Registration Center. You can also check the official NADRA website at www.nadra.gov.pk for updated information and services."
+    },
+    {
+      "question": "default_response_technical_error",
+      "answer": "I'm experiencing a technical issue and cannot process your request at the moment. Please try again in a few moments. If the problem persists, contact NADRA directly: 📞 1777 or 051-111-786-100 for immediate support, or visit your nearest NADRA center. Thank you for your patience."
+    },
+    {
+      "question": "default_response_unclear_query",
+      "answer": "I didn't quite understand your question. Could you please rephrase it or be more specific? For example, you can ask about: ✅ CNIC services (new, renewal, modification), ✅ NICOP and POC information, ✅ Fee structures and processing times, ✅ Required documents for services, ✅ NADRA center locations, ✅ Succession certificates, ✅ Arms licenses. If you need immediate help, call 1777 or visit www.nadra.gov.pk"
+    },
+    {
+      "question": "default_response_service_limitation",
+      "answer": "I can provide information about NADRA services, but I cannot process applications or access personal records. For actual service processing, please: 🏢 Visit a NADRA Registration Center, 📱 Use PAK-ID mobile app for some services, 🌐 Visit www.nadra.gov.pk for online services, 📞 Call 1777 for personalized assistance. I'm here to help with information about procedures, requirements, and fees."
+    },
+    {
+      "question": "default_response_urgent_matter",
+      "answer": "For urgent matters requiring immediate attention, please contact NADRA directly: 📞 Emergency Helpline: 1777 (Available 24/7), 🏢 Visit your nearest NADRA Registration Center immediately, 📧 Email urgent queries to: csd@nadra.gov.pk. For life-threatening emergencies, contact local emergency services first (15 for Police, 1122 for Rescue)."
+    },
+    {
+      "question": "default_response_policy_change",
+      "answer": "NADRA policies and procedures may change over time. The information I provide is based on available documentation. For the most current policies, fees, and procedures, please: 🌐 Check the official website: www.nadra.gov.pk, 📞 Call 1777 for latest updates, 🏢 Visit your nearest NADRA center. Always verify current requirements before visiting for services."
+    },
+    {
+      "question": "default_response_feedback",
+      "answer": "Your feedback is valuable to NADRA! You can share your experience or suggestions through: 🌐 Online feedback: https://complaints.nadra.gov.pk, 📞 Call Center: 1777, 📧 Email: csd@nadra.gov.pk, 📝 Complaint register at any NADRA center, 📱 Social media: @NadraPakistanOfficial (Facebook), @NadraPak (Twitter). NADRA resolves approximately 93% of complaints within seven days."
+    },
+    {
+      "question": "default_response_document_verification",
+      "answer": "I cannot verify the authenticity of documents or access personal records. For document verification services: 🏢 Visit a NADRA Registration Center with original documents, 📞 Call 1777 for verification procedures, 🌐 Use online verification services at www.nadra.gov.pk where available. NADRA officers will assist with proper document verification using official systems."
+    },
+    {
+      "question": "default_response_appointment_booking",
+      "answer": "I cannot book appointments, but you can: 📱 Use PAK-ID mobile app for some services, 🌐 Check www.nadra.gov.pk for online appointment systems, 📞 Call 1777 to inquire about appointment procedures, 🏢 Visit NADRA centers directly (most work on walk-in basis with token system). Some centers may have specific appointment systems for certain services."
+    },
+    {
+      "question": "default_response_international_queries",
+      "answer": "For international/overseas Pakistani queries: 🏛️ Contact Pakistani Consulates/Embassies in your country, 🌐 Visit www.nadra.gov.pk for overseas services, 📞 International helpline numbers available on NADRA website, 📱 Use PAK-ID mobile app for some overseas services, 📧 Email specific queries to overseas services departments. Each country may have different procedures for Pakistani nationals."
+    },
+    {
+      "question": "default_response_privacy_security",
+      "answer": "I cannot access, view, or modify any personal records or database information. Your privacy and data security are protected. For account-related or personal data queries: 🏢 Visit NADRA center with proper identification, 📞 Call 1777 with identity verification, 🔒 Never share personal details like CNIC numbers in unsecured channels. NADRA follows strict data protection protocols as per NADRA Ordinance 2000."
+    },
+    {
+      "question": "default_response_mobile_app_issues",
+      "answer": "For PAK-ID mobile app technical issues: 📱 Try updating the app from your app store, 🔄 Restart your device and try again, 🌐 Check www.nadra.gov.pk for app support, 📞 Call 1777 for technical support, 📧 Report app issues to csd@nadra.gov.pk. Ensure you have a stable internet connection and latest app version."
+    },
+    {
+      "question": "default_response_regional_specific",
+      "answer": "Some services may have regional variations or specific requirements. For region-specific information: 🏢 Contact your local NADRA Regional Office, 📞 Call 1777 and specify your location, 🌐 Check regional pages on www.nadra.gov.pk, 📍 Visit the nearest NADRA center in your area. Regional offices can provide location-specific guidance and requirements."
+    },
+    {
+      "question": "default_response_service_hours",
+      "answer": "NADRA service hours may vary by location. Generally: 🕘 Registration Centers: 8:00 AM to 5:00 PM (Monday to Friday), 📞 Call Center: 24/7 support available, 🌐 Online services: Available 24/7, 🏢 Some centers may have extended or weekend hours. For specific center timings: Call 1777 or check www.nadra.gov.pk for your local center's schedule."
+    },
+    {
+      "question": "default_response_application_tracking",
+      "answer": "To track your application status, there are several options available: 📱 **Option 1: Through PAK-ID Mobile Application** - Step 1: Download the PAK-ID application on AppStore or Google Play Store (Make sure it's updated to latest version), Step 2: Signup with your information, or if account already exists Sign IN, Step 3: Click on Show More, Step 4: Enter your Tracking ID and PIN Code from the receipt you received from NADRA, Step 5: Verify the Application Details, Step 6: Get the Application Status. 📞 **Option 2: Call 1777 or +92 51 111 786 100** and get the details of your application with live support."
+    },
+    {
+      "question": "default_response_cannot_check_status",
+      "answer": "I don't have access to NADRA's application tracking system or personal records, so I cannot check your application status directly. Please use the official tracking methods: 📱 PAK-ID mobile app with your Tracking ID and PIN, or 📞 Call 1777 or +92 51 111 786 100 for live status updates. These official channels have access to real-time application information."
+    },
+    {
+      "question": "default_response_delayed_application",
+      "answer": "I sincerely apologize for any inconvenience caused by the delay in receiving your card/document. Please call 📞 1777 or +92 51 111 786 100 to get detailed information about your application status and expected delivery timeline. The call center can provide specific updates about any processing delays and help expedite your case if needed. Your patience is appreciated, and NADRA is committed to resolving your matter promptly."
+    },
+    {
+      "question": "default_response_thank_you",
+      "answer": "Thank you for using NADRA information service! If you need further assistance: 📞 Call 1777 for live support, 🌐 Visit www.nadra.gov.pk for comprehensive information, 🏢 Visit your nearest NADRA Registration Center, 📧 Email csd@nadra.gov.pk for detailed queries. NADRA is committed to serving Pakistani citizens with dignity and efficiency. Have a great day! 🇵🇰"
+    }
+  ]
+}
