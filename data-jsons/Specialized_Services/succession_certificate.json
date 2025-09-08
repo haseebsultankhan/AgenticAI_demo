@@ -1,7 +1,7 @@
 {
   "file_name": "succession_certificate.md",
   "domain": "Specialized_Services",
-  "total_qa_pairs": 85,
+  "total_qa_pairs": 120,
   "qa_data": [
     {
       "question": "What is a Legal Heir in succession matters?",
@@ -69,26 +69,14 @@
     },
     {
       "question": "What documents are required for a fresh Succession Certificate application?",
-      "answer": "Required documents are: 1. Death Certificate of deceased issued by Municipal Authority/UC/Cantonment, 2. Deceased CNIC/NICOP/POC cancellation Receipt, 3. Copies of CNICs/NICOPs/POCs of legal heirs, 4. Authorization Letter (as per Schedule-I), 5. Family Registration Certificate FRC (Alpha or Beta or both), 6. Original ownership documents of Moveable/Immoveable Asset(s), 7. Wakalat Nama for application processed through Legal Counsel (Sindh and Balochistan), 8. Any other document (if required) as NADRA may deem fit as per Law."
+      "answer": "Required documents are: 1. Death Certificate of deceased issued by Municipal Authority/UC/Cantonment, 2. Deceased CNIC/NICOP/POC cancellation Receipt, 3. Copies of CNICs/NICOPs/POCs of legal heirs, 4. Authorization Letter (as per Schedule-I), 5. Family Registration Certificate FRC (Alpha or Beta or both), 6. Original ownership documents of Moveable/Immoveable Asset(s), 7. Wakalat Nama in favour of Legal Counsel (for Sindh & Balochistan only)."
     },
     {
       "question": "What are the steps for processing a fresh Succession Certificate application?",
-      "answer": "Steps are: 1. Assessment of application, documents and details of legal heirs through available NADRA Verification tools, 2. Data entry of applicant, deceased and Legal Heir(s) particulars, deceased property details along with shares of legal heirs as per Personal Law, 3. Scanning of documents with correct document title, 4. Advertisement/Public Notice in two nationwide circulated Newspapers (3x in Sindh only), 5. Objection Recording (If any objection is received within 14 days of publication of notice), 6. Biometric Verification of all legal heirs, 7. Approval, Printing, Receiving and Delivery of SC/LOA."
+      "answer": "Steps are: 1. Data entry of deceased, legal heirs and asset particulars, 2. Scanning of documents with correct document title, 3. Advertisement/Public Notice in two nationwide circulated Newspaper (3x Newspaper for Sindh only), 4. Objection recording (If objection received within 14 days of publication of notice), 5. Biometric Verification of all legal heirs, 6. Approval, Printing, Receiving and Delivery of SC/LOA."
     },
     {
-      "question": "How many newspaper advertisements are required for Sindh succession applications?",
-      "answer": "For Sindh succession applications, Advertisement/Public Notice must be published in three (3x) nationwide circulated Newspapers, while other provinces require only two newspapers."
-    },
-    {
-      "question": "What documents are required for a Decline Certificate application?",
-      "answer": "Documents same as fresh application plus document justifying the reason of Decline i.e. FRC for minor."
-    },
-    {
-      "question": "What are the steps for processing a Decline Certificate?",
-      "answer": "Steps are: 1. Submission of application to OIC SFU, 2. Data entry of applicant, deceased, Legal Heir(s) particulars, deceased property details and decline reason, 3. Scanning of documents with correct document title, 4. Approval, Printing, Receiving and Delivery of Decline Certificate."
-    },
-    {
-      "question": "What documents are required for reprint of lost/damaged Succession Certificate?",
+      "question": "What documents are required for duplicate Succession Certificate application?",
       "answer": "Required documents are: 1. Applicant CNIC/NICOP/POC, 2. Copy of the FIR/Police Report (for Lost/Stolen Certificate) or 3. Original SC/LOA (for Damaged Certificate)."
     },
     {
@@ -124,220 +112,212 @@
       "answer": "New/Fresh Application: Assets ≥ 100,000: Rs. 20,000, Assets < 100,000: Rs. 10,000. Duplicate Application: Rs. 5,000. Amend Application (Modification/Reprint Loss): Rs. 5,000. Decline Certificate Fee: Assets ≥ 100,000: Rs. 15,000, Assets < 100,000: Rs. 5,000. Office Mistake: Free of Cost."
     },
     {
-      "question": "What is the mode of payment for Succession Certificate fees?",
-      "answer": "Mode of payment for Succession Certificate is CASH ONLY. Fees can be different for different provinces, so please confirm the city name and which province it's located in."
+      "question": "What are the Succession Certificate fees for AJK?",
+      "answer": "New/Fresh Application: Assets ≥ 100,000: Rs. 20,000, Assets < 100,000: Rs. 10,000. Duplicate Application: Rs. 5,000. Amend Application (Modification/Reprint Loss): Rs. 5,000. Decline Certificate Fee: Assets ≥ 100,000: Rs. 15,000, Assets < 100,000: Rs. 5,000. Office Mistake: Free of Cost."
     },
     {
-      "question": "When are cases referred to Zonal Verification Board?",
-      "answer": "Cases will be referred to Zonal Verification Board where fingerprints of any of the legal heir(s) are not verified and it is unable to update fingerprints due to valid reasons i.e. settled abroad, bedridden, old age etc."
+      "question": "What are the Succession Certificate fees for Gilgit Baltistan?",
+      "answer": "New/Fresh Application: Assets ≥ 100,000: Rs. 20,000, Assets < 100,000: Rs. 10,000. Duplicate Application: Rs. 5,000. Amend Application (Modification/Reprint Loss): Rs. 5,000. Decline Certificate Fee: Assets ≥ 100,000: Rs. 15,000, Assets < 100,000: Rs. 5,000. Office Mistake: Free of Cost."
     },
     {
-      "question": "What is the composition of Zonal Board?",
-      "answer": "Composition of Zonal Board: 1. President: DD/AD Zone, 2. Member-1: Office In-Charge SFU, Member-2: Desk Operator SFU."
+      "question": "What is the mode of payment for Succession Certificate?",
+      "answer": "The mode of payment for Succession Certificate is CASH ONLY. Fees can be different for different provinces, so please confirm the city name and which province it's located in."
     },
     {
-      "question": "What are the actions available for Zonal Board decisions?",
-      "answer": "Actions are Clear (a) or Reject (b). Clear: Use 'Biometric Clear' option to Clear case from Succession Unified Web Portal. Reject: Use 'Case Reject' option to reject case from Succession Unified Web Portal."
-    },
-    {
-      "question": "What documents must be attached for Zonal Board decisions?",
-      "answer": "Documents to be attached are: 1. Notice, 2. Board Proceedings, 3. Affidavit as per prescribed format, 4. Minute Sheet duly approved from Regional DG."
-    },
-    {
-      "question": "Who processes Zonal Board decisions?",
-      "answer": "Regional DD/AD Operations Branch nominated by respective Region processes the decisions."
-    },
-    {
-      "question": "What is the minimum quorum for Zonal Board?",
-      "answer": "Minimum quorum for Zonal Board is President and 1 × member. It shall be conducted on weekly basis."
-    },
-    {
-      "question": "What are the responsibilities of Board President?",
-      "answer": "President of the Board shall ensure presence of the board members. Board members shall assist President in all ways and means (Reports, Archive record etc.)."
-    },
-    {
-      "question": "What qualifications are required for Board members?",
-      "answer": "Board members shall have good knowledge of Succession Laws, Rules and Registration Policy."
-    },
-    {
-      "question": "When is Board reconstituted?",
-      "answer": "Board shall be reconstituted by respective RHO immediately if any member is posted/suspended/terminated/resigned."
-    },
-    {
-      "question": "How are Board proceedings conducted for overseas legal heirs?",
-      "answer": "Board proceedings will be conducted using modern device/video call as per Section 6(5) of Succession Laws for legal heirs unable to visit designated SFU due to valid reason i.e. settled abroad, bedridden."
-    },
-    {
-      "question": "Who files the succession application and how?",
-      "answer": "Application will be filed by the legal heir (Legal Counsel also for Sindh & Balochistan) authorized by all legal heirs in prescribed form (Schedule I duly completed and attested by Oath Commissioner)."
-    },
-    {
-      "question": "From which office can applicant apply for succession certificate?",
-      "answer": "Applicant can apply from any office of the Authority within the Province where deceased was resided at the time of his death or where asset(s) of the deceased is/are located."
-    },
-    {
-      "question": "How is succession application processed when applicant's fingerprints are not verified?",
-      "answer": "Succession application where fingerprints of the applicant is not verified will be processed through Facial Matching. For application where Sole Legal Heir is processed through Facial Matching applicant will ensure presence of one blood relative including spouse as verifier."
-    },
-    {
-      "question": "What additional requirement exists for immoveable properties in Sindh?",
-      "answer": "Applicant has to provide Certificate of Ownership (Search Certificate) issued from respective Authority/Department/Institution in addition to the original ownership documents for immoveable properties of the deceased (For Sindh Only)."
-    },
-    {
-      "question": "What is OIC's role in succession application processing?",
-      "answer": "OIC will interview the applicant and endorse ORIGINAL SEEN stamp before processing the application."
-    },
-    {
-      "question": "Who signs the acknowledgement print preview?",
-      "answer": "Applicant, Desk Operator and OIC will sign the print preview of acknowledgement to concede correctness of recorded information."
-    },
-    {
-      "question": "What CNIC status issues need to be resolved before processing?",
-      "answer": "CNIC status flags (Missing Biometrics, SI, Fraud marked, digitally impounded, P.O. etc.) need to be corrected/fixed as per Registration Policy in vogue prior to processing of Succession application."
-    },
-    {
-      "question": "Are foreign death certificates acceptable?",
-      "answer": "Yes, Death Certificate issued by foreign authority duly attested by Pak Embassy/Consulate is acceptable."
-    },
-    {
-      "question": "What is the expiration time for incomplete applications?",
-      "answer": "Application not completed in terms of documentary requirements and biometric verification by the legal heirs up to 365 days (Expiration Time) from the date of processing will be void and application has to be filed afresh."
-    },
-    {
-      "question": "What are the biometric capture procedures during succession application?",
-      "answer": "Photograph and fingerprints of the applicant will be captured while processing application. Legal heirs' fingerprints will be captured on their availability, failing which Facial Verification will be done. Legal Heirs settled abroad can provide fingerprints online at Pak-ID Mobile App or DAUs Abroad (for Fresh, Office Mistake & Amendment applications)."
-    },
-    {
-      "question": "When is biometric verification not required for legal heirs?",
-      "answer": "Legal heir's Biometric Verification (except applicant) will not be carried out for Decline & Reprint-Lost applications."
-    },
-    {
-      "question": "When is Board Verification conducted for legal heirs?",
-      "answer": "Legal Heirs will be verified through Board Verification where Legal Heir(s) fingerprints are not verified and it is unable to update fingerprints for being settled abroad, bedridden or for any other valid reason for not visiting NRC/DAU."
-    },
-    {
-      "question": "What is the scanning requirement for documents?",
-      "answer": "Scanning of documents will be made on the same day and it will be ensured to scan documents with respective document title i.e. affidavit should be scanned against the affidavit category selected from the drop down menu at the scanning stage."
-    },
-    {
-      "question": "Can succession applications be cancelled on the same day?",
-      "answer": "Yes, application can be cancelled on same day (on irreversible problem before scanning of documents) and no fee will be charged."
-    },
-    {
-      "question": "What happens when there are minors in deceased family as legal heirs?",
-      "answer": "For minors in deceased family as legal heir(s), application will be processed to issue Decline Certificate. If deceased is MNIC holder, application will also be processed to issue Decline Certificate."
-    },
-    {
-      "question": "How are applications from extended family processed?",
-      "answer": "Applications from extended family (beyond Alpha and Beta Family of the deceased) will be processed to issue Decline Certificate."
-    },
-    {
-      "question": "When are Decline Certificates issued on Court Orders?",
-      "answer": "Application will be processed to issue Decline Certificate on Court Orders/Directions."
-    },
-    {
-      "question": "How is Decline Certificate issued and what details are recorded?",
-      "answer": "Decline Certificate will be issued through Succession software. Legal heirs, deceased asset's details and decline reason will be recorded. For deceased with MNIC and extended family case, only deceased asset's details will be entered."
-    },
-    {
-      "question": "When is Decline Certificate issued on Factual Controversy?",
-      "answer": "Decline Certificate on Factual Controversy will be issued on the same day of processing of the application."
-    },
-    {
-      "question": "Can Succession Certificate be processed after Decline Certificate issuance?",
-      "answer": "Yes, application for Succession Certificate/Letter of Administration will be processed once reason of decline is eliminated even if Decline Certificate has been issued previously."
-    },
-    {
-      "question": "How many decline reasons can be selected for Decline Certificate?",
-      "answer": "Only one reason can be selected while processing of Decline Certificate application from the decline reason library."
-    },
-    {
-      "question": "What is the objection period and procedure?",
-      "answer": "Any aggrieved person may approach the OIC of respective SFU for objection within fourteen (14) days after publication of notice in Newspaper. On receiving objection through letter, email or telephone, objector will be informed to submit objection by appearing in person or by any person authorized through Special Power of Attorney."
-    },
-    {
-      "question": "What happens if objector fails to appear for objection recording?",
-      "answer": "No objection will be entertained if objector fails to appear in person at concerned SFU for objection recording."
-    },
-    {
-      "question": "What documents must objector submit?",
-      "answer": "Objector has to submit written objection on plain paper along with justifiable documentary evidence that will be scanned and uploaded at Succession Web Portal by authorized user. Objector(s) Fingerprints will be captured, and receipt will be provided to the objector after recording objection."
-    },
-    {
-      "question": "What happens when objection is recorded?",
-      "answer": "On objection (after hearing the applicant), process on application will be stopped and system generated Decline Certificate will be issued to the applicant after 14 Days' Notice Period. Decision on objection as claimant of legal heir of the deceased will be made on updation of objector's record through respective DAU or Zonal office."
-    },
-    {
-      "question": "Is there any refund available when application is declined on objection?",
-      "answer": "Yes, applicant will be refunded Rs. 5000/- as per Schedule IV (of Federal/Provincial Succession Rules) through cross cheque if application is declined on objection and its receiving will be maintained at SFU and updated at Web Portal as well."
-    },
-    {
-      "question": "Can fresh application be filed after objection settlement?",
-      "answer": "Yes, fresh application for Letter of Administration or Succession Certificate can be filed after settlement on objection/factual grounds even if Decline Certificate has been issued previously."
-    },
-    {
-      "question": "Who can collect the Succession Certificate/Letter of Administration?",
-      "answer": "SC/LOA will be delivered to the applicant on self-presence (with/without token slip) or legal heir (with original token slip) or any other person (with original token slip and authority letter from applicant)."
-    },
-    {
-      "question": "What are the consequences of concealment of facts in succession application?",
-      "answer": "If any concealment of fact including concealment of legal heirs of the deceased is found, applicant shall be liable to face legal action as per prevailing law and Letter of Administration/Succession Certificate shall deemed to be cancelled by the issuing Authority forthwith."
-    },
-    {
-      "question": "What is the procedure for duplicate certificate issuance?",
-      "answer": "Duplicate SC/LOA will be issued on the same day of processing of application in favour of Primary Applicant to whom it was previously issued with change in Tracking ID, Certificate Number and Date of Issue only."
-    },
-    {
-      "question": "What corrections are allowed in Office Mistake/Amendment applications?",
-      "answer": "Only textual correction in applicant, deceased, legal heir(s) particulars and asset/property details specific fields highlighted by the applicant will be made without any addition/deletion any time after receiving of SC/LOA in Office Mistake/Amendment application."
-    },
-    {
-      "question": "What happens to original certificate in case of damaged certificate?",
-      "answer": "Original Certificate will be surrendered (in case of damaged Certificate) that will be pierced/defaced before the applicant."
-    },
-    {
-      "question": "Who can apply for Reprint-Lost/Duplicate/Office Mistake/Amendment applications?",
-      "answer": "Any of the Legal Heir can apply for Reprint-Lost/Duplicate/Office Mistake/Amendment applications."
-    },
-    {
-      "question": "When is Authorization Certificate/Affidavit not required?",
-      "answer": "Authorization Certificate/Affidavit is not required for Reprint-Lost Certificate and Office Mistake applications."
-    },
-    {
-      "question": "When is Revised Authorization Letter required?",
-      "answer": "Revised Authorization Letter is required for Amendment application."
-    },
-    {
-      "question": "What is required for OIC SFU/DSFU to process Office Mistake or Amendment?",
-      "answer": "OIC SFU/DSFU will initiate Monitoring & Evaluation Performa (Annex-E) for Office Mistake or Amendment and such application will be processed on approval of Regional DG that will be scanned and uploaded at Web Portal."
-    },
-    {
-      "question": "What notice procedure is followed under Section 6(5)?",
-      "answer": "Notice under Section 6(5) of relevant Succession Law shall be served to the applicant as per prescribed format (Annex-B)."
-    },
-    {
-      "question": "What affidavit is required from applicant for Board Verification?",
-      "answer": "Applicant has to submit an affidavit duly attested by Oath Commissioner as per prescribed format (Annex-C) to confirm on oath that person whose fingerprints are not being verified is the true legal heir of the deceased."
-    },
-    {
-      "question": "How are Board proceedings prepared and forwarded?",
-      "answer": "Board proceedings will be prepared duly completed/signed as per prescribed format (Annex-D) and forwarded to respective Regional Operations Branch."
-    },
-    {
-      "question": "How does Regional Operations Branch validate cases?",
-      "answer": "Regional Operations Branch will validate the case through Unified Succession Web Portal ensuring that all documents/evidences mentioned above are uploaded before validating the case."
-    },
-    {
-      "question": "What interview process is conducted by Board members?",
-      "answer": "Board members shall conduct detailed interview of legal heir whose fingerprints are not verified personally. Board members shall verify concerned person data on verifying tools."
-    },
-    {
-      "question": "What Succession Laws and Rules apply to different provinces?",
-      "answer": "Punjab Succession and Letter of Administration Rules, 2020. Letter of Administration and Succession Certificate (Punjab Amendment) Rules, 2021. Succession Certificate/Letter of Administration/Inheritance/Mutation (Sindh Amendment) Rules, 2021. Letter of Administration and Succession Certificate (KPK Amendment) Rules, 2021. Letter of Administration and Succession Certificate (Balochistan Amendment) Rules, 2021. Letter of Administration and Succession Certificate (Islamabad Capital Territory Amendment) Rules, 2022. (To be read with NADRA Ordinance 2000)."
+      "question": "What legal acts govern Succession Certificates?",
+      "answer": "The legal acts include: Punjab Succession and Letter of Administration Rules, 2020; Letter of Administration and Succession Certificate (Punjab Amendment) Rules, 2021; Succession Certificate / Letter of Administration / Inheritance / Mutation (Sindh Amendment) Rules, 2021; Letter of Administration and Succession Certificate (KPK Amendment) Rules, 2021; Letter of Administration and Succession Certificate (Balochistan Amendment) Rules, 2021; Letter of Administration and Succession Certificate (Islamabad Capital Territory Amendment) Rules, 2022. (To be read with NADRA Ordinance 2000)."
     },
     {
       "question": "What is the document version and status of this Succession Policy?",
       "answer": "Document: Letters of Administration & Succession Certificate — Policy for SFUs/DSFUs, Version: SFU-1.0.1, Status: In Process, Total Pages: 12, Creation Dates: February - 2024, Last Policy Version: SFU-1.0.0, Control Status: Controlled, Distribution: Ops Division, RHOs, Directorate and Departments. This Policy is applicable on all SFUs/DSFUs and Succession Manpacks across the country."
+    },
+    {
+      "question": "How are photographs and fingerprints captured during succession application processing?",
+      "answer": "Photograph and fingerprints of the applicant will be captured while processing application. Legal heirs' fingerprints will be captured on their availability, failing which Facial Verification will be done. Legal Heirs settled abroad can provide fingerprints online at Pak-ID Mobile App or DAUs Abroad (for Fresh, Office Mistake & Amendment applications)."
+    },
+    {
+      "question": "Is biometric verification required for all types of succession applications?",
+      "answer": "Legal heir's Biometric Verification (except applicant) will not be carried out for Decline & Reprint-Lost applications. For other applications, biometric verification is required when legal heirs are available."
+    },
+    {
+      "question": "When is Board Verification used in succession cases?",
+      "answer": "Legal Heirs will be verified through Board Verification where Legal Heir(s) fingerprints are not verified and it is unable to update fingerprints for being settled abroad, bedridden or for any other valid reason for not visiting NRC/DAU."
+    },
+    {
+      "question": "How should documents be scanned during succession application processing?",
+      "answer": "Scanning of documents will be made on the same day and it will be ensured to scan documents with respective document title i.e. affidavit should be scanned against the affidavit category selected from the drop down menu at the scanning stage."
+    },
+    {
+      "question": "Can a succession application be cancelled on the same day?",
+      "answer": "Application can be cancelled on same day (on irreversible problem before scanning of documents) and no fee will be charged."
+    },
+    {
+      "question": "When are Decline Certificates issued for succession applications?",
+      "answer": "For minors in deceased family as legal heir(s), application will be processed to issue Decline Certificate. If deceased is MNIC holder, application will also be processed to issue Decline Certificate. Applications from extended family (beyond Alpha and Beta Family of the deceased) will be processed to issue Decline Certificate. Application will be processed to issue Decline Certificate on Court Orders/Directions."
+    },
+    {
+      "question": "How are Decline Certificates processed through succession software?",
+      "answer": "Decline Certificate will be issued through Succession software. Legal heirs, deceased asset's details and decline reason will be recorded. For deceased with MNIC and extended family case, only deceased asset's details will be entered. Decline Certificate on Factual Controversy will be issued on the same day of processing of the application."
+    },
+    {
+      "question": "Can a succession application be reprocessed after a Decline Certificate is issued?",
+      "answer": "Application for Succession Certificate / Letter of Administration will be processed once reason of decline is eliminated even if Decline Certificate has been issued previously. Fresh application for Letter of Administration or Succession Certificate can be filed after settlement on objection/factual grounds even if Decline Certificate has been issued previously."
+    },
+    {
+      "question": "How many decline reasons can be selected for a Decline Certificate?",
+      "answer": "Only one reason can be selected while processing of Decline Certificate application from the decline reason library."
+    },
+    {
+      "question": "What is the objection process for succession certificates?",
+      "answer": "Any aggrieved person may approach the OIC of respective SFU for objection (if any) within fourteen (14) days after publication of notice in Newspaper. On receiving objection through letter, email or telephone, objector will be informed to submit objection by appearing in person or by any person authorized through Special Power of Attorney. No objection will be entertained if objector fails to appear in person at concerned SFU for objection recording."
+    },
+    {
+      "question": "What documents must an objector submit during the objection process?",
+      "answer": "Objector has to submit written objection on plain paper along with justifiable documentary evidence that will be scanned and uploaded at Succession Web Portal by authorized user. Objector(s) Fingerprints will be captured, and receipt will be provided to the objector after recording objection."
+    },
+    {
+      "question": "What happens after an objection is recorded in succession cases?",
+      "answer": "On objection (after hearing the applicant), process on application will be stopped and system generated Decline Certificate will be issued to the applicant after 14 Days' Notice Period. Decision on objection as claimant of legal heir of the deceased will be made on updation of objector's record through respective DAU or Zonal office."
+    },
+    {
+      "question": "What refund is provided if a succession application is declined due to objection?",
+      "answer": "Applicant will be refunded Rs. 5000/- as per Schedule IV (of Federal/Provincial Succession Rules) through cross cheque if application is declined on objection and it's receiving will be maintained at SFU and updated at Web Portal as well."
+    },
+    {
+      "question": "Who can collect the succession certificate once it's ready?",
+      "answer": "SC/LOA will be delivered to the applicant on self-presence (with/without token slip) or legal heir (with original token slip) or any other person (with original token slip and authority letter from applicant)."
+    },
+    {
+      "question": "What happens if concealment of facts is discovered in succession applications?",
+      "answer": "If any concealment of fact including concealment of legal heirs of the deceased is found, applicant shall be liable to face legal action as per prevailing law and Letter of Administration/ Succession Certificate shall deemed to be cancelled by the issuing Authority forthwith."
+    },
+    {
+      "question": "When are cases referred to Zonal Verification Board?",
+      "answer": "Cases will be referred to Zonal Verification Board in the following scenario: Where fingerprints of any of the legal heir(s) are not verified and it is unable to update fingerprints due to valid reasons i.e. settled abroad, bedridden, old age etc."
+    },
+    {
+      "question": "What is the composition of the Zonal Board for succession verification?",
+      "answer": "Composition of Zonal Board will be as follows: 1. President: DD/AD Zone, 2. Member-1: Office In-Charge SFU, Member-2: Desk Operator SFU."
+    },
+    {
+      "question": "What actions can the Zonal Board take for unverified fingerprints?",
+      "answer": "For fingerprints not verified, the board can: Clear (a) - Use 'Biometric Clear' option to Clear case from Succession Unified Web Portal, or Reject (b) - Use 'Case Reject' option to reject case from Succession Unified Web Portal."
+    },
+    {
+      "question": "Who performs the Zonal Board verification and what documents are required?",
+      "answer": "Regional DD/AD Operations Branch nominated by respective Region performs the verification. Required documents are: 1. Notice, 2. Board Proceedings, 3. Affidavit as per prescribed format, 4. Minute Sheet duly approved from Regional DG."
+    },
+    {
+      "question": "What notice must be served under Section 6(5) of Succession Law?",
+      "answer": "Notice under Section 6(5) of relevant Succession Law shall be served to the applicant as per prescribed format (Annex-B)."
+    },
+    {
+      "question": "What affidavit must be submitted for unverified fingerprints?",
+      "answer": "Applicant has to submit an affidavit duly attested by Oath Commissioner as per prescribed format (Annex-C) to confirm on oath that person whose fingerprints are not being verified is the true legal heir of the deceased."
+    },
+    {
+      "question": "How are board proceedings prepared and forwarded?",
+      "answer": "Board proceedings will be prepared duly completed/signed as per prescribed format (Annex-D) and forwarded to respective Regional Operations Branch."
+    },
+    {
+      "question": "What is the minimum quorum for Zonal Board meetings?",
+      "answer": "Minimum quorum for Zonal Board is President and 1 × member. It shall be conducted on weekly basis."
+    },
+    {
+      "question": "What are the responsibilities of the Board President?",
+      "answer": "President of the Board shall ensure presence of the board members. Board members shall assist President in all ways and means (Reports, Archive record etc.)."
+    },
+    {
+      "question": "What knowledge requirements exist for Board members?",
+      "answer": "Board members shall have good knowledge of Succession Laws, Rules and Registration Policy."
+    },
+    {
+      "question": "When must the Board be reconstituted?",
+      "answer": "Board shall be reconstituted by respective RHO immediately if any member is posted/suspended/terminated/resigned."
+    },
+    {
+      "question": "How should Board members conduct interviews of legal heirs?",
+      "answer": "Board members shall conduct detailed interview of legal heir whose fingerprints are not verified personally. Board members shall verify concerned person data on verifying tools. Board proceedings will be conducted using modern device/video call as per Section 6(5) of Succession Laws for legal heirs unable to visit designated SFU due to valid reason i.e. settled abroad, bedridden."
+    },
+    {
+      "question": "How does Regional Operations Branch validate succession cases?",
+      "answer": "Regional Operations Branch will validate the case through Unified Succession Web Portal ensuring that all documents/evidences mentioned above are uploaded before validating the case."
+    },
+    {
+      "question": "What happens if there are multiple newspapers requirements in Sindh?",
+      "answer": "For Sindh province specifically, advertisement/public notice must be published in 3 newspapers (3x Newspaper for Sindh only), while other provinces require publication in two nationwide circulated newspapers."
+    },
+    {
+      "question": "Can legal heirs abroad participate in succession proceedings?",
+      "answer": "Yes, legal heirs settled abroad can provide fingerprints online at Pak-ID Mobile App or DAUs Abroad (for Fresh, Office Mistake & Amendment applications). Board proceedings can also be conducted using modern device/video call for legal heirs unable to visit designated SFU due to valid reasons like being settled abroad."
+    },
+    {
+      "question": "What special provisions exist for bedridden or disabled legal heirs?",
+      "answer": "Board Verification is available for legal heirs who cannot update fingerprints due to being bedridden, amputated, or having other valid reasons for not visiting NRC/DAU. Board proceedings can be conducted using modern device/video call for such cases."
+    },
+    {
+      "question": "How long is the notice period for objections in succession cases?",
+      "answer": "The notice period for objections is fourteen (14) days after publication of notice in newspaper. Any aggrieved person may approach the OIC of respective SFU for objection within this period."
+    },
+    {
+      "question": "What happens if someone objects via telephone or email?",
+      "answer": "On receiving objection through letter, email or telephone, objector will be informed to submit objection by appearing in person or by any person authorized through Special Power of Attorney. No objection will be entertained if objector fails to appear in person at concerned SFU for objection recording."
+    },
+    {
+      "question": "Can an authorized representative file an objection on behalf of the objector?",
+      "answer": "Yes, objection can be submitted by any person authorized through Special Power of Attorney on behalf of the objector, but the authorized person must appear in person at the concerned SFU for objection recording."
+    },
+    {
+      "question": "How are succession applications tracked through the system?",
+      "answer": "Applications are tracked using Tracking ID, Document ID and Date of Issue. The system maintains records through the Succession Unified Web Portal and all case updates are recorded electronically."
+    },
+    {
+      "question": "What quality control measures exist for document scanning in succession cases?",
+      "answer": "Documents must be scanned with respective document titles (e.g., affidavit should be scanned against the affidavit category selected from the dropdown menu). All scanning must be completed on the same day as application processing."
+    },
+    {
+      "question": "Are there different procedures for MNIC holders in succession cases?",
+      "answer": "Yes, if the deceased is an MNIC (Machine Readable National Identity Card) holder, the application will be processed to issue a Decline Certificate rather than a regular Succession Certificate."
+    },
+    {
+      "question": "What constitutes 'extended family' in succession matters?",
+      "answer": "Extended family refers to relatives beyond Alpha and Beta Family of the deceased. Applications from such extended family members will be processed to issue Decline Certificate rather than regular succession certificates."
+    },
+    {
+      "question": "How are court orders handled in succession applications?",
+      "answer": "Applications will be processed to issue Decline Certificate on Court Orders/Directions. This ensures compliance with judicial directives in succession matters."
+    },
+    {
+      "question": "What happens to succession cases involving minor legal heirs?",
+      "answer": "For minors in deceased family as legal heir(s), application will be processed to issue Decline Certificate, as special legal considerations apply when minors are involved in inheritance matters."
+    },
+    {
+      "question": "How often should Zonal Board meetings be conducted?",
+      "answer": "Zonal Board meetings shall be conducted on a weekly basis to ensure timely processing of cases requiring board verification."
+    },
+    {
+      "question": "What role does the Unified Succession Web Portal play?",
+      "answer": "The Unified Succession Web Portal is used for case validation, document uploading, status tracking, biometric clearing/rejecting cases, and maintaining comprehensive records of all succession applications and their processing stages."
+    },
+    {
+      "question": "Can succession applications be filed for the same deceased multiple times?",
+      "answer": "Yes, fresh applications for Letter of Administration or Succession Certificate can be filed after settlement on objection/factual grounds even if Decline Certificate has been issued previously, provided the reason for decline is eliminated."
+    },
+    {
+      "question": "What security measures exist to prevent fraud in succession applications?",
+      "answer": "Security measures include biometric verification of legal heirs, public notice publication for objections, board verification for unverified fingerprints, detailed documentary evidence requirements, and legal action provisions for concealment of facts including cancellation of certificates if fraud is discovered."
+    },
+    {
+      "question": "How are overseas Pakistani legal heirs accommodated in succession proceedings?",
+      "answer": "Overseas Pakistani legal heirs can provide fingerprints online through Pak-ID Mobile App or at DAUs abroad. Board proceedings can be conducted via modern devices/video calls for those unable to visit designated SFUs, ensuring global accessibility to succession services."
+    },
+    {
+      "question": "What happens if all required documents are not uploaded before case validation?",
+      "answer": "Regional Operations Branch will not validate the case through Unified Succession Web Portal unless all required documents/evidences are uploaded. This ensures complete documentation before proceeding with case processing."
+    },
+    {
+      "question": "Are there any special considerations for succession cases involving property disputes?",
+      "answer": "Cases involving property disputes or factual controversies are processed to issue Decline Certificates. Such matters may require court adjudication or additional evidence that cannot be resolved by the Authority alone."
     }
   ]
 }
