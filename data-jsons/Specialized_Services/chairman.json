@@ -1,0 +1,127 @@
+{
+  "file_name": "chairman.md",
+  "domain": "Specialized_Services",
+  "total_qa_pairs": 30,
+  "qa_data": [
+    {
+      "question": "Who is the current Chairman of NADRA?",
+      "answer": "The current Chairman of the National Database and Registration Authority (NADRA) in Pakistan is Lieutenant General Muhammad Munir Afsar who assumed office on 2nd October 2023."
+    },
+    {
+      "question": "When did the current NADRA Chairman assume office?",
+      "answer": "Lieutenant General Muhammad Munir Afsar assumed office as NADRA Chairman on 2nd October 2023."
+    },
+    {
+      "question": "What is the alternative title for the NADRA Chairman?",
+      "answer": "The Chairman of NADRA is also called the Registrar General of Pakistan as per the NADRA Ordinance 2000."
+    },
+    {
+      "question": "Who appoints the Chairman of NADRA?",
+      "answer": "The Chairman of NADRA is appointed by the Federal Government through notification in the Official Gazette."
+    },
+    {
+      "question": "What are the qualification requirements for NADRA Chairman?",
+      "answer": "The Chairman shall be an eminent professional of known integrity and competence with substantial experience in the field of computer science, engineering, statistics, demography, law, business, management, finance, accounting, economics, civil or military administration, or the field of registration."
+    },
+    {
+      "question": "What are the disqualifications for appointment as NADRA Chairman?",
+      "answer": "No person shall be appointed as Chairman if he has been declared insolvent, convicted for an offence involving moral turpitude, or declared to be disqualified from employment in, or dismissed from Government Service."
+    },
+    {
+      "question": "What is the term of office for NADRA Chairman?",
+      "answer": "The Chairman holds office for a term of three years and is eligible for reappointment for similar term or terms as the Federal Government may determine."
+    },
+    {
+      "question": "What is the retirement age for NADRA Chairman?",
+      "answer": "The Chairman shall retire on attaining the age of sixty-five years."
+    },
+    {
+      "question": "How long does the Federal Government have to fill a vacancy in Chairman position?",
+      "answer": "In case of vacancy occurring due to death, resignation or removal of the Chairman, the Federal Government shall within a period not exceeding sixty days, appoint another qualified person to fill such vacancy."
+    },
+    {
+      "question": "Can the NADRA Chairman exercise powers of the Authority alone?",
+      "answer": "Yes, until the Authority is established, the Chairman may exercise the powers and perform the functions of the Authority as per the NADRA Ordinance provisions."
+    },
+    {
+      "question": "Who presides over NADRA Authority meetings?",
+      "answer": "The meetings of the Authority shall be presided over by the Chairman and, in his absence, by the most senior member attending the meeting."
+    },
+    {
+      "question": "What constitutes a quorum for NADRA Authority meetings?",
+      "answer": "Three members shall constitute a quorum for a meeting of the Authority requiring a decision by the Authority."
+    },
+    {
+      "question": "How are decisions taken in NADRA Authority meetings?",
+      "answer": "The decisions of the Authority shall be taken by the majority of its members present, and in case of a tie, the member presiding the meeting (usually the Chairman) shall have a casting vote."
+    },
+    {
+      "question": "How must NADRA Authority decisions be documented?",
+      "answer": "All orders, determinations and decisions of the Authority shall be taken in writing and shall identify the determination or decision of the Chairman and each member separately."
+    },
+    {
+      "question": "How can the NADRA Chairman resign from office?",
+      "answer": "The Chairman may, by writing under his hand, resign from his office. However, his resignation shall not take effect until accepted by the Federal Government."
+    },
+    {
+      "question": "Under what circumstances can the Federal Government remove the NADRA Chairman?",
+      "answer": "The Federal Government may remove the Chairman from office if: (a) upon an inquiry, he is found incapable of performing functions due to mental or physical incapacity or has been found guilty of misconduct; or (b) after his appointment he is disqualified from being so appointed as provided in the disqualification criteria."
+    },
+    {
+      "question": "Who determines the remuneration of NADRA Chairman?",
+      "answer": "The Chairman shall be paid such emoluments as may be determined by the Federal Government and shall not be varied to their disadvantage during their term of office."
+    },
+    {
+      "question": "What business restrictions apply to the NADRA Chairman during their term?",
+      "answer": "The Chairman shall not, during their term of office, engage in any other service, business, vocation or employment, or enter into employment of, or accept any advisory or consultancy relationship with any person or entity engaged in providing services or products to the Authority on any projects, schemes, proposals or plans undertaken by the Authority."
+    },
+    {
+      "question": "Can the NADRA Chairman have financial interests in entities dealing with NADRA?",
+      "answer": "No, the Chairman shall not have any direct or indirect financial interest, or have any connection with any person, entity or related undertaking engaged with the Authority for so long as he holds office."
+    },
+    {
+      "question": "What is the legal status of the NADRA Chairman?",
+      "answer": "The Chairman, along with members, Registration Officers, staff, experts, consultants, advisors, and other officers and employees of the Authority shall be deemed to be public servants within the meaning of section 21 of the Pakistan Penal Code, 1860."
+    },
+    {
+      "question": "Can the NADRA Authority delegate powers to the Chairman?",
+      "answer": "Yes, the Authority may by general or special order delegate to the Chairman or a member or a Registration Officer, or any member of its staff, any of its powers or functions under the Ordinance subject to such conditions as it may think fit."
+    },
+    {
+      "question": "How many members constitute the NADRA Authority including the Chairman?",
+      "answer": "The Authority shall consist of a Chairman and not less than five members to be appointed by the Federal Government. The Federal Government may increase or decrease the number of members by notification in the official Gazette."
+    },
+    {
+      "question": "What happens if there's a vacancy in the NADRA Authority?",
+      "answer": "No act or proceeding of the Authority shall be invalid by reason only of the existence of a vacancy in, or defect in the constitution of, the Authority."
+    },
+    {
+      "question": "Where is the principal office of NADRA Authority located?",
+      "answer": "The principal office of the Authority shall be at Islamabad and it may set up offices at such place or places as it may deem appropriate."
+    },
+    {
+      "question": "What notice requirements exist for NADRA Authority meetings?",
+      "answer": "The members shall have reasonable notice of the time and place of the meeting and the matters on which a decision by the Authority shall be taken in such meeting."
+    },
+    {
+      "question": "Can the NADRA Chairman appoint staff and officers?",
+      "answer": "Yes, to carry out the purposes of the Ordinance, the Authority (which the Chairman can represent) may appoint Registration Officers, members of its staff, experts, consultants, advisers and other officers and employees on such terms and conditions as it may deem fit."
+    },
+    {
+      "question": "What reporting obligations does the NADRA Chairman have?",
+      "answer": "As part of the Authority, the Chairman is involved in providing reports to the Governments as required under the NADRA Ordinance, though specific reporting requirements would be detailed in regulations."
+    },
+    {
+      "question": "Can powers delegated under previous legislation continue under the current Chairman?",
+      "answer": "Yes, any person to whom the powers of a Registration Officer stood delegated under the National Registration Act, 1973, immediately before the commencement of this Ordinance shall be deemed to have been delegated under this section unless revoked by the Authority."
+    },
+    {
+      "question": "What regulatory powers does the NADRA Authority under the Chairman have?",
+      "answer": "The Authority may, by notification in the official Gazette, make regulations not inconsistent with the provisions of the Ordinance for carrying out its functions, including appointment of officers and employees and their terms and conditions of service."
+    },
+    {
+      "question": "Where can additional information about the NADRA Chairman be found?",
+      "answer": "For additional information about the NADRA Chairman, please visit the official NADRA website at: https://www.nadra.gov.pk/chairman-nadra"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "file_name": "transgender_registeration_policy.md",
+  "domain": "Specialized_Services",
+  "total_qa_pairs": 45,
+  "qa_data": [
+    {
+      "question": "What is the purpose of NADRA's Transgender Registration Policy?",
+      "answer": "The policy aims to recognize the dignity and equal rights of every person as guaranteed by the Constitution of Pakistan and to acknowledge the fundamental principles of nondiscrimination and equal opportunities. It ensures the seamless registration of transgender persons with NADRA, establishing a transparent and easy process for their registration, ensuring their access to identification documents and associated benefits for social, economic and legal inclusion."
+    },
+    {
+      "question": "What legal act reinforces transgender rights in Pakistan?",
+      "answer": "The Transgender Persons (Protection of Rights) Act, 2018 reinforces these rights and mandates the protection and facilitation of transgender persons in accessing identification and other public services."
+    },
+    {
+      "question": "What Supreme Court cases led to the formation of monitoring committees for transgender persons?",
+      "answer": "The Honorable Supreme Court of Pakistan, via judgments against Human Rights Case No. 32005-P of 2018 dated 18-06-2018 and 15-10-2018, constituted Provincial and District Level Monitoring Committees for facilitation of transgender persons regarding issuance of CNICs."
+    },
+    {
+      "question": "Who are the members of Provincial Level Monitoring Committees?",
+      "answer": "Provincial Level Committee comprises: Chief Secretary – President of Committee, Secretary Social Welfare – Member (Secretary of Committee), Concerned DG NADRA – Member, Other members as per Notification."
+    },
+    {
+      "question": "What are the main functions of Provincial Level Monitoring Committees?",
+      "answer": "Main functions of Provincial Level Committees are to monitor the progress of transgender persons' registration in their province and pass requisite directions to District Level Committees."
+    },
+    {
+      "question": "Who are the members of District Level Implementation Committees?",
+      "answer": "District Level Committee comprises: Deputy Commissioner – President of Committee, District Social Welfare Officer – Member (Secretary of Committee), Zonal Head – Member, Other members as per Notification."
+    },
+    {
+      "question": "What are the main functions of District Level Implementation Committees?",
+      "answer": "Main functions of District Level Committees are to raise awareness and identify transgender persons in the district, as well as facilitate their registration by NADRA."
+    },
+    {
+      "question": "What are the two main living arrangements for transgender persons in Pakistan?",
+      "answer": "a. Living in families / having close interaction with family members: Few transgender persons either live with their families or maintain regular interactions with family members. b. Living in communities with Gurus: Most transgender persons reside in dedicated communities led by their mentors, known as 'GURU', who act as a central figure of these communities."
+    },
+    {
+      "question": "How are transgender persons registered when living with family?",
+      "answer": "Such transgender persons shall be registered upon provision of Computerized Birth Certificates and parents' CNICs as per NADRA Registration Policy in vogue. Moreover, registration shall be carried out by mentioning the self-perceived gender of the applicants in light of the Transgender Persons (Protection of Rights) Act, 2018."
+    },
+    {
+      "question": "What documents are required for Transgender GURU registration?",
+      "answer": "The following documents shall be submitted by the individual to District Social Welfare Officers for verification/scrutiny: CNIC, Written application addressed to District Social Welfare Officer (Format attached), An affidavit (Format attached) of Rs. 20/- or above attested by Oath Commissioner / Notary Public."
+    },
+    {
+      "question": "Where is GURU registration carried out?",
+      "answer": "Guru's registration shall be carried out at HQ NADRA through its Regional Head Offices."
+    },
+    {
+      "question": "What is the role of District Social Welfare Officer in GURU registration?",
+      "answer": "District Social Welfare Officer will verify the request of GURU and submit the report along with the affidavit submitted by the applicant to NADRA for the registration of transgender persons as 'GURU' in the NADRA database."
+    },
+    {
+      "question": "How are unregistered GURUs processed?",
+      "answer": "Unregistered GURUs shall be registered as 'GURU' after issuance of CNICs through the below-mentioned procedure for registration of transgender persons."
+    },
+    {
+      "question": "What happens when new chailas are added to a GURU later?",
+      "answer": "In case of addition of chailas at a later stage, another affidavit mentioning details of new chailas shall be submitted to District Social Welfare Officers for verification/scrutiny."
+    },
+    {
+      "question": "How are transgender persons with unknown parentage registered?",
+      "answer": "CNIC with unknown parentage shall be processed by selecting random parents' names from the database. Registered 'GURU' shall be made the head. Biometric verification of GURU shall also be carried out for processing the CNIC application."
+    },
+    {
+      "question": "How are transgender persons with known parentage registered?",
+      "answer": "In case of known parentage, the actual names of parents shall be entered. Registered 'GURU' shall be made the head. Biometric verification of GURU shall also be carried out for processing the CNIC application."
+    },
+    {
+      "question": "Is biometric verification of GURU required for transgender registration?",
+      "answer": "Yes, biometric verification of GURU shall also be carried out for processing the CNIC application for both known and unknown parentage cases."
+    },
+    {
+      "question": "How is gender mentioned in transgender person registration?",
+      "answer": "Registration of transgender persons shall be carried out by mentioning the self-perceived gender of the applicants in light of the Transgender Persons (Protection of Rights) Act, 2018."
+    },
+    {
+      "question": "What type of CNIC is issued to transgender persons?",
+      "answer": "CNIC shall be issued to transgender persons free of cost (Teslin-based card) in the executive category."
+    },
+    {
+      "question": "What is the processing time for transgender CNIC issuance?",
+      "answer": "CNIC shall be issued within seven (07) working days after submission of the CNIC application form."
+    },
+    {
+      "question": "Are there any fees for transgender CNIC issuance?",
+      "answer": "No, CNIC shall be issued to transgender persons free of cost (Teslin-based card) in the executive category."
+    },
+    {
+      "question": "What mobile services are available for transgender community?",
+      "answer": "Services through Mobile Registration Vans / Manpack shall be provided as and when requested by the aforementioned community or desired by the District Level Implementation Committee."
+    },
+    {
+      "question": "Who is a GURU in transgender community?",
+      "answer": "GURU is a mentor who acts as a central figure of transgender communities. Most transgender persons reside in dedicated communities led by their mentors, known as 'GURU'."
+    },
+    {
+      "question": "What are chailas in transgender community context?",
+      "answer": "Chailas are transgender persons who live under the guidance of a GURU in transgender communities. They can be registered with both known and unknown parentage."
+    },
+    {
+      "question": "What is the minimum affidavit value required for GURU registration?",
+      "answer": "An affidavit of Rs. 20/- or above attested by Oath Commissioner / Notary Public is required for GURU registration."
+    },
+    {
+      "question": "Who attests the affidavit for GURU registration?",
+      "answer": "The affidavit must be attested by Oath Commissioner / Notary Public."
+    },
+    {
+      "question": "What information must be complete in GURU registration affidavit?",
+      "answer": "Affidavit and application shall be filled with complete information required for this purpose."
+    },
+    {
+      "question": "What happens after District Social Welfare Officer verifies GURU request?",
+      "answer": "District Social Welfare Officer will verify the request of GURU and submit the report along with the affidavit submitted by the applicant to NADRA for the registration of transgender persons as 'GURU' in the NADRA database."
+    },
+    {
+      "question": "Can transgender persons apply for registration from any NADRA office?",
+      "answer": "Yes, transgender persons can apply for registration following the standard NADRA registration procedures, with special provisions for those living with families or in GURU-led communities."
+    },
+    {
+      "question": "What constitutional principles support transgender registration?",
+      "answer": "The policy recognizes the dignity and equal rights of every person as guaranteed by the Constitution of Pakistan and acknowledges the fundamental principles of nondiscrimination and equal opportunities."
+    },
+    {
+      "question": "What are the social benefits of transgender registration?",
+      "answer": "Registration ensures transgender persons' access to identification documents and associated benefits for social, economic and legal inclusion."
+    },
+    {
+      "question": "Is self-perceived gender respected in transgender registration?",
+      "answer": "Yes, registration shall be carried out by mentioning the self-perceived gender of the applicants in light of the Transgender Persons (Protection of Rights) Act, 2018."
+    },
+    {
+      "question": "What category of CNIC is provided to transgender persons?",
+      "answer": "CNIC is issued in the executive category, which is typically a premium service level, but provided free of cost to transgender persons."
+    },
+    {
+      "question": "What type of card material is used for transgender CNICs?",
+      "answer": "Teslin-based card is used for transgender CNICs, which is the same high-quality material used for regular CNICs."
+    },
+    {
+      "question": "How are random parents selected for unknown parentage cases?",
+      "answer": "CNIC with unknown parentage shall be processed by selecting random parents' names from the database, ensuring the transgender person has a complete record while maintaining privacy."
+    },
+    {
+      "question": "Who becomes the head of family for transgender persons under GURU system?",
+      "answer": "Registered 'GURU' shall be made the head for both known and unknown parentage cases of transgender persons in their community."
+    },
+    {
+      "question": "What verification is required from GURU during chaila registration?",
+      "answer": "Biometric verification of GURU shall also be carried out for processing the CNIC application of transgender persons under their guidance."
+    },
+    {
+      "question": "Can District Level Implementation Committee request mobile services?",
+      "answer": "Yes, services through Mobile Registration Vans / Manpack shall be provided as desired by the District Level Implementation Committee."
+    },
+    {
+      "question": "What is the relationship between GURU and NADRA database?",
+      "answer": "GURUs must be registered in the NADRA database first, and then they can facilitate the registration of transgender persons under their care."
+    },
+    {
+      "question": "Are there specific formats for GURU registration documents?",
+      "answer": "Yes, there are specific formats attached for the written application and affidavit required for GURU registration."
+    },
+    {
+      "question": "What happens if a transgender person wants to add new chailas later?",
+      "answer": "Another affidavit mentioning details of new chailas shall be submitted to District Social Welfare Officers for verification/scrutiny."
+    },
+    {
+      "question": "What is the role of Regional Head Offices in transgender registration?",
+      "answer": "GURU registration is carried out at HQ NADRA through its Regional Head Offices, showing the importance given to this process."
+    },
+    {
+      "question": "How does the policy ensure transparency in transgender registration?",
+      "answer": "The policy establishes a transparent and easy process involving multiple verification steps through District Social Welfare Officers and formal documentation requirements."
+    },
+    {
+      "question": "What legal protections are provided under Transgender Persons Act 2018?",
+      "answer": "The Transgender Persons (Protection of Rights) Act, 2018 mandates the protection and facilitation of transgender persons in accessing identification and other public services."
+    },
+    {
+      "question": "How does NADRA ensure equal treatment for transgender persons?",
+      "answer": "By providing free CNICs in executive category, reducing processing time to 7 days, providing mobile services, and respecting self-perceived gender identity."
+    },
+    {
+      "question": "What documentation proves a transgender person's community membership?",
+      "answer": "The GURU's affidavit and registration in NADRA database serves as documentation for transgender persons' membership in the community."
+    }
+  ]
+}

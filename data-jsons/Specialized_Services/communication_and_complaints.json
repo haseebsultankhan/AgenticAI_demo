@@ -1,0 +1,127 @@
+{
+  "file_name": "communication_and_complaints.md",
+  "domain": "Specialized_Services",
+  "total_qa_pairs": 30,
+  "qa_data": [
+    {
+      "question": "What are the different ways to communicate with NADRA?",
+      "answer": "Stakeholders can communicate with NADRA through various channels: NADRA Centralized Complaint Management System (NCCMS), 24/7 Call Center Support & Self-Service IVR, Prime Minister's Performance Delivery Unit (PMDU), Complaint Register at NRCs and Walk-in at Regional Offices, Khuli/e-Kacheri (Open Forums), Social Media Engagement, Email, and WhatsApp Channel."
+    },
+    {
+      "question": "What happens when you submit a complaint to NADRA?",
+      "answer": "When contacting NADRA to submit a complaint, a unique query number is provided for the purpose of tracking. This allows applicants to follow up on their complaint status and ensures proper case management."
+    },
+    {
+      "question": "What is NADRA's complaint resolution rate and timeframe?",
+      "answer": "Approximately 93% of complaints are resolved within seven days. If a complaint remains unresolved within this period, it is escalated to the higher management to ensure swift resolution."
+    },
+    {
+      "question": "What is NCCMS and how can it be accessed?",
+      "answer": "NCCMS stands for NADRA Centralized Complaint Management System. It is an online complaint management system accessible at https://complaints.nadra.gov.pk where users can submit and track their complaints digitally."
+    },
+    {
+      "question": "What are NADRA's helpline numbers?",
+      "answer": "Customers can contact NADRA helpline numbers at 1777 or 051-111-786-100 for immediate support. These provide 24/7 Call Center Support through IVR (Interactive Voice Response) or by talking directly to a call center executive."
+    },
+    {
+      "question": "What is the difference between 1777 and 051-111-786-100?",
+      "answer": "Both 1777 and 051-111-786-100 are NADRA helpline numbers providing 24/7 call center support. Customers can use either number for immediate support through IVR or by talking directly to a call center executive."
+    },
+    {
+      "question": "What is PMDU and how does NADRA perform on this platform?",
+      "answer": "PMDU stands for Prime Minister's Performance Delivery Unit. This is the Complaint Portal of the Prime Minister Office for complaints regarding public organizations. NADRA has achieved 98% resolution of complaints on PMDU, with the highest citizen satisfaction rate at 69%."
+    },
+    {
+      "question": "How can people submit complaints at NADRA Registration Centers?",
+      "answer": "For assistance and to resolve enrollment/registration issues and guidance, individuals can walk in to the respective regional offices. Grievances through this channel are properly recorded on a complaint register placed in a prominent place at each NRC, and their resolution is ensured within 15 days."
+    },
+    {
+      "question": "What is the resolution timeframe for complaints submitted at NRCs?",
+      "answer": "Complaints submitted through the complaint register at NRCs and walk-in at regional offices have their resolution ensured within 15 days."
+    },
+    {
+      "question": "What are Khuli/e-Kacheri forums?",
+      "answer": "Khuli/e-Kacheri are open forums where the Chairman and the RROs (Regional Registration Officers) directly address public grievances. These forums are conducted each month via calls and social media platforms."
+    },
+    {
+      "question": "How frequently are Khuli/e-Kacheri forums conducted?",
+      "answer": "Khuli/e-Kacheri or open forums are conducted each month via calls and social media platforms, providing regular opportunities for citizens to directly interact with NADRA leadership."
+    },
+    {
+      "question": "What is NADRA's Facebook page?",
+      "answer": "NADRA maintains an active presence on Facebook at @NadraPakistanOffical where users can engage with NADRA and receive updates about services and announcements."
+    },
+    {
+      "question": "What is NADRA's Twitter handle?",
+      "answer": "NADRA's official Twitter handle is @NadraPak where they maintain an active social media presence for public engagement and information sharing."
+    },
+    {
+      "question": "What is NADRA's official email for support?",
+      "answer": "For users who prefer email communication, NADRA provides support through csd@nadra.gov.pk for customer service and general inquiries."
+    },
+    {
+      "question": "Does NADRA have a WhatsApp channel?",
+      "answer": "Yes, NADRA has an official WhatsApp Channel for official updates. Users can follow this channel at: https://www.whatsapp.com/channel/0029VaH7JG2I1rckS9XnTg23"
+    },
+    {
+      "question": "What social media platforms does NADRA use for public engagement?",
+      "answer": "NADRA maintains an active presence on multiple social media platforms including Facebook (@NadraPakistanOffical), Twitter (@NadraPak), Email (csd@nadra.gov.pk), and WhatsApp Channel for official updates and public engagement."
+    },
+    {
+      "question": "Who participates in Khuli/e-Kacheri forums from NADRA's side?",
+      "answer": "The Chairman and the RROs (Regional Registration Officers) directly address public grievances in Khuli/e-Kacheri open forums, providing high-level attention to citizen concerns."
+    },
+    {
+      "question": "What is NADRA's performance on the Prime Minister's complaint portal?",
+      "answer": "On the Prime Minister's Performance Delivery Unit (PMDU) complaint portal, NADRA has achieved 98% resolution of complaints, with the highest citizen satisfaction rate at 69% among public organizations."
+    },
+    {
+      "question": "How are complaints tracked in NADRA's system?",
+      "answer": "When submitting a complaint to NADRA, a unique query number is provided for tracking purposes. This allows applicants to monitor the status and progress of their complaint through the system."
+    },
+    {
+      "question": "What happens if a complaint is not resolved within seven days?",
+      "answer": "If a complaint remains unresolved within the seven-day period, it is escalated to the higher management to ensure swift resolution and prevent delays."
+    },
+    {
+      "question": "Can people visit NADRA offices directly for complaints?",
+      "answer": "Yes, individuals can walk in to the respective regional offices for assistance and to resolve enrollment/registration issues and guidance. Grievances are properly recorded on a complaint register placed prominently at each NRC."
+    },
+    {
+      "question": "What is the role of complaint registers at NRCs?",
+      "answer": "Complaint registers are placed in a prominent place at each NRC where grievances are properly recorded. This ensures that walk-in complaints are formally documented and their resolution is ensured within 15 days."
+    },
+    {
+      "question": "How does NADRA ensure transparency in complaint handling?",
+      "answer": "NADRA ensures transparency through multiple channels including online tracking with unique query numbers, complaint registers in prominent places at NRCs, regular open forums with leadership, and active social media engagement for public accountability."
+    },
+    {
+      "question": "What are the different timeframes for complaint resolution across channels?",
+      "answer": "NADRA has different resolution timeframes: approximately 93% of general complaints are resolved within seven days, complaints through NRC registers are resolved within 15 days, and unresolved complaints are escalated to higher management for swift resolution."
+    },
+    {
+      "question": "Is NADRA's call center available 24/7?",
+      "answer": "Yes, NADRA provides 24/7 Call Center Support & Self-Service IVR through helpline numbers 1777 or 051-111-786-100 for immediate support at any time of day or night."
+    },
+    {
+      "question": "What is Self-Service IVR in NADRA's call center?",
+      "answer": "Self-Service IVR (Interactive Voice Response) is an automated system available through NADRA's helpline numbers that allows customers to get information and support without speaking to a representative, available 24/7 alongside the option to talk directly to call center executives."
+    },
+    {
+      "question": "How can citizens participate in Khuli/e-Kacheri forums?",
+      "answer": "Citizens can participate in Khuli/e-Kacheri open forums through calls and social media platforms. These monthly forums provide direct access to the Chairman and Regional Registration Officers for addressing public grievances."
+    },
+    {
+      "question": "What makes NADRA's complaint resolution system effective?",
+      "answer": "NADRA's complaint resolution system is effective due to multiple accessible channels, unique tracking numbers, high resolution rates (93% within 7 days, 98% on PMDU), automatic escalation to higher management for unresolved cases, and regular monitoring through various platforms."
+    },
+    {
+      "question": "What type of issues can be addressed through NADRA's communication channels?",
+      "answer": "NADRA's communication channels can address enrollment/registration issues, guidance requests, service complaints, document processing concerns, and general inquiries about NADRA services and procedures."
+    },
+    {
+      "question": "What is the significance of NADRA's 69% citizen satisfaction rate?",
+      "answer": "NADRA's 69% citizen satisfaction rate on the Prime Minister's Performance Delivery Unit (PMDU) represents the highest satisfaction rate among public organizations, indicating superior performance in addressing citizen complaints and concerns compared to other government entities."
+    }
+  ]
+}

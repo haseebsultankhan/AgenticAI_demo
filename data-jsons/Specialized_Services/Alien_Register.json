@@ -1,0 +1,107 @@
+{
+  "file_name": "Alien_Register.md",
+  "domain": "Specialized_Services",
+  "total_qa_pairs": 25,
+  "qa_data": [
+    {
+      "question": "What is the eligibility criteria for Alien Registration in Pakistan?",
+      "answer": "Any foreigner or their family members (except Afghan Nationals and POC holders) who have resided in Pakistan illegally for at least five years prior to registration OR remained in prison for a period of three years (for illegal stay under Foreign Act 14-D only), whichever is less. Also, any foreigner with valid visa/passport intending to live in Pakistan legally for more or less than ninety days is eligible for registration/issuance of card."
+    },
+    {
+      "question": "Are Afghan Nationals and POC holders eligible for Alien Registration?",
+      "answer": "No, Afghan Nationals and POC (Pakistan Origin Card) holders are specifically excluded from the Alien Registration policy and are not eligible for registration."
+    },
+    {
+      "question": "Is registration mandatory for all foreigners in Pakistan?",
+      "answer": "Registration is compulsory for foreigners who have stayed in Pakistan for at least five years prior to registration or intending to stay for more than ninety days. However, foreigners who intend to live less than ninety days may or may not register with NADRA - it is optional for them."
+    },
+    {
+      "question": "What are the two types of registration available under the Alien Registration policy?",
+      "answer": "The two types are: 1) Registration and Issuance of Card - for foreigners meeting the residency criteria, and 2) Work Permit - issued by the Interior Division to registered foreigners who hold an Alien Registration Card (ARC), enabling them to take private employment, work, or undertake business activity."
+    },
+    {
+      "question": "Who issues the Work Permit for foreigners in Pakistan?",
+      "answer": "The Work Permit is issued by the Interior Division to registered foreigners under this policy who hold an Alien Registration Card (ARC)."
+    },
+    {
+      "question": "What documents are required for foreigners with legal stay status for Alien Registration?",
+      "answer": "For legal stay, any one of the following documents is required: Ex-NARA Card (old), whether valid or expired, or Valid Visa."
+    },
+    {
+      "question": "What documents are required for foreigners with illegal stay status for Alien Registration?",
+      "answer": "For illegal stay, any one of the following documents is required: Expired passport and visa, Valid SIM issued at least 5 years prior to registration, Valid bank account opened at least 5 years prior to registration, Pakistan driving license issued at least 5 years prior to registration, Pakistani educational document at least 5 years prior to registration, Utility bills in applicant's name for at least 5 years prior to registration, Tenant letter and affidavit from employer proving stay in Pakistan for last 5 years, or Any other document issued by the Government of Pakistan."
+    },
+    {
+      "question": "How long must documents prove residency for illegal stay applicants?",
+      "answer": "For illegal stay applicants, documents must prove residency for at least 5 years prior to registration. This applies to SIM cards, bank accounts, driving licenses, educational documents, utility bills, and tenant letters with employer affidavits."
+    },
+    {
+      "question": "Who can collect the Alien Registration Card on behalf of the applicant?",
+      "answer": "The card can be collected by: 1) Applicant in person from center, 2) Spouse, Parents, Son, Daughter, or Siblings with original token slip, or 3) Anyone with authority letter from the applicant and original token slip."
+    },
+    {
+      "question": "What is the validity period of the Alien Registration Card?",
+      "answer": "The validity of the Alien Registration Card is up to five years as per the fee schedule."
+    },
+    {
+      "question": "What are the benefits of holding an Alien Registration Card?",
+      "answer": "ARC holders may: 1) Travel within the country (excluding restricted areas), 2) Apply in private educational institutions at own expense, 3) Apply for utility connections, 4) Apply for vehicle registration, 5) Apply for driving license, 6) Open a bank account within city of residence, 7) Use the card to prove identity anywhere in Pakistan, 8) Get a cellular mobile connection, 9) Apply for work permit (subject to applicable taxes, cess, etc.), and 10) Stay in Pakistan during the validity of the card."
+    },
+    {
+      "question": "Can ARC holders travel freely throughout Pakistan?",
+      "answer": "ARC holders can travel within the country but are excluded from restricted areas. They cannot access all areas of Pakistan due to security restrictions."
+    },
+    {
+      "question": "Can ARC holders apply for admission in government educational institutions?",
+      "answer": "No, ARC holders can only apply in private educational institutions at their own expense. They are not eligible for government educational institutions under this policy."
+    },
+    {
+      "question": "Where can ARC holders open bank accounts?",
+      "answer": "ARC holders can open a bank account within their city of residence only, not in other cities outside their residential area."
+    },
+    {
+      "question": "What are the requirements for registration of minor children (age ≤ 18 years) of foreigners?",
+      "answer": "For registration of minors (son/daughter, age ≤ 18 years), the requirements are: Parent's ARC Card AND Birth certificate OR passport with valid visa. A Foreigner Minor Registration Card will be issued under Schedule IV."
+    },
+    {
+      "question": "Under which schedule is the Foreigner Minor Registration Card issued?",
+      "answer": "The Foreigner Minor Registration Card for children aged 18 years or less is issued under Schedule IV."
+    },
+    {
+      "question": "What are the requirements for registration of dependents?",
+      "answer": "For registration of dependents (son/daughter/spouse/sister/brother/parents), the requirements are: Head ARC Card AND Document proving relationship between head and applicant."
+    },
+    {
+      "question": "Who is considered a dependent for Alien Registration purposes?",
+      "answer": "Dependents include son, daughter, spouse, sister, brother, and parents of the main ARC card holder (head)."
+    },
+    {
+      "question": "What are the fees for Foreigner Registration Card in normal and urgent categories?",
+      "answer": "Foreigner Registration Card fees are Rs. 1,000/- for normal category and Rs. 2,000/- for urgent category, charged per year."
+    },
+    {
+      "question": "What are the fees for renewal and modification of ARC?",
+      "answer": "Renewal and modification fees are Rs. 1,000/- for normal category and Rs. 2,000/- for urgent category, charged per year."
+    },
+    {
+      "question": "What are the fees for duplicate ARC?",
+      "answer": "Duplicate ARC fees are Rs. 1,000/- for normal category and Rs. 2,000/- for urgent category, charged per year."
+    },
+    {
+      "question": "What are the fees for Foreigner Children Registration?",
+      "answer": "Foreigner Children Registration fees are Rs. 1,000/- for normal category and Rs. 2,000/- for urgent category, charged per year."
+    },
+    {
+      "question": "What are the fees for Work Permit Card?",
+      "answer": "Work Permit Card fees are Rs. 5,000/- per year for normal category. There is no urgent category available for Work Permit Cards."
+    },
+    {
+      "question": "How are ARC processing fees calculated?",
+      "answer": "All ARC processing fees are calculated on a per year basis. The total fee depends on the validity period chosen by the applicant, up to a maximum of five years."
+    },
+    {
+      "question": "What is the difference between normal and urgent category processing for ARC?",
+      "answer": "Normal category costs Rs. 1,000/- per year while urgent category costs Rs. 2,000/- per year for most services (registration, renewal, modification, duplicate, children registration). Urgent category presumably offers faster processing times, though specific timeframes are not mentioned in the policy."
+    }
+  ]
+}

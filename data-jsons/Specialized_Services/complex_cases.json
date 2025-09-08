@@ -1,0 +1,107 @@
+{
+  "file_name": "complex_cases.md",
+  "domain": "Specialized_Services",
+  "total_qa_pairs": 25,
+  "qa_data": [
+    {
+      "question": "What is the District Level Committee (DLC)?",
+      "answer": "The District Level Committee (DLC) is a committee that handles complex cases with doubts on National Status under Pakistan Citizenship Act 1951 that cannot be decided by NADRA. It is headed by the Deputy Commissioner and consists of members from district police, NADRA representative and other designated officers."
+    },
+    {
+      "question": "Who heads the District Level Committee?",
+      "answer": "The District Level Committee (DLC) is headed by the Deputy Commissioner."
+    },
+    {
+      "question": "Who are the members of the District Level Committee?",
+      "answer": "The District Level Committee consists of members from district police, NADRA representative and other designated officers, with the Deputy Commissioner as the head."
+    },
+    {
+      "question": "What types of cases are referred to the DLC?",
+      "answer": "Complex cases with doubt on National Status under Pakistan Citizenship Act 1951 that cannot be decided by NADRA are referred to the DLC for further evaluation and decision."
+    },
+    {
+      "question": "What is the first step in the DLC process?",
+      "answer": "The first step is Case Sharing by NADRA Representative, where complex cases that require special attention are shared with the DLC for further evaluation."
+    },
+    {
+      "question": "How does an applicant get scheduled for a DLC hearing?",
+      "answer": "The DC Office schedules an appointment with the applicant for a hearing or evaluation as the second step in the DLC process."
+    },
+    {
+      "question": "What happens during a DLC meeting?",
+      "answer": "During a DLC meeting, the applicant appears before the DLC where the case is presented and discussed by the committee members."
+    },
+    {
+      "question": "What are the possible decisions the DLC can make?",
+      "answer": "The committee reviews the case and decides whether the application is: Approved (Clear), Rejected, or Marked Under-Process for further inquiry."
+    },
+    {
+      "question": "How are DLC decisions recorded?",
+      "answer": "The DC Office records the decision where the proceedings are officially recorded, and signatures are obtained to confirm the DLC's decision."
+    },
+    {
+      "question": "What happens after the DLC makes a decision?",
+      "answer": "After the DLC decision is recorded, if an anomaly is detected or further validation is required, the case is forwarded to the NADRA Regional Team for analysis. If not, it proceeds to HQ referral."
+    },
+    {
+      "question": "What is the role of NADRA Regional Team in the DLC process?",
+      "answer": "If an anomaly is detected or further validation is required after the DLC decision, the case is forwarded to the NADRA Regional Team for analysis before proceeding to headquarters."
+    },
+    {
+      "question": "What happens during HQ Referral in the DLC process?",
+      "answer": "Once reviewed by the Regional Team (if needed), cases are referred to NADRA Headquarters for implementation of the DLC's decision."
+    },
+    {
+      "question": "What is Scrutiny and V&R in the DLC process?",
+      "answer": "Scrutiny and V&R (Verification & Review) is the final scrutiny that takes place at NADRA Headquarters before implementing the decision in the system via the NIS (National Identity System) application."
+    },
+    {
+      "question": "How is the final status updated in the DLC process?",
+      "answer": "The applicant's case is officially marked as Approved or Rejected, and the updated status is reflected in the system as the final step of the DLC process."
+    },
+    {
+      "question": "What system is used to implement DLC decisions?",
+      "answer": "The DLC decisions are implemented in the system via the NIS (National Identity System) application after final scrutiny at NADRA Headquarters."
+    },
+    {
+      "question": "Why are complex cases referred to DLC instead of being handled by NADRA alone?",
+      "answer": "Complex cases with doubt on National Status under Pakistan Citizenship Act 1951 that cannot be decided by NADRA require additional expertise and authority. The DLC provides a multi-departmental approach with Deputy Commissioner leadership and input from district police and other designated officers."
+    },
+    {
+      "question": "What is the purpose of having a personal hearing with the applicant in DLC?",
+      "answer": "The personal hearing with the applicant allows the DLC to directly interact with the applicant, assess their case thoroughly, and make an informed decision based on direct examination and discussion of the complex citizenship status issues."
+    },
+    {
+      "question": "How does the DLC process ensure transparency?",
+      "answer": "The DLC process ensures transparency through official recording of proceedings, obtaining signatures to confirm decisions, multiple levels of review including Regional Team and HQ scrutiny, and systematic documentation at each step of the process."
+    },
+    {
+      "question": "How does the DLC process ensure fairness?",
+      "answer": "The DLC process ensures fairness by providing personal hearings to applicants, involving multiple departmental representatives in decision-making, offering multiple review levels, and following a structured step-by-step process with clear documentation."
+    },
+    {
+      "question": "What ensures due diligence in the DLC process?",
+      "answer": "Due diligence is ensured through the comprehensive step-by-step process including case sharing, personal hearings, multi-departmental committee decisions, regional review when needed, HQ referral, final scrutiny and verification & review before system implementation."
+    },
+    {
+      "question": "What happens if a case is marked 'Under-Process' by the DLC?",
+      "answer": "If a case is marked 'Under-Process' by the DLC, it indicates that further inquiry is required. The case will undergo additional investigation and review before a final decision of approval or rejection is made."
+    },
+    {
+      "question": "Can DLC decisions be appealed or reviewed?",
+      "answer": "While the document doesn't specify appeal procedures, the multi-level review process including Regional Team analysis and HQ scrutiny provides built-in checks and balances to ensure proper decision-making before final implementation."
+    },
+    {
+      "question": "What role does district police play in the DLC?",
+      "answer": "District police members of the DLC provide law enforcement perspective and expertise in evaluating complex cases, particularly regarding security concerns and verification of applicant backgrounds related to citizenship status."
+    },
+    {
+      "question": "How long does the DLC process take?",
+      "answer": "The document doesn't specify exact timeframes, but the process involves multiple steps from case sharing through final status update, suggesting it may take longer than standard NADRA processing due to the complex nature of these cases."
+    },
+    {
+      "question": "What makes a case 'complex' enough to be referred to DLC?",
+      "answer": "Cases are considered complex when there are doubts on National Status under Pakistan Citizenship Act 1951 that cannot be resolved by NADRA alone, requiring additional expertise and authority from the multi-departmental District Level Committee."
+    }
+  ]
+}

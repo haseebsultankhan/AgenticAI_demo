@@ -1,0 +1,127 @@
+{
+  "file_name": "orphange_policy.md",
+  "domain": "Specialized_Services",
+  "total_qa_pairs": 30,
+  "qa_data": [
+    {
+      "question": "What is the purpose of the Orphanage Registration Policy?",
+      "answer": "The registration of orphans with NADRA is a critical step in safeguarding their fundamental rights and ensuring their inclusion in society. Through proper registration, these vulnerable children can secure a legal identity, which is the cornerstone of their recognition as equal citizens under the law, providing access to education, healthcare, and social protection."
+    },
+    {
+      "question": "When was the Orphanage Registration Policy dated?",
+      "answer": "The Orphanage Registration Policy is dated 24/02/2016."
+    },
+    {
+      "question": "What legal endorsements support the Orphanage Registration Policy?",
+      "answer": "NADRA formulated the policy for registration of orphan children residing in Orphanages and Child Protection Institutes. The policy was presented to the Honorable Supreme Court of Pakistan in Human Rights Case No. 22607-S/2011 and was endorsed accordingly. Moreover, it was also presented before the Honorable Lahore High Court, Lahore in W.P. No. 20197/2014."
+    },
+    {
+      "question": "What are the two main portions of the Orphanage Registration Policy?",
+      "answer": "The policy for registration of orphans is comprised of the following two portions: a) Registration of Orphanages/Child Protection Institutes (CPIs), and b) Registration of Orphans/Children living in Orphanages/CPIs."
+    },
+    {
+      "question": "What documents must Orphanages/CPIs submit to NADRA Regional Head Offices for registration?",
+      "answer": "Orphanages/CPIs must submit: Application for registration of Orphanage/CPI, Registration Certificate of Orphanage with concerned Federal/Provincial Government (Only for Orphanages), and Orphanage Registration Form on prescribed format (Annex-A), including details (name, CNIC, designation, and signatures) of designated guardian."
+    },
+    {
+      "question": "What is the process flow for registering Orphanages/CPIs?",
+      "answer": "The process flow is: 1) Orphanages/CPIs submit required documents to NADRA Regional Head Offices, 2) NADRA Regional Head Offices forward the case to HQ NADRA after scrutiny, 3) HQ NADRA registers the Orphanage in the database after approval of the Chief Operating Officer/DG (Ops), 4) After registration, the orphanage name becomes available at DAUs for orphan registration."
+    },
+    {
+      "question": "Who approves the registration of Orphanages in NADRA's database?",
+      "answer": "HQ NADRA registers the Orphanage in the database after approval of the Chief Operating Officer/DG (Ops)."
+    },
+    {
+      "question": "What happens after an Orphanage/CPI is registered with NADRA?",
+      "answer": "After registration, the name of the Orphanage/CPI will be available at DAUs (Data Acquisition Units) for registration of orphans residing therein. The concerned Regional Head Office will be informed accordingly for onward intimation to the Orphanage/CPI."
+    },
+    {
+      "question": "What types of identity cards can orphan children receive?",
+      "answer": "Orphan children residing in Orphanages/CPIs are eligible for registration in CRC (Child Registration Certificate) or Juvenile card depending on their age and circumstances."
+    },
+    {
+      "question": "What are the basic requirements for registration of children in Orphanages/CPIs?",
+      "answer": "Requirements include: Every child is eligible for registration in CRC/Juvenile card, Presence of minor (for Juvenile card only), Registration Form of the child containing the child's particulars, Affidavit (Rs. 20/- or above) from In-charge Orphanage/CPI on prescribed format (Annex-B)."
+    },
+    {
+      "question": "What additional requirement exists for Child Protection Institutes (CPIs)?",
+      "answer": "In case of CPI, court orders issued in favor of CPI/any employee of CPI/private individual for custody is mandatory."
+    },
+    {
+      "question": "What optional documents can be provided for orphan registration?",
+      "answer": "Optional documents include: Child Registration Certificate (CRC)/Birth Certificate (if available), Biometric verification of any blood relative (if available) OR Attestation as per Regulation 9 (a–h) of NADRA Regulations, 2002."
+    },
+    {
+      "question": "Is there any fee for orphan registration?",
+      "answer": "No, orphan registration shall be carried out free of cost under the Gratis reason 'Orphan Registration'."
+    },
+    {
+      "question": "What is the minimum value required for the affidavit from the In-charge?",
+      "answer": "An affidavit of Rs. 20/- or above from In-charge of Orphanage/CPI, mentioning the particulars of all children, is required on prescribed format (Annex-B)."
+    },
+    {
+      "question": "Can one affidavit be used for multiple children in the same orphanage?",
+      "answer": "Yes, one affidavit (Rs. 20 or above) from In-charge of Orphanage/CPI, mentioning the particulars of all children, is sufficient for processing all cases of the same Orphanage/CPI under the same In-charge."
+    },
+    {
+      "question": "What is the policy regarding biometric verification of mothers of orphan children?",
+      "answer": "Biometric verification of the mother of the orphan child may be sought if applicable or conveniently available. Orphanage/CPI shall not be insisted for biometric verification of the mother if she is deceased or not easily available."
+    },
+    {
+      "question": "How is parentage handled for children with unknown parentage?",
+      "answer": "In case of unknown parentage, any name for parentage shall be randomly selected from the NADRA name library."
+    },
+    {
+      "question": "Can an unmarried person be designated as guardian for orphan children?",
+      "answer": "Yes, the designated guardian can be made the head of orphan children even with marital status as 'unmarried'."
+    },
+    {
+      "question": "How is the guardian's name displayed on the orphan's identity card?",
+      "answer": "Guardian's name will be printed on the card as 'Guardian'."
+    },
+    {
+      "question": "What is the difference between Orphanages and Child Protection Institutes (CPIs) in terms of requirements?",
+      "answer": "For Orphanages, a Registration Certificate with concerned Federal/Provincial Government is required. For CPIs, court orders issued in favor of CPI/any employee of CPI/private individual for custody is mandatory, but government registration certificate is not specifically mentioned."
+    },
+    {
+      "question": "What format is used for Orphanage registration?",
+      "answer": "Orphanage Registration Form on prescribed format (Annex-A) is used, which includes details (name, CNIC, designation, and signatures) of designated guardian."
+    },
+    {
+      "question": "What format is used for the affidavit from Orphanage/CPI In-charge?",
+      "answer": "The affidavit from In-charge Orphanage/CPI must be on prescribed format (Annex-B) and should mention the particulars of all children."
+    },
+    {
+      "question": "Who can serve as a designated guardian in an orphanage?",
+      "answer": "The designated guardian is a person whose details (name, CNIC, designation, and signatures) are included in the Orphanage Registration Form and who can be made the head of orphan children regardless of their marital status."
+    },
+    {
+      "question": "What happens at DAUs after orphanage registration?",
+      "answer": "After orphanage registration, the name of the Orphanage/CPI becomes available at DAUs (Data Acquisition Units) for registration of orphans residing therein, allowing staff to process individual orphan applications."
+    },
+    {
+      "question": "What is the role of NADRA Regional Head Offices in orphanage registration?",
+      "answer": "NADRA Regional Head Offices receive initial applications from Orphanages/CPIs, conduct scrutiny of submitted documents, forward cases to HQ NADRA for final approval, and receive information about successful registrations for onward intimation to the Orphanage/CPI."
+    },
+    {
+      "question": "Why are orphan children considered among the most vulnerable segments of society?",
+      "answer": "Orphan children are among the most vulnerable segments of society, often facing challenges such as lack of access to education, healthcare, and social protection. Without proper legal identity, they cannot access basic services and rights as citizens."
+    },
+    {
+      "question": "What legal framework supports the protection of orphan children's rights?",
+      "answer": "The policy is based on safeguarding fundamental rights and ensuring inclusion in society as guaranteed by law. It has been endorsed by the Honorable Supreme Court of Pakistan in Human Rights Case No. 22607-S/2011 and presented before the Honorable Lahore High Court, Lahore in W.P. No. 20197/2014."
+    },
+    {
+      "question": "What alternatives exist if biometric verification of blood relatives is not available?",
+      "answer": "If biometric verification of any blood relative is not available, attestation as per Regulation 9 (a–h) of NADRA Regulations, 2002 can be used as an alternative for orphan registration."
+    },
+    {
+      "question": "What is the significance of court orders for Child Protection Institutes?",
+      "answer": "For Child Protection Institutes (CPIs), court orders issued in favor of CPI/any employee of CPI/private individual for custody is mandatory, ensuring legal authorization for the care and custody of children in their protection."
+    },
+    {
+      "question": "How does the orphanage registration policy ensure legal identity for vulnerable children?",
+      "answer": "The policy ensures legal identity by providing a structured registration process that allows orphan children to obtain CRC or Juvenile cards free of cost, giving them official recognition as Pakistani citizens and access to fundamental rights and services, which is the cornerstone of their recognition as equal citizens under the law."
+    }
+  ]
+}
