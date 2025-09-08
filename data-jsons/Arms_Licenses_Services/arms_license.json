@@ -1,7 +1,7 @@
 {
   "file_name": "arms_license.md",
   "domain": "Arms_Licenses_Services",
-  "total_qa_pairs": 40,
+  "total_qa_pairs": 85,
   "qa_data": [
     {
       "question": "What are the Pakistan Arms Rules 2023?",
@@ -162,6 +162,154 @@
     {
       "question": "What constitutes compelling circumstances for license transfer?",
       "answer": "Compelling circumstances that may justify arms license transfer include death of licensee, incapacitation due to ill-health or old age, or other extraordinary situations that prevent the original licensee from maintaining the license. Each case is evaluated individually by the competent authority."
+    },
+    {
+      "question": "What are the different types of arms license classifications?",
+      "answer": "Arms licenses are classified as: Personal Arms Licenses (for individual protection/sports), Institutional Arms Licenses (for organizations/security companies), and Business Arms Licenses (for manufacture, repair, sale, purchase, or storage of arms and ammunition)."
+    },
+    {
+      "question": "What is the definition of an authorized dealer?",
+      "answer": "An authorized dealer is an arms dealer having a license issued by the Federal Government or Provincial Government for sale and purchase of arms, authorized to sell weapons to license holders."
+    },
+    {
+      "question": "What constitutes an antique or vintage weapon?",
+      "answer": "An antique or vintage weapon is defined as a weapon at least seventy years old. These weapons may have different licensing requirements and procedures compared to modern firearms."
+    },
+    {
+      "question": "Who is considered a legal heir for arms license purposes?",
+      "answer": "A legal heir is the person who is entitled to inherit after the death of licensee, including spouse of the licensee, parents, children, brother and sister, etc. They may be eligible for license transfer upon the original licensee's death."
+    },
+    {
+      "question": "What is a retainer in the context of arms licenses?",
+      "answer": "A retainer is the person authorized by the issuing authority under a license to look after and carry the arms of the licensee. A maximum of one retainership may be granted per licensed weapon to an otherwise eligible person."
+    },
+    {
+      "question": "What is a succession certificate in arms licensing context?",
+      "answer": "A succession certificate is a certificate issued by NADRA or a court of competent jurisdiction that establishes legal heirship for the purpose of arms license inheritance and transfer procedures."
+    },
+    {
+      "question": "What documentation requirements exist for institutional arms license applications?",
+      "answer": "Required documents include: application from CEO/head with CNIC/NICOP, company resolution, authorization letter if via agent, license/registration certificate with appropriate authority, details of owners/directors/office bearers, details of persons likely to carry arms, and any other documents required by Secretary Interior Division."
+    },
+    {
+      "question": "How are business arms licenses awarded?",
+      "answer": "Business arms licenses are granted only to eligible applicants through auction. The auction process ensures fair competition and proper evaluation of applicants for manufacturing, repair, sale, purchase, or storage of arms and ammunition."
+    },
+    {
+      "question": "What are the eligibility criteria for business arms licenses?",
+      "answer": "Business arms license eligibility includes fulfilling specific criteria for natural or legal persons as provided in the rules, demonstrating financial capacity, having proper facilities, meeting security requirements, and successfully participating in the auction process."
+    },
+    {
+      "question": "Can business arms licenses be transferred between parties?",
+      "answer": "Business arms licenses have specific transfer restrictions and procedures. Transfer may be possible under limited circumstances such as death of licensee or business succession, subject to approval by the competent authority and fulfillment of all eligibility criteria by the transferee."
+    },
+    {
+      "question": "What are the responsibilities of institutional license holders?",
+      "answer": "Institutional license holders must ensure arms are given only to trained, security-cleared guards registered with local police; maintain proper issuance/receipt records; limit use to authorized purposes/premises; provide identity cards to guards; and keep registers open for law enforcement inspection."
+    },
+    {
+      "question": "How are renewal applications processed for arms licenses?",
+      "answer": "Renewal applications must be submitted before license expiry with prescribed fees. Within the grace period (one month), no late fees apply. After the grace period, additional penalties and procedures may apply. The competent authority evaluates continued eligibility before approving renewal."
+    },
+    {
+      "question": "What happens to arms licenses of persons who become mentally incapacitated?",
+      "answer": "If a licensee becomes mentally incapacitated, the license may be suspended or cancelled for public safety reasons. The arms must be safely secured, and the license may be transferred to eligible legal heirs following prescribed procedures."
+    },
+    {
+      "question": "Are there special provisions for law enforcement officers?",
+      "answer": "Law enforcement officers and other specified categories may have exemptions from certain documentation requirements or expedited processing, but they must still meet fundamental eligibility criteria and follow prescribed procedures for their specific category."
+    },
+    {
+      "question": "What record-keeping requirements apply to arms dealers?",
+      "answer": "Arms dealers must maintain detailed records of all transactions, including buyer information, weapon details, license verification, and transaction dates. These records must be available for inspection by authorized officials and integrated with the arms dealer management system when notified."
+    },
+    {
+      "question": "How are lost or stolen firearms reported and handled?",
+      "answer": "Lost or stolen firearms must be immediately reported to local police with a formal complaint. A police report is required for duplicate license applications. The incident may trigger investigation and could affect future license eligibility depending on circumstances."
+    },
+    {
+      "question": "What are the storage requirements for licensed firearms?",
+      "answer": "Licensed firearms must be stored safely and securely when not in use. Improper storage that leads to theft, misuse, or accidents may result in license suspension or cancellation. Specific storage requirements may be prescribed by the competent authority."
+    },
+    {
+      "question": "Can foreign nationals obtain arms licenses in Pakistan?",
+      "answer": "The rules primarily apply to Pakistani citizens with CNIC/NICOP. Foreign nationals would need special authorization and would likely fall under different procedures and requirements, subject to approval by the competent authority on a case-by-case basis."
+    },
+    {
+      "question": "How are arms license fees calculated and collected?",
+      "answer": "License fees are calculated based on license type (PB/NPB), duration (5/10 years), and applicant's tax status. Government fees, NADRA fees, and FBR fees are separate components. Fees must be paid before license issuance and are credited to relevant government accounts."
+    },
+    {
+      "question": "What inspection rights do authorities have regarding licensed arms?",
+      "answer": "Authorized officials have the right to inspect licensed firearms, associated records, storage facilities, and compliance with license conditions. Licensees must cooperate with inspections and provide access to arms and documentation when legally required."
+    },
+    {
+      "question": "How are disputes regarding arms licenses resolved?",
+      "answer": "Disputes are resolved through the appeals process: representations to Secretary Interior Division within 30 days for subordinate officer orders, or to the Government within 30 days for Secretary/Minister decisions. These decisions are final, and legal proceedings may follow if necessary."
+    },
+    {
+      "question": "What are the implications of criminal charges on arms license holders?",
+      "answer": "Criminal charges may result in immediate license suspension pending case resolution. Conviction for serious crimes typically results in license cancellation and permanent disqualification from future licenses. The severity of implications depends on the nature of the charges and conviction."
+    },
+    {
+      "question": "How does the arms licensing system interface with other government databases?",
+      "answer": "The arms licensing system interfaces with NADRA for identity verification, FBR for tax status verification, police databases for character verification, and court systems for criminal record checks. This ensures comprehensive background verification and ongoing monitoring."
+    },
+    {
+      "question": "What are the penalties for unauthorized arms manufacturing or dealing?",
+      "answer": "Unauthorized arms manufacturing or dealing without proper business licenses is prohibited and subject to severe penalties under the Arms Ordinance, including criminal prosecution, heavy fines, imprisonment, and confiscation of arms and equipment."
+    },
+    {
+      "question": "How are arms licenses affected during states of emergency?",
+      "answer": "During declared emergencies, additional restrictions may be imposed on arms licenses, including temporary suspension, enhanced monitoring, restricted movement, or special reporting requirements. The government may issue specific instructions for license holders during emergency periods."
+    },
+    {
+      "question": "What quality control measures exist for arms manufacturing licenses?",
+      "answer": "Arms manufacturing licenses require compliance with quality standards, safety protocols, government specifications, regular inspections, and adherence to manufacturing quotas. Manufactured weapons must meet prescribed standards and be properly marked and documented."
+    },
+    {
+      "question": "How are cross-border movements of licensed firearms handled?",
+      "answer": "Cross-border movement of licensed firearms requires special permits, customs clearance, destination country authorization, and compliance with international agreements. Unauthorized cross-border movement is prohibited and subject to severe penalties."
+    },
+    {
+      "question": "What training institutions are authorized for weapons handling certification?",
+      "answer": "Training institutions for weapons handling certification must be notified and authorized by the Government. They must meet prescribed standards for instructors, facilities, curriculum, and certification procedures to ensure proper training of license holders."
+    },
+    {
+      "question": "How are bulk ammunition purchases regulated for license holders?",
+      "answer": "Bulk ammunition purchases are subject to license limits (500 cartridges/100 bullets per license), dealer verification, record-keeping requirements, and may require special authorization for quantities exceeding standard limits. All purchases must be properly documented."
+    },
+    {
+      "question": "What are the environmental and safety requirements for arms storage facilities?",
+      "answer": "Arms storage facilities must meet safety standards for fire protection, security systems, environmental controls, access restrictions, and emergency procedures. Regular inspections ensure compliance with safety and security requirements."
+    },
+    {
+      "question": "How are technological advances integrated into arms licensing systems?",
+      "answer": "Technological advances are integrated through automated dealer management systems, digital record-keeping, biometric verification, online application processing, and database integration. The government may notify new technological requirements as they become available."
+    },
+    {
+      "question": "What are the reporting requirements for arms dealers regarding sales?",
+      "answer": "Arms dealers must report all sales including buyer details, license verification, weapon specifications, transaction dates, and payment records. Reports must be submitted regularly to authorities and integrated with the centralized arms dealer management system."
+    },
+    {
+      "question": "How are arms license violations investigated and prosecuted?",
+      "answer": "Violations are investigated by designated authorities, police, and relevant agencies. Evidence gathering, witness statements, and documentation review determine the severity of violations. Prosecution follows standard legal procedures under the Arms Ordinance and related laws."
+    },
+    {
+      "question": "What are the procedures for voluntary surrender of arms licenses?",
+      "answer": "Voluntary surrender requires written application to the competent authority, submission of original license, proper disposal or transfer of firearms, clearance of any pending obligations, and formal acceptance by the authority. No penalties apply for genuine voluntary surrender."
+    },
+    {
+      "question": "How are international best practices incorporated into Pakistan's arms licensing system?",
+      "answer": "International best practices are incorporated through policy reviews, technological upgrades, training programs, bilateral cooperation, and adherence to international agreements. The system evolves to meet global standards while addressing Pakistan's specific security needs."
+    },
+    {
+      "question": "What are the long-term policy objectives of the arms licensing system?",
+      "answer": "Long-term objectives include enhancing public safety, preventing illegal arms proliferation, improving law enforcement capabilities, modernizing licensing procedures, ensuring responsible gun ownership, and maintaining balance between security needs and citizens' rights."
+    },
+    {
+      "question": "How does the arms licensing system contribute to national security?",
+      "answer": "The system contributes to national security by maintaining comprehensive databases, preventing illegal arms trafficking, enabling legitimate defense needs, supporting law enforcement operations, tracking weapons movements, and providing legal framework for responsible arms ownership and trade."
     }
   ]
 }
