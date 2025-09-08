@@ -1,7 +1,7 @@
 {
   "file_name": "biometric_update.md",
   "domain": "Identity_Services",
-  "total_qa_pairs": 12,
+  "total_qa_pairs": 27,
   "qa_data": [
     {
       "question": "What is a biometric update in NADRA services?",
@@ -50,6 +50,66 @@
     {
       "question": "Where can I get a biometric update done?",
       "answer": "You can get a biometric update done at any NADRA Data Acquisition Unit (DAU) or National Registration Center (NRC) where biometric capture facilities are available."
+    },
+    {
+      "question": "What specific problems are considered authentication issues for free biometric updates?",
+      "answer": "Authentication issues include: fingerprints not matching due to cuts, scars, or faded prints; poor quality biometric capture during original registration; system showing \"No Match Found\" errors; facial recognition problems due to aging, weight changes, or medical conditions; damaged or worn fingerprints from manual labor; and technical glitches during original biometric capture."
+    },
+    {
+      "question": "How do I request a biometric update at NADRA?",
+      "answer": "To request a biometric update: 1) Visit any NADRA center with your original CNIC/NICOP, 2) Explain the authentication issue you're facing, 3) Staff will verify your identity through available means, 4) Complete a biometric update request form, 5) Undergo fresh biometric capture (fingerprints and photo), 6) Receive confirmation of update completion."
+    },
+    {
+      "question": "What documents do I need to bring for a biometric update?",
+      "answer": "For a biometric update, bring: your original CNIC/NICOP/POC (if available), any medical certificates if you have hand injuries or medical conditions affecting biometrics, and a copy of your previous application receipt (if available). No additional documents are required for authentication issue cases."
+    },
+    {
+      "question": "How long does a biometric update process take?",
+      "answer": "A biometric update typically takes 15-30 minutes at the center for the capture process. The system update is usually immediate, but may take up to 24-48 hours to reflect across all NADRA systems and databases."
+    },
+    {
+      "question": "What happens if my biometric update fails multiple times?",
+      "answer": "If biometric update fails repeatedly: 1) Technical staff will try alternative capture methods, 2) Medical examination may be recommended for hand/finger conditions, 3) Alternative verification methods may be used, 4) Facial biometric may be prioritized over fingerprints, 5) Manual verification process may be initiated with additional documentation."
+    },
+    {
+      "question": "Can I get a biometric update done abroad at Pakistani consulates?",
+      "answer": "Biometric updates at Pakistani consulates abroad depend on the facility's technical capabilities. Some major consulates have biometric systems, while others may require you to update during your next visit to Pakistan. Contact your nearest Pakistani consulate for specific availability."
+    },
+    {
+      "question": "What is the difference between biometric update and biometric verification?",
+      "answer": "Biometric update involves capturing fresh biometric data to replace existing problematic biometrics in NADRA's database. Biometric verification is simply checking your current biometrics against existing database records for identity confirmation during transactions."
+    },
+    {
+      "question": "Why do biometrics sometimes fail to authenticate?",
+      "answer": "Biometrics may fail due to: physical changes like cuts, scars, or burns on fingertips; aging effects on skin texture; medical conditions affecting fingerprints; poor initial capture quality; system technical issues; dirty or damaged biometric scanners; or significant weight/facial changes affecting facial recognition."
+    },
+    {
+      "question": "How can I prevent biometric authentication problems?",
+      "answer": "To prevent biometric issues: keep hands clean and moisturized for clear fingerprints; avoid cuts or injuries to fingertips when possible; inform NADRA staff of any hand injuries during capture; ensure good lighting for facial capture; follow staff instructions during biometric sessions; and report any technical problems immediately."
+    },
+    {
+      "question": "Is there a limit to how many times I can get free biometric updates?",
+      "answer": "There is no specific limit mentioned for free biometric updates due to authentication issues or system unavailability. However, if repeated failures occur due to personal negligence or non-medical reasons, charges may apply for additional updates."
+    },
+    {
+      "question": "Are there special provisions for elderly people with biometric issues?",
+      "answer": "Yes, NADRA provides special assistance for elderly applicants with biometric difficulties: priority service, additional attempts for capture, alternative verification methods if needed, assistance from family members during the process, and medical consideration for age-related biometric changes."
+    },
+    {
+      "question": "What should I do if I have a medical condition affecting my fingerprints?",
+      "answer": "If you have medical conditions affecting fingerprints (diabetes, skin conditions, chemotherapy effects): bring medical documentation, inform NADRA staff about your condition, request alternative biometric methods if available, consider using facial recognition as primary biometric, and get medical clearance for any special handling requirements."
+    },
+    {
+      "question": "Can fingerprint damage from manual labor qualify for free biometric updates?",
+      "answer": "Yes, fingerprint damage from manual labor can qualify for free biometric updates if it causes authentication issues. This includes construction workers, mechanics, farmers, or others whose work naturally wears down fingerprint patterns, making them unreadable by biometric systems."
+    },
+    {
+      "question": "What happens to my old biometric data when I get an update?",
+      "answer": "When you get a biometric update: old biometric data is archived in NADRA's system for record-keeping, new biometric data becomes the active reference for all future authentications, system automatically links the update to your existing record, and all NADRA services will use the new biometric data for verification."
+    },
+    {
+      "question": "Can I check if my biometrics need updating before visiting NADRA?",
+      "answer": "You can check if your biometrics need updating by: trying biometric verification at any NADRA service point, using PAK-ID app biometric features, attempting verification at partner institutions (banks, telecom), or visiting any NADRA center for a quick biometric test before formal application processing."
     }
   ]
 }
