@@ -1,8 +1,12 @@
 {
   "file_name": "Alien_Register.md",
   "domain": "Specialized_Services",
-  "total_qa_pairs": 25,
+  "total_qa_pairs": 120,
   "qa_data": [
+    {
+      "question": "What is the Alien Registration policy in Pakistan?",
+      "answer": "The Alien Registration policy (Version 1.0.0) is a comprehensive framework for registering foreigners and their family members residing in Pakistan, enabling them to obtain Alien Registration Cards (ARC) for legal identification and access to services."
+    },
     {
       "question": "What is the eligibility criteria for Alien Registration in Pakistan?",
       "answer": "Any foreigner or their family members (except Afghan Nationals and POC holders) who have resided in Pakistan illegally for at least five years prior to registration OR remained in prison for a period of three years (for illegal stay under Foreign Act 14-D only), whichever is less. Also, any foreigner with valid visa/passport intending to live in Pakistan legally for more or less than ninety days is eligible for registration/issuance of card."
@@ -12,8 +16,24 @@
       "answer": "No, Afghan Nationals and POC (Pakistan Origin Card) holders are specifically excluded from the Alien Registration policy and are not eligible for registration."
     },
     {
+      "question": "Why are Afghan Nationals excluded from Alien Registration?",
+      "answer": "Afghan Nationals are excluded from the Alien Registration policy likely due to separate bilateral agreements and specific policies governing Afghan refugees and displaced persons in Pakistan."
+    },
+    {
+      "question": "What is the five-year residency requirement for illegal stay applicants?",
+      "answer": "Foreigners with illegal stay status must prove they have resided in Pakistan for at least five years prior to registration through documents like expired passport/visa, valid SIM cards, bank accounts, driving licenses, educational documents, or utility bills dating back at least five years."
+    },
+    {
+      "question": "What is the three-year prison provision for alien registration?",
+      "answer": "Foreigners who remained in prison for a period of three years specifically for illegal stay under Foreign Act 14-D only can apply for registration, whichever is less between the five-year residency or three-year imprisonment period."
+    },
+    {
       "question": "Is registration mandatory for all foreigners in Pakistan?",
       "answer": "Registration is compulsory for foreigners who have stayed in Pakistan for at least five years prior to registration or intending to stay for more than ninety days. However, foreigners who intend to live less than ninety days may or may not register with NADRA - it is optional for them."
+    },
+    {
+      "question": "What is the ninety-day rule for foreign visitors?",
+      "answer": "Foreigners intending to stay in Pakistan for more than ninety days must compulsorily register with NADRA. Those staying for less than ninety days may optionally register but are not required to do so."
     },
     {
       "question": "What are the two types of registration available under the Alien Registration policy?",
@@ -24,8 +44,16 @@
       "answer": "The Work Permit is issued by the Interior Division to registered foreigners under this policy who hold an Alien Registration Card (ARC)."
     },
     {
+      "question": "What is the relationship between ARC and Work Permit?",
+      "answer": "An Alien Registration Card (ARC) is a prerequisite for obtaining a Work Permit. Only registered foreigners who hold an ARC can apply for a Work Permit from the Interior Division."
+    },
+    {
       "question": "What documents are required for foreigners with legal stay status for Alien Registration?",
       "answer": "For legal stay, any one of the following documents is required: Ex-NARA Card (old), whether valid or expired, or Valid Visa."
+    },
+    {
+      "question": "What is an Ex-NARA Card?",
+      "answer": "Ex-NARA Card refers to the old alien registration cards issued by the previous registration authority before NADRA took over alien registration functions. These cards, whether valid or expired, can be used as proof of legal stay."
     },
     {
       "question": "What documents are required for foreigners with illegal stay status for Alien Registration?",
@@ -36,12 +64,36 @@
       "answer": "For illegal stay applicants, documents must prove residency for at least 5 years prior to registration. This applies to SIM cards, bank accounts, driving licenses, educational documents, utility bills, and tenant letters with employer affidavits."
     },
     {
+      "question": "Can expired passports be used for alien registration?",
+      "answer": "Yes, expired passport and visa can be used as proof of previous legal stay for illegal stay applicants, demonstrating that they were once legally present in Pakistan."
+    },
+    {
+      "question": "What role do utility bills play in alien registration?",
+      "answer": "Utility bills in the applicant's name for at least 5 years prior to registration serve as proof of continuous residence in Pakistan for illegal stay applicants, demonstrating established residence."
+    },
+    {
+      "question": "What is a tenant letter for alien registration purposes?",
+      "answer": "A tenant letter combined with an affidavit from an employer can prove stay in Pakistan for the last 5 years for illegal stay applicants, providing alternative documentation of residence."
+    },
+    {
       "question": "Who can collect the Alien Registration Card on behalf of the applicant?",
       "answer": "The card can be collected by: 1) Applicant in person from center, 2) Spouse, Parents, Son, Daughter, or Siblings with original token slip, or 3) Anyone with authority letter from the applicant and original token slip."
     },
     {
+      "question": "What is required for family members to collect ARC cards?",
+      "answer": "Family members (spouse, parents, son, daughter, or siblings) can collect the ARC with the original token slip. They don't need additional authorization beyond the family relationship and token."
+    },
+    {
+      "question": "What is an authority letter for ARC collection?",
+      "answer": "An authority letter is a written authorization from the applicant allowing any designated person to collect their ARC on their behalf, provided they also have the original token slip."
+    },
+    {
       "question": "What is the validity period of the Alien Registration Card?",
       "answer": "The validity of the Alien Registration Card is up to five years as per the fee schedule."
+    },
+    {
+      "question": "Can ARC validity be less than five years?",
+      "answer": "Yes, ARC validity is 'up to five years,' meaning applicants can choose shorter validity periods based on their needs and the corresponding fee structure."
     },
     {
       "question": "What are the benefits of holding an Alien Registration Card?",
@@ -52,12 +104,36 @@
       "answer": "ARC holders can travel within the country but are excluded from restricted areas. They cannot access all areas of Pakistan due to security restrictions."
     },
     {
+      "question": "What are restricted areas for ARC holders?",
+      "answer": "Restricted areas typically include sensitive border regions, military installations, and areas designated as restricted by the government for security reasons. Specific areas would be defined by relevant security policies."
+    },
+    {
       "question": "Can ARC holders apply for admission in government educational institutions?",
       "answer": "No, ARC holders can only apply in private educational institutions at their own expense. They are not eligible for government educational institutions under this policy."
     },
     {
+      "question": "Why are ARC holders restricted to private educational institutions?",
+      "answer": "This restriction likely exists to reserve government-subsidized education primarily for Pakistani citizens, while allowing foreigners access to private education at market rates."
+    },
+    {
       "question": "Where can ARC holders open bank accounts?",
       "answer": "ARC holders can open a bank account within their city of residence only, not in other cities outside their residential area."
+    },
+    {
+      "question": "Why is bank account opening restricted to city of residence for ARC holders?",
+      "answer": "This restriction helps with monitoring and oversight of foreign nationals' financial activities and ensures they maintain accounts where they actually reside."
+    },
+    {
+      "question": "Can ARC holders apply for vehicle registration?",
+      "answer": "Yes, ARC holders can apply for vehicle registration, allowing them to legally own and operate vehicles in Pakistan during their stay."
+    },
+    {
+      "question": "Can ARC holders get cellular mobile connections?",
+      "answer": "Yes, ARC holders can get cellular mobile connections, providing them with communication services using their ARC as identification."
+    },
+    {
+      "question": "What taxes and cess apply to ARC holders' work permits?",
+      "answer": "Work permits for ARC holders are subject to applicable taxes, cess, and other charges as determined by relevant tax authorities and labor regulations."
     },
     {
       "question": "What are the requirements for registration of minor children (age ≤ 18 years) of foreigners?",
@@ -68,12 +144,28 @@
       "answer": "The Foreigner Minor Registration Card for children aged 18 years or less is issued under Schedule IV."
     },
     {
+      "question": "What is Schedule IV in the context of alien registration?",
+      "answer": "Schedule IV refers to the specific regulatory framework and procedures for issuing Foreigner Minor Registration Cards to children of foreign nationals registered under the alien registration policy."
+    },
+    {
+      "question": "Do minor children need separate ARC cards?",
+      "answer": "Yes, minor children of ARC holders need their own Foreigner Minor Registration Cards, which are issued under Schedule IV with specific requirements and procedures."
+    },
+    {
       "question": "What are the requirements for registration of dependents?",
       "answer": "For registration of dependents (son/daughter/spouse/sister/brother/parents), the requirements are: Head ARC Card AND Document proving relationship between head and applicant."
     },
     {
       "question": "Who is considered a dependent for Alien Registration purposes?",
       "answer": "Dependents include son, daughter, spouse, sister, brother, and parents of the main ARC card holder (head)."
+    },
+    {
+      "question": "What constitutes proof of relationship for dependent registration?",
+      "answer": "Documents proving relationship may include marriage certificates for spouses, birth certificates for children and siblings, and family registration documents or passports showing family relationships."
+    },
+    {
+      "question": "Can extended family members be registered as dependents?",
+      "answer": "The policy specifically lists son, daughter, spouse, sister, brother, and parents as dependents. Extended family members beyond these relationships are not covered under dependent registration."
     },
     {
       "question": "What are the fees for Foreigner Registration Card in normal and urgent categories?",
@@ -102,6 +194,210 @@
     {
       "question": "What is the difference between normal and urgent category processing for ARC?",
       "answer": "Normal category costs Rs. 1,000/- per year while urgent category costs Rs. 2,000/- per year for most services (registration, renewal, modification, duplicate, children registration). Urgent category presumably offers faster processing times, though specific timeframes are not mentioned in the policy."
+    },
+    {
+      "question": "Why is there no urgent category for Work Permit Cards?",
+      "answer": "Work Permit Cards are issued by the Interior Division rather than NADRA, so they follow different processing procedures and don't offer urgent processing options."
+    },
+    {
+      "question": "Can ARC fees be paid for multiple years at once?",
+      "answer": "Yes, since fees are calculated per year and cards can be valid for up to five years, applicants can pay for their desired validity period (1-5 years) at the time of application."
+    },
+    {
+      "question": "What is the total cost for a five-year ARC in normal category?",
+      "answer": "For a five-year ARC in normal category, the total cost would be Rs. 5,000/- (Rs. 1,000/- × 5 years)."
+    },
+    {
+      "question": "What is the total cost for a five-year ARC in urgent category?",
+      "answer": "For a five-year ARC in urgent category, the total cost would be Rs. 10,000/- (Rs. 2,000/- × 5 years)."
+    },
+    {
+      "question": "Are there any additional charges beyond the listed fees?",
+      "answer": "The policy lists the basic processing fees, but there may be additional charges for services like courier delivery, premium processing, or other value-added services not specified in this fee structure."
+    },
+    {
+      "question": "Can ARC holders sponsor other family members for registration?",
+      "answer": "Yes, ARC holders can sponsor immediate family members (dependents) for registration by providing their own ARC and documents proving relationships."
+    },
+    {
+      "question": "What happens if an ARC expires?",
+      "answer": "When an ARC expires, the holder loses legal status and must renew their card to continue enjoying the benefits and legal stay in Pakistan. Overstaying with an expired ARC may result in legal consequences."
+    },
+    {
+      "question": "Can ARC be extended beyond five years?",
+      "answer": "The policy states maximum validity is five years. For longer stays, ARC holders would need to renew their cards before expiry to maintain legal status."
+    },
+    {
+      "question": "What is the difference between ARC renewal and modification?",
+      "answer": "Renewal extends the validity period of an existing ARC, while modification involves changing information on the card such as address, employment details, or other personal information."
+    },
+    {
+      "question": "When might someone need a duplicate ARC?",
+      "answer": "A duplicate ARC is needed when the original card is lost, stolen, damaged beyond use, or when a replacement is required for other legitimate reasons."
+    },
+    {
+      "question": "Can ARC holders work in any field?",
+      "answer": "ARC holders can apply for work permits to engage in private employment, work, or business activities, subject to applicable taxes and regulations. However, specific restrictions may apply to certain professions or sectors."
+    },
+    {
+      "question": "What is the role of Interior Division in alien registration?",
+      "answer": "The Interior Division issues Work Permits to ARC holders and likely oversees policy aspects of alien registration, while NADRA handles the actual registration and card issuance processes."
+    },
+    {
+      "question": "Can ARC holders convert to Pakistani citizenship?",
+      "answer": "The alien registration policy doesn't address citizenship conversion. This would be governed by separate citizenship laws and naturalization procedures under the Pakistan Citizenship Act."
+    },
+    {
+      "question": "What happens to ARC if the holder commits a crime?",
+      "answer": "While not explicitly stated in this policy, criminal activities could result in ARC cancellation, deportation, or other legal consequences under Pakistani law and immigration regulations."
+    },
+    {
+      "question": "Can ARC holders invest in property in Pakistan?",
+      "answer": "The policy allows ARC holders to apply for utility connections but doesn't specifically address property investment. Property ownership by foreigners is governed by separate laws and regulations."
+    },
+    {
+      "question": "Are there country-specific restrictions for ARC?",
+      "answer": "The policy specifically excludes Afghan Nationals, suggesting there may be country-specific restrictions based on bilateral relations, security concerns, or international agreements."
+    },
+    {
+      "question": "What documentation is needed for ARC renewal?",
+      "answer": "While specific renewal documentation isn't detailed in this policy, it likely includes the current ARC, updated passport/visa information, proof of continued residence, and payment of renewal fees."
+    },
+    {
+      "question": "Can ARC holders leave and re-enter Pakistan?",
+      "answer": "The policy allows travel within Pakistan but doesn't address international travel. Re-entry would depend on visa requirements and the validity of travel documents."
+    },
+    {
+      "question": "What is the process for ARC application?",
+      "answer": "While the policy lists requirements and fees, the specific application process would involve visiting NADRA centers, submitting required documents, paying fees, and following prescribed procedures."
+    },
+    {
+      "question": "Are there biometric requirements for ARC?",
+      "answer": "As with other NADRA services, ARC applications likely require biometric capture (fingerprints and photographs), though this isn't explicitly stated in the policy excerpt."
+    },
+    {
+      "question": "Can ARC holders sponsor business visas for others?",
+      "answer": "The policy doesn't address visa sponsorship capabilities. This would be governed by immigration and visa policies separate from the alien registration framework."
+    },
+    {
+      "question": "What appeal process exists for ARC rejections?",
+      "answer": "The policy doesn't specify appeal procedures. Rejected applicants would likely need to follow NADRA's standard grievance and appeal mechanisms for service-related disputes."
+    },
+    {
+      "question": "Can ARC be transferred between family members?",
+      "answer": "No, ARC is personal identification and cannot be transferred. Each eligible person must apply for their own ARC based on their individual circumstances and eligibility."
+    },
+    {
+      "question": "What verification process applies to submitted documents?",
+      "answer": "While not detailed in this policy, NADRA likely verifies submitted documents through various means including database checks, embassy verification, and authentication processes."
+    },
+    {
+      "question": "Are there seasonal restrictions on ARC applications?",
+      "answer": "The policy doesn't mention seasonal restrictions. ARC applications can presumably be submitted year-round, subject to NADRA center operating hours and procedures."
+    },
+    {
+      "question": "Can ARC holders get Pakistani driving licenses?",
+      "answer": "Yes, the policy specifically states that ARC holders can apply for driving licenses, enabling them to legally drive in Pakistan."
+    },
+    {
+      "question": "What utility connections can ARC holders obtain?",
+      "answer": "ARC holders can apply for utility connections including electricity, gas, water, telephone, and internet services for their residence or business."
+    },
+    {
+      "question": "Can ARC be used for international identification?",
+      "answer": "ARC serves as identification within Pakistan but may not be accepted internationally. Foreign nationals would need their passports for international identification and travel."
+    },
+    {
+      "question": "What is the minimum stay requirement for voluntary ARC registration?",
+      "answer": "Foreigners intending to stay less than ninety days can voluntarily register for ARC, so there's no minimum stay requirement for voluntary registration."
+    },
+    {
+      "question": "How does ARC relate to visa requirements?",
+      "answer": "ARC registration may complement but doesn't replace visa requirements. Foreign nationals still need appropriate visas for legal entry and stay in Pakistan."
+    },
+    {
+      "question": "Can ARC holders access government healthcare services?",
+      "answer": "The policy doesn't specifically address healthcare access. ARC holders may need to pay for healthcare services or obtain private health insurance."
+    },
+    {
+      "question": "What employment restrictions apply to ARC holders?",
+      "answer": "ARC holders need separate Work Permits from Interior Division for employment. They cannot work without proper work authorization, even with valid ARC."
+    },
+    {
+      "question": "Can ARC validity periods be shortened?",
+      "answer": "Yes, applicants can choose validity periods less than the maximum five years, paying correspondingly lower fees based on their intended stay duration."
+    },
+    {
+      "question": "What happens to dependent registrations if the main ARC expires?",
+      "answer": "If the main ARC holder's card expires, dependent registrations would likely become invalid as well, requiring renewal of the head's ARC first."
+    },
+    {
+      "question": "Are there special provisions for refugees or asylum seekers?",
+      "answer": "The policy specifically excludes Afghan Nationals and doesn't address refugees or asylum seekers, who are likely covered under separate international protection frameworks."
+    },
+    {
+      "question": "Can ARC holders establish businesses in Pakistan?",
+      "answer": "ARC holders can apply for work permits that enable business activities, but specific business establishment may require additional licenses and approvals under business laws."
+    },
+    {
+      "question": "What digital services are available for ARC holders?",
+      "answer": "While not specified in this policy, ARC holders may have access to NADRA's digital services and online platforms for various transactions and verifications."
+    },
+    {
+      "question": "How does ARC registration affect tax obligations?",
+      "answer": "ARC holders engaging in work or business activities are subject to Pakistani tax obligations as determined by relevant tax laws and their specific activities."
+    },
+    {
+      "question": "Can ARC information be shared with other government agencies?",
+      "answer": "As with other NADRA services, ARC information may be shared with relevant government agencies for legitimate purposes while maintaining data protection standards."
+    },
+    {
+      "question": "What quality assurance measures apply to ARC processing?",
+      "answer": "NADRA likely applies standard quality assurance measures including document verification, biometric capture, data accuracy checks, and supervisory reviews for ARC processing."
+    },
+    {
+      "question": "Are there emergency procedures for ARC applications?",
+      "answer": "While urgent category processing is available, specific emergency procedures for exceptional circumstances are not detailed in this policy."
+    },
+    {
+      "question": "How does the ARC policy align with international standards?",
+      "answer": "The ARC policy appears designed to balance national security concerns with international practices for foreign resident registration and identification."
+    },
+    {
+      "question": "What training do NADRA staff receive for ARC processing?",
+      "answer": "NADRA staff likely receive specialized training on alien registration procedures, document verification, policy implementation, and customer service for foreign applicants."
+    },
+    {
+      "question": "Can ARC holders access legal aid services?",
+      "answer": "The policy doesn't address legal aid access. ARC holders may need to arrange private legal representation or seek assistance through relevant legal aid organizations."
+    },
+    {
+      "question": "What coordination exists between NADRA and immigration authorities?",
+      "answer": "While not detailed in this policy, coordination likely exists between NADRA and immigration authorities for information sharing and enforcement of alien registration requirements."
+    },
+    {
+      "question": "How are ARC applications processed during emergencies?",
+      "answer": "Emergency processing procedures are not specified in this policy, though urgent category processing provides faster service for time-sensitive applications."
+    },
+    {
+      "question": "What future developments are planned for alien registration services?",
+      "answer": "Future developments are not outlined in this policy but may include digital improvements, enhanced verification systems, and integration with other government services."
+    },
+    {
+      "question": "How does ARC registration contribute to national statistics?",
+      "answer": "ARC registration helps maintain accurate statistics on foreign residents in Pakistan, supporting policy development and demographic planning by government agencies."
+    },
+    {
+      "question": "What security features are incorporated in ARC cards?",
+      "answer": "While not detailed in this policy, ARC cards likely incorporate security features similar to other NADRA documents to prevent forgery and unauthorized use."
+    },
+    {
+      "question": "Can ARC holders access pension or social security benefits?",
+      "answer": "The policy doesn't address social benefits access. ARC holders may not be eligible for Pakistani social security benefits, which are typically reserved for citizens."
+    },
+    {
+      "question": "What cultural or religious accommodations exist for ARC applicants?",
+      "answer": "While not specified in this policy, NADRA likely provides appropriate cultural and religious accommodations during the application process as per standard service practices."
     }
   ]
 }
