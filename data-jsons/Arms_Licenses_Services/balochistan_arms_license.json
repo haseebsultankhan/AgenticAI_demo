@@ -1,7 +1,7 @@
 {
   "file_name": "balochistan_arms_liscense.md",
   "domain": "Arms_Licenses_Services",
-  "total_qa_pairs": 50,
+  "total_qa_pairs": 90,
   "qa_data": [
     {
       "question": "What are the Balochistan Arms Rules 2022?",
@@ -77,23 +77,15 @@
     },
     {
       "question": "What are the responsibilities for institutional arms usage in Balochistan?",
-      "answer": "Institutions must ensure arms used only for authorized purposes/premises, given to trained security-cleared guards registered with local police, maintain proper registers of issuance/receipt with guard details, CNIC numbers, arms numbers, duty times/places. Registers open to law enforcement inspection."
+      "answer": "Arms given only to trained, security-cleared guards registered with local police. Use limited to authorized purposes/premises. Maintain issuance/receipt system recording guard details, CNIC, arms number, duty time/place, issuance/return times. Registers open to law enforcement inspection. Guards must carry attested license copies and authority letters."
     },
     {
       "question": "Under what circumstances can Balochistan arms licenses be suspended?",
-      "answer": "Licenses may be suspended if: licensee fails to comply with license conditions, arms used for unlawful purposes, licensee involved in activities against public safety/order, or violations of Act/rules. Requires reasonable opportunity for hearing except in extraordinary circumstances."
-    },
-    {
-      "question": "How can suspended Balochistan arms licenses be restored?",
-      "answer": "DC may restore suspended license if licensee proves suspension based on misinformation or removes objection leading to suspension. Restoration is not a right and may be denied on reasonable grounds. Arms deposited in DC office strong room during suspension."
+      "answer": "Licenses may be suspended if: licensee fails to comply with conditions, arms used unlawfully, licensee involved in activities against public safety, violation of Act/rules, criminal charges, or fugitive status. Suspension requires hearing opportunity except in extraordinary circumstances."
     },
     {
       "question": "When can Balochistan arms licenses be cancelled?",
-      "answer": "Licenses may be cancelled if: licensee fails to remove objections after hearing, repetition of suspension-causing acts, failure to renew for three consecutive years, arms used for criminal offenses, or violation of Act/rules/license terms/Department instructions. Requires hearing except in extraordinary circumstances."
-    },
-    {
-      "question": "What happens to arms when Balochistan licenses are cancelled?",
-      "answer": "Cancellation fact communicated to NADRA and local police for record/confiscation. Arms deposited in strong room in prescribed manner. Licensee or legal heir may apply for voluntary cancellation. Arms must be deposited in strong room or with registered dealer with receipt attached to application."
+      "answer": "Licenses may be cancelled if: licensee fails to remove objections after hearing, repetition of suspension acts, arms used for criminal offenses, contravention of Act/rules/conditions, or licensee's own request. Process requires communication to NADRA and local police for arms confiscation. Arms deposited in strong room. Licensee or legal heir may apply for voluntary cancellation. Arms must be deposited in strong room or with registered dealer with receipt attached to application."
     },
     {
       "question": "What appeal rights exist for Balochistan arms license decisions?",
@@ -149,63 +141,203 @@
     },
     {
       "question": "What inspection rights exist for Balochistan business establishments?",
-      "answer": "Records open to law enforcement inspection with Department/DC prior permission (dispensable in extraordinary circumstances). Department/DC conducts annual inspections through committees (DC, DPO, Civil Defence representatives, minimum BPS-16) to examine premises, stock registers, authorized personnel, safety compliance."
+      "answer": "Records open to law enforcement inspection with Department/DC prior permission (dispensable in extraordinary circumstances). Without permission, 24-hour report required detailing circumstances and findings. Inspection committee may enter/inspect premises, examine records, verify authorized persons, ensure safety compliance."
     },
     {
-      "question": "What safety measures are required for Balochistan business establishments?",
-      "answer": "Manufacturing facilities and business establishments must implement minimum safety measures to minimize danger to persons on or near premises as notified by Department. Inspections verify safety precautions and instruction compliance."
+      "question": "What are the renewal requirements for Balochistan arms licenses?",
+      "answer": "Arms licenses remain valid till December 31st of issue/renewal year. Renewable for 1-5 years at licensee discretion with prescribed fee. May renew up to 10 years if age 60+. Grace period: 3 months without penalty. After grace period: penalty equivalent to renewal fee plus due fees."
     },
     {
-      "question": "What are the renewal periods for Balochistan arms licenses?",
-      "answer": "Arms licenses remain valid till December 31st of issue/renewal year unless cancelled or renewed. May be renewed for minimum 1 year, maximum 5 years at licensee discretion. Maximum 10 years for licensees aged 60+. Pre-rule licenses valid for original duration."
+      "question": "What penalties apply for late renewal of Balochistan arms licenses?",
+      "answer": "After grace period but within one year: penalty equivalent to renewal fee plus due renewal fee. After one year: late fee equal to twice renewal fee per year plus due fees. If not renewed within specified periods, license deemed suspended then cancelled after 3 years (personal/institutional) or 2 years (business)."
     },
     {
-      "question": "What is the grace period for Balochistan arms license renewal?",
-      "answer": "Licenses may be renewed within 3 calendar months of expiry (grace period) without penalty/late fee. After grace period: penalty equivalent to 1-year renewal fee plus due renewal fee. After 1 year: late fee twice the renewal fee per year plus due renewal fee."
-    },
-    {
-      "question": "When are Balochistan arms licenses deemed suspended or cancelled?",
-      "answer": "License deemed suspended if not renewed within specified periods. If suspended/not renewed for 3 consecutive years (personal/institutional) or 2 years (business), license deemed cancelled, entered in NADRA database, and authorities notified for arms confiscation unless Department decides otherwise upon application with penalty payment."
-    },
-    {
-      "question": "What penalty waiver powers exist in Balochistan arms licensing?",
-      "answer": "Department retains power to condone delay and waive penalty (completely or partially) upon licensee application where license not renewed for any length of time for cogent reasons to be recorded in writing."
+      "question": "What is the penalty waiver provision in Balochistan arms licensing?",
+      "answer": "Department retains power to condone delay and waive penalty completely or partially on licensee application for cogent reasons to be recorded in writing. This applies when licenses haven't been renewed for any length of time."
     },
     {
       "question": "How are prohibited and non-prohibited arms categorized in Balochistan?",
-      "answer": "Department may categorize and declare arms as prohibited and non-prohibited by notification in official Gazette. This determines the type of license required and associated fees/requirements."
+      "answer": "Department may by notification in official Gazette categorize and declare arms as prohibited and non-prohibited. This classification determines licensing requirements and procedures."
     },
     {
-      "question": "What format do Balochistan arms licenses take?",
-      "answer": "NADRA issues every license in automated smart card form or any other format deemed appropriate by Department. NADRA maintains central database of all licenses in different categories in updated form per Department instructions."
+      "question": "What form do Balochistan arms licenses take?",
+      "answer": "NADRA issues every license as automated smart card or any other format deemed appropriate by the Department. This ensures modern, secure, and standardized license documentation."
     },
     {
-      "question": "Who has access to Balochistan arms license database?",
-      "answer": "NADRA may give law enforcement agencies access to license database with prior Department approval. This ensures controlled access to sensitive licensing information for legitimate law enforcement purposes."
+      "question": "What database requirements exist for Balochistan arms licenses?",
+      "answer": "NADRA maintains central database of all Department-issued licenses in different categories in updated form per Department instructions. NADRA may give law enforcement agencies data access with prior Department approval."
     },
     {
-      "question": "Can Balochistan arms licensing procedures be changed?",
-      "answer": "Department may change procedure, mode, or agency for license issuance anytime without prior intimation by notification in official gazette. Department may also issue instructions for carrying out rule purposes by official gazette notification."
+      "question": "Can procedures for Balochistan arms licensing be changed?",
+      "answer": "Department may change procedure, mode, or agency for license issuance anytime without prior intimation by notification in official gazette. Department may also issue instructions from time to time for carrying out rule purposes."
     },
     {
       "question": "What rules were repealed by Balochistan Arms Rules 2022?",
-      "answer": "The Arms Rules 1924 were repealed by the Balochistan Arms Rules 2022. This modernized the legal framework for arms licensing in Balochistan province."
+      "answer": "The Arms Rules 1924 were repealed by the Balochistan Arms Rules 2022, establishing the new comprehensive framework for arms licensing in Balochistan province."
     },
     {
-      "question": "What fees are charged for Balochistan arms licenses?",
-      "answer": "Department may fix and revise fees and charges for arms licenses by official gazette notification as mentioned in schedule. Fees payable in form, manner, and timeline specified by Department."
+      "question": "What is the definition of 'Legal Heir' in Balochistan Arms Rules?",
+      "answer": "Legal Heir means the person entitled to succeed to possession of arms or arms dealership license after death of original owner/licensee, specifically spouse, parents, and children only."
     },
     {
-      "question": "What transportation permissions are required for Balochistan business arms licenses?",
-      "answer": "Only business license holders eligible for arms/ammunition transportation to extent and manner permitted by license, subject to prescribed fee and Department terms/conditions. Department may issue transportation license or no objection certificate subject to prescribed fee."
+      "question": "What is a 'Sale/Purchase agent' in Balochistan arms licensing?",
+      "answer": "Sale/Purchase agent is a person authorized by the Home Department of Balochistan for sale/purchase of arms on behalf of the original licensee, providing authorized representation for arms transactions."
     },
     {
-      "question": "How often must Balochistan business establishments be inspected?",
-      "answer": "Inspections carried out at least once yearly with detailed report and recommendations submitted to concerned DC within one week. DC submits annual performance report to Department for each sale/manufacturing/repair/storage unit within jurisdiction within three months after calendar year end."
+      "question": "What safety measures are required for Balochistan arms business establishments?",
+      "answer": "Every manufacturing facility and business establishment must implement minimum safety measures necessary to minimize danger to persons in or near premises as notified by the Department. This ensures public safety and regulatory compliance."
     },
     {
-      "question": "What appeal process exists for Balochistan business arms license decisions?",
-      "answer": "Aggrieved persons may file appeal to Additional Chief Secretary Home Department Balochistan or Chief Secretary Balochistan within 30 days of order receipt, whose decision on representation is final."
+      "question": "What inspection committee composition is required for Balochistan arms businesses?",
+      "answer": "DC notifies inspection committee comprising representatives from DC office, DPO, and Civil Defence Department. Committee members must be BPS-16 or above. Department/DC may authorize special officer for inspection under extraordinary circumstances instead of committee."
+    },
+    {
+      "question": "What are the inspection committee's powers in Balochistan?",
+      "answer": "Committee may: enter/inspect premises where arms are sold/manufactured/repaired/stored, examine stock register and transaction records, verify business conducted through authorized persons only, ensure safety instructions compliance. Inspection required at least yearly with detailed report within one week."
+    },
+    {
+      "question": "What reporting requirements exist for Balochistan arms business inspections?",
+      "answer": "DC submits annual performance report to Department for each sale/manufacturing/repair/storage unit within jurisdiction within three months after calendar year end. This ensures comprehensive monitoring and accountability."
+    },
+    {
+      "question": "How are transportation licenses handled in Balochistan?",
+      "answer": "Only business license holders eligible for arms/ammunition transportation to extent/manner permitted by license. Department may issue transportation license or no objection certificate subject to prescribed fee and terms/conditions."
+    },
+    {
+      "question": "What fee structure applies to Balochistan arms licenses?",
+      "answer": "Department may fix and revise fees and charges for arms licenses by notification in official Gazette as mentioned in schedule. Fees payable in form, manner, and timeline specified by Department."
+    },
+    {
+      "question": "When do Balochistan business arms licenses become deemed cancelled?",
+      "answer": "Business licenses deemed cancelled if not renewed within 2 consecutive years, entered in NADRA database as such, and communicated to relevant authorities for arms confiscation unless Department decides otherwise on penalty payment upon licensee application."
+    },
+    {
+      "question": "What happens to business when Balochistan arms license is transferred due to death?",
+      "answer": "Application must be within one year of death with required documents and fee. After one year, license deemed suspended and business operations become illegal. Legal heir must meet all eligibility criteria for transfer approval."
+    },
+    {
+      "question": "Can business name be changed under Balochistan arms license?",
+      "answer": "Business name changes require Department approval with prescribed fee payment and justification. The license remains tied to the approved business entity and operations as authorized."
+    },
+    {
+      "question": "Can place of business be changed under Balochistan arms license?",
+      "answer": "Business location changes require Department approval with prescribed fee and verification that new location meets all safety, security, and regulatory requirements for licensed arms business operations."
+    },
+    {
+      "question": "What are the prescribed manners for running arms business in Balochistan?",
+      "answer": "Business must be conducted per license terms, Department instructions, safety requirements, record keeping obligations, storage at approved premises, sales only to verified license holders, and compliance with inspection requirements."
+    },
+    {
+      "question": "What constitutes extraordinary circumstances for Balochistan arms license procedures?",
+      "answer": "Extraordinary circumstances (to be recorded in writing) may include security situations, emergency conditions, or special cases that warrant deviation from standard procedures, subject to proper documentation and justification."
+    },
+    {
+      "question": "How does Balochistan coordinate with law enforcement on arms licenses?",
+      "answer": "Law enforcement agencies receive access to NADRA database with Department approval, conduct inspections with permission, receive notifications of cancellations for arms confiscation, and participate in inspection committees for business establishments."
+    },
+    {
+      "question": "What role does Civil Defence Department play in Balochistan arms licensing?",
+      "answer": "Civil Defence Department participates in inspection committees and provides reports on safety aspects for business license applications, ensuring compliance with safety standards and emergency preparedness."
+    },
+    {
+      "question": "What notification requirements exist for Balochistan arms license policies?",
+      "answer": "Department issues notifications in official Gazette for: permissible license numbers per district, fee structures, categorization of prohibited/non-prohibited arms, procedural changes, and policy instructions."
+    },
+    {
+      "question": "How are Balochistan arms license fees calculated and revised?",
+      "answer": "Fees are established by Department notification in official Gazette as per schedule. Department retains authority to revise fees and charges based on administrative requirements and policy considerations."
+    },
+    {
+      "question": "What verification process applies to Balochistan arms license transferees?",
+      "answer": "Transferees must meet same eligibility criteria as original applicants including age, domicile, character verification, medical fitness, criminal record check, and suitability assessment by relevant authorities."
+    },
+    {
+      "question": "How are duplicate Balochistan business arms licenses processed?",
+      "answer": "Department may issue duplicate business license for lost/destroyed/damaged licenses upon application with prescribed fee, police report (if lost), concerned DC recommendation, affidavit, or damaged license card if applicable."
+    },
+    {
+      "question": "What coordination exists between NADRA and Balochistan arms licensing?",
+      "answer": "NADRA processes approved applications, maintains central database, develops/deploys software systems, issues smart card licenses, provides data access to law enforcement with approval, and handles computerization/revalidation of licenses."
+    },
+    {
+      "question": "What constitutes compelling circumstances for Balochistan arms license transfer?",
+      "answer": "Compelling circumstances include death, incapacitation due to ill-health or old age, or other extraordinary situations recorded in writing that prevent the licensee from maintaining the license properly."
+    },
+    {
+      "question": "How are Balochistan arms license violations investigated?",
+      "answer": "Violations investigated through inspection committees, law enforcement agencies, Department oversight, and coordination between DC, DPO, and relevant authorities with proper documentation and reporting requirements."
+    },
+    {
+      "question": "What appeal mechanism exists for Balochistan business arms license decisions?",
+      "answer": "Aggrieved persons may file appeal to Additional Chief Secretary, Home Department Balochistan or Chief Secretary, Balochistan within 30 days of order. Decision on representation is final."
+    },
+    {
+      "question": "How does Balochistan handle arms license applications from security companies?",
+      "answer": "Security companies treated as institutions, requiring lawful registration, substantial Balochistan operations, clean record for key personnel, and compliance with institutional license requirements including authorization letters and personnel details."
+    },
+    {
+      "question": "What documentation requirements apply to arms transactions in Balochistan?",
+      "answer": "All arms sales must be documented with purchaser's complete details including name, parentage, CNIC number, address, license number, purchase date. Original CNIC and license must be produced and verified before sale."
+    },
+    {
+      "question": "How are Balochistan arms licenses affected by changes in licensee status?",
+      "answer": "Changes in status (criminal charges, health issues, age-related incapacity, change of address) may trigger review, suspension, or cancellation procedures depending on impact on eligibility and suitability."
+    },
+    {
+      "question": "What quality control measures exist for Balochistan arms license processing?",
+      "answer": "Quality control includes multi-agency reporting, Department oversight, NADRA processing verification, inspection requirements, database maintenance, and coordination between various authorities for comprehensive evaluation."
+    },
+    {
+      "question": "How does Balochistan ensure arms license database security?",
+      "answer": "Database security maintained through NADRA's centralized system, controlled access with Department approval, specific authorization for law enforcement access, and proper documentation of all data sharing activities."
+    },
+    {
+      "question": "What role do Deputy Commissioners play in Balochistan arms licensing?",
+      "answer": "DCs approve personal/institutional licenses (with Department approval), conduct suitability assessments, maintain strong rooms, coordinate inspections, submit performance reports, and handle district-level administrative functions."
+    },
+    {
+      "question": "How are emergency situations handled in Balochistan arms licensing?",
+      "answer": "Emergency situations may warrant extraordinary procedures including expedited processing, modified inspection requirements, temporary storage arrangements, and special authorization procedures with proper documentation."
+    },
+    {
+      "question": "What integration exists between Balochistan arms licensing and federal systems?",
+      "answer": "Integration includes coordination with federal agencies for background checks, compliance with federal regulations, data sharing with law enforcement, and alignment with national security requirements."
+    },
+    {
+      "question": "How does Balochistan monitor compliance with arms license conditions?",
+      "answer": "Compliance monitored through regular inspections, database maintenance, law enforcement coordination, renewal processes, reporting requirements, and investigation of violations with appropriate enforcement actions."
+    },
+    {
+      "question": "What modernization initiatives exist for Balochistan arms licensing?",
+      "answer": "Modernization includes smart card technology, software deployment, centralized database systems, automated processing capabilities, and digital record keeping to improve efficiency and security."
+    },
+    {
+      "question": "How are inter-provincial arms license issues handled in Balochistan?",
+      "answer": "Inter-provincial issues addressed through revalidation/computerization provisions for licenses from other provinces, coordination with federal authorities, and compliance with Department-specified terms and conditions."
+    },
+    {
+      "question": "What training requirements exist for Balochistan arms license holders?",
+      "answer": "While specific training requirements aren't detailed in the rules, safety compliance, proper handling, storage requirements, and legal obligations are implicit responsibilities of all license holders."
+    },
+    {
+      "question": "How does Balochistan address technological advances in arms licensing?",
+      "answer": "Technological advances accommodated through software development, smart card systems, database modernization, and Department authority to modify procedures and formats as technology evolves."
+    },
+    {
+      "question": "What environmental considerations apply to Balochistan arms businesses?",
+      "answer": "Environmental considerations included in safety measures for manufacturing facilities and business establishments to minimize danger to persons and premises, with specific requirements notified by the Department."
+    },
+    {
+      "question": "How are statistical reports generated for Balochistan arms licenses?",
+      "answer": "Statistical reporting facilitated through NADRA database systems, annual performance reports from DCs, inspection records, transaction registers, and centralized data management for policy and planning purposes."
+    },
+    {
+      "question": "What coordination exists with Balochistan Forensic Science Agency?",
+      "answer": "Coordination includes submission of fired test bullets from licensed weapons for ballistic database maintenance, supporting criminal investigations, and ensuring proper technical documentation of licensed firearms."
+    },
+    {
+      "question": "How does Balochistan handle arms license fraud prevention?",
+      "answer": "Fraud prevention through multi-agency verification, background checks, database cross-referencing, inspection systems, proper documentation requirements, and coordination between NADRA, Department, and law enforcement agencies."
     }
   ]
 }
