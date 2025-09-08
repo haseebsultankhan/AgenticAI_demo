@@ -1,7 +1,7 @@
 {
   "file_name": "data-entry-operator.md",
   "domain": "Identity_Services",
-  "total_qa_pairs": 45,
+  "total_qa_pairs": 120,
   "qa_data": [
     {
       "question": "What is NADRA and what are its main functions?",
@@ -32,60 +32,240 @@
       "answer": "An attester is a person who verifies the information entered in the applicant's CNICF. Attesters can be government employees or public representatives. Biometric verification can be done by blood relatives."
     },
     {
-      "question": "What does application rejection mean?",
-      "answer": "Application rejection means the stoppage of an application due to a lack of applicant data, system checks, or errors."
+      "question": "What is meant by Policy in NADRA context?",
+      "answer": "Policy is a general procedure issued by the NADRA Authority Board to guide operations and decision-making processes."
+    },
+    {
+      "question": "What is Data Entry in NADRA operations?",
+      "answer": "Data entry is the process of entering the applicant's details into the NADRA system by Data Entry Operators (DEOs)."
+    },
+    {
+      "question": "Who is OIC in NADRA terminology?",
+      "answer": "OIC is the Officer In-Charge of the NADRA office, responsible for overseeing operations at the center level."
+    },
+    {
+      "question": "What does DAU stand for and what is its function?",
+      "answer": "DAU stands for Data Acquisition Unit (Registration Unit). It is a facility where citizen registration and data collection activities are performed."
+    },
+    {
+      "question": "What does NRC mean in NADRA terminology?",
+      "answer": "NRC means NADRA Registration Center, which is a facility where citizens can apply for various NADRA services and documentation."
+    },
+    {
+      "question": "What does MRV stand for?",
+      "answer": "MRV means Mobile Registration Van, which provides NADRA services in remote or underserved areas where permanent centers are not available."
+    },
+    {
+      "question": "What is meant by application rejection?",
+      "answer": "Application rejection means the stoppage of an application due to a lack of applicant data, system checks, or errors that prevent further processing."
     },
     {
       "question": "What is a Tracking ID?",
-      "answer": "Tracking ID is a unique number issued by the automated system against each application, which also includes the NRC code."
+      "answer": "Tracking ID is a unique number issued by the automated system against each application, which also includes the NRC code for identification and tracking purposes."
     },
     {
       "question": "What does 'Under Verification' status mean?",
-      "answer": "It refers to the complete checking of the details provided by the applicant by the Zonal Board when the OIC uploads the application form."
+      "answer": "It refers to the complete checking of the details provided by the applicant by the Zonal Board when the OIC uploads the application form for review and validation."
     },
     {
-      "question": "What is validation in NADRA processing?",
-      "answer": "Validation is the process of re-verification and checking at the zonal level after uploading from NRC."
+      "question": "What is meant by validation in NADRA processes?",
+      "answer": "Validation is the process of re-verification and checking at the zonal level after uploading from NRC to ensure data accuracy and completeness."
+    },
+    {
+      "question": "What does DUP mean?",
+      "answer": "It means an individual holds one or more identity documents, indicating potential duplication in the system."
     },
     {
       "question": "What does Office Mistake (OM) mean?",
-      "answer": "An error made while entering applicant data, which can be corrected without a fee."
+      "answer": "An error made while entering applicant data by NADRA staff, which can be corrected without charging a fee to the applicant."
+    },
+    {
+      "question": "What does MOI stand for?",
+      "answer": "MOI means Ministry of Interior, the government ministry that oversees NADRA operations."
+    },
+    {
+      "question": "What is IMPASS?",
+      "answer": "IMPASS means Immigration and Passport, referring to the immigration and passport services system."
+    },
+    {
+      "question": "What are dual nationality countries?",
+      "answer": "Countries with which Pakistani citizens are allowed to have dual citizenship, making them eligible for specific NADRA documents like SNICOP."
+    },
+    {
+      "question": "What does ACC mean?",
+      "answer": "ACC refers to Afghan Citizen Card, an identity document for Afghan citizens."
+    },
+    {
+      "question": "What is a POR card?",
+      "answer": "POR card refers to the registration card issued to Afghan citizens as part of their documentation in Pakistan."
+    },
+    {
+      "question": "What is an ANR card?",
+      "answer": "ANR card refers to the Afghan National Card, an identity document for Afghan nationals."
+    },
+    {
+      "question": "What does PRC mean?",
+      "answer": "PRC refers to Permanent Residence Certificate, issued to certain categories of foreign nationals."
+    },
+    {
+      "question": "What does DRO stand for?",
+      "answer": "DRO refers to District Registration Office, a local administrative office for registration services."
+    },
+    {
+      "question": "What does DGR mean?",
+      "answer": "DGR refers to Directorate General of Registration, which was merged with NDO to form NADRA in 2000."
+    },
+    {
+      "question": "What does NIS stand for?",
+      "answer": "NIS refers to National Identity System, the core application used by NADRA for identity management and processing."
+    },
+    {
+      "question": "What does FTRC mean?",
+      "answer": "FTRC refers to Fast Track Registration Center, designed for expedited processing of identity documents."
+    },
+    {
+      "question": "What does RTS stand for?",
+      "answer": "RTS refers to Registration Tracking System, used for monitoring and tracking application status."
+    },
+    {
+      "question": "What does AFIS mean?",
+      "answer": "AFIS refers to Automated Fingerprint Identification System, used for biometric matching and verification."
+    },
+    {
+      "question": "What are the registration laws given by the Federal Government?",
+      "answer": "The registration laws include the NADRA Ordinance 2000, National Registration Act, and other related legislation that govern identity registration and documentation processes in Pakistan."
     },
     {
       "question": "What laws are applicable to NADRA employees?",
-      "answer": "NADRA Employees Service Regulations (NESR) 2002 are applicable to NADRA employees. Additionally, Industrial and Commercial Employment Ordinance 1964 and Factories Act 1973 also apply."
+      "answer": "NADRA Employees Service Regulations (NESR) 2002, Industrial and Commercial Employment Ordinance 1964, and Factories Act 1973 are applicable to NADRA employees."
+    },
+    {
+      "question": "Who is considered a NADRA employee?",
+      "answer": "An employee is a person who is employed by NADRA under the terms and conditions set by the organization."
     },
     {
       "question": "What is the probation period for a NADRA employee?",
-      "answer": "The probation period for an employee is one year."
-    },
-    {
-      "question": "What is the retirement age for NADRA employees?",
-      "answer": "The retirement age for NADRA employees is 60 years."
+      "answer": "The probation period for an employee is one year, during which their performance is evaluated for permanent employment."
     },
     {
       "question": "How is work and performance evaluated in NADRA?",
       "answer": "Work and performance in NADRA are evaluated based on various factors: Annual Appraisal Report (AAR), Performance during the year, Key Performance Indicators (KPIs), and Disciplinary record."
     },
     {
-      "question": "What are the penalties for negligence in protecting NADRA's database according to section 29?",
-      "answer": "An employee who is negligent in protecting the database and NADRA's information systems, attempts to damage Authority's records, assists in altering database data, or provides unauthorized access to the database may face disciplinary action and penalties."
+      "question": "What is the retirement age for NADRA employees?",
+      "answer": "The retirement age for NADRA employees is 60 years."
     },
     {
-      "question": "What are the penalties under section 30 of the NADRA Ordinance for individuals?",
-      "answer": "According to section 30, a person may face imprisonment for up to six (6) months and a fine of fifty thousand (50,000) rupees for: obtaining multiple ID cards, providing false information, damaging or altering ID cards, violating section 17 provisions, failing to apply for ID card within 90 days of turning 18, or violating NADRA rules and regulations."
+      "question": "What is the difference between resignation and dismissal?",
+      "answer": "Resignation is voluntary termination by the employee, while dismissal is involuntary termination by NADRA due to disciplinary actions or performance issues."
     },
     {
-      "question": "What are the more serious penalties under section 30 for repeat offenses?",
-      "answer": "A person may face imprisonment for up to five (5) years and a fine of one hundred thousand (100,000) rupees for: obtaining forged identity cards, possessing or using forged cards, making equipment for forging cards, unlawfully possessing another person's ID card, willfully providing false information, or obstructing officers in their duties. If repeated, punishment may be doubled, and NADRA employees may face termination."
+      "question": "What are the penalties under section 29 of NADRA Ordinance?",
+      "answer": "Under section 29, employees who are negligent in protecting the database, attempt to damage Authority records, assist in altering data, or provide unauthorized access to the database may face imprisonment for up to two years and a fine of up to one hundred thousand rupees."
     },
     {
-      "question": "What is SNICOP and who is it issued to?",
-      "answer": "SNICOP (Smart National Identity Card for Overseas Pakistanis) is issued to Pakistani citizens or those holding dual nationality who live abroad. The Smart National Identity Card for Overseas Pakistanis facilitates visa-free entry to Pakistan for individuals residing abroad."
+      "question": "What offenses under section 30 carry 6 months imprisonment?",
+      "answer": "Offenses include: obtaining multiple ID cards, providing false information, damaging/altering ID cards, violating section 17 provisions, failing to apply for ID card within 90 days of turning 18, and violating NADRA rules. The penalty is up to 6 months imprisonment and Rs. 50,000 fine."
+    },
+    {
+      "question": "What offenses under section 30 carry 5 years imprisonment?",
+      "answer": "Serious offenses include: obtaining forged identity cards, possessing/using forged cards, making counterfeiting equipment, unlawfully possessing others' ID cards, providing false information, and obstructing officers. Penalty is up to 5 years imprisonment and Rs. 100,000 fine."
+    },
+    {
+      "question": "What happens if someone repeats offenses under NADRA Ordinance?",
+      "answer": "If a person commits any offenses mentioned in section 30 repeatedly, the punishment may be doubled. NADRA employees may also face termination from service in addition to other penalties."
+    },
+    {
+      "question": "What is the selection criteria for DEO position?",
+      "answer": "Selection criteria typically include educational qualifications, computer literacy, typing skills, attention to detail, and ability to handle customer interactions professionally."
+    },
+    {
+      "question": "What are the main responsibilities of a DEO?",
+      "answer": "DEO responsibilities include: accurate data entry, document verification, biometric capture assistance, customer service, maintaining data security, following SOPs, quality control, and reporting issues to supervisors."
+    },
+    {
+      "question": "How does a DEO log in to the system?",
+      "answer": "DEOs log in using their assigned username and password through the NADRA system interface, following security protocols and authentication procedures."
+    },
+    {
+      "question": "What should a DEO do when handling applicants with language barriers?",
+      "answer": "If there is a language barrier or difficulty in understanding, politely ask for clarification or seek help from colleagues or supervisors who can communicate in the applicant's language."
+    },
+    {
+      "question": "How should DEOs handle emotional or agitated applicants?",
+      "answer": "Handle the situation with patience, maintain professional demeanor, avoid arguments, listen carefully to their concerns, and try to resolve their issue calmly while providing clear information."
+    },
+    {
+      "question": "What special considerations should DEOs provide to certain applicants?",
+      "answer": "Ensure that applicants with special needs (elderly, disabled, pregnant women, etc.) are facilitated on priority and receive appropriate assistance during their visit."
+    },
+    {
+      "question": "What are the most common spelling errors made by DEOs?",
+      "answer": "DEOs often make spelling mistakes in names, especially with Arabic, Urdu, or regional names. Always verify spelling with the applicant and supporting documents before final entry."
+    },
+    {
+      "question": "How can DEOs avoid Date of Birth entry errors?",
+      "answer": "Ensure the DOB is correctly taken from the applicant and supporting documents, double-check the format (DD/MM/YYYY), and verify with the applicant before confirming entry."
+    },
+    {
+      "question": "What constitutes correct address entry by DEOs?",
+      "answer": "Enter the complete and correct present and permanent address of the applicant/parent, including house number, street, area, city, and district information as provided in documents."
+    },
+    {
+      "question": "What errors should DEOs avoid during attestation process?",
+      "answer": "Avoid incorrect attestation of the application form by ensuring the attester is authorized and not using an invalid attester's CNIC. Verify attester credentials before processing."
+    },
+    {
+      "question": "What are the document scanning requirements for DEOs?",
+      "answer": "Ensure documents are scanned clearly and are legible, all required documents are attached, proper resolution is maintained, and all pages are included for multi-page documents."
+    },
+    {
+      "question": "How can DEOs prevent CNIC entry errors?",
+      "answer": "Carefully enter CNIC numbers for applicant and relatives, double-check each digit, verify against original documents, and use system validation features to catch errors."
+    },
+    {
+      "question": "What are the photograph requirements for DEOs?",
+      "answer": "Capture clear, non-blurry, standard photographs of applicants following NADRA guidelines for lighting, positioning, and background requirements."
+    },
+    {
+      "question": "Why is correct parent name entry important?",
+      "answer": "Accurate parent name entry is crucial for family linkage, verification purposes, and maintaining database integrity. Always verify against supporting documents."
+    },
+    {
+      "question": "What is FTRC Token Number and why is accurate entry important?",
+      "answer": "FTRC Token Number is a unique identifier for Fast Track Registration Center applications. Accurate entry ensures proper tracking and processing of applications."
+    },
+    {
+      "question": "How often should DEOs change their system passwords?",
+      "answer": "DEOs should change their system passwords regularly as per NADRA's security policy, typically every 90 days or as mandated by IT security guidelines."
+    },
+    {
+      "question": "What data confidentiality measures must DEOs follow?",
+      "answer": "Maintain confidentiality of all citizen data, do not share personal information with unauthorized persons, secure workstations, and follow data protection policies strictly."
+    },
+    {
+      "question": "What should DEOs never share regarding system access?",
+      "answer": "Never share official email/system credentials with anyone, do not use them on untrusted public networks/Wi-Fi, and never share login credentials (username/password)."
+    },
+    {
+      "question": "What should DEOs do when leaving their workstation?",
+      "answer": "Always lock your system when not in use, log out properly at the end of shifts, and ensure no unauthorized person can access your workstation."
+    },
+    {
+      "question": "What password security guidelines should DEOs follow?",
+      "answer": "Do not use easily guessable passwords related to personal information, create complex passwords with mix of characters, and change passwords regularly."
+    },
+    {
+      "question": "How should DEOs handle suspicious emails or links?",
+      "answer": "Do not click on suspicious links, report such emails to the IT department immediately, and avoid opening attachments from unknown sources."
+    },
+    {
+      "question": "What software restrictions apply to DEOs?",
+      "answer": "Do not use unauthorized software/applications on NADRA systems, install only approved software, and avoid downloading programs from unofficial sources."
     },
     {
       "question": "What is the monitoring procedure at the NRC level?",
-      "answer": "The NADRA Center In-charge (OIC) is responsible for daily monitoring of DEO performance and application processing quality. The OIC reviews applications processed by DEOs for accuracy, completeness of documents, and adherence to policies before final submission. DEOs are responsible for accurately capturing data, scanning documents, and ensuring proper verification. The OIC provides feedback to DEOs on any errors or discrepancies found during review."
+      "answer": "At the NRC level, the Officer In-Charge (OIC) monitors DEO performance through daily supervision, application quality checks, productivity tracking, and addressing immediate issues."
     },
     {
       "question": "What is the monitoring procedure at the Zonal level?",
@@ -101,7 +281,7 @@
     },
     {
       "question": "What are the consequences of violating Data Security Policy?",
-      "answer": "Disciplinary action against the employee, including penalties mentioned in Chapter 2."
+      "answer": "Disciplinary action against the employee, including penalties mentioned in Chapter 2, which may include fines, suspension, or termination depending on the severity."
     },
     {
       "question": "What are the potential cyber threats identified by NADRA?",
@@ -136,43 +316,7 @@
       "answer": "DON'Ts include: Do not share official email/system credentials with anyone or use them on untrusted networks, Do not share login credentials (username/password), Do not leave your system unlocked, Do not use easily guessable passwords related to personal information, Do not click on suspicious links and report such emails to IT department, and Do not use unauthorized software/applications."
     },
     {
-      "question": "What does DAU stand for and what is its function?",
-      "answer": "DAU stands for Data Acquisition Unit (Registration Unit). It is a facility where citizen registration and data collection activities are performed."
-    },
-    {
-      "question": "What does NRC mean in NADRA terminology?",
-      "answer": "NRC means NADRA Registration Center, which is a facility where citizens can apply for various NADRA services and documents."
-    },
-    {
-      "question": "What is MRV in NADRA services?",
-      "answer": "MRV means Mobile Registration Van, which provides NADRA services in remote or underserved areas where permanent centers may not be available."
-    },
-    {
-      "question": "What does DUP mean in NADRA processing?",
-      "answer": "DUP means an individual holds one or more identity documents, indicating a potential duplication issue that needs to be resolved."
-    },
-    {
-      "question": "What is FTRC and its significance?",
-      "answer": "FTRC refers to Fast Track Registration Center, which is designed to provide expedited NADRA services. The OneApp application has been specifically developed for FTRCs to improve efficiency."
-    },
-    {
-      "question": "What does AFIS stand for and what is its purpose?",
-      "answer": "AFIS refers to Automated Fingerprint Identification System, which is used for biometric identification and verification of individuals through their fingerprints."
-    },
-    {
-      "question": "What is the role of UC (Union Council) in NADRA operations?",
-      "answer": "The Union Council office operates under the provincial local government and is NADRA's stakeholder in the Civil Registration Management System (CRMS), particularly for vital events registration."
-    },
-    {
-      "question": "What happens if an applicant already holds a POC/NICOP when applying for CRC?",
-      "answer": "An applicant cannot apply for CRC if they already hold POC/NICOP, as these are different categories of identity documents with specific eligibility criteria."
-    },
-    {
-      "question": "What should be done if a parent's CNIC is lost during the application process?",
-      "answer": "The applicant should be advised that the parent should apply for a duplicate CNIC first before proceeding with the dependent's application."
-    },
-    {
-      "question": "What is the procedure when a Twin Flag is raised by the system?",
+      "question": "What happens when a Twin Flag is raised in the system?",
       "answer": "When a Twin Flag is raised by the system, the case should be referred to the Zonal Verification Officer for further investigation and resolution."
     },
     {
@@ -180,12 +324,116 @@
       "answer": "Guidance for DEOs includes: This guidebook serves as a primary reference, The NADRA system has built-in validations and prompts for data entry guidance, and Zonal officers provide guidance and support for application processing and system usage."
     },
     {
-      "question": "What are dual nationality countries in NADRA context?",
-      "answer": "Dual nationality countries are countries with which Pakistani citizens are allowed to have dual citizenship, making them eligible for specific NADRA documents like SNICOP."
-    },
-    {
       "question": "What is the significance of data being a valuable asset according to NADRA policy?",
       "answer": "Recognizing data as a valuable asset emphasizes the importance of protecting citizen information, maintaining confidentiality, ensuring proper handling procedures, and preventing unauthorized access or misuse of personal and biometric data stored in NADRA's systems."
+    },
+    {
+      "question": "What should DEOs do when encountering system errors or technical issues?",
+      "answer": "Report technical issues immediately to IT support, document error details, avoid attempting unauthorized fixes, inform the OIC of system problems, and follow backup procedures if available."
+    },
+    {
+      "question": "How should DEOs handle incomplete application forms?",
+      "answer": "Review all required fields before processing, request missing information from applicants, ensure all mandatory documents are provided, and do not proceed with incomplete applications without proper authorization."
+    },
+    {
+      "question": "What is the proper procedure for handling rejected applications?",
+      "answer": "Explain rejection reasons clearly to applicants, provide guidance on required corrections, document rejection reasons in the system, inform OIC of recurring issues, and offer assistance for resubmission."
+    },
+    {
+      "question": "How should DEOs verify document authenticity?",
+      "answer": "Check for security features, compare with known authentic samples, verify issuing authority stamps/seals, cross-reference with system databases, and report suspicious documents to supervisors."
+    },
+    {
+      "question": "What steps should DEOs take for quality control?",
+      "answer": "Double-check all entered data before submission, verify biometric capture quality, ensure document scans are clear, review family linkages, and confirm applicant details match documents."
+    },
+    {
+      "question": "How should DEOs handle urgent or emergency cases?",
+      "answer": "Follow established emergency procedures, inform OIC immediately, prioritize case processing, ensure all requirements are still met, document emergency justification, and coordinate with relevant authorities."
+    },
+    {
+      "question": "What should DEOs do when applicants provide conflicting information?",
+      "answer": "Seek clarification from applicants, compare with supporting documents, document discrepancies, consult with supervisors, and do not proceed until conflicts are resolved."
+    },
+    {
+      "question": "How should DEOs handle cases requiring verification from other authorities?",
+      "answer": "Follow established verification procedures, contact appropriate authorities, document verification requests, track response times, and keep applicants informed of status."
+    },
+    {
+      "question": "What is the proper way to handle biometric capture issues?",
+      "answer": "Ensure clean scanner surfaces, guide applicants on proper finger placement, retry capture if quality is poor, report hardware issues immediately, and use alternative capture methods if available."
+    },
+    {
+      "question": "How should DEOs manage their daily workload?",
+      "answer": "Prioritize applications based on urgency, maintain steady processing pace, take regular breaks to avoid fatigue, organize workspace efficiently, and track daily productivity metrics."
+    },
+    {
+      "question": "What should DEOs do when handling sensitive personal information?",
+      "answer": "Maintain strict confidentiality, limit access to authorized personnel only, avoid discussing cases in public areas, secure all documents properly, and follow data protection protocols."
+    },
+    {
+      "question": "How should DEOs prepare for daily operations?",
+      "answer": "Check system functionality, organize required forms and documents, ensure hardware is working properly, review daily targets, and coordinate with team members."
+    },
+    {
+      "question": "What is the proper procedure for end-of-day closeout?",
+      "answer": "Complete all pending entries, log out of systems properly, secure all documents and equipment, submit daily reports, and hand over any pending issues to the next shift or supervisor."
+    },
+    {
+      "question": "How should DEOs handle applicant complaints or disputes?",
+      "answer": "Listen carefully to concerns, document complaint details, attempt resolution within authority, escalate to OIC when necessary, and follow up on complaint resolution."
+    },
+    {
+      "question": "What training requirements apply to DEOs?",
+      "answer": "Complete initial orientation training, attend regular refresher sessions, stay updated on policy changes, participate in skill development programs, and maintain certification requirements."
+    },
+    {
+      "question": "How should DEOs coordinate with other team members?",
+      "answer": "Communicate effectively with colleagues, share relevant information, assist with overflow work when possible, participate in team meetings, and maintain professional relationships."
+    },
+    {
+      "question": "What should DEOs do when encountering unfamiliar document types?",
+      "answer": "Consult reference materials, seek guidance from supervisors, verify document legitimacy, research acceptance criteria, and document new document types for future reference."
+    },
+    {
+      "question": "How should DEOs handle cases involving minors?",
+      "answer": "Ensure proper guardian consent, verify guardian authority, follow special procedures for juvenile applications, maintain additional privacy protections, and ensure child safety protocols."
+    },
+    {
+      "question": "What is the proper procedure for handling foreign documents?",
+      "answer": "Verify authentication requirements, check for required translations, confirm apostille/attestation, follow international document protocols, and consult with specialized officers when needed."
+    },
+    {
+      "question": "How should DEOs maintain their professional development?",
+      "answer": "Attend training sessions regularly, read policy updates, learn new system features, seek feedback from supervisors, and participate in skill enhancement programs."
+    },
+    {
+      "question": "What should DEOs do during system maintenance or downtime?",
+      "answer": "Follow contingency procedures, maintain manual records if required, inform applicants of delays, organize paperwork during downtime, and prepare for system restoration."
+    },
+    {
+      "question": "How should DEOs handle rush periods or high volume days?",
+      "answer": "Maintain accuracy despite time pressure, prioritize efficiently, seek additional support when available, communicate wait times to applicants, and ensure quality standards are maintained."
+    },
+    {
+      "question": "What is the importance of maintaining clean and organized workstations?",
+      "answer": "Clean workstations promote professional image, improve efficiency, reduce errors, ensure document security, create better customer experience, and support health and safety requirements."
+    },
+    {
+      "question": "How should DEOs handle applications from overseas Pakistanis?",
+      "answer": "Follow specific SNICOP procedures, verify foreign residence documents, understand dual nationality implications, ensure proper attestation requirements, and coordinate with embassy/consulate verifications."
+    },
+    {
+      "question": "What should DEOs know about NADRA's Code of Conduct?",
+      "answer": "Maintain professional behavior, dress appropriately, be punctual, treat all applicants with respect, avoid discrimination, maintain confidentiality, and report any violations of conduct."
+    },
+    {
+      "question": "How should DEOs handle cases requiring police verification?",
+      "answer": "Follow police verification procedures, coordinate with law enforcement, track verification status, maintain communication with applicants, and ensure timely follow-up on pending verifications."
+    },
+    {
+      "question": "What should DEOs do when they identify potential fraud cases?",
+      "answer": "Do not process suspicious applications, document all concerns, report to supervisors immediately, preserve all evidence, follow investigation procedures, and maintain strict confidentiality."
     }
   ]
 }
