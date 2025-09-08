@@ -1,7 +1,7 @@
 {
   "file_name": "renewal_questions.md",
   "domain": "Identity_Services",
-  "total_qa_pairs": 30,
+  "total_qa_pairs": 120,
   "qa_data": [
     {
       "question": "What is the validity period for CNIC for adults under 53?",
@@ -122,6 +122,322 @@
     {
       "question": "At what age must a child transition from CRC to CNIC?",
       "answer": "A child must transition from CRC to CNIC when they turn 18 years old. The CRC must be replaced with CNIC upon reaching this age."
+    },
+    {
+      "question": "What happens if I don't renew my CNIC before it expires?",
+      "answer": "If your CNIC expires, you'll need to apply for renewal as soon as possible. Late renewal may require additional verification and could affect your ability to access services that require valid CNIC."
+    },
+    {
+      "question": "Can I travel internationally with an expired CNIC?",
+      "answer": "An expired CNIC may not be accepted for international travel or visa applications. It's recommended to renew your CNIC before expiry to avoid travel complications."
+    },
+    {
+      "question": "What documents do I need for CNIC renewal?",
+      "answer": "For CNIC renewal, you typically need your current/expired CNIC, original supporting documents (if information changed), and any additional documents based on modifications required during renewal."
+    },
+    {
+      "question": "What documents do I need for NICOP renewal?",
+      "answer": "For NICOP renewal, you need your current/expired NICOP, valid foreign passport, proof of overseas residence, and any additional documents if personal information has changed."
+    },
+    {
+      "question": "What documents do I need for POC renewal?",
+      "answer": "For POC renewal, you need your current/expired POC, valid foreign passport (with at least 6 months validity), and proof of Pakistani origin or connection to Pakistan."
+    },
+    {
+      "question": "Do I need new biometrics for renewal?",
+      "answer": "Yes, biometric capture (fingerprints and photograph) is typically required for all NADRA document renewals to ensure current and accurate biometric data."
+    },
+    {
+      "question": "Can I renew my CNIC online?",
+      "answer": "Some CNIC renewal services may be available through PAK-ID mobile app, though physical biometric capture may still be required at NADRA centers for complete renewal processing."
+    },
+    {
+      "question": "Can I renew my NICOP from outside Pakistan?",
+      "answer": "Yes, NICOP renewal can be done from Pakistani consulates and embassies abroad, or through designated NADRA service centers in various countries."
+    },
+    {
+      "question": "Can I renew my POC from outside Pakistan?",
+      "answer": "Yes, POC renewal can be processed through Pakistani consulates and embassies abroad, subject to availability of NADRA services in your country of residence."
+    },
+    {
+      "question": "What are the fees for CNIC renewal?",
+      "answer": "CNIC renewal fees vary by processing category: Normal (PKR 400), Urgent (PKR 1,150), Executive (PKR 2,150). Check current fee structure on NADRA website for updated rates."
+    },
+    {
+      "question": "What are the fees for NICOP renewal?",
+      "answer": "NICOP renewal fees depend on zone and processing type: Zone A (USA/Europe) $36-72, Zone B (Middle East/Africa) $17-37. Smart NICOP costs $3 more than regular NICOP."
+    },
+    {
+      "question": "What are the fees for POC renewal?",
+      "answer": "POC renewal fees are: Normal $150, Urgent $200, Executive $200. These are in USD and may be paid in PKR at the official conversion rate."
+    },
+    {
+      "question": "How long does CNIC renewal take?",
+      "answer": "CNIC renewal processing time depends on category selected: Normal (30 days), Urgent (12 days), Executive (7 days)."
+    },
+    {
+      "question": "How long does NICOP renewal take?",
+      "answer": "NICOP renewal follows standard processing times: Normal (30 days), Urgent (12 days), Executive (7 days), plus additional time for international delivery if applicable."
+    },
+    {
+      "question": "How long does POC renewal take?",
+      "answer": "POC renewal processing time follows standard categories: Normal (30 days), Urgent (12 days), Executive (7 days), plus delivery time for international applicants."
+    },
+    {
+      "question": "Can I expedite my renewal if I have urgent travel plans?",
+      "answer": "Yes, you can choose Executive processing (7 days) for fastest renewal. For emergency travel situations, contact NADRA at 1777 to discuss special emergency procedures if available."
+    },
+    {
+      "question": "What happens if my renewal application is rejected?",
+      "answer": "If renewal is rejected, you'll receive information about the reason for rejection. You can address the issues, provide additional documentation, or contact NADRA for clarification and reapplication."
+    },
+    {
+      "question": "Can I use my expired CNIC while renewal is in process?",
+      "answer": "An expired CNIC may have limited acceptance. Some services may accept it temporarily if you provide proof of renewal application, but it's best to complete renewal before expiry."
+    },
+    {
+      "question": "Can I change information during renewal?",
+      "answer": "Yes, renewal is an opportunity to update information like address, marital status, or correct errors. Additional documentation may be required for any changes made during renewal."
+    },
+    {
+      "question": "Do I need to visit NADRA center for renewal?",
+      "answer": "Most renewals require visiting NADRA centers for biometric capture and verification. Some initial steps may be completed online, but physical presence is typically required for complete processing."
+    },
+    {
+      "question": "Can family members renew documents together?",
+      "answer": "Family members can visit together and apply for renewals simultaneously, but each person needs individual processing including separate biometric capture, documentation, and interviews."
+    },
+    {
+      "question": "What if I lost my CNIC and it's also expired?",
+      "answer": "If your CNIC is both lost and expired, you'll need to apply for a duplicate/reprint with renewal. This requires biometric verification and may need additional documentation to establish identity."
+    },
+    {
+      "question": "Can I renew a damaged CNIC?",
+      "answer": "Yes, damaged CNIC can be renewed. Bring the damaged card to the NADRA center along with renewal application. The renewal process will provide you with a new card."
+    },
+    {
+      "question": "What happens to my old CNIC after renewal?",
+      "answer": "After renewal, your old CNIC becomes invalid. You should keep it until you receive the new card, then dispose of it securely or as instructed by NADRA to prevent misuse."
+    },
+    {
+      "question": "Can I renew if I've lost my original documents?",
+      "answer": "If you've lost original documents needed for renewal, you may need to obtain duplicate copies from issuing authorities first, or NADRA may accept alternative documentation in some cases."
+    },
+    {
+      "question": "Do I need attestation for renewal documents?",
+      "answer": "Document attestation requirements for renewal depend on the type of changes being made. Simple renewals may not require attestation, but modifications might need attested supporting documents."
+    },
+    {
+      "question": "Can I track my renewal application status?",
+      "answer": "Yes, you can track renewal status using tracking number provided, PAK-ID mobile app, SMS services, calling 1777, or visiting NADRA centers with your receipt."
+    },
+    {
+      "question": "What if there are errors in my renewed document?",
+      "answer": "If errors are found in your renewed document, contact NADRA immediately. Office mistakes are corrected free of charge, while other corrections may require the standard modification process."
+    },
+    {
+      "question": "Can I renew before the early renewal window opens?",
+      "answer": "Generally, you cannot renew before the designated early renewal period (1 month for CNIC, 6 months for NICOP/POC). However, special circumstances like travel plans might allow exceptions."
+    },
+    {
+      "question": "What if I'm outside Pakistan when my CNIC expires?",
+      "answer": "If you're abroad when your CNIC expires, contact the nearest Pakistani consulate or embassy. They may provide guidance on emergency procedures or facilitate renewal through diplomatic channels."
+    },
+    {
+      "question": "Can I renew my spouse's document on their behalf?",
+      "answer": "No, document renewal requires personal biometric capture and verification. Each individual must personally appear for their renewal application."
+    },
+    {
+      "question": "What if my passport expires before POC renewal?",
+      "answer": "For POC renewal, your foreign passport must be valid for at least 6 months. If your passport is expiring, renew it first before applying for POC renewal."
+    },
+    {
+      "question": "Can I continue using services with an expired Juvenile Card?",
+      "answer": "Expired Juvenile Cards are not valid for official use. When a child turns 18, they must transition to CNIC regardless of the Juvenile Card's printed expiry date."
+    },
+    {
+      "question": "What happens if I miss the renewal window?",
+      "answer": "If you miss the early renewal window, you can still renew after expiry. However, late renewal may cause inconvenience as expired documents may not be accepted for various services."
+    },
+    {
+      "question": "Are there grace periods for expired documents?",
+      "answer": "NADRA doesn't typically provide official grace periods for expired documents. It's best to renew before expiry to avoid any service disruptions or complications."
+    },
+    {
+      "question": "Can I renew at any NADRA center?",
+      "answer": "Generally, you can renew at any NADRA center in Pakistan. However, some specialized services or international renewals may have specific location requirements."
+    },
+    {
+      "question": "What if biometric capture fails during renewal?",
+      "answer": "If biometric capture fails during renewal, NADRA staff will attempt alternative methods, use different fingers, or reschedule for better capture. The process may be delayed until successful biometric capture."
+    },
+    {
+      "question": "Can I renew if I have physical disabilities?",
+      "answer": "Yes, NADRA provides accommodations for people with disabilities during renewal, including alternative biometric methods, assistance with forms, and accessible facilities."
+    },
+    {
+      "question": "Do military personnel have special renewal procedures?",
+      "answer": "Military personnel may have access to special NADRA services at military installations, but generally follow the same renewal procedures with possible priority processing arrangements."
+    },
+    {
+      "question": "Can I renew multiple documents in one visit?",
+      "answer": "If you hold multiple NADRA documents (like CNIC and NICOP), you may be able to renew them in the same visit, though each document requires separate processing and fees."
+    },
+    {
+      "question": "What if I changed my name legally - how does this affect renewal?",
+      "answer": "Legal name changes require additional documentation during renewal, such as marriage certificates, court orders, or gazette notifications, depending on the reason for name change."
+    },
+    {
+      "question": "Can I renew if I have dual nationality?",
+      "answer": "Dual nationals should use appropriate documents (NICOP for overseas residence, CNIC for local residence) based on their current status and residence location for renewal."
+    },
+    {
+      "question": "What if my old address is incorrect during renewal?",
+      "answer": "Address corrections can be made during renewal by providing proper address verification documents like utility bills, property documents, or local certificates."
+    },
+    {
+      "question": "Are there special renewal rates for senior citizens?",
+      "answer": "While fees are generally standard, senior citizens (especially those 53+) getting lifetime CNIC validity may have different considerations. Check with NADRA for any special provisions."
+    },
+    {
+      "question": "Can students get priority renewal services?",
+      "answer": "Students may not have automatic priority, but those with urgent academic deadlines (like admission or scholarship applications) can choose expedited processing categories for faster renewal."
+    },
+    {
+      "question": "What if I lost my tracking number for renewal?",
+      "answer": "If you lost your tracking number, you can retrieve it by providing your CNIC number and other identification at NADRA centers, or through customer service at 1777."
+    },
+    {
+      "question": "Can I cancel a renewal application?",
+      "answer": "Renewal applications may be cancelled early in the process. Contact NADRA to discuss cancellation procedures and potential refund eligibility depending on processing stage."
+    },
+    {
+      "question": "What if I need urgent renewal for medical treatment abroad?",
+      "answer": "For medical emergencies requiring urgent travel, choose Executive processing and contact NADRA explaining your situation. They may provide guidance on emergency procedures or expedited handling."
+    },
+    {
+      "question": "How often do renewal procedures change?",
+      "answer": "NADRA periodically updates renewal procedures, fees, and requirements. Always check the official NADRA website or contact centers for the most current renewal procedures before applying."
+    },
+    {
+      "question": "Can I renew using old photographs?",
+      "answer": "No, renewal requires new photograph capture at NADRA centers to ensure current appearance and maintain security standards. Old photographs are not acceptable for renewal."
+    },
+    {
+      "question": "What if there are system outages during my renewal appointment?",
+      "answer": "If system outages occur during renewal, NADRA may provide temporary receipts and complete processing when systems are restored, or reschedule your appointment without additional fees."
+    },
+    {
+      "question": "Can I get renewal receipt via email?",
+      "answer": "NADRA provides receipts and tracking information through multiple channels including SMS, email (if provided), and physical receipts. Ensure your contact information is current for notifications."
+    },
+    {
+      "question": "What security features are in renewed documents?",
+      "answer": "Renewed NADRA documents include updated security features like enhanced biometric chips, improved printing technology, and advanced security elements to prevent counterfeiting."
+    },
+    {
+      "question": "Can I request specific validity dates for renewal?",
+      "answer": "No, validity periods are standardized based on document type and applicant age. You cannot request custom validity dates - they follow NADRA's standard validity periods."
+    },
+    {
+      "question": "What if I'm renewing shortly before turning 53?",
+      "answer": "If you're close to 53 when renewing CNIC, it may be beneficial to wait until after your 53rd birthday to get lifetime validity instead of another 10-year validity period."
+    },
+    {
+      "question": "Are there special renewal procedures during COVID-19 or emergencies?",
+      "answer": "During emergencies, NADRA may implement special procedures like appointment systems, health protocols, or modified processing. Check NADRA's announcements for current emergency procedures."
+    },
+    {
+      "question": "Can I submit renewal applications through mobile vans?",
+      "answer": "Yes, NADRA Mobile Registration Vans (MRV) that visit remote areas typically provide renewal services following the same procedures as fixed centers, subject to equipment availability."
+    },
+    {
+      "question": "What happens to my renewal if NADRA policies change during processing?",
+      "answer": "Applications in process typically follow the policies in effect when submitted. Major policy changes usually have transition periods to accommodate pending applications."
+    },
+    {
+      "question": "Can I get renewal status updates via SMS?",
+      "answer": "Yes, NADRA provides SMS updates for renewal applications at various stages including processing start, completion, and dispatch. Ensure your mobile number is correctly provided."
+    },
+    {
+      "question": "What if I need certified copies of my renewal application?",
+      "answer": "For certified copies or additional documentation related to your renewal application, contact NADRA centers or customer service. Some documents may be available through PAK-ID app."
+    },
+    {
+      "question": "Can employers help with employee renewal processes?",
+      "answer": "Some employers arrange group renewal services or provide support for employee document renewal, especially for overseas workers. Check with your employer about available assistance programs."
+    },
+    {
+      "question": "What if renewal reveals discrepancies in my original data?",
+      "answer": "If discrepancies are found during renewal, NADRA may require additional verification, documentation, or investigation before completing the renewal process."
+    },
+    {
+      "question": "Can I appeal if my renewal is rejected?",
+      "answer": "Yes, renewal rejections can be appealed through NADRA's grievance mechanism. Contact customer service at 1777 or visit centers to understand rejection reasons and appeal procedures."
+    },
+    {
+      "question": "How long should I keep my old document after renewal?",
+      "answer": "Keep your old document until you receive the renewed one. After receiving the new document, dispose of the old one securely to prevent identity theft or misuse."
+    },
+    {
+      "question": "What future improvements are planned for renewal processes?",
+      "answer": "NADRA continuously works on improving renewal processes through digital integration, faster processing, better customer experience, and enhanced security. Check official announcements for upcoming improvements."
+    },
+    {
+      "question": "Can I provide feedback about my renewal experience?",
+      "answer": "Yes, you can provide feedback about renewal services through NADRA's feedback mechanisms including online portals, customer service at 1777, feedback boxes at centers, or social media channels."
+    },
+    {
+      "question": "Are there any documents that cannot be renewed?",
+      "answer": "Most NADRA identity documents can be renewed, but some certificates like Succession Certificates are typically reissued rather than renewed. Check specific document types for renewal availability."
+    },
+    {
+      "question": "What training do NADRA staff receive for handling renewals?",
+      "answer": "NADRA staff receive comprehensive training on renewal procedures, document verification, customer service, system operation, and quality standards to ensure consistent and professional renewal services."
+    },
+    {
+      "question": "Can I schedule renewal appointments in advance?",
+      "answer": "Some NADRA centers offer appointment scheduling systems for renewals. Check with your local center about appointment availability or use online booking systems where available."
+    },
+    {
+      "question": "What contingency plans exist for high-volume renewal periods?",
+      "answer": "During high-demand periods, NADRA may deploy additional staff, extend service hours, activate mobile services, or implement appointment systems to manage renewal volumes effectively."
+    },
+    {
+      "question": "How does NADRA ensure quality control in renewal processing?",
+      "answer": "NADRA implements quality control through supervisor reviews, automated system checks, biometric verification, document authentication, and regular audits of renewal processing procedures."
+    },
+    {
+      "question": "Can I get assistance with renewal if I have literacy issues?",
+      "answer": "Yes, NADRA centers provide assistance for applicants with literacy challenges, including help with form filling, explanation of procedures, and guidance throughout the renewal process."
+    },
+    {
+      "question": "What coordination exists between NADRA centers for renewals?",
+      "answer": "NADRA centers are connected through centralized systems enabling data sharing, application tracking, and coordination. Renewals can typically be tracked and supported across different centers."
+    },
+    {
+      "question": "Are there any environmental considerations in the renewal process?",
+      "answer": "NADRA is working toward more sustainable practices including digital processes, reduced paper usage, efficient resource utilization, and proper disposal of old documents during renewal."
+    },
+    {
+      "question": "Can I get renewal services during after-hours or weekends?",
+      "answer": "Regular renewal services are typically available during standard business hours. Some centers may have extended hours or special weekend services. Check with local centers for specific schedules."
+    },
+    {
+      "question": "What technological innovations are being implemented in renewal processes?",
+      "answer": "NADRA continuously upgrades renewal technology including improved biometric systems, digital workflows, automated processing, online services, and enhanced security features to improve renewal efficiency."
+    },
+    {
+      "question": "How does international law affect NADRA document renewals?",
+      "answer": "International agreements and diplomatic protocols may affect renewal procedures for overseas Pakistanis, dual nationals, and international document recognition, particularly for NICOP and POC renewals."
+    },
+    {
+      "question": "Can I get renewal services if I have pending legal cases?",
+      "answer": "Legal cases may affect renewal eligibility depending on the nature of the case and any court orders. Contact NADRA directly to discuss your specific situation and any restrictions."
+    },
+    {
+      "question": "What research and development activities improve renewal services?",
+      "answer": "NADRA invests in R&D for renewal improvements including advanced biometrics, artificial intelligence, blockchain technology, improved security features, and enhanced user experience in renewal processes."
     }
   ]
 }
