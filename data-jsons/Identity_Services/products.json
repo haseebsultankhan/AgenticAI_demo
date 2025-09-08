@@ -1,7 +1,7 @@
 {
   "file_name": "products.md",
   "domain": "Identity_Services",
-  "total_qa_pairs": 20,
+  "total_qa_pairs": 100,
   "qa_data": [
     {
       "question": "What types of products does NADRA offer?",
@@ -82,6 +82,266 @@
     {
       "question": "What are all the identity cards offered by NADRA?",
       "answer": "NADRA offers four types of identity cards: National Identity Card (NIC) for Pakistani citizens, Juvenile Card for children under 18, Pakistan Origin Card (POC) for eligible foreigners with Pakistani roots, and National Identity Card for Overseas Pakistanis (NICOP) for Pakistani citizens living or intending to live abroad."
+    },
+    {
+      "question": "What are all the certificates offered by NADRA?",
+      "answer": "NADRA offers four types of certificates: Cancellation Certificate (CC) for record cancellation, Child Registration Certificate (CRC) for newborn registration, Family Registration Certificate (FRC) for family records, and Succession Certificate for inheritance and legal processes."
+    },
+    {
+      "question": "What is the difference between NIC and NICOP?",
+      "answer": "NIC (National Identity Card) is for Pakistani citizens residing in Pakistan, while NICOP (National Identity Card for Overseas Pakistanis) is specifically for Pakistani citizens living or intending to live abroad. Both serve as legal identification but NICOP is designed for overseas use."
+    },
+    {
+      "question": "Can a Pakistani citizen have both NIC and NICOP?",
+      "answer": "Typically, a Pakistani citizen would have either NIC or NICOP based on their residency status. NICOP is specifically for those living or intending to live abroad, while NIC is for residents of Pakistan."
+    },
+    {
+      "question": "What is the difference between Juvenile Card and CRC?",
+      "answer": "Juvenile Card is an identity document for children under 18 with biometric data, while CRC (Child Registration Certificate) is used to register a newborn into the NADRA database and typically doesn't contain biometric information."
+    },
+    {
+      "question": "Who needs a POC instead of NICOP?",
+      "answer": "POC (Pakistan Origin Card) is for eligible foreigners with Pakistani roots who are not Pakistani citizens, while NICOP is for actual Pakistani citizens living abroad. POC helps maintain connections with Pakistan for those of Pakistani origin."
+    },
+    {
+      "question": "What is the purpose of FRC in official processes?",
+      "answer": "FRC (Family Registration Certificate) provides official family-level records for identification or verification purposes, commonly used for visa applications, legal matters, succession cases, and educational admissions where family composition proof is required."
+    },
+    {
+      "question": "When would someone need a Cancellation Certificate?",
+      "answer": "A Cancellation Certificate is needed to confirm the cancellation of a record or identity, commonly required in cases of death (to cancel a deceased person's identity), legal termination of status, or when officially discontinuing an identity record."
+    },
+    {
+      "question": "Are NADRA products available in smart card format?",
+      "answer": "Yes, NADRA offers smart card versions of identity documents, including Smart National Identity Card (SNIC), Smart NICOP, and Smart POC, which contain chip-based technology for enhanced security and functionality."
+    },
+    {
+      "question": "What smart card products does NADRA offer?",
+      "answer": "NADRA offers Smart National Identity Card (SNIC), Smart NICOP for overseas Pakistanis, and Smart POC for foreign nationals of Pakistani origin. These smart cards contain embedded chips for enhanced security and digital functionality."
+    },
+    {
+      "question": "What is the difference between regular and smart card versions?",
+      "answer": "Smart card versions contain embedded chips that store data electronically and offer enhanced security features, digital verification capabilities, and better protection against forgery compared to regular cards which are standard printed documents."
+    },
+    {
+      "question": "Can children get smart cards?",
+      "answer": "Children can get Juvenile Cards, but the availability of smart card versions for children may depend on current NADRA policies and technological implementations. Check with NADRA for current options for children's identity documents."
+    },
+    {
+      "question": "What age transitions require changing NADRA products?",
+      "answer": "The main age transition is at 18 years, when individuals must transition from child documents (CRC or Juvenile Card) to adult National Identity Card (NIC). This is a mandatory transition for Pakistani citizens reaching adulthood."
+    },
+    {
+      "question": "Do NADRA products have expiration dates?",
+      "answer": "Yes, NADRA identity products have validity periods: NIC (10 years, lifetime for 53+), NICOP (10 years), Juvenile Card (until age 18 or 10 years, whichever comes first), POC (7 years). Certificates may have different validity periods depending on their purpose."
+    },
+    {
+      "question": "Which NADRA products need regular renewal?",
+      "answer": "Identity cards like NIC, NICOP, POC, and Juvenile Card require renewal based on their validity periods. Certificates like CRC, FRC, and Succession Certificate typically don't require renewal as they serve specific purposes, though duplicates can be obtained if needed."
+    },
+    {
+      "question": "Can NADRA products be modified after issuance?",
+      "answer": "Yes, most NADRA identity products can be modified to update information like address, marital status, or correct errors. However, the types of modifications allowed and required documentation vary by product type."
+    },
+    {
+      "question": "What information is stored on NADRA identity products?",
+      "answer": "NADRA identity products typically contain personal information such as name, father's name, date of birth, CNIC number, address, photograph, and biometric data (fingerprints). The specific information varies by product type and purpose."
+    },
+    {
+      "question": "Are NADRA products accepted internationally?",
+      "answer": "NADRA products like NICOP and POC are specifically designed for international use and recognition. NIC may be accepted in some international contexts, but NICOP is the preferred document for Pakistani citizens abroad."
+    },
+    {
+      "question": "Can NADRA products be used for travel?",
+      "answer": "NICOP can be used for visa-free entry to Pakistan and serves as identity documentation abroad. However, for international travel, a passport is typically required. NADRA identity documents support passport applications and other travel-related processes."
+    },
+    {
+      "question": "What NADRA products are required for passport applications?",
+      "answer": "For Pakistani passport applications, you typically need a valid National Identity Card (NIC) or National Identity Card for Overseas Pakistanis (NICOP) as proof of citizenship and identity."
+    },
+    {
+      "question": "Can lost NADRA products be replaced?",
+      "answer": "Yes, lost NADRA products can be replaced through duplicate issuance procedures. You need to apply for a duplicate/reprint by providing your identity information and biometric verification, along with applicable fees."
+    },
+    {
+      "question": "What is the cost difference between NADRA products?",
+      "answer": "Costs vary significantly between products and processing types. For example, new CNIC is free for normal processing, while NICOP costs vary by zone ($17-72), POC ranges from $150-300, and certificates have different fee structures. Check current fee schedules for exact amounts."
+    },
+    {
+      "question": "Which NADRA products have the highest fees?",
+      "answer": "POC (Pakistan Origin Card) typically has the highest fees among NADRA products, ranging from $150-300 depending on the service type and processing category, followed by NICOP fees which vary by geographical zone."
+    },
+    {
+      "question": "Are there any free NADRA products?",
+      "answer": "Yes, new CNIC with normal processing is free of cost. Additionally, CNIC cancellation due to death and office mistake corrections for all products are provided free of charge."
+    },
+    {
+      "question": "What documents are required to apply for each NADRA product?",
+      "answer": "Required documents vary by product: NIC requires birth certificate and family documents; NICOP needs proof of overseas residence; POC requires Pakistani origin documentation; CRC needs birth certificate; FRC requires family member documents; Succession Certificate needs death certificates and asset documents."
+    },
+    {
+      "question": "Can family members apply for NADRA products together?",
+      "answer": "Yes, family members can apply for their respective NADRA products together, and some products like FRC specifically document family relationships. However, each person needs their individual identity document based on their eligibility."
+    },
+    {
+      "question": "What biometric requirements apply to NADRA products?",
+      "answer": "Most NADRA identity products require biometric data including fingerprints and photographs. The specific biometric requirements may vary by product type and applicant age, with children having different requirements than adults."
+    },
+    {
+      "question": "Are there special NADRA products for persons with disabilities?",
+      "answer": "NADRA provides accommodations for persons with disabilities in the application process for all products, but the products themselves are generally the same. Special assistance is available during application and biometric capture processes."
+    },
+    {
+      "question": "Can NADRA products be used for banking and financial services?",
+      "answer": "Yes, NADRA identity products, particularly NIC and NICOP, are widely accepted by banks and financial institutions in Pakistan for account opening, loan applications, and various financial services as proof of identity and citizenship."
+    },
+    {
+      "question": "What NADRA products are needed for employment verification?",
+      "answer": "For employment verification, NIC or NICOP are typically required as primary identity documents. Employers may also use NADRA's verification services to confirm the authenticity of these documents."
+    },
+    {
+      "question": "Can NADRA products be digitally verified?",
+      "answer": "Yes, NADRA provides digital verification services for its products through various channels including online portals, mobile applications, and API services for institutions. This helps prevent fraud and ensures document authenticity."
+    },
+    {
+      "question": "What security features do NADRA products have?",
+      "answer": "NADRA products include various security features such as biometric data, unique identification numbers, special printing techniques, holograms, smart chip technology (for smart cards), and secure design elements to prevent counterfeiting and fraud."
+    },
+    {
+      "question": "How do I choose the right NADRA product for my needs?",
+      "answer": "Choose based on your status and needs: Pakistani citizens 18+ need NIC; children under 18 need Juvenile Card or CRC; overseas Pakistanis need NICOP; foreigners of Pakistani origin need POC; for family records get FRC; for inheritance matters get Succession Certificate."
+    },
+    {
+      "question": "Can NADRA products be transferred between family members?",
+      "answer": "No, NADRA identity products are individual documents that cannot be transferred between family members. Each person must apply for their own documents based on their individual eligibility and circumstances."
+    },
+    {
+      "question": "What happens to NADRA products when someone dies?",
+      "answer": "When someone dies, their NADRA identity document should be cancelled through a Cancellation Certificate process. Family members can apply for this cancellation and may need Succession Certificate for inheritance and legal matters."
+    },
+    {
+      "question": "Are there bulk application processes for NADRA products?",
+      "answer": "NADRA may provide bulk application facilities for organizations, educational institutions, or large families. Contact NADRA directly to inquire about bulk processing options, requirements, and potential discounts for multiple applications."
+    },
+    {
+      "question": "Can NADRA products be delivered internationally?",
+      "answer": "NADRA products for overseas applicants can often be delivered through Pakistani consulates and embassies. Specific delivery options depend on the country and local NADRA service arrangements with diplomatic missions."
+    },
+    {
+      "question": "What is the processing time for different NADRA products?",
+      "answer": "Processing times vary by product and priority level: Normal (30 days), Urgent (12 days), Executive (7 days). Some products like certain certificates may have different timelines. Complex cases may require additional processing time."
+    },
+    {
+      "question": "Can I track the status of my NADRA product application?",
+      "answer": "Yes, you can track your NADRA product application status through PAK-ID mobile app, SMS services, online tracking portals, calling helpline 1777, or visiting NADRA centers with your tracking number."
+    },
+    {
+      "question": "What quality assurance measures apply to NADRA products?",
+      "answer": "NADRA implements multiple quality assurance measures including document verification, biometric authentication, data accuracy checks, supervisor reviews, and final quality control before product issuance to ensure accuracy and security."
+    },
+    {
+      "question": "Are there mobile services available for NADRA products?",
+      "answer": "Yes, NADRA provides mobile registration services through Mobile Registration Vans (MRV) for remote areas, and mobile application services through PAK-ID app for various transactions and applications."
+    },
+    {
+      "question": "Can educational institutions verify NADRA products?",
+      "answer": "Yes, educational institutions can verify NADRA products through official verification services. This is commonly done for admissions, student records, and educational document authentication processes."
+    },
+    {
+      "question": "What backup procedures exist if NADRA products are damaged?",
+      "answer": "If NADRA products are damaged, you can apply for duplicate/replacement documents by providing the damaged card, relevant identification, and paying applicable fees. The process is similar to replacing lost documents."
+    },
+    {
+      "question": "Are there seasonal considerations for NADRA product applications?",
+      "answer": "Application volumes may increase during certain seasons (like before Hajj, school admissions, or travel seasons). Plan ahead during peak periods and consider applying early to avoid delays during high-demand times."
+    },
+    {
+      "question": "Can NADRA products be used for legal proceedings?",
+      "answer": "Yes, NADRA products are legally recognized documents in Pakistan and can be used as evidence in legal proceedings for identity verification, family relationships (FRC), inheritance matters (Succession Certificate), and other legal purposes."
+    },
+    {
+      "question": "What environmental considerations apply to NADRA products?",
+      "answer": "NADRA is working towards more sustainable practices in document production. Expired or damaged cards should be disposed of securely, and digital services are increasingly available to reduce paper usage."
+    },
+    {
+      "question": "Are there different NADRA products for dual nationals?",
+      "answer": "Dual nationals typically use NICOP if they are Pakistani citizens living abroad, or POC if they are foreign nationals of Pakistani origin. The choice depends on their citizenship status and relationship to Pakistan."
+    },
+    {
+      "question": "Can NADRA products be used for property transactions?",
+      "answer": "Yes, NADRA identity products are essential for property transactions in Pakistan. NIC or NICOP serve as proof of identity, while FRC may be needed for family property matters and Succession Certificate for inheritance of property."
+    },
+    {
+      "question": "What privacy protections apply to NADRA products?",
+      "answer": "NADRA implements strict privacy protections including data encryption, restricted access to personal information, secure storage systems, and compliance with data protection regulations to safeguard personal information on all products."
+    },
+    {
+      "question": "Are there emergency procedures for urgent NADRA product needs?",
+      "answer": "For urgent needs, NADRA offers Executive processing (7 days) as the fastest standard option. In exceptional emergencies, contact NADRA directly to discuss special procedures, though these require additional approval and documentation."
+    },
+    {
+      "question": "Can NADRA products be integrated with other government services?",
+      "answer": "Yes, NADRA products are widely integrated with other government services including passport offices, voter registration, social welfare programs, tax systems, and various online government services for seamless citizen service delivery."
+    },
+    {
+      "question": "What future developments are planned for NADRA products?",
+      "answer": "NADRA continues to evolve its products with new technology, enhanced security features, digital integration, and improved user experience. Check NADRA's official announcements for information about upcoming product enhancements and new services."
+    },
+    {
+      "question": "How do I report fraud or misuse of NADRA products?",
+      "answer": "Report fraud or misuse of NADRA products by contacting NADRA security immediately at 1777, visiting the nearest NADRA center, or using official complaint channels. Provide details about the suspected fraud for investigation."
+    },
+    {
+      "question": "Can NADRA products be used for online services?",
+      "answer": "Yes, NADRA products can be used for various online services through digital verification systems, PAK-ID mobile app, e-government portals, and online banking services that integrate with NADRA's verification systems."
+    },
+    {
+      "question": "What technical requirements exist for NADRA product applications?",
+      "answer": "Technical requirements include biometric capture capability, digital photography, document scanning, and internet connectivity for online applications. NADRA centers provide all necessary technical infrastructure for applications."
+    },
+    {
+      "question": "Are there consultation services available for NADRA product selection?",
+      "answer": "Yes, NADRA provides customer service consultation through helpline 1777, center staff, and information resources to help applicants choose the right products for their needs and understand application requirements."
+    },
+    {
+      "question": "Can NADRA products be used for healthcare services?",
+      "answer": "Yes, NADRA identity products are used for healthcare service registration, medical insurance enrollment, hospital admissions, and accessing various health programs where identity verification is required."
+    },
+    {
+      "question": "What accessibility features are available for NADRA products?",
+      "answer": "NADRA provides accessibility features including assistance for visually impaired applicants, wheelchair accessibility at centers, special assistance for elderly applicants, and accommodations for various disabilities during the application process."
+    },
+    {
+      "question": "Can NADRA products be replaced if policies change?",
+      "answer": "When NADRA policies change significantly, existing products typically remain valid until their expiration date. However, major system changes may require updating to new versions during renewal or modification processes."
+    },
+    {
+      "question": "What customer feedback mechanisms exist for NADRA products?",
+      "answer": "Customer feedback can be provided through NADRA's complaint portal, helpline 1777, feedback forms at centers, social media channels, and email services. NADRA uses this feedback to improve products and services."
+    },
+    {
+      "question": "Are there training programs for understanding NADRA products?",
+      "answer": "NADRA provides information sessions, online resources, user guides, and training for institutional users. Educational materials are available to help citizens understand product features, application processes, and proper usage."
+    },
+    {
+      "question": "Can NADRA products be used for international education verification?",
+      "answer": "Yes, NADRA products serve as official identity documents for international education applications, student visa processes, and educational credential verification when Pakistani students apply to foreign institutions."
+    },
+    {
+      "question": "What research and development activities improve NADRA products?",
+      "answer": "NADRA continuously invests in research and development to enhance product security, introduce new technologies, improve user experience, and adapt to changing international standards and technological advancements."
+    },
+    {
+      "question": "Are there corporate services available for NADRA product verification?",
+      "answer": "Yes, NADRA offers corporate services including bulk verification, API access for businesses, institutional verification services, and specialized solutions for organizations requiring regular NADRA product authentication."
+    },
+    {
+      "question": "Can NADRA products be used for social welfare program enrollment?",
+      "answer": "Yes, NADRA identity products are essential for enrolling in social welfare programs like BISP (Benazir Income Support Program), health insurance schemes, and other government social services that require identity verification."
+    },
+    {
+      "question": "What coordination exists between NADRA products and other identity systems?",
+      "answer": "NADRA coordinates with various systems including passport offices, election commission databases, tax authorities, and international identity systems to ensure seamless integration and data consistency across government services."
     }
   ]
 }
