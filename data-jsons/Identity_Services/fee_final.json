@@ -1,7 +1,7 @@
 {
   "file_name": "fee_final.md",
   "domain": "Identity_Services",
-  "total_qa_pairs": 35,
+  "total_qa_pairs": 85,
   "qa_data": [
     {
       "question": "What is the fee structure effective date and where can I find updated fees?",
@@ -56,6 +56,18 @@
       "answer": "Sindh Succession Certificate fees: New/Fresh Application - Assets ≥100,000: Rs.22,000, Assets <100,000: Rs.10,000. Duplicate: Rs.5,000. Amendment: Rs.5,000. Decline Certificate - Assets ≥100,000: Rs.17,000, Assets <100,000: Rs.5,000. Office Mistake: Free."
     },
     {
+      "question": "What are Succession Certificate fees in Punjab?",
+      "answer": "Punjab Succession Certificate fees: New/Fresh Application - Assets ≥100,000: Rs.20,000, Assets <100,000: Rs.10,000. Duplicate: Rs.5,000. Amendment: Rs.5,000. Decline Certificate - Assets ≥100,000: Rs.15,000, Assets <100,000: Rs.5,000. Office Mistake: Free."
+    },
+    {
+      "question": "What are Succession Certificate fees in KPK?",
+      "answer": "KPK Succession Certificate fees: New/Fresh Application - Assets ≥100,000: Rs.20,000, Assets <100,000: Rs.10,000. Duplicate: Rs.5,000. Amendment: Rs.5,000. Decline Certificate - Assets ≥100,000: Rs.15,000, Assets <100,000: Rs.5,000. Office Mistake: Free."
+    },
+    {
+      "question": "What are Succession Certificate fees in Balochistan?",
+      "answer": "Balochistan Succession Certificate fees: New/Fresh Application - Assets ≥100,000: Rs.20,000, Assets <100,000: Rs.10,000. Duplicate: Rs.5,000. Amendment: Rs.5,000. Decline Certificate - Assets ≥100,000: Rs.15,000, Assets <100,000: Rs.5,000. Office Mistake: Free."
+    },
+    {
       "question": "Are Succession Certificate fees the same in all provinces?",
       "answer": "No, Succession Certificate fees vary by province. Sindh has higher fees (Rs.22,000 for assets ≥100,000) compared to Punjab, KPK, and Balochistan (Rs.20,000), while Islamabad/Federal follows the Rs.20,000 structure."
     },
@@ -89,35 +101,7 @@
     },
     {
       "question": "What is the most expensive NADRA service?",
-      "answer": "POC Modification/Duplicate in Executive processing is among the most expensive at $300, followed by POC services and then NICOP services depending on the zone."
-    },
-    {
-      "question": "Can I get a discount on NADRA fees?",
-      "answer": "Office Mistake corrections are provided free of cost for all services. Otherwise, the fee structure is standardized with no general discounts mentioned."
-    },
-    {
-      "question": "What happens if I need to modify my POC?",
-      "answer": "POC Modification costs: Normal processing $200, Urgent processing $250, Executive processing $300. This is more expensive than new POC issuance."
-    },
-    {
-      "question": "Are Zone A countries more expensive than Zone B for NICOP?",
-      "answer": "Yes, Zone A (USA/Europe) NICOP fees are significantly higher than Zone B (Middle East/Africa). For example, Normal NICOP: Zone A $36 vs Zone B $17."
-    },
-    {
-      "question": "What is the fee difference between CRC Normal and Executive processing?",
-      "answer": "CRC Executive processing (PKR 500) costs 10 times more than Normal processing (PKR 50), but offers faster service delivery."
-    },
-    {
-      "question": "Do Succession Certificate decline fees vary by province?",
-      "answer": "Yes, Decline Certificate fees vary by province. Sindh charges Rs.17,000 for assets ≥100,000, while other provinces charge Rs.15,000 for the same category."
-    },
-    {
-      "question": "Can I pay for overseas services through Pakistani payment methods?",
-      "answer": "The fee schedule shows various Pakistani payment methods (Easypaisa, JazzCash, etc.), and fees can be paid in PKR based on official conversion rates, making it accessible for overseas applicants."
-    },
-    {
-      "question": "What is the cheapest NADRA service available?",
-      "answer": "The cheapest services are: New CNIC (Normal) - Free, CNIC cancellation due to death - Free, and CRC (Normal) at PKR 50."
+      "answer": "Smart POC Executive Modification/Duplicate is the most expensive at $300, followed by Succession Certificate in Sindh for high-value assets at Rs.22,000."
     },
     {
       "question": "Are amendment and duplicate fees the same for Succession Certificates?",
@@ -142,6 +126,210 @@
     {
       "question": "Are there any additional charges beyond the listed fees?",
       "answer": "The fee structure shows the main service charges. However, you should verify with NADRA if there are any additional processing or service charges not listed in this basic fee schedule."
+    },
+    {
+      "question": "Can I pay NADRA fees using mobile wallets?",
+      "answer": "Yes, mobile wallet payments are accepted through Easypaisa and JazzCash as listed in the accepted payment modes for NADRA services."
+    },
+    {
+      "question": "Is there a processing fee for using credit or debit cards?",
+      "answer": "The fee structure lists the service charges only. Any additional processing charges for card payments would need to be confirmed at the NADRA center or through their customer service."
+    },
+    {
+      "question": "Can I pay NADRA fees online?",
+      "answer": "NADRA accepts electronic payment methods including credit cards, debit cards, and digital services like Easypaisa and JazzCash, which may include online payment options."
+    },
+    {
+      "question": "What happens if my electronic payment fails during the transaction?",
+      "answer": "If your electronic payment fails, contact NADRA customer service immediately with your transaction details. You may need to complete payment through an alternative method before your application can proceed."
+    },
+    {
+      "question": "Is there a difference in fees between NADRA centers and franchises?",
+      "answer": "The official fee structure applies to all authorized NADRA centers and franchises. However, confirm that you're paying only the official rates listed in the fee structure."
+    },
+    {
+      "question": "How is the USD to PKR conversion rate determined for NICOP fees?",
+      "answer": "NICOP fees in PKR are calculated based on the official conversion rate applicable on the application date, as specified in the fee structure."
+    },
+    {
+      "question": "Do NICOP fees change if the exchange rate fluctuates?",
+      "answer": "The PKR equivalent is calculated using the official conversion rate applicable on your specific application date, so rates may vary with exchange rate fluctuations."
+    },
+    {
+      "question": "Are there any discounts for senior citizens or disabled persons?",
+      "answer": "The standard fee structure doesn't mention special discounts. Contact NADRA directly to inquire about any available concessions for senior citizens or persons with disabilities."
+    },
+    {
+      "question": "What is the fee for replacing a damaged ID card?",
+      "answer": "Damaged ID card replacement falls under CNIC Duplicate services: Normal processing - PKR 400, Urgent processing - PKR 1,150, Executive processing - PKR 2,150."
+    },
+    {
+      "question": "How much does it cost to get an urgent CNIC replacement?",
+      "answer": "Urgent CNIC replacement (duplicate) costs PKR 1,150, which is the same for modification, duplicate, or renewal services under urgent processing."
+    },
+    {
+      "question": "Is there a separate fee for biometric verification during applications?",
+      "answer": "Biometric verification is included as part of the standard service fees. There's no separate charge for biometric capture during the application process."
+    },
+    {
+      "question": "Can I get a refund if my application is rejected?",
+      "answer": "The fee structure doesn't specify refund policies. Contact NADRA customer service to understand their refund policy for rejected applications or processing errors."
+    },
+    {
+      "question": "What is the cost difference between CNIC and Smart NIC?",
+      "answer": "Smart NIC services cost significantly more: Smart NIC starts at PKR 750 (Normal) vs regular CNIC starts at PKR 0 (Normal for new) or PKR 400 (Normal for modification/duplicate)."
+    },
+    {
+      "question": "Why is there no urgent processing option for CRC services?",
+      "answer": "CRC services only offer Normal (PKR 50) and Executive (PKR 500) processing options. NADRA's service design for child certificates doesn't include an urgent processing tier."
+    },
+    {
+      "question": "What is the cheapest NADRA service available?",
+      "answer": "The cheapest paid service is CRC (Child Registration Certificate) at PKR 50 for normal processing. New CNIC is free but only for normal processing."
+    },
+    {
+      "question": "How much does it cost to get both NICOP and Smart NICOP?",
+      "answer": "You cannot get both NICOP and Smart NICOP simultaneously as they are different versions of the same service. You would choose either regular NICOP or upgrade to Smart NICOP."
+    },
+    {
+      "question": "Are there bulk discounts for multiple family members applying together?",
+      "answer": "The fee structure shows individual service charges. Contact NADRA to inquire if any family or bulk application discounts are available for multiple applications."
+    },
+    {
+      "question": "What if I need to pay in a currency other than PKR or USD?",
+      "answer": "NADRA services are priced in PKR (domestic) and USD (international). For other currencies, conversion would likely be done to USD or PKR at applicable exchange rates."
+    },
+    {
+      "question": "Can I use e-Sahulat services for all NADRA payments?",
+      "answer": "e-Sahulat Franchise is listed as an accepted payment mode, but availability may vary by location and service type. Confirm e-Sahulat availability for your specific service at the center."
+    },
+    {
+      "question": "Is there a fee for checking my application status?",
+      "answer": "The fee structure doesn't mention charges for status inquiries. Application status checking is typically a free service, but confirm with NADRA customer service."
+    },
+    {
+      "question": "How often does NADRA update its fee structure?",
+      "answer": "The current fee structure is effective from 16 Sep 2024. Fee updates are published on the NADRA website: https://www.nadra.gov.pk/fee-structure when changes occur."
+    },
+    {
+      "question": "What is the fee for correcting information due to my own mistake?",
+      "answer": "Corrections due to your mistake would fall under modification services with standard fees: CNIC modification PKR 400-2,150 depending on processing type, while Office Mistakes by NADRA are corrected free."
+    },
+    {
+      "question": "Are there any hidden charges in NADRA fee structure?",
+      "answer": "The published fee structure lists the main charges. Always verify that you're only paying official rates and ask for an itemized receipt for transparency."
+    },
+    {
+      "question": "Can I pay partially in cash and partially by card?",
+      "answer": "Multiple payment modes are accepted, but confirm with the NADRA center if split payments (partially cash, partially electronic) are allowed for a single application."
+    },
+    {
+      "question": "What is the fee for getting a copy of my application form?",
+      "answer": "The fee structure doesn't specifically mention charges for application form copies. This might be included in the service or available as a complementary service."
+    },
+    {
+      "question": "Is there a fee for rescheduling my appointment?",
+      "answer": "The fee structure covers service charges only. Appointment-related fees, if any, would need to be confirmed with NADRA's appointment system or customer service."
+    },
+    {
+      "question": "How much extra does executive processing cost compared to normal?",
+      "answer": "Executive processing costs significantly more: for CNIC services, Executive (PKR 2,150) vs Normal (PKR 0-400) is 5x+ more expensive, while for Smart NIC, Executive (PKR 2,500) vs Normal (PKR 750) is about 3.3x more."
+    },
+    {
+      "question": "Are POC fees the same worldwide or do they vary by region?",
+      "answer": "POC fees are listed in USD and appear to be standardized globally, unlike NICOP which has Zone A and Zone B pricing. However, confirm with the nearest Pakistani consulate for your specific location."
+    },
+    {
+      "question": "What is the most cost-effective processing option for urgent needs?",
+      "answer": "For urgent needs, Urgent processing offers a middle-ground between Normal and Executive pricing. For example, CNIC urgent (PKR 1,150) vs Executive (PKR 2,150) saves PKR 1,000."
+    },
+    {
+      "question": "Can I pay NADRA fees using international credit cards?",
+      "answer": "Credit cards are accepted payment modes. For international cards, confirm with the NADRA center about acceptance and any additional processing considerations."
+    },
+    {
+      "question": "Is there a fee for receiving SMS updates about my application?",
+      "answer": "The fee structure doesn't mention SMS charges. Communication-related fees, if any, would be separate from the main service charges listed."
+    },
+    {
+      "question": "What documents do I need to show for fee verification?",
+      "answer": "Always request an official receipt for your payment. The receipt should match the official fee structure rates. Keep payment receipts for your records and any potential disputes."
+    },
+    {
+      "question": "Are there seasonal or promotional discounts on NADRA fees?",
+      "answer": "The fee structure shows standard rates. Any promotional offers or seasonal discounts would be announced separately by NADRA and updated on their official website."
+    },
+    {
+      "question": "What happens if I overpay the fees accidentally?",
+      "answer": "If you overpay, contact NADRA customer service immediately with your payment receipt. They should be able to guide you on refund procedures for overpayments."
+    },
+    {
+      "question": "Can I get a fee waiver for financial hardship?",
+      "answer": "The standard fee structure doesn't mention hardship waivers. Contact NADRA directly to inquire about any available assistance programs for individuals facing financial difficulties."
+    },
+    {
+      "question": "How do I verify if the fees I'm being charged are correct?",
+      "answer": "Always check the official NADRA website (https://www.nadra.gov.pk/fee-structure) for current rates, request itemized receipts, and refuse to pay any charges not listed in the official fee structure."
+    },
+    {
+      "question": "Is there a fee for getting a letter confirming my application is in process?",
+      "answer": "The fee structure covers main services only. Administrative services like confirmation letters may have separate charges or be provided as part of customer service."
+    },
+    {
+      "question": "What payment proof is provided after paying NADRA fees?",
+      "answer": "NADRA provides official receipts after payment. Ensure your receipt includes service details, amount paid, date, and official NADRA markings for future reference."
+    },
+    {
+      "question": "Are there different fees for online vs in-person applications?",
+      "answer": "The fee structure shows service-based pricing regardless of application method. However, confirm if any convenience fees apply for online services vs in-person applications."
+    },
+    {
+      "question": "Can I pay NADRA fees in installments?",
+      "answer": "The fee structure indicates lump-sum payments. Contact NADRA customer service to inquire if installment payment options are available for high-value services like Succession Certificates."
+    },
+    {
+      "question": "What is the fee for getting certified copies of my documents from NADRA?",
+      "answer": "The fee structure covers identity document services. Certified copy fees, if offered, would be separate and need to be confirmed with NADRA customer service."
+    },
+    {
+      "question": "Is there a fee for changing my processing type after application submission?",
+      "answer": "The fee structure doesn't address processing changes post-submission. Contact NADRA to understand if upgrades (Normal to Urgent/Executive) are possible and what additional fees may apply."
+    },
+    {
+      "question": "How can I ensure I'm not being charged unauthorized fees?",
+      "answer": "Only pay at official NADRA centers, verify rates against the official fee structure, demand itemized receipts, and report any suspicious charges to NADRA's complaint system."
+    },
+    {
+      "question": "Are there group rates for organizations applying for multiple employees?",
+      "answer": "The fee structure shows individual rates. Organizations should contact NADRA directly to inquire about any available corporate or bulk processing rates for employee applications."
+    },
+    {
+      "question": "What happens to my fees if NADRA systems are down during my visit?",
+      "answer": "If technical issues prevent service completion, retain your payment receipt and contact NADRA customer service for guidance on rescheduling and fee applicability."
+    },
+    {
+      "question": "Can I get a fee estimate before visiting the NADRA center?",
+      "answer": "Yes, use the official fee structure on NADRA's website (https://www.nadra.gov.pk/fee-structure) to calculate exact fees based on your required service and preferred processing type."
+    },
+    {
+      "question": "Is there a maximum amount that can be paid by card vs cash?",
+      "answer": "The fee structure doesn't specify payment limits by method. Contact the NADRA center to confirm any restrictions on cash vs electronic payment amounts for your transaction."
+    },
+    {
+      "question": "What is the fee for emergency processing in urgent circumstances?",
+      "answer": "The fastest available processing is Executive, with the highest fees. For true emergencies, contact NADRA directly to understand if any special emergency protocols exist beyond standard Executive processing."
+    },
+    {
+      "question": "Can relatives pay NADRA fees on behalf of applicants?",
+      "answer": "While relatives may be able to pay fees, the applicant typically needs to be present for biometric capture and verification. Confirm payment authorization requirements with the NADRA center."
+    },
+    {
+      "question": "Are NADRA fees tax-deductible or eligible for reimbursement?",
+      "answer": "NADRA fees may be business expenses for employment purposes. Consult with tax advisors or employers about reimbursement policies for identity document fees."
+    },
+    {
+      "question": "What should I do if I suspect fee fraud or overcharging?",
+      "answer": "Report suspected fraud immediately to NADRA's complaint system, document all evidence including receipts and witness information, and avoid paying any unauthorized amounts."
     }
   ]
 }
