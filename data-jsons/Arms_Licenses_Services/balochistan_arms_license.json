@@ -1,0 +1,211 @@
+{
+  "file_name": "balochistan_arms_liscense.md",
+  "domain": "Arms_Licenses_Services",
+  "total_qa_pairs": 50,
+  "qa_data": [
+    {
+      "question": "What are the Balochistan Arms Rules 2022?",
+      "answer": "The Balochistan Arms Rules 2022 are provincial rules made under the Balochistan Arms Act 2022, notified by the Government of Balochistan Home and Tribal Affairs Department. These rules govern personal arms licenses, institutional arms licenses, and business arms licenses within Balochistan province."
+    },
+    {
+      "question": "Who can apply for personal arms license in Balochistan?",
+      "answer": "A personal arms license may be issued to a Balochistan domiciled person for protection or sports purposes, subject to fulfilling eligibility criteria including: Pakistani citizenship, valid CNIC, Balochistan domicile, minimum age 25 years, suitable character as per police report, not fugitive from law, no serious criminal convictions, not member of proscribed organization, and physically/mentally fit."
+    },
+    {
+      "question": "What documents are required for Balochistan personal arms license application?",
+      "answer": "Required documents include: CNIC photocopy, domicile/local certificate photocopy, medical fitness certificate from registered medical practitioner (original), and any other documents specified by the Department. Application must be submitted on Form-I to Department or Deputy Commissioner."
+    },
+    {
+      "question": "What is the procedure for determining suitability for Balochistan arms license?",
+      "answer": "The Department or DC (after Home Department approval) determines suitability by: ascertaining applicant's eligibility, obtaining reports on credentials, general conduct, and criminal record from local police and other agencies if required. Upon approval, applicant must appear in person at NADRA Registration Centre for further processing."
+    },
+    {
+      "question": "Which persons are exempt from verification for Balochistan arms license?",
+      "answer": "No verification is required for: sitting members of Parliament or Provincial Assembly of Balochistan, persons in service of Pakistan or retired from such service, and serving commissioned and junior commissioned officers of Pakistan armed forces."
+    },
+    {
+      "question": "What is the arms purchase requirement after Balochistan license approval?",
+      "answer": "Within 90 days of approval, applicant must: purchase arms from registered dealer or prescribed source, apply to NRC for entry of purchased arms in license, and submit two fired test bullets to Balochistan Forensic Science Agency. Failure results in deemed withdrawal of approval. Extension possible in extraordinary circumstances."
+    },
+    {
+      "question": "How can manual Balochistan arms licenses be computerized?",
+      "answer": "Licensees may apply to NRC for revalidation/computerization after paying requisite fee within specified time limit. Licenses from other provinces may also be revalidated/computerized in Balochistan subject to Department notification terms and conditions."
+    },
+    {
+      "question": "What is the procedure for duplicate Balochistan arms license?",
+      "answer": "Deputy Commissioner may issue duplicate license for lost, destroyed, or damaged licenses upon Form-II application and prescribed fee payment. Application must include: police report (if lost) or damaged license card (if damaged)."
+    },
+    {
+      "question": "What are institutional arms licenses in Balochistan?",
+      "answer": "Institutional arms licenses may be issued to institutions (educational, business, worship places, hospitals, security companies) subject to eligibility criteria. Institution must be lawfully registered, registered in or carrying substantial operations in Balochistan, no previous cancellation, and key personnel with clean records."
+    },
+    {
+      "question": "What documents are needed for Balochistan institutional arms license?",
+      "answer": "Required documents include: CNIC of applicant, authorization letter from institution head (if through agent), registration certificate/license, details of owners/partners/directors/employees, details of persons likely to carry arms, and any other documents specified by Department. Application on Form-III."
+    },
+    {
+      "question": "What is the monthly license quota system in Balochistan?",
+      "answer": "Department may specify maximum number of personal arms licenses a DC may approve per calendar month by notification. Department-sanctioned licenses don't count toward DC quota. No limit applies to institutional licenses if issued after fulfilling conditions and ascertaining genuine need."
+    },
+    {
+      "question": "What are the limits on personal arms licenses in Balochistan?",
+      "answer": "A person cannot obtain or retain more than five personal arms licenses at a given time. Department may increase this for hunters, shooters, or sportsmen upon written request with substantial proof. Pre-existing licenses (before rule enforcement) are not affected by this limit."
+    },
+    {
+      "question": "What are the cartridge limits for Balochistan arms licenses?",
+      "answer": "Licensees cannot carry cartridges/bullets exceeding the number endorsed on license. New licenses issued with minimum 50 bullets, maximum 500 bullets (subject to Department approval and prescribed fee). Department may increase limit for hunting, shooting, or sports activities upon written request with substantial proof."
+    },
+    {
+      "question": "What are gratis arms licenses in Balochistan?",
+      "answer": "No Department fee charged for personal arms licenses issued to persons in service of Pakistan (BPS-17 or above) or Pakistan armed forces members. No yearly renewal fee if renewed within stipulated time. NADRA processing fee and fines/penalties still apply. Maximum two gratis licenses per eligible person."
+    },
+    {
+      "question": "What are the gratis license entitlements for armed forces personnel in Balochistan?",
+      "answer": "General Officers: all arms gifted on retirement. Retired Commissioned Officers: 2 pistols/revolvers. JCOs/NCOs (retired): 1 rifle/shotgun. Serving personnel: 1 pistol/revolver/rifle/shotgun as per Army Regulations Instructions 2000."
+    },
+    {
+      "question": "Can Balochistan arms licenses be transferred?",
+      "answer": "Personal arms licenses are generally non-transferable but may be transferred in case of death or compelling circumstances (ill-health, old age). Transfer requires application on prescribed form, eligibility verification of transferee, police reports, and prescribed fee payment."
+    },
+    {
+      "question": "What is the transfer procedure for inherited Balochistan arms licenses?",
+      "answer": "Transfer to legal heir requires: application within one year of death, death certificate, succession certificate, legal heirs' affidavit, transferee's CNIC/domicile/fitness certificate, and prescribed fee. After one year, application not considered and license deemed suspended."
+    },
+    {
+      "question": "What are retainership permissions in Balochistan?",
+      "answer": "Retainership applications on Form-I to Department/DC. Maximum one retainer per license. Proposed retainer must meet eligibility criteria per rule 4. Licensee and proposed retainer must appear before DC/NRC for processing with prescribed fee. Licensee may terminate retainership anytime."
+    },
+    {
+      "question": "What are the responsibilities for institutional arms usage in Balochistan?",
+      "answer": "Institutions must ensure arms used only for authorized purposes/premises, given to trained security-cleared guards registered with local police, maintain proper registers of issuance/receipt with guard details, CNIC numbers, arms numbers, duty times/places. Registers open to law enforcement inspection."
+    },
+    {
+      "question": "Under what circumstances can Balochistan arms licenses be suspended?",
+      "answer": "Licenses may be suspended if: licensee fails to comply with license conditions, arms used for unlawful purposes, licensee involved in activities against public safety/order, or violations of Act/rules. Requires reasonable opportunity for hearing except in extraordinary circumstances."
+    },
+    {
+      "question": "How can suspended Balochistan arms licenses be restored?",
+      "answer": "DC may restore suspended license if licensee proves suspension based on misinformation or removes objection leading to suspension. Restoration is not a right and may be denied on reasonable grounds. Arms deposited in DC office strong room during suspension."
+    },
+    {
+      "question": "When can Balochistan arms licenses be cancelled?",
+      "answer": "Licenses may be cancelled if: licensee fails to remove objections after hearing, repetition of suspension-causing acts, failure to renew for three consecutive years, arms used for criminal offenses, or violation of Act/rules/license terms/Department instructions. Requires hearing except in extraordinary circumstances."
+    },
+    {
+      "question": "What happens to arms when Balochistan licenses are cancelled?",
+      "answer": "Cancellation fact communicated to NADRA and local police for record/confiscation. Arms deposited in strong room in prescribed manner. Licensee or legal heir may apply for voluntary cancellation. Arms must be deposited in strong room or with registered dealer with receipt attached to application."
+    },
+    {
+      "question": "What appeal rights exist for Balochistan arms license decisions?",
+      "answer": "Aggrieved persons may make representation to Department within 30 days of order, whose decision is final. This covers all orders passed under the rules including suspension, cancellation, and other decisions."
+    },
+    {
+      "question": "How are arms disposed of in Balochistan?",
+      "answer": "DC establishes/maintains district strong room for illegal arms, confiscated arms, or those returned after cancellation. Stock register maintained with arm details, make, model, identification number, receipt date/mode, photographs. Open public auction conducted at least yearly with transaction register."
+    },
+    {
+      "question": "What software systems support Balochistan arms license management?",
+      "answer": "NADRA develops and deploys software in each DC office for recording strong room details and auction transactions. In absence of strong rooms, arms may be temporarily deposited in police stations or district Malkhana."
+    },
+    {
+      "question": "Who can apply for business arms licenses in Balochistan?",
+      "answer": "Business arms licenses issued to Balochistan domiciled persons or legal entities for manufacturing, repair, sale, or storage of arms/ammunition/military stores. Must meet eligibility criteria including: Pakistani citizenship, valid CNIC, Balochistan domicile, age 30+, reasonable financial means, suitable character, no serious convictions."
+    },
+    {
+      "question": "What are the eligibility criteria for Balochistan business arms license for legal entities?",
+      "answer": "Legal entities must be: lawfully registered, registered in Balochistan, owners/partners/directors/employees don't possess same category license, no previous cancellation (except voluntary), no convictions for owners/partners, no proscribed organization relations, reasonable financial means and suitable space."
+    },
+    {
+      "question": "What documents are required for Balochistan business arms license application?",
+      "answer": "Application on Form-IV with certified copies including: applicant's CNIC, domicile/local certificate, authorization letter (if through agent), registration certificate/license, owners/partners/directors/employees details, proposed staff details, financial statements, proof of suitable space, ownership/lease documents, and other Department-specified documents."
+    },
+    {
+      "question": "How is suitability determined for Balochistan business arms license?",
+      "answer": "Department assesses reports from: DIG Special Branch/Counter Terrorism/District Police (credentials/conduct/record), DC (general suitability/financial standing/sales volume/business place), Civil Defence Officer (safety aspects). Upon approval, applicant and proposed staff appear at NRC for processing."
+    },
+    {
+      "question": "What are the quota restrictions for Balochistan business arms licenses?",
+      "answer": "Business licenses issued only if total licenses in district (including new one) don't exceed Department-fixed permissible number. Permissible numbers notified from time to time. Licensees may sell/keep arms/ammunition as authorized under license."
+    },
+    {
+      "question": "How can Balochistan business arms license quota be enhanced?",
+      "answer": "Licensees may apply to Department through concerned DC for quota enhancement. Department may enhance quota subject to prescribed fee after ascertaining: genuineness of demand, licensee suitability, and DC recommendation."
+    },
+    {
+      "question": "Can Balochistan business arms licenses be transferred?",
+      "answer": "Business arms licenses are non-transferable. However, Department may transfer in case of licensee death, incapacitation due to ill-health/old age, or compelling circumstances to legal heirs following prescribed procedures in rules 45 and 46."
+    },
+    {
+      "question": "What is the transfer procedure for inherited Balochistan business licenses?",
+      "answer": "Transfer to legal heir requires: application within one year of death on Form-V, license copy, death certificate, succession certificate, legal heirs' affidavit, transferee's CNIC/domicile/fitness certificate, prescribed fee. After one year, license deemed suspended and business becomes illegal."
+    },
+    {
+      "question": "What storage requirements exist for Balochistan business arms licenses?",
+      "answer": "Licensees must store arms/ammunition/military stores at Department-approved property only. Arms/ammunition recovered from non-approved property deemed illegal regardless of status. Transportation requires business license with prescribed fee and Department terms/conditions."
+    },
+    {
+      "question": "What record-keeping requirements apply to Balochistan business licenses?",
+      "answer": "Business license holders must maintain stock register and transaction records including purchaser details (name, parentage, CNIC, address, license number, purchase date). Must verify original CNIC and license before sales. May require software/management information system deployment at own cost."
+    },
+    {
+      "question": "What inspection rights exist for Balochistan business establishments?",
+      "answer": "Records open to law enforcement inspection with Department/DC prior permission (dispensable in extraordinary circumstances). Department/DC conducts annual inspections through committees (DC, DPO, Civil Defence representatives, minimum BPS-16) to examine premises, stock registers, authorized personnel, safety compliance."
+    },
+    {
+      "question": "What safety measures are required for Balochistan business establishments?",
+      "answer": "Manufacturing facilities and business establishments must implement minimum safety measures to minimize danger to persons on or near premises as notified by Department. Inspections verify safety precautions and instruction compliance."
+    },
+    {
+      "question": "What are the renewal periods for Balochistan arms licenses?",
+      "answer": "Arms licenses remain valid till December 31st of issue/renewal year unless cancelled or renewed. May be renewed for minimum 1 year, maximum 5 years at licensee discretion. Maximum 10 years for licensees aged 60+. Pre-rule licenses valid for original duration."
+    },
+    {
+      "question": "What is the grace period for Balochistan arms license renewal?",
+      "answer": "Licenses may be renewed within 3 calendar months of expiry (grace period) without penalty/late fee. After grace period: penalty equivalent to 1-year renewal fee plus due renewal fee. After 1 year: late fee twice the renewal fee per year plus due renewal fee."
+    },
+    {
+      "question": "When are Balochistan arms licenses deemed suspended or cancelled?",
+      "answer": "License deemed suspended if not renewed within specified periods. If suspended/not renewed for 3 consecutive years (personal/institutional) or 2 years (business), license deemed cancelled, entered in NADRA database, and authorities notified for arms confiscation unless Department decides otherwise upon application with penalty payment."
+    },
+    {
+      "question": "What penalty waiver powers exist in Balochistan arms licensing?",
+      "answer": "Department retains power to condone delay and waive penalty (completely or partially) upon licensee application where license not renewed for any length of time for cogent reasons to be recorded in writing."
+    },
+    {
+      "question": "How are prohibited and non-prohibited arms categorized in Balochistan?",
+      "answer": "Department may categorize and declare arms as prohibited and non-prohibited by notification in official Gazette. This determines the type of license required and associated fees/requirements."
+    },
+    {
+      "question": "What format do Balochistan arms licenses take?",
+      "answer": "NADRA issues every license in automated smart card form or any other format deemed appropriate by Department. NADRA maintains central database of all licenses in different categories in updated form per Department instructions."
+    },
+    {
+      "question": "Who has access to Balochistan arms license database?",
+      "answer": "NADRA may give law enforcement agencies access to license database with prior Department approval. This ensures controlled access to sensitive licensing information for legitimate law enforcement purposes."
+    },
+    {
+      "question": "Can Balochistan arms licensing procedures be changed?",
+      "answer": "Department may change procedure, mode, or agency for license issuance anytime without prior intimation by notification in official gazette. Department may also issue instructions for carrying out rule purposes by official gazette notification."
+    },
+    {
+      "question": "What rules were repealed by Balochistan Arms Rules 2022?",
+      "answer": "The Arms Rules 1924 were repealed by the Balochistan Arms Rules 2022. This modernized the legal framework for arms licensing in Balochistan province."
+    },
+    {
+      "question": "What fees are charged for Balochistan arms licenses?",
+      "answer": "Department may fix and revise fees and charges for arms licenses by official gazette notification as mentioned in schedule. Fees payable in form, manner, and timeline specified by Department."
+    },
+    {
+      "question": "What transportation permissions are required for Balochistan business arms licenses?",
+      "answer": "Only business license holders eligible for arms/ammunition transportation to extent and manner permitted by license, subject to prescribed fee and Department terms/conditions. Department may issue transportation license or no objection certificate subject to prescribed fee."
+    },
+    {
+      "question": "How often must Balochistan business establishments be inspected?",
+      "answer": "Inspections carried out at least once yearly with detailed report and recommendations submitted to concerned DC within one week. DC submits annual performance report to Department for each sale/manufacturing/repair/storage unit within jurisdiction within three months after calendar year end."
+    },
+    {
+      "question": "What appeal process exists for Balochistan business arms license decisions?",
+      "answer": "Aggrieved persons may file appeal to Additional Chief Secretary Home Department Balochistan or Chief Secretary Balochistan within 30 days of order receipt, whose decision on representation is final."
+    }
+  ]
+}

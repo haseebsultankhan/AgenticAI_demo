@@ -1,0 +1,167 @@
+{
+  "file_name": "arms_license.md",
+  "domain": "Arms_Licenses_Services",
+  "total_qa_pairs": 40,
+  "qa_data": [
+    {
+      "question": "What are the Pakistan Arms Rules 2023?",
+      "answer": "The Pakistan Arms Rules 2023 are federal rules made under the Pakistan Arms Ordinance 1965, notified on 11th June 2023. These rules govern the issuance, renewal, transfer, and cancellation of arms licenses throughout Pakistan, including personal arms licenses, institutional arms licenses, and business arms licenses."
+    },
+    {
+      "question": "What is the difference between prohibited bore (PB) and non-prohibited bore (NPB) weapons?",
+      "answer": "Prohibited bore (PB) weapons are weapons notified as such by the Federal Government and typically include higher caliber firearms. Non-prohibited bore (NPB) weapons are all weapons other than prohibited bore weapons and are also notified by the Federal Government. PB licenses have higher fees and stricter requirements than NPB licenses."
+    },
+    {
+      "question": "Who can apply for personal arms licenses under federal rules?",
+      "answer": "Pakistani citizens who meet eligibility criteria can apply for personal arms licenses. The application must be made in writing to the Interior Division and requires documents including CNIC/NICOP, police character certificate, affidavit, tax return documents, and other specified documents."
+    },
+    {
+      "question": "What documents are required for personal arms license application?",
+      "answer": "Required documents include: signed application, attested CNIC/NICOP copy, original police character certificate, notarized affidavit, tax return documents from FBR (Rs. 100,000 ceiling for PB, Rs. 50,000 for NPB), active taxpayer status if applicable, weapon handling certificate (when notified), and any other documents specified by the issuing authority."
+    },
+    {
+      "question": "What are the fees for federal arms licenses?",
+      "answer": "For 5-year licenses: PB New License Rs. 28,000 (Rs. 25,000 govt + Rs. 3,000 NADRA/FBR), NPB New License Rs. 14,000 (Rs. 12,500 govt + Rs. 1,500 NADRA). Renewal fees are lower. Tax filers get 50% discount on government fees. 10-year licenses cost double the 5-year rate."
+    },
+    {
+      "question": "How long do federal arms licenses remain valid?",
+      "answer": "Personal arms licenses may be granted for up to 5 years, or up to 10 years in sensitive cases as authorized by the Minister for Interior or Secretary Interior Division. Licenses may be renewed within one month of expiry (grace period) without late fees."
+    },
+    {
+      "question": "What is the arms purchase requirement after license approval?",
+      "answer": "After license approval, the applicant must: (1) purchase arms of the approved type/category from an authorized dealer within 90 days, and (2) apply to the registrar for entry of the purchased arms in the license. Failure to do so within 6 months results in deemed withdrawal of approval."
+    },
+    {
+      "question": "What are the limits on personal arms licenses?",
+      "answer": "A person cannot obtain more than four personal arms licenses, with a maximum of two being PB (prohibited bore) licenses. Additional licenses may be granted in exceptional cases with sufficient justification and approval from the competent authority."
+    },
+    {
+      "question": "What is the cartridge limit for arms licenses?",
+      "answer": "The maximum limit is 500 cartridges or 100 bullets per license. The Secretary Interior Division or authorized Additional/Special Secretary may increase this limit upon written request with solid reasons, attested CNIC/NICOP copy, and attested license copy."
+    },
+    {
+      "question": "Can arms licenses be transferred?",
+      "answer": "Generally, arms licenses are non-transferable. However, they may be transferred in case of death of the licensee or under specific circumstances like incapacitation due to ill-health, old age, or other compelling circumstances, following prescribed procedures."
+    },
+    {
+      "question": "What happens if an arms license is lost or damaged?",
+      "answer": "A duplicate license may be issued upon application with prescribed fee, providing: police report (if lost), attested CNIC/NICOP copy, copy of lost/damaged license if available, notarized affidavit, and police report countersigned by sub-divisional police officer or the damaged license."
+    },
+    {
+      "question": "Under what circumstances can arms licenses be suspended?",
+      "answer": "Arms licenses may be suspended if: the licensee fails to comply with license conditions, arms are used for unlawful purposes, the licensee is involved in activities against public safety, or there are violations of the Arms Ordinance or rules. Suspension requires opportunity for hearing except in extraordinary circumstances."
+    },
+    {
+      "question": "When can arms licenses be cancelled?",
+      "answer": "Licenses may be cancelled if: licensee fails to remove objections after hearing, repetition of acts causing suspension, arms used for criminal offenses, contravention of Ordinance/rules/conditions, or at the licensee's own request. The process requires communication to local police for arms confiscation."
+    },
+    {
+      "question": "What are institutional arms licenses?",
+      "answer": "Institutional arms licenses are issued to eligible institutions or security companies to equip their security guards with firearms. Arms must be given to trained, security-cleared guards registered with local police, and used only for authorized purposes/premises."
+    },
+    {
+      "question": "What are business arms licenses and their categories?",
+      "answer": "Business arms licenses are issued to natural or legal persons for: (a) manufacture of arms or ammunition, (b) repair of arms, (c) sale and purchase of arms or ammunition, and (d) storage of arms and ammunition. These are granted only to eligible applicants through auction."
+    },
+    {
+      "question": "Who is exempt from standard documentation requirements?",
+      "answer": "High-ranking officials are exempt and need only CNIC/NICOP copy and covering letter from their organization: President, Prime Minister, Chairman Senate, Speaker National Assembly, Chief Justices and Judges of Supreme Court and High Courts, Governors, Chief Ministers, Federal Ministers, Assembly members, and BPS 19-22 officers."
+    },
+    {
+      "question": "What is the validity scope of different license types?",
+      "answer": "Personal PB licenses approved under federal rules are valid throughout Pakistan. NPB licenses issued by Deputy Commissioner Islamabad are valid only for Islamabad Capital Territory. Provincial NPB licenses are valid only within that province. Business licenses for PB weapons are valid throughout Pakistan."
+    },
+    {
+      "question": "Are there training requirements for license holders?",
+      "answer": "Yes, every license holder or applicant must undergo training in weapon handling and usage as specified by the Government. This training must be obtained from certified institutions, with the requirement coming into effect on a notified date."
+    },
+    {
+      "question": "What is prohibited regarding professional agents in arms licensing?",
+      "answer": "Processing of arms license cases through professional agents or intermediaries is completely prohibited. Such professional agents or intermediaries will be proceeded against under the law."
+    },
+    {
+      "question": "What appeal rights exist for arms license decisions?",
+      "answer": "Aggrieved persons may make representations: (1) to the Secretary Interior Division within 30 days for orders by subordinate officers, (2) to the Government within 30 days if declined by Secretary or for Minister's orders. These decisions are final."
+    },
+    {
+      "question": "What happens to non-computerized arms licenses?",
+      "answer": "All manual arms licenses issued by Interior Division and provincial governments that are not computerized stand cancelled, except those issued to Assembly members and BPS 19-22 federal officers. The Secretary Interior Division may authorize computerization of post-2002 license booklets."
+    },
+    {
+      "question": "What is the arms dealer management system?",
+      "answer": "When an automated system is notified by the Interior Division for buying, selling, or exchanging arms through authorized dealers, all dealers must use this system. It ensures authenticity of transactions and maintains data of licensees according to specified procedures."
+    },
+    {
+      "question": "How are firearms bureaus established and operated?",
+      "answer": "The Federal Government may direct Deputy Commissioner Islamabad to establish a firearms bureau containing unclaimed arms. Federal police forces deposit such arms there. Arms from the bureau may be sold at prescribed rates or given gratis to those entitled to gratis licenses."
+    },
+    {
+      "question": "What database requirements exist for arms licenses?",
+      "answer": "The registrar must prepare a database of all arms licenses issued. All databases must be merged into one databank hosted by the registrar. This ensures centralized record-keeping and monitoring of all arms licenses."
+    },
+    {
+      "question": "What audit requirements apply to arms licenses?",
+      "answer": "Periodic audits of all arms license cases must be conducted to ascertain that licenses were issued on valid authority and that prescribed fees including renewal and duplicate fees have been credited to the relevant government account."
+    },
+    {
+      "question": "What penalties apply for late arms purchase after license approval?",
+      "answer": "If arms are not purchased within 90 days but within 6 months of license approval, a penalty of Rs. 1,000 per month applies. After 6 months, the license approval is deemed withdrawn and the process must restart."
+    },
+    {
+      "question": "Can arms license validity periods be extended?",
+      "answer": "The Secretary Interior Division or authorized Deputy Secretary may extend the arms purchase and entry period upon submission of application, attested CNIC/NICOP copy, attested license copy, and justification for the extension."
+    },
+    {
+      "question": "What sources can be used to purchase licensed firearms?",
+      "answer": "Licensed weapons may be purchased from: Pakistan Ordinance Factory Wah Industries Limited, other authorized arms manufacturers, authorized arms dealers with valid manufacturing/selling licenses, imported NPB weapons per Import Policy Order, or obtained from federal/provincial firearms bureaus."
+    },
+    {
+      "question": "How are institutional arms licenses managed and monitored?",
+      "answer": "Institutions must maintain proper issuance/receipt systems recording guard details, CNIC numbers, arms numbers, duty times/places, and issuance/return times. Registers are open to law enforcement inspection. Guards must carry attested license copies and authority letters."
+    },
+    {
+      "question": "What special provisions exist for serving military personnel?",
+      "answer": "Applications for PB or NPB weapons for serving armed forces personnel forwarded by Defence Division under relevant military regulations may be processed by Interior Division without the standard documentation requirements listed in the rules."
+    },
+    {
+      "question": "How does the grace period work for license renewal?",
+      "answer": "Licenses may be renewed within one month of expiry (grace period) without paying late fees. After the grace period, renewal becomes more complex and may involve penalties depending on how much time has elapsed."
+    },
+    {
+      "question": "What happens to arms when licenses are cancelled or suspended?",
+      "answer": "When licenses are cancelled, arms must be deposited in the strongroom in prescribed manner or with authorized dealers. Local police are immediately informed for record purposes and potential arms confiscation as required by applicable law."
+    },
+    {
+      "question": "Can license holders apply for cancellation of their own licenses?",
+      "answer": "Yes, licensees or legal heirs of deceased licensees may apply in writing for cancellation of licenses. The competent authority will verify the application's genuineness and may require hearings with legal heirs before cancelling the license."
+    },
+    {
+      "question": "What are the consequences of arms license violations?",
+      "answer": "Violations can result in license suspension or cancellation, arms confiscation, legal proceedings under the Arms Ordinance, and potential criminal charges. The severity depends on the nature of the violation and may include permanent disqualification from future licenses."
+    },
+    {
+      "question": "How do tax filing status and exemptions affect arms license fees?",
+      "answer": "Tax filers meeting prescribed ceilings get 50% discount on government fees. Persons from tax-exempted areas (as notified by FBR) pay under the filer category. This provides financial incentives for tax compliance while ensuring broader access to legal arms ownership."
+    },
+    {
+      "question": "What rules were repealed by the Pakistan Arms Rules 2023?",
+      "answer": "The Pakistan Arms Rules 2022 were repealed by the 2023 rules. However, licenses issued under the repealed rules are deemed to have been issued under the new rules and will be extended and renewed according to the new provisions."
+    },
+    {
+      "question": "Are there provisions for inherited arms licenses?",
+      "answer": "Yes, arms licenses can be transferred to legal heirs in case of the licensee's death, subject to prescribed procedures and fees. The inheritance transfer fee is Rs. 5,500 for PB licenses and Rs. 3,250 for NPB licenses, following the same structure as duplicate licenses."
+    },
+    {
+      "question": "What registration centers are involved in arms license processing?",
+      "answer": "Registration centers established by the registrar are responsible for maintenance of records and license fees. NADRA serves as the registrar for arms license data bank maintenance, ensuring computerized and centralized record-keeping."
+    },
+    {
+      "question": "How do provincial and federal arms license jurisdictions interact?",
+      "answer": "Federal PB licenses are valid throughout Pakistan. Federal NPB licenses for Islamabad are territory-specific. Provincial NPB licenses are valid only within their respective provinces. Federal business licenses for PB weapons have Pakistan-wide validity, while NPB business licenses are limited to Islamabad Capital Territory."
+    },
+    {
+      "question": "What constitutes compelling circumstances for license transfer?",
+      "answer": "Compelling circumstances that may justify arms license transfer include death of licensee, incapacitation due to ill-health or old age, or other extraordinary situations that prevent the original licensee from maintaining the license. Each case is evaluated individually by the competent authority."
+    }
+  ]
+}

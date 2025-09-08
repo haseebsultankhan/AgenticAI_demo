@@ -1,0 +1,211 @@
+{
+  "file_name": "punjab_arms_liscense.md",
+  "domain": "Arms_Licenses_Services",
+  "total_qa_pairs": 50,
+  "qa_data": [
+    {
+      "question": "What are the Punjab Arms Rules 2023?",
+      "answer": "The Punjab Arms Rules 2023 are provincial rules made under the Punjab Arms Ordinance 1965, notified on October 24, 2023. These rules govern non-prohibited bore (NPB) weapons including personal arms licenses, institutional/security company licenses, and business arms licenses within Punjab province."
+    },
+    {
+      "question": "Who can apply for personal arms license in Punjab?",
+      "answer": "A personal arms license (NPB) may be issued to Pakistani citizens domiciled in Punjab for protection or sports purposes. Eligibility criteria include: valid CNIC/NICOP/POC, Punjab domicile, minimum age 20 years, active taxpayer status, no criminal record, not fugitive from law, not member of proscribed organization, physically/mentally fit with medical certificate, and submission of affidavit."
+    },
+    {
+      "question": "What is the application process for Punjab personal arms license?",
+      "answer": "Applicant applies online on Form-I through NADRA Registration Centre with prescribed fee payment. Authorized officer determines suitability and eligibility, approves license online. Demand note generated for 90 days for weapon purchase. License delivered to given address (if delivery available) or collected from NRC. License destroyed if not collected within one year."
+    },
+    {
+      "question": "What are the weapon purchase requirements in Punjab after license approval?",
+      "answer": "Within 90 days of approval, applicant must: purchase arms from licensed Punjab dealer (displayed on Home Department web-portal), upload online for weapon entry against license, and submit two fired test bullets to Punjab Forensic Science Agency as per notified procedure."
+    },
+    {
+      "question": "How can duplicate Punjab arms license be obtained?",
+      "answer": "Authorized officer may issue duplicate license for lost, destroyed, or damaged licenses upon online application on Form-I with prescribed fee. Application must include: police report (if lost), damaged license card (if damaged), or affidavit on oath."
+    },
+    {
+      "question": "What are institutional or security company arms licenses in Punjab?",
+      "answer": "Arms licenses (NPB) may be issued to institutions or security companies registered under law, subject to eligibility criteria. Institution must be lawfully registered, registered in or operating substantially in Punjab, no previous cancellation, key personnel with clean records, and clearance from District Intelligence Committee."
+    },
+    {
+      "question": "What documents are required for Punjab institutional arms license application?",
+      "answer": "Application on Form-III with: CNIC of applicant, authorization letter from institution head (if through agent), registration certificate/license, details of owners/partners/directors/employees, details of persons likely to carry arms under license authority."
+    },
+    {
+      "question": "What are the license limits in Punjab?",
+      "answer": "Personal arms licenses: maximum 5 per person (pre-rule licenses unaffected). Monthly district quota may be specified by Home Department notification. Cartridges: minimum 50 bullets per new license, maximum 500 bullets per license. Previous sanctions above 500 bullets cancelled and treated as 500 only."
+    },
+    {
+      "question": "What are gratis arms licenses in Punjab?",
+      "answer": "Persons in service of Pakistan pay only processing fee for issuance and renewal of personal arms license (NPB) if renewal submitted within stipulated time. Maximum two gratis licenses per person in Pakistan service. Recipients of civil awards and military personnel have specific entitlements."
+    },
+    {
+      "question": "What are the gratis license entitlements for military award recipients in Punjab?",
+      "answer": "Nishan-e-Haider, Nishan-e-Imtiaz (M), Hilal-e-Jurrat, Hilal-e-Imtiaz (M), Sitara-e-Jurrat, Sitara-e-Imtiaz (M), Sitara-e-Bisalat: 1 pistol/revolver, 1 rifle, 1 .22 bore rifle, 2 shotguns. Tamgha-e-Imtiaz (M): 1 pistol/revolver, 1 shotgun, 1 .22 bore rifle. Tamgha-e-Jurrat/Bisalat: 1 pistol/revolver, 1 shotgun. Imtiaz Sanad: 1 shotgun."
+    },
+    {
+      "question": "What are the gratis license entitlements for armed forces personnel in Punjab?",
+      "answer": "General Officers: all arms gifted on retirement. Retired Commissioned Officers: 2 pistols/revolvers. Junior Commissioned Officers: 1 pistol/revolver or 1 rifle (total 1). Retired JCOs: 1 pistol/revolver or 1 rifle (total 1). All other ranks: 1 pistol/revolver or 1 shotgun (total 1)."
+    },
+    {
+      "question": "Can Punjab personal arms licenses be transferred?",
+      "answer": "Personal arms licenses (NPB) are generally non-transferable but may be transferred in case of death or incapacitation due to ill-health, old age, or compelling circumstances. Transfer requires online application, eligibility verification of transferee, and prescribed fee payment."
+    },
+    {
+      "question": "What is the transfer procedure for inherited Punjab arms licenses?",
+      "answer": "Authorized officer may transfer license to eligible legal heir with other heirs' acquiescence and prescribed fee. Online application on Form-I with: license copy, death certificate, succession certificate, legal heirs' affidavit, transferee's CNIC/domicile/fitness certificate. Application not considered after 3 years (delay condoned maximum 5 years for reasons beyond control)."
+    },
+    {
+      "question": "How are gratis licenses transferred in Punjab?",
+      "answer": "Gratis license not transferred to legal heir not in Pakistan service (transfers as regular license with prescribed fee). Otherwise eligible legal heir in Pakistan service may apply for transfer of regular license as gratis license."
+    },
+    {
+      "question": "What are retainership permissions in Punjab?",
+      "answer": "Licensee may apply online on Form-II for retainership of arms license. Maximum one retainer per license. Proposed retainer must fulfill eligibility criteria per rule 4. Licensee may terminate retainership anytime by online application on Form-II."
+    },
+    {
+      "question": "What are the responsibilities for institutional arms usage in Punjab?",
+      "answer": "Arms may be handed to security guards who must be: trained in security functions by district police or notified institute, cleared by Special Branch, registered with local police. Institution must maintain registers with guard details, arms numbers, duty timings, issuance/return records for law enforcement inspection."
+    },
+    {
+      "question": "Under what circumstances can Punjab arms licenses be suspended?",
+      "answer": "Authorized officer/DC may suspend license if: licensee appears ineligible, acquired license by concealing information/fraud, fails to comply with license conditions, arms used unlawfully, licensee involved in activities against public safety, or violations of Ordinance/rules. Requires hearing except in extraordinary circumstances."
+    },
+    {
+      "question": "How can suspended Punjab arms licenses be restored?",
+      "answer": "Authorized officer/DC may restore suspended license online if licensee proves suspension based on misinformation or removes objection leading to suspension. Restoration not claimed as matter of right. Arms deposited in DC strong room during suspension."
+    },
+    {
+      "question": "When can Punjab arms licenses be cancelled?",
+      "answer": "Authorized officer/DC may cancel license if: licensee fails to remove objections, repetition of suspension-causing acts, arms used for criminal offenses, or violation of Ordinance/rules/license terms/Home Department instructions. Requires hearing except in extraordinary circumstances."
+    },
+    {
+      "question": "What appeal rights exist for Punjab arms license decisions?",
+      "answer": "For DC decisions: appeal to Commissioner within 30 days, whose decision is final. For authorized officer decisions: appeal to Chief Secretary Punjab within 30 days, whose decision is final. Cancelled licenses may be restored if decided by appellate authority."
+    },
+    {
+      "question": "How are arms disposed of in Punjab?",
+      "answer": "DC establishes/maintains district strong room for illegal arms, confiscated arms, or those returned after cancellation. Stock register maintained with arm specifications, maker, model, identification number, receipt date/mode, photographs. Open public auction conducted at least yearly with transaction register."
+    },
+    {
+      "question": "What software systems support Punjab arms license management?",
+      "answer": "NADRA develops and deploys software in each DC office for recording strong room details and auction transactions. All applications, approvals, and processes conducted online. Arms license verification receipts available online with prescribed fee."
+    },
+    {
+      "question": "Who can apply for business arms licenses in Punjab?",
+      "answer": "Business arms licenses (NPB) issued to natural persons or legal entities for manufacturing, repairing, dealership for sale/purchase/storage of arms/ammunition/military stores. Natural persons must meet eligibility including: Pakistani citizenship, valid CNIC/NICOP (excluding POC), Punjab domicile, age 30+, active taxpayer, reasonable financial means, clean record."
+    },
+    {
+      "question": "What are the eligibility criteria for Punjab business arms license for legal entities?",
+      "answer": "Legal entities must be: lawfully registered, registered in Punjab, on active taxpayers list, owners/partners/directors/employees don't possess same category license, no previous cancellation (except voluntary), no convictions for owners/partners, no proscribed organization relations, reasonable financial means, and submit affidavit stating credentials."
+    },
+    {
+      "question": "What is the application process for Punjab business arms license?",
+      "answer": "Online application on Form-IV. Authorized officer seeks reports from: DIG Special Branch/Counter Terrorism/District Police (credentials/conduct/record), DC (suitability/financial standing/sales volume/business place), Civil Defence Officer (safety aspects). Upon approval, applicant and proposed staff appear at NRC."
+    },
+    {
+      "question": "How are existing Punjab business arms licenses revalidated?",
+      "answer": "All existing business arms licenses must be revalidated online according to rules 33, 34, 35, and 36 for computerized license issuance. Licenses not revalidated within Home Department stipulated time deemed suspended. Suspended licenses subsequently cancelled after one year expiry."
+    },
+    {
+      "question": "What are the quota restrictions for Punjab business arms licenses?",
+      "answer": "Business licenses issued only if total district licenses (including new one) don't exceed Home Department-fixed permissible number. Permissible numbers notified from time to time. Licensees may sell/keep arms/ammunition as authorized under license."
+    },
+    {
+      "question": "How can Punjab business arms license quota be enhanced?",
+      "answer": "Licensee may apply online on Form-V through concerned DC for quota enhancement. Authorized officer may enhance quota with prescribed fee after ascertaining: demand genuineness, licensee suitability, and DC recommendation."
+    },
+    {
+      "question": "Can Punjab business arms licenses be transferred?",
+      "answer": "Business arms licenses generally non-transferable (subject to rules 43 and 44). May be transferred in case of licensee death to eligible legal heir with other heirs' acquiescence and prescribed fee. Also transferable for incapacitation due to ill-health, old age, or compelling circumstances."
+    },
+    {
+      "question": "What is the transfer procedure for inherited Punjab business licenses?",
+      "answer": "Online application on Form-V within one year of death with: license copy, death certificate, succession certificate, legal heirs' affidavit, transferee's CNIC/domicile/fitness certificate. If not applied within one year, license suspended and premises sealed. After three years, license cancelled. One-time relaxation possible under special circumstances."
+    },
+    {
+      "question": "What special provisions exist for minor heirs in Punjab business license transfer?",
+      "answer": "For minor legal heir, court-nominated guardian may get sales and purchase agent appointed for smooth business operations. Business arms license transferred to legal heir when reaching age 30 years subject to fulfilling eligibility criteria per rule 33."
+    },
+    {
+      "question": "Can Punjab business names or locations be changed?",
+      "answer": "Business name cannot be changed. Business place may be changed by online application on Form-V with prescribed fee. Authorized officer seeks reports from DC, DPO, Civil Defence Officer, and other agencies regarding proposed place suitability."
+    },
+    {
+      "question": "What are the suspension grounds for Punjab business arms licenses?",
+      "answer": "Suspension for: appearing ineligible, acquiring license by concealment/fraud, failing to renew within stipulated time, conducting business from unauthorized place/name, failing to conduct business for 6 consecutive months, failing to maintain/produce stock register, contravening Ordinance/rules, failing to renew for 2 consecutive years, permitting unauthorized persons, illegal activities, failing to obtain transportation NOC."
+    },
+    {
+      "question": "What happens when Punjab business arms licenses are suspended?",
+      "answer": "Suspension communicated online to DC, NADRA, law enforcement agencies, and licensee. Business premises sealed immediately by DC until restoration. License cannot be renewed during suspension period. Upon restoration, licensee pays only renewal fee (no late fee charged)."
+    },
+    {
+      "question": "When can Punjab business arms licenses be cancelled?",
+      "answer": "Cancellation for: failing to remove objections or satisfy authorized officer, repetition of suspension-causing acts. Requires hearing except in extraordinary circumstances. Cancellation communicated online to DC, NADRA, law enforcement agencies, and licensee."
+    },
+    {
+      "question": "What transportation requirements exist for Punjab business arms licenses?",
+      "answer": "Only online revalidated business license holders eligible for arms/ammunition transportation to extent/manner permitted by license. Licensed dealers must obtain NOC for inter-district and intra-district transportation. Dealers from other provinces apply online through Punjab licensed dealer/manufacturer for purchase NOC."
+    },
+    {
+      "question": "What record-keeping requirements apply to Punjab business licenses?",
+      "answer": "Business license holders must maintain manual register and electronic online inventory specifying purchaser details: name, parentage, CNIC, address, license number, purchase date. Cannot sell without purchaser producing original CNIC and valid arms license. Records open to law enforcement inspection with prior authorized officer permission."
+    },
+    {
+      "question": "What inspection requirements exist for Punjab business establishments?",
+      "answer": "DC conducts annual inspections of sale/manufacturing/repair/storage units and institutional/security company licenses. Committee (minimum BS-17) from DC office, DPO, Civil Defence Department has power to: enter/inspect premises, examine stock registers/transaction records, verify authorized personnel, ensure safety instruction compliance."
+    },
+    {
+      "question": "What safety measures are required for Punjab business establishments?",
+      "answer": "Manufacturing facilities and business establishments must implement minimum safety measures to minimize danger to persons on or near premises as specified by authorized officer. Annual inspections verify safety precautions and instruction compliance."
+    },
+    {
+      "question": "What fees are charged for Punjab arms licenses?",
+      "answer": "Personal Arms License: Rs. 50,000 initial, Rs. 5,000 renewal. Institutional/Security: Rs. 50,000 initial, Rs. 5,000 renewal. Processing Fee: Rs. 2,000. Duplicate: Rs. 5,000. Pakistan validity extension: Rs. 100,000. Business Dealers: Rs. 2,000,000 initial, Rs. 100,000 renewal. Manufacturers: Rs. 1,000,000 initial, Rs. 500,000 renewal. Plus various other fees for specific services."
+    },
+    {
+      "question": "How are prohibited and non-prohibited arms categorized in Punjab?",
+      "answer": "Categorization of arms as non-prohibited bore (NPB) and prohibited bore (PB) weapons as set out in Schedule-III. NADRA issues every license (NPB) in automated smart card form or any other format."
+    },
+    {
+      "question": "Who has access to Punjab arms license database?",
+      "answer": "NADRA maintains central database of all licenses in different categories in updated form per Home Department instructions. NADRA may give law enforcement agencies access with prior authorized officer approval. License verification receipts available online with prescribed fee."
+    },
+    {
+      "question": "What registration fees apply to Punjab arms license processing?",
+      "answer": "Applicant pays online registration fee as prescribed in Schedule-II for all license processing: Rs. 1,200 online registration fee. Home Department may issue instructions for carrying out rule purposes."
+    },
+    {
+      "question": "What rules were repealed by Punjab Arms Rules 2023?",
+      "answer": "The Punjab Arms Rules 2017 were repealed by the Punjab Arms Rules 2023. This updated the legal framework for non-prohibited bore arms licensing in Punjab province."
+    },
+    {
+      "question": "What are the age requirements for different Punjab license types?",
+      "answer": "Personal arms license: minimum age 20 years. Business arms license: minimum age 30 years. Minor legal heir transfer: personal license transferred at age 20, business license at age 30, both subject to eligibility criteria fulfillment."
+    },
+    {
+      "question": "What online systems are used for Punjab arms licensing?",
+      "answer": "All applications, approvals, transfers, renewals, and processes conducted online. Forms available on official Home Department web-portal. Licensed Punjab dealers displayed on web-portal. Online demand notes, inventory management, and verification receipts available."
+    },
+    {
+      "question": "What partnership and agency provisions exist for Punjab business licenses?",
+      "answer": "Partners may be removed on specific combined request of all partners with affidavit after personal hearing and biometric verification. For deceased/incapacitated partners, legal heirs follow transfer procedures. Sales/purchase agent deemed cancelled on licensee death and removed on licensee request with affidavit."
+    },
+    {
+      "question": "What happens to uncollected Punjab arms licenses?",
+      "answer": "Personal arms license destroyed if not collected within one year by applicant. License may be delivered to given address subject to delivery service availability with prescribed fee, otherwise collected from concerned NRC."
+    },
+    {
+      "question": "What are the validity and extension provisions for Punjab arms licenses?",
+      "answer": "Licensees may apply online on Form-II for change of bore/category, increase in cartridges/bullets, sale of existing weapon, or extension of validity to whole Pakistan with prescribed fee. Authorized officer may seek agency reports and accord approval online upon satisfaction."
+    },
+    {
+      "question": "What verification and authentication requirements exist in Punjab?",
+      "answer": "Applicants submit online affidavit stating credentials to be verified for any discrepancy. Medical certificates required from concerned Medical Superintendent of Government Hospital with registered psychologist recommendation. Special Branch clearance required for institutional security guards."
+    },
+    {
+      "question": "How are arms storage and disposal managed in Punjab?",
+      "answer": "DC establishes strong room for illegal/confiscated/returned arms. In absence of strong rooms, arms deposited in police station or district Malkhana temporarily. NADRA develops software for recording strong room and auction details. Stock register maintained with specifications and photographs."
+    }
+  ]
+}
