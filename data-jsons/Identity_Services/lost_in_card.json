@@ -1,7 +1,7 @@
 {
   "file_name": "lost_id_card.md",
   "domain": "Identity_Services",
-  "total_qa_pairs": 15,
+  "total_qa_pairs": 50,
   "qa_data": [
     {
       "question": "What should I do if my ID card is lost or stolen?",
@@ -62,6 +62,146 @@
     {
       "question": "Are there any security measures to prevent misuse of lost ID cards?",
       "answer": "Yes, when you report your card as lost and get a reprint, the old card number may be flagged in the system to prevent misuse. The biometric verification requirement also adds security to the reprint process."
+    },
+    {
+      "question": "Will my new reprinted card have the same card number as the lost one?",
+      "answer": "While the reprint process gives you a replacement card, specific details about whether the card number remains the same would need to be confirmed with NADRA, as security protocols may involve issuing a new number."
+    },
+    {
+      "question": "Can I get a reprint for any type of NADRA identity document?",
+      "answer": "The reprint process applies to various NADRA documents including CNIC, SNIC, NICOP, and other identity cards. The same basic process of providing card number and biometrics authentication applies."
+    },
+    {
+      "question": "What should I do immediately after discovering my ID card is lost?",
+      "answer": "You should visit the nearest NADRA center as soon as possible to apply for a reprint. Since no documents are required, you can start the process immediately by providing your card number and biometric verification."
+    },
+    {
+      "question": "How many times can I get a reprint for lost ID cards?",
+      "answer": "While there's no specific limit mentioned, repeated requests for reprints due to lost cards may require additional verification or investigation to prevent potential misuse of the system."
+    },
+    {
+      "question": "What happens to my old card number when I get a reprint?",
+      "answer": "When you report a card as lost and get a reprint, the old card information is likely flagged in the system to prevent its misuse if someone finds or attempts to use the original lost card."
+    },
+    {
+      "question": "Can I track the status of my lost ID card reprint application?",
+      "answer": "Yes, you can track your reprint application status using NADRA's tracking systems including SMS services, PAK-ID app, website tracking portal, or by calling the helpline 1777."
+    },
+    {
+      "question": "What if my biometrics are damaged or not readable for the reprint?",
+      "answer": "If your biometrics cannot be captured properly, NADRA staff may use alternative verification methods or refer your case for special handling. Contact the center for guidance on alternative authentication procedures."
+    },
+    {
+      "question": "Do I need to update my address when getting a reprint of lost ID card?",
+      "answer": "A reprint maintains the same information as your original card. If you need to update your address, you would need to apply for a modification service separately, which requires additional documentation."
+    },
+    {
+      "question": "Can I get urgent processing for a lost ID card reprint?",
+      "answer": "Yes, you can opt for urgent processing categories (Urgent or Executive) for your reprint, which will expedite the process but involve higher fees according to the chosen processing speed."
+    },
+    {
+      "question": "What centers can process lost ID card reprints?",
+      "answer": "Lost ID card reprints can be processed at any NADRA Registration Center (NRC) or through Mobile Registration Vans (MRV) that offer the full range of NADRA services."
+    },
+    {
+      "question": "Will I get a receipt for my lost ID card reprint application?",
+      "answer": "Yes, you will receive a receipt with tracking information after submitting your reprint application, which you can use to track the status and collect your new card when ready."
+    },
+    {
+      "question": "Can I collect my reprinted card from a different center than where I applied?",
+      "answer": "Collection procedures may vary by center. Check with NADRA about inter-center collection options, or choose delivery service if available for your location."
+    },
+    {
+      "question": "What if someone finds and misuses my lost ID card?",
+      "answer": "Since your lost card gets flagged in the system when you apply for a reprint, any attempt to misuse the original lost card should be detected by verification systems. Report any suspected misuse to NADRA immediately."
+    },
+    {
+      "question": "Is there a time limit for applying for a reprint after losing my card?",
+      "answer": "There's no specific time limit mentioned for applying for a reprint after losing your card. However, it's advisable to apply as soon as possible to prevent potential misuse and to restore your identity documentation."
+    },
+    {
+      "question": "Can I apply for reprint if my card was damaged beyond recognition?",
+      "answer": "Yes, if your card is damaged beyond recognition, the same reprint process applies. You need to provide your card number (if you remember it) and biometric authentication for verification."
+    },
+    {
+      "question": "What should I bring to the NADRA center for a lost card reprint?",
+      "answer": "You only need to bring yourself for biometric verification and your card number information. No documents are required for the lost card reprint process."
+    },
+    {
+      "question": "Can I get a reprint if my card was lost outside Pakistan?",
+      "answer": "Yes, you can apply for a reprint when you return to Pakistan or at Pakistani consulates abroad if they offer NADRA services. The same process of card number and biometric verification applies."
+    },
+    {
+      "question": "What is the difference between lost, stolen, and damaged card reprint procedures?",
+      "answer": "The reprint procedure is the same for lost, stolen, or damaged cards - you provide your card number and biometric authentication. No additional documentation is required regardless of how the card was lost or damaged."
+    },
+    {
+      "question": "Will my family members be notified when I apply for a lost card reprint?",
+      "answer": "The reprint process is an individual procedure. Family members are not automatically notified, though you may choose to inform them yourself for security and reference purposes."
+    },
+    {
+      "question": "Can I apply for reprint online without visiting a center?",
+      "answer": "While PAK-ID app offers various NADRA services, biometric verification for lost card reprints typically requires physical presence. Check the app for current online service availability for reprints."
+    },
+    {
+      "question": "What if there are changes in my biometrics since the original card was issued?",
+      "answer": "Minor changes in biometrics due to aging or minor injuries typically don't affect the verification process. If there are significant changes, NADRA staff can guide you through alternative verification methods."
+    },
+    {
+      "question": "Do I need my original application form for the reprint?",
+      "answer": "No, you do not need your original application form or any other documents for a lost card reprint. Only your card number and biometric verification are required."
+    },
+    {
+      "question": "Can I request delivery service for my reprinted card?",
+      "answer": "Delivery services may be available depending on your location and the services offered at your NADRA center. Check with the center about delivery options and any additional fees."
+    },
+    {
+      "question": "What happens if I find my original card after getting a reprint?",
+      "answer": "If you find your original card after getting a reprint, you should inform NADRA. The original card may have been deactivated in the system, so the new reprinted card should be your primary identity document."
+    },
+    {
+      "question": "Can I get a reprint if my card was lost due to natural disaster?",
+      "answer": "Yes, the same reprint process applies regardless of how the card was lost, including natural disasters. NADRA may have special procedures or fee waivers for disaster-affected areas."
+    },
+    {
+      "question": "Are there any restrictions on who can apply for lost card reprints?",
+      "answer": "The cardholder themselves must apply for the reprint since biometric verification is required. No one else can apply on behalf of the cardholder due to security requirements."
+    },
+    {
+      "question": "Can I get a reprint if my card expired before it was lost?",
+      "answer": "If your card was expired when lost, you might need to apply for renewal rather than reprint. The reprint process is for valid cards that were lost. Check with NADRA for the appropriate procedure."
+    },
+    {
+      "question": "What quality checks are performed during the reprint process?",
+      "answer": "The reprint process includes biometric verification to confirm identity, system checks to validate the original card details, and standard quality control measures to ensure the new card is properly produced."
+    },
+    {
+      "question": "Can I request special features or modifications during the reprint?",
+      "answer": "A reprint produces a card identical to the original. If you need modifications like address changes or other updates, you must apply for separate modification services which require additional documentation."
+    },
+    {
+      "question": "What should I do if the NADRA system shows my card as already reported lost by someone else?",
+      "answer": "If the system shows conflicting information about your card's status, contact NADRA security immediately. This could indicate potential fraud or identity theft that requires investigation."
+    },
+    {
+      "question": "Can I get a reprint for cards issued under old NADRA systems?",
+      "answer": "Yes, reprints are available for cards issued under previous systems. Your biometric data and card information should still be in NADRA's database regardless of when the original card was issued."
+    },
+    {
+      "question": "How does the reprint process verify I'm the legitimate cardholder?",
+      "answer": "The process uses biometric authentication (fingerprints and possibly facial recognition) to match against your original registration data in NADRA's secure database, ensuring only the legitimate cardholder can get a reprint."
+    },
+    {
+      "question": "What should I do if I'm traveling and need urgent proof of identity after losing my card?",
+      "answer": "For urgent travel situations, contact the nearest Pakistani consulate or embassy for temporary documentation. You can apply for a reprint when you return to Pakistan or at consulates offering NADRA services."
+    },
+    {
+      "question": "Can the reprint process be expedited in emergency situations?",
+      "answer": "NADRA offers urgent and executive processing categories for faster service. In genuine emergencies, contact NADRA directly to discuss available options for expedited processing of your reprint."
+    },
+    {
+      "question": "What backup systems exist if the main NADRA database is unavailable during reprint?",
+      "answer": "NADRA has backup systems and alternative verification methods. If the main database is temporarily unavailable, you may receive a temporary receipt and be asked to return when systems are restored."
     }
   ]
 }
