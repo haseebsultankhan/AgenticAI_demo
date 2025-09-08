@@ -1,0 +1,575 @@
+{
+  "file_name": "qa_data_with_context.json",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 142,
+  "qa_data": [
+    {
+      "question": "What documents are needed to new a CRC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Foreign Birth Certificate\n- S1 Form\n- Naturalization Certificate\n- Guardianship Certificate\nDocuments Required 2: (Bring any of the following)\n- Attestation\n- Verification by ID holder\n- Spouse Verification"
+    },
+    {
+      "question": "What documents are needed to modification the name field in a CRC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Undertaking RP 6.0.0 C1\n- Certificate from  Dar-Ul-Afta"
+    },
+    {
+      "question": "What documents are needed to modification the father’s name field in a CRC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\nDocuments Required 2: (Bring any of the following)\n- Computerized Birth Certificate\nDocuments Required 3: (Bring any of the following)\n- Parent Biometric verification\n- Guardian Verification"
+    },
+    {
+      "question": "What documents are needed to modification the mother’s name field in a CRC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\nDocuments Required 2: (Bring any of the following)\n- Computerized Birth Certificate\nDocuments Required 3: (Bring any of the following)\n- Parent Biometric verification\n- Guardian Verification"
+    },
+    {
+      "question": "What documents are needed to modification the dob field in a CRC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- S1 Form\n- Pakistani Passport\n- Foreign  Passport\n- Residence Permit\n- Matric/Equivalent Certificate\n- Mark sheet of 9th/10th\n- Government School Leaving Certificate\n- Domicile/Local Certificate\n- Civil card\n- HQ Approval"
+    },
+    {
+      "question": "What documents are needed to modification the gender field in a CRC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Medical Certificate"
+    },
+    {
+      "question": "What documents are needed to modification the place of birth field in a CRC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Any document having place of Birth"
+    },
+    {
+      "question": "What documents are needed to reprint a CRC?",
+      "answer": "You can use PAK-ID on your phone or visit the nearest NADRA center. No  documents are required for this procedure."
+    },
+    {
+      "question": "What documents are needed to new a Juvenile Card?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Guardian CNIC\nDocuments Required 2: (Bring any of the following)\n- Computerized Birth Certificate\n- Foreign Birth Certificate\n- S1 Form\n- Naturalization Certificate\nDocuments Required 3: (Bring any of the following)\n- Parent Biometric verification\n- Guardian Verification\n- Attestation\n- Verification by ID holder"
+    },
+    {
+      "question": "What documents are needed to modification the name field in a Juvenile Card?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Guardian CNIC\nDocuments Required 2: (Bring any of the following)\n- Mother CNIC\n- Undertaking RP 6.0.0 C1\n- Certificate from Dar-Ul-Afta"
+    },
+    {
+      "question": "What documents are needed to modification the father’s name field in a Juvenile  Card?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Self ID\nDocuments Required 2: (Bring any of the following)\n- Computerized Birth Certificate\n- S1 Form\n- Pakistani Passport\n- Foreign  Passport\n- Matric/Equivalent Certificate\n- Mark sheet of 9th/10th\n- Government School Leaving Certificate\n- Domicile/Local Certificate\n- HQ   Approval"
+    },
+    {
+      "question": "What documents are needed to modification the mother name field in a Juvenile  Card?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\nDocuments Required 2: (Bring any of the following)\n- Computerized Birth Certificate\nDocuments Required 3: (Bring any of the following)\n- Parent Biometric verification\n- Guardian Verification"
+    },
+    {
+      "question": "What documents are needed to modification the dob field in a Juvenile Card?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- S1 Form\n- Pakistani Passport\n- Foreign  Passport\n- Residence Permit\n- Matric/Equivalent Certificate\n- Mark sheet of  9th/10th\n- Government School Leaving Certificate\n- Domicile/Local Certificate\n- Civil card\n- HQ  Approval"
+    },
+    {
+      "question": "What documents are needed to modification the gender field in a Juvenile Card?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Medical Certificate"
+    },
+    {
+      "question": "What documents are needed to modification the place of birth field in a Juvenile  Card?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Any document having place of Birth"
+    },
+    {
+      "question": "What documents are needed to modification the present address field in a  Juvenile Card?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- computerized  utility bill\n- Residential property document\n- Local Certificate\n- Domicile  certificate\n- PRC Certificate\n- Rent Deed\n- Govt /society Allotment letter"
+    },
+    {
+      "question": "What documents are needed to modification the permanent address field in a  Juvenile Card?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- Domicile/Local  Certificate\n- computerized utility bill\n- Residential property document\n- Local  Certificate\n- Domicile certificate\n- PRC Certificate\n- Govt /society Allotment  letter\n- Affidavit from House owner\n- CNIC of House owner\n- Property  document"
+    },
+    {
+      "question": "What documents are needed to renewal a Juvenile Card?",
+      "answer": "You can use PAK-ID on your phone or visit the nearest NADRA center. No  documents are required for this procedure."
+    },
+    {
+      "question": "What documents are needed to reprint a Juvenile Card?",
+      "answer": "You can use PAK-ID on your phone or visit the nearest NADRA center. No  documents are required for this procedure."
+    },
+    {
+      "question": "What documents are needed to office mistake a Juvenile Card?",
+      "answer": "You can use PAK-ID  on your phone or visit the nearest NADRA center. No  documents are required for this procedure."
+    },
+    {
+      "question": "What documents are needed to new a NICOP/SNICOP (Under 18)Non Resident ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Guardian CNIC\nDocuments Required 2: (Bring any of the following)\n- Foreign  Birth Certificate\n- S1 Form\n- Naturalization Certificate\nDocuments Required 3: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A\nDocuments Required 4: (Bring any of the following)\n- Parent Biometric verification\n- Guardian Verification\n- Attestation\n- Verification by ID holder"
+    },
+    {
+      "question": "What documents are needed to modification the name field in a NICOP/SNICOP  (Under 18) Non-Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- S1 Form\n- Name change deed (notarized/attested)\nDocuments Required 2: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A"
+    },
+    {
+      "question": "What documents are needed to modification the father’s name field in a  NICOP/SNICOP (Under 18) Non-Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A\nDocuments Required 2: (Bring any of the following)\n- Affidavit by parents for Parents Name Correction\n- Affidavit by second parent for  Parents Name  Correction\n- Affidavit by one for Parents Name Correction\n- Computerized Birth  Certificate\n- Matric/Equivalent Certificate\n- M&E report\n- Zonal Verifcation Board\nDocuments Required 3: (Bring any of the following)\n- Computerized Birth Certificate\n- Matric/Equivalent Certificate\n- M&E report\n- Zonal Verifcation Board"
+    },
+    {
+      "question": "What documents are needed to modification the mother name field in a  NICOP/SNICOP (Under 18) Non Resident ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A\nDocuments Required 2: (Bring any of the following)\n- Affidavit by parents for Parents Name Correction\n- Affidavit by second parent for  Parents Name Correction\n- Affidavit by one for Parents Name Correction\n- Computerized Birth Certificate\n- Matric/Equivalent Certificate\n- M&E report\n- Zonal Verifcation Board\nDocuments Required 3: (Bring any of the following)\n- Computerized Birth Certificate\n- Matric/Equivalent Certificate\n- M&E report\n- Zonal Verification Board"
+    },
+    {
+      "question": "What documents are needed to modification the dob field in a NICOP/SNICOP  (Under 18) Non Resident ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- S1 Form\n- Pakistani Passport\n- Foreign  Passport\n- Residence Permit\n- Matric/Equivalent Certificate\n- Mark sheet of 9th/10th\n- Government  School Leaving Certificate\n- Domicile/Local Certificate\n- Civil card\n- HQ   Approval\nDocuments Required 2: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A"
+    },
+    {
+      "question": "What documents are needed to modification the gender field in a NICOP/SNICOP  (Under 18) Non-Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Medical Certificate"
+    },
+    {
+      "question": "What documents are needed to modification the place of birth field in a  NICOP/SNICOP (Under 18) Non-Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Any document having place of Birth"
+    },
+    {
+      "question": "What documents are needed to modification the present address field in a  NICOP/SNICOP (Under 18) Non-Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- computerized  utility bill\n- Residential property document\n- Local Certificate\n- Domicile  certificate\n- PRC Certificate\n- Rent Deed\n- Govt /society Allotment letter"
+    },
+    {
+      "question": "What documents are needed to modification the permanent address field in a  NICOP/SNICOP (Under 18) Non-Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- Domicile/Local  Certificate\n- computerized utility bill\n- Residential property document\n- Local  Certificate\n- Domicile certificate\n- PRC Certificate\n- Govt /society Allotment  letter\n- Affidavit from House owner\n- CNIC of House owner\n- Property  document"
+    },
+    {
+      "question": "What documents are needed to modification the present address(foreign) field in  a NICOP/SNICOP (Under 18) Non-Resident?",
+      "answer": "You can use PAK-ID on your phone or visit the nearest NADRA center. No  documents are required for this procedure."
+    },
+    {
+      "question": "What documents are needed to modification the permanent address (foreign)  field in a NICOP/SNICOP (Under 18) Non-Resident?",
+      "answer": "You can use PAK-ID on your phone or visit the nearest NADRA center. No  documents are required for this procedure."
+    },
+    {
+      "question": "What documents are needed to renewal a NICOP/SNICOP (Under 18) Non- Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A"
+    },
+    {
+      "question": "What documents are needed to reprint a NICOP/SNICOP (Under 18)Non  Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A"
+    },
+    {
+      "question": "What documents are needed to office mistake a NICOP/SNICOP(Under 18) Non  Resident ?",
+      "answer": "You can use PAK-ID  on your phone or visit the nearest NADRA center. No  documents are required for this procedure."
+    },
+    {
+      "question": "What documents are needed to new a NICOP/SNICOP(Under 18)Intending Non  Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Guardian CNIC\nDocuments Required 2: (Bring any of the following)\n- Computerized Birth Certificate\n- Naturalization Certificate\nDocuments Required 3: (Bring any of the following)\n- Parent Biometric verification\n- Guardian Verification\n- Attestation"
+    },
+    {
+      "question": "What documents are needed to modification the name field in a  NICOP/SNICOP(Under18) Intending Non Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Guardian CNIC\nDocuments Required 2: (Bring any of the following)\n- Mother CNIC\n- Undertaking RP 6.0.0 C1\n- Certificate from Dar-Ul-Afta"
+    },
+    {
+      "question": "What documents are needed to modification the father name field in a  NICOP/SNICOP(Under 18) Intending Non Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Self ID\nDocuments Required 2: (Bring any of the following)\n- Computerized Birth Certificate\n- S1 Form\n- Pakistani Passport\n- Foreign  Passport\n- Matric/Equivalent Certificate\n- Mark sheet of 9th/10th\n- Government School Leaving Certificate\n- Domicile/Local Certificate\n- HQ  Approval"
+    },
+    {
+      "question": "What documents are needed to modification the mother name field in a  NICOP/SNICOP (Under 18)Intending Non Resident ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\nDocuments Required 2: (Bring any of the following)\n- Computerized Birth Certificate\nDocuments Required 3: (Bring any of the following)\n- Parent Biometric verification\n- Guardian Verification"
+    },
+    {
+      "question": "What documents are needed to modification the dob field in a  NICOP/SNICOP(Under 18)Intending Non Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- S1 Form\n- Pakistani Passport\n- Foreign  Passport\n- Residence Permit\n- Matric/Equivalent Certificate\n- Mark sheet of 9th/10th\n- Government  School Leaving Certificate\n- Domicile/Local Certificate\n- Civil card\n- HQ   Approval"
+    },
+    {
+      "question": "What documents are needed to modification the gender field in a NICOP/SNICOP  (Under 18)Intending Non Resident ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Medical Certificate"
+    },
+    {
+      "question": "What documents are needed to modification the place of birth field in a  NICOP/SNICOP (Under 18) Intending Non Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Any document having place of Birth"
+    },
+    {
+      "question": "What documents are needed to modification the present address field in a  NICOP/SNICOP (Under 18) Intending Non-Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- computerized  utility bill\n- Residential property document\n- Local Certificate\n- Domicile  certificate\n- PRC Certificate\n- Rent Deed\n- Govt /society Allotment letter"
+    },
+    {
+      "question": "What documents are needed to modification the permanent address field in a  NICOP/SNICOP (Under 18) Intending Non-Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- Domicile/Local  Certificate\n- computerized utility bill\n- Residential property document\n- Local Certificate\n- Domicile certificate\n- PRC Certificate\n- Govt /society Allotment letter\n- Affidavit from House owner\n- CNIC of House owner\n- Property document"
+    },
+    {
+      "question": "What documents are needed to modification a NICOP/SNICOP (Under 18)  Intending Non-Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- F16"
+    },
+    {
+      "question": "What documents are needed to modification a NICOP/SNICOP (Under 18)  Intending Non Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- F17"
+    },
+    {
+      "question": "What documents are needed to office mistake a NICOP/SNICOP (Under 18)  Intending Non Resident ?",
+      "answer": "You can use PAK-ID on your phone or visit the nearest NADRA center. No  documents are required for this procedure."
+    },
+    {
+      "question": "What documents are needed to renewal a NICOP/SNICOP (Under 18) Intending  Non-Resident?",
+      "answer": "You can use PAK-ID on your phone or visit the nearest NADRA center. No  documents are required for this procedure."
+    },
+    {
+      "question": "What documents are needed to reprint a NICOP/SNICOP (Under 18) Intending  Non-Resident?",
+      "answer": "You can use PAK-ID on your phone or visit the nearest NADRA center. No  documents are required for this procedure."
+    },
+    {
+      "question": "What documents are needed to new a Smart ID?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Sibling_1 ID\nDocuments Required 2: (Bring any of the following)\n- Computerized Birth Certificate\n- Naturalization Certificate\n- Undertaking RP  6.0.0 B\n- Paternal Relative (Witness)\n- Maternal Relative (Witness)\n- Any CNIC  holder(Witnes)\nDocuments Required 3: (Bring any of the following)\n- Parent Biometric verification\n- Attestation\n- Sibling Verifier-1"
+    },
+    {
+      "question": "What documents are needed to modification the name field in a Smart ID?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Undertaking RP 6.0.0 C2\n- Certificate from  Dar-Ul-Afta"
+    },
+    {
+      "question": "What documents are needed to modification the father name field in a Smart ID?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Parent Biometric verification\n- Sibling  (Witness)\n- Computerized Birth Certificate\n- Matric/Equivalent Certificate\n- RG-1\n- RG-II\n- RG-III\n- M&E report\n- Zonal Verification Board"
+    },
+    {
+      "question": "What documents are needed to modification the mother name field in a Smart ID?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Parent Biometric verification\n- Sibling  (Witness)\n- Computerized Birth Certificate\n- Matric/Equivalent Certificate\n- RG-1\n- RG-II\n- RG-III\n- M&E report\n- Zonal Verifcation Board"
+    },
+    {
+      "question": "What documents are needed to modification the dob field in a Smart ID?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Matric/Equivalent Certificate\n- Mark  sheet of 9th/10th\n- Service record  &Departmental NOC\n- MNIC\n- Registered Nikkahnama\n- Government School  Leaving Certificate\n- Domicile/Local Certificate\n- Driving license\n- Civil card\n- HQ Approval"
+    },
+    {
+      "question": "What documents are needed to modification the marital status (married) field in  a Smart ID?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Marriage certificate\n- Foreign marriage Certificate\nDocuments Required 2: (Bring any of the following)\n- Spouse ID\n- POC\n- POR Card\n- ACC Card"
+    },
+    {
+      "question": "What documents are needed to modification the marital status (divorce) field in a  Smart ID?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Divorce certificate\n- Foreign Divorce certificate\n- Affidavit (for  non-Muslim)"
+    },
+    {
+      "question": "What documents are needed to modification the marital status (widow) field in a  Smart ID?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Death certificate\n- Foreign death certificate"
+    },
+    {
+      "question": "What documents are needed to modification the religion field in a Smart ID?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Declartion on undertaking  on CNICF"
+    },
+    {
+      "question": "What documents are needed to modification the gender field in a Smart ID?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Medical Certificate"
+    },
+    {
+      "question": "What documents are needed to modification the place of birth field in a Smart ID?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Any document having place of Birth"
+    },
+    {
+      "question": "What documents are needed to modification the present address field in a Smart  ID?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- computerized  utility bill\n- Residential property document\n- Local Certificate\n- Domicile  certificate\n- PRC Certificate\n- Rent Deed\n- Govt /society Allotment letter"
+    },
+    {
+      "question": "What documents are needed to modification the permanent address field in a  Smart ID?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- Domicile/Local  Certificate\n- computerized utility bill\n- Residential property document\n- Local Certificate\n- Domicile  certificate\n- PRC Certificate\n- Govt /society Allotment letter\n- Affidavit from  House owner\n- CNIC of House owner\n- Property document"
+    },
+    {
+      "question": "What documents are needed to renewal a Smart ID?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Self ID"
+    },
+    {
+      "question": "What documents are needed to reprint a Smart ID?",
+      "answer": "You can use PAK-ID on your phone or visit the nearest NADRA center. No  documents are required for this procedure."
+    },
+    {
+      "question": "What documents are needed to office mistake a Smart ID?",
+      "answer": "You can use PAK-ID on your phone or visit the nearest NADRA center. No  documents are required for this procedure."
+    },
+    {
+      "question": "What documents are needed to new a CNIC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Sibling_1 ID\nDocuments Required 2: (Bring any of the following)\n- Computerized Birth Certificate\n- Naturalization Certificate\n- Undertaking RP  6.0.0 B\n- Paternal Relative (Witness)\n- Maternal Relative (Witness)\n- Any CNIC  holder (Witness)\nDocuments Required 3: (Bring any of the following)\n- Parent Biometric verification\n- Attestation\n- Sibling Verifier-1"
+    },
+    {
+      "question": "What documents are needed to modification the name field in a CNIC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Undertaking RP 6.0.0 C2\n- Certificate from  Dar-Ul-Afta"
+    },
+    {
+      "question": "What documents are needed to modification the father name field in a CNIC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Parent Biometric verification\n- Sibling  (Witness)\n- Computerized Birth Certificate\n- Matric/Equivalent Certificate\n- RG-1\n- RG-II\n- RG-III\n- M&E report\n- Zonal Verification Board"
+    },
+    {
+      "question": "What documents are needed to modification the mother name field in a CNIC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Parent Biometric verification\n- Sibling  (Witness)\n- Computerized Birth Certificate\n- Matric/Equivalent Certificate\n- RG-1\n- RG-II\n- RG-III\n- M&E report\n- Zonal Verifcation Board"
+    },
+    {
+      "question": "What documents are needed to modification the dob field in a CNIC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Matric/Equivalent Certificate\n- Mark  sheet of 9th/10th\n- Service record &Departmental  NOC\n- MNIC\n- Registered  Nikkahnama\n- Government School Leaving Certificate\n- Domicile/Local  Certificate\n- Driving license\n- Civil card\n- HQ  Approval"
+    },
+    {
+      "question": "What documents are needed to modification the marital status (married) field in  a CNIC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Marriage certificate\n- Foreign marriage Certificate\nDocuments Required 2: (Bring any of the following)\n- Spouse ID\n- POC\n- POR Card\n- ACC Card"
+    },
+    {
+      "question": "What documents are needed to modification the marital status (divorce) field in a  CNIC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Divorce certificate\n- Foreign Divorce certificate\n- Affidavit (for  non-Muslim)"
+    },
+    {
+      "question": "What documents are needed to modification the marital status (widow) field in a  CNIC?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Death certificate\n- Foreign death certificate"
+    },
+    {
+      "question": "What documents are needed to modification the religion field in a CNIC ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Declartion on undertaking  on CNICF"
+    },
+    {
+      "question": "What documents are needed to modification the gender field in a CNIC ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Medical Certificate"
+    },
+    {
+      "question": "What documents are needed to modification the place of birth field in a CNIC ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Any document having place of Birth"
+    },
+    {
+      "question": "What documents are needed to modification the present address field in a CNIC ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- computerized  utility bill\n- Residential property document\n- Local Certificate\n- Domicile certificate\n- PRC  Certificate\n- Rent Deed\n- Govt /society Allotment letter"
+    },
+    {
+      "question": "What documents are needed to modification the permanent address field in a  CNIC ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- Domicile/Local  Certificate\n- computerized utility bill\n- Residential property document\n- Local  Certificate\n- Domicile certificate\n- PRC Certificate\n- Govt /society Allotment  letter\n- Affidavit from House owner\n- CNIC of House owner\n- Property  document"
+    },
+    {
+      "question": "What documents are needed to renewal a CNIC ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Self ID"
+    },
+    {
+      "question": "What documents are needed to reprint  a CNIC ?",
+      "answer": "You can use PAK-ID  on your phone or visit the nearest NADRA center. No  documents are required for this procedure."
+    },
+    {
+      "question": "What documents are needed to office mistake a CNIC ?",
+      "answer": "You can use PAK-ID  on your phone or visit the nearest NADRA center. No  documents are required for this procedure."
+    },
+    {
+      "question": "What documents are needed to conversion a Smart ID Conversion?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Self ID"
+    },
+    {
+      "question": "What documents are needed to conversion the name field in a Smart ID  Conversion?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Undertaking RP 6.0.0 C2\n- Certificate from  Dar-Ul-Afta"
+    },
+    {
+      "question": "What documents are needed to conversion the father name field in a Smart ID  Conversion?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Parent Biometric verification\n- Sibling  (Witness)\n- Computerized Birth Certificate\n- Matric/Equivalent Certificate\n- RG-1\n- RG-II\n- RG-III\n- M&E report\n- Zonal Verifcation Board"
+    },
+    {
+      "question": "What documents are needed to conversion the mother name field in a Smart ID  Conversion?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Parent Biometric verification\n- Sibling  (Witness)\n- Computerized Birth Certificate\n- Matric/Equivalent Certificate\n- RG-1\n- RG-II\n- RG-III\n- M&E report\n- Zonal Verifcation Board"
+    },
+    {
+      "question": "What documents are needed to conversion the dob field in a Smart ID  Conversion?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Matric/Equivalent Certificate\n- Mark sheet of 9th/10th\n- Service record & Departmental NOC\n- MNIC\n- Registered Nikkahnama\n- Government School Leaving Certificate\n- Domicile/Local Certificate\n- Driving  license\n- Civil card\n- HQ Approval"
+    },
+    {
+      "question": "What documents are needed to conversion the marital status (married) field in a  Smart ID Conversion?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Marriage certificate\n- Foreign marriage Certificate\nDocuments Required 2: (Bring any of the following)\n- Spouse ID\n- POC\n- POR Card\n- ACC Card"
+    },
+    {
+      "question": "What documents are needed to conversion the marital status (divorce) field in a  Smart ID Conversion?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Divorce certificate\n- Foreign Divorce certificate\n- Affidavit (for  non-Muslim)"
+    },
+    {
+      "question": "What documents are needed to conversion the marital status (widow) field in a  Smart ID Conversion?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Death certificate\n- Foreign death certificate"
+    },
+    {
+      "question": "What documents are needed to conversion the religion field in a Smart ID  Conversion?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Declartion on undertaking  on CNICF"
+    },
+    {
+      "question": "What documents are needed to conversion the gender field in a Smart ID  Conversion?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Medical Certificate"
+    },
+    {
+      "question": "What documents are needed to conversion the place of birth field in a Smart ID  Conversion?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Any document having place of Birth"
+    },
+    {
+      "question": "What documents are needed to conversion the present address field in a Smart ID  Conversion?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- computerized  utility bill\n- Residential property document\n- Local Certificate\n- Domicile  certificate\n- PRC Certificate\n- Rent Deed\n- Govt /society Allotment letter"
+    },
+    {
+      "question": "What documents are needed to conversion the permanent address field in a  Smart ID Conversion?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- Domicile/Local  Certificate\n- computerized utility bill\n- Residential property document\n- Local  Certificate\n- Domicile certificate\n- PRC Certificate\n- Govt /society Allotment  letter\n- Affidavit from House owner\n- CNIC of House owner\n- Property  document"
+    },
+    {
+      "question": "What documents are needed to new a SNICOP Non-Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Sibling_1 ID\n- Undertaking RP 6.0.0 B\nDocuments Required 2: (Bring any of the following)\n- Foreign  Birth Certificate\n- S1 Form\n- Naturalization Certificate\n- Manual  Birth Certiifcate\nDocuments Required 3: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A\nDocuments Required 4: (Bring any of the following)\n- Parent Biometric verification\n- Sibling Verifier-1\n- Any CNIC holder verifier"
+    },
+    {
+      "question": "What documents are needed to modification the name field in a SNICOP Non- Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- S1 Form\n- Name change deed (notarized/attested)\nDocuments Required 2: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A"
+    },
+    {
+      "question": "What documents are needed to modification the father name field in a SNICOP  Non-Resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A\nDocuments Required 2: (Bring any of the following)\n- Affidavit by parents for Parents Name Correction\n- Affidavit by second parent for  Parents Name Correction\n- undertaking by one sibling with same parent name\n- Undertaking by two sibling with same parent name\n- Computerized Birth  Certificate\n- Matric/Equivalent Certificate\n- M&E report\n- Zonal Verification  Board"
+    },
+    {
+      "question": "What documents are needed to modification the mother name field in a SNICOP  Non resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A\nDocuments Required 2: (Bring any of the following)\n- Affidavit by parents for Parents Name Correction\n- Affidavit by second parent for  Parents Name Correction\n- Undertaking by one sibling with same parent name\n- Undertaking by two sibling with same parent name\n- Computerized Birth  Certificate\n- Matric/Equivalent Certificate\n- M&E report\n- Zonal Verifcation  Board"
+    },
+    {
+      "question": "What documents are needed to modification the dob field in a SNICOP Non  resident ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Matric/Equivalent Certificate\n- Mark  sheet of 9th/10th\n- Service record &Departmental NOC\n- MNIC\n- Registered  Nikkahnama\n- Government School Leaving Certificate\n- Domicile/Local  Certificate\n- Driving license\n- Civil card\n- HQ Approval"
+    },
+    {
+      "question": "What documents are needed to modification the marital status (married) field in  a SNICOP Non Resident ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Marriage certificate\n- Foreign marriage Certificate\nDocuments Required 2: (Bring any of the following)\n- Spouse ID\n- POC\n- POR Card\n- ACC Card"
+    },
+    {
+      "question": "What documents are needed to modification the marital status (divorce) field in a  SNICOP Non resident ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Divorce certificate\n- Foreign Divorce certificate\n- Affidavit (for  non-Muslim)"
+    },
+    {
+      "question": "What documents are needed to modification the marital status (widow) field in a  SNICOP Non resident ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Death certificate\n- Foreign death certificate"
+    },
+    {
+      "question": "What documents are needed to modification the religion field in a SNICOP Non  resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Declartion on undertaking  on CNICF"
+    },
+    {
+      "question": "What documents are needed to modification the gender field in a SNICOP Non  resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Medical Certificate"
+    },
+    {
+      "question": "What documents are needed to modification the place of birth field in a SNICOP  Non resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Any document having place of Birth"
+    },
+    {
+      "question": "What documents are needed to modification the present address field in a  SNICOP Non resident?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- computerized  utility bill\n- Residential property document\n- Local Certificate\n- Domicile  certificate\n- PRC Certificate\n- Rent Deed\n- Govt /society Allotment letter"
+    },
+    {
+      "question": "What documents are needed to modification the permanent address field in a  SNICOP Non resident ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- Domicile/Local  Certificate\n- computerized utility bill\n- Residential property document\n- Local  Certificate\n- Domicile certificate\n- PRC Certificate\n- Govt /society Allotment  letter\n- Affidavit from House owner\n- CNIC of House owner\n- Property  document"
+    },
+    {
+      "question": "What documents are needed to modification the present address(foreign) field in  a SNICOP Non resident ?",
+      "answer": "You can use PAK-ID  on your phone or visit the nearest NADRA center. No  documents are required for this procedure."
+    },
+    {
+      "question": "What documents are needed to modification the permanent address (foreign)  field in a SNICOP Non resident ?",
+      "answer": "You can use PAK-ID  on your phone or visit the nearest NADRA center. No  documents are required for this procedure."
+    },
+    {
+      "question": "What documents are needed to renewal a SNICOP Non resident ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Self ID\nDocuments Required 2: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A"
+    },
+    {
+      "question": "What documents are needed to reprint  a SNICOP Non resident ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A"
+    },
+    {
+      "question": "What documents are needed to office mistake a SNICOP Non resident ?",
+      "answer": "You can use PAK-ID  on your phone or visit the nearest NADRA center. No  documents are required for this procedure."
+    },
+    {
+      "question": "What documents are needed to new a SNICOP Intending to  Non resident Citizen ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Sibling_1 ID\n- Undertaking RP 6.0.0 B\nDocuments Required 2: (Bring any of the following)\n- Computerized Birth Certificate\n- Naturalization Certificate\nDocuments Required 3: (Bring any of the following)\n- Parent Biometric verification\n- Attestation\n- Paternal Relative (Witness)\n- Maternal Relative (Witness)\n- Any CNIC holder(Witness)\n- Sibling Verifier-1"
+    },
+    {
+      "question": "What documents are needed to conversion a NICOP to SNICOP ?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Self ID\nDocuments Required 2: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A"
+    },
+    {
+      "question": "What documents are needed to modification the name field in a NICOP to SNICOP?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- S1 Form\n- Name change deed (notarized/attested)\nDocuments Required 2: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A"
+    },
+    {
+      "question": "What documents are needed to modification the father name field in a NICOP to  SNICOP?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A\nDocuments Required 2: (Bring any of the following)\n- Affidavit by parents for Parents Name Correction\n- Affidavit by second parent for  Parents Name Correction\n- Undertaking by one sibling with same parent name\n- Undertaking by two sibling with same parent name\n- Computerized Birth  Certificate\n- Matric/Equivalent Certificate\n- M&E report\n- Zonal Verifcation  Board"
+    },
+    {
+      "question": "What documents are needed to modification the mother name field in a NICOP to  SNICOP?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Undertaking RP 6.0.0 A\nDocuments Required 2: (Bring any of the following)\n- Affidavit by parents for Parents Name Correction\n- Affidavit by second parent for  Parents Name Correction\n- Undertaking by one sibling with same parent name\n- Undertaking by two sibling with same parent name\n- Computerized Birth  Certificate\n- Matric/Equivalent Certificate\n- M&E report\n- Zonal Verification  Board"
+    },
+    {
+      "question": "What documents are needed to modification the dob field in a NICOP to SNICOP?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Pakistani Passport\n- Foreign Passport\n- Residence Permit\n- Travel document\n- Matric/Equivalent Certificate\n- Mark  sheet of 9th/10th\n- Service record & Departmental NOC\n- MNIC\n- Registered  Nikkahnama\n- Government School Leaving Certificate\n- Domicile/Local  Certificate\n- Driving license\n- Civil card\n- HQ Approval"
+    },
+    {
+      "question": "What documents are needed to modification the marital status (married) field in  a NICOP to SNICOP?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Marriage certificate\n- Foreign marriage Certificate\nDocuments Required 2: (Bring any of the following)\n- Spouse ID\n- POC\n- POR Card\n- ACC Card"
+    },
+    {
+      "question": "What documents are needed to modification the marital status (divorce) field in a  NICOP to SNICOP?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Divorce certificate\n- Foreign Divorce certificate\n- Affidavit (for  non-Muslim)"
+    },
+    {
+      "question": "What documents are needed to modification the marital status (widow) field in a  NICOP to SNICOP?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Death certificate\n- Foreign death certificate"
+    },
+    {
+      "question": "What documents are needed to modification the religion field in a NICOP to  SNICOP?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Declartion on undertaking  on CNICF"
+    },
+    {
+      "question": "What documents are needed to modification the gender field in a NICOP to  SNICOP?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Medical Certificate"
+    },
+    {
+      "question": "What documents are needed to modification the place of birth field in a NICOP to  SNICOP?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Computerized Birth Certificate\n- Any document having place of Birth"
+    },
+    {
+      "question": "What documents are needed to modification the present address field in a NICOP  to SNICOP?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- computerized  utility bill\n- Residential property document\n- Local Certificate\n- Domicile  certificate\n- PRC Certificate\n- Rent Deed\n- Govt /society Allotment letter"
+    },
+    {
+      "question": "What documents are needed to modification the permanent address field in a  NICOP to SNICOP?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Father CNIC\n- Mother CNIC\n- Spouse ID\n- Sibling_1 ID\n- Domicile/Local  Certificate\n- computerized utility bill\n- Residential property document\n- Local  Certificate\n- Domicile certificate\n- PRC Certificate\n- Govt /society Allotment   letter\n- Affidavit from House owner\n- CNIC of House owner\n- Property  document"
+    },
+    {
+      "question": "What documents are needed to modification the present address(foreign) field in  a NICOP to SNICOP?",
+      "answer": "You can use PAK-ID on your phone or visit the nearest NADRA center. No  documents are required for this procedure."
+    },
+    {
+      "question": "What documents are needed to modification the permanent address (foreign)  field in a NICOP to SNICOP?",
+      "answer": "You can use PAK-ID on your phone or visit the nearest NADRA center. No  documents are required for this procedure."
+    },
+    {
+      "question": "What documents are needed to new a FRC?",
+      "answer": "You can use PAK-ID on your phone or visit the nearest NADRA center. No  documents are required for this procedure."
+    },
+    {
+      "question": "What documents are needed to new a cancellation due to death?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Affdavite for Dup cancellation"
+    },
+    {
+      "question": "What documents are needed to new a cancellation due to Nationality Surrender?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Bring any of the following)\n- Renunciation certificate"
+    },
+    {
+      "question": "What documents are needed to new a Succession Certificate?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Mandatory)\n- Succession Application Form\n- Applicant CNIC/NICOP/POC\n- CNIC copies of all other legal heirs\nDocuments Required 2: (For Deceased Cases)\n- Card cancellation of the deceased\n- Card cancellation of other legal heirs if deceased\nDocuments Required 3: (Family Registration Certificates)\n- FRC Alpha (By Birth)\n- FRC Beta (By Marriage)\nDocuments Required 4: (Asset Documentation)\n- Original asset document for moveable and immoveable assets\nDocuments Required 5: (Authorization Documents)\n- Affidavit/Letter of Authorization as specified in Schedule I\nAdditional Information:\n- As per Rule 4 of the Federal Letters of Administration and Succession Certificate Act, the Authority may require additional evidence or documents from the applicant.\n- The Authority may also make inquiries as deemed necessary."
+    },
+    {
+      "question": "What documents are needed to renewal a Succession Certificate?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Mandatory)\n- Succession Application Form\n- Applicant CNIC/NICOP/POC\n- CNIC copies of all other legal heirs\nDocuments Required 2: (For Deceased Cases)\n- Card cancellation of the deceased\n- Card cancellation of other legal heirs if deceased\nDocuments Required 3: (Family Registration Certificates)\n- FRC Alpha (By Birth)\n- FRC Beta (By Marriage)\nDocuments Required 4: (Asset Documentation)\n- Original asset document for moveable and immoveable assets\nDocuments Required 5: (Authorization Documents)\n- Affidavit/Letter of Authorization as specified in Schedule I\nAdditional Information:\n- As per Rule 4 of the Federal Letters of Administration and Succession Certificate Act, the Authority may require additional evidence or documents from the applicant.\n- The Authority may also make inquiries as deemed necessary."
+    },
+    {
+      "question": "What documents are needed to reprint a Succession Certificate?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Mandatory)\n- Succession Application Form\n- Applicant CNIC/NICOP/POC\n- CNIC copies of all other legal heirs\nDocuments Required 2: (For Deceased Cases)\n- Card cancellation of the deceased\n- Card cancellation of other legal heirs if deceased\nDocuments Required 3: (Family Registration Certificates)\n- FRC Alpha (By Birth)\n- FRC Beta (By Marriage)\nDocuments Required 4: (Asset Documentation)\n- Original asset document for moveable and immoveable assets\nDocuments Required 5: (Authorization Documents)\n- Affidavit/Letter of Authorization as specified in Schedule I\nAdditional Information:\n- As per Rule 4 of the Federal Letters of Administration and Succession Certificate Act, the Authority may require additional evidence or documents from the applicant.\n- The Authority may also make inquiries as deemed necessary."
+    },
+    {
+      "question": "What documents are needed to modification a Succession Certificate?",
+      "answer": "Following documents are required:\nDocuments Required 1: (Mandatory)\n- Succession Application Form\n- Applicant CNIC/NICOP/POC\n- CNIC copies of all other legal heirs\nDocuments Required 2: (For Deceased Cases)\n- Card cancellation of the deceased\n- Card cancellation of other legal heirs if deceased\nDocuments Required 3: (Family Registration Certificates)\n- FRC Alpha (By Birth)\n- FRC Beta (By Marriage)\nDocuments Required 4: (Asset Documentation)\n- Original asset document for moveable and immoveable assets\nDocuments Required 5: (Authorization Documents)\n- Affidavit/Letter of Authorization as specified in Schedule I\nAdditional Information:\n- As per Rule 4 of the Federal Letters of Administration and Succession Certificate Act, the Authority may require additional evidence or documents from the applicant.\n- The Authority may also make inquiries as deemed necessary."
+    },
+    {
+      "question": "What is NADRA",
+      "answer": "NADRA (National Database & Registration Authority) is an autonomous agency under Pakistans Interior Ministry, responsible for managing the national citizen database and issuing identification documents. It ensures secure registration, identity verification for elections, passports, and public services, utilizing advanced biometric systems for data security."
+    },
+    {
+      "question": "What is CNIC",
+      "answer": "CNIC (Computerized National Identity Card) is a national identity card issued by NADRA to Pakistani citizens. It contains biometric data, personal information, and a unique identification number for official identification and verification purposes."
+    },
+    {
+      "question": "What is NICOP",
+      "answer": "NICOP (National Identity Card for Overseas Pakistanis) is a smart identity card issued by NADRA to Pakistani expatriates and dual nationals. It provides official identification, travel, and visa-free entry to Pakistan for overseas Pakistanis."
+    },
+    {
+      "question": "What is SNICOP",
+      "answer": "SNICOP (Smart National Identity Card for Overseas Pakistanis) is a smart identity card issued by NADRA to Pakistani expatriates and dual nationals. It provides official identification, travel, and visa-free entry to Pakistan for overseas Pakistanis."
+    },
+    {
+      "question": "What is FRC",
+      "answer": "FRC (Family Registration Certificate) is a document issued by NADRA that lists family members and their relationships. It is used for legal and official purposes, such as inheritance, succession, and family registration."
+    },
+    {
+      "question": "What is ACC",
+      "answer": "ACC (Alien Card for Afghan Nationals) is an identity card issued by NADRA to registered Afghan refugees in Pakistan. It provides legal status, protection, and access to services for Afghan nationals residing in Pakistan."
+    },
+    {
+      "question": "What is PAK-ID",
+      "answer": "PAK-ID is a digital identity application developed by NADRA for Pakistani citizens to access their identity information, documents, and services online through a mobile application. It allows users to manage their identity, apply for documents, and verify their identity securely. The application is free to download , available on Google Play Store and Apple App Store."
+    },
+    {
+      "question": "What is NADRA KIOSK",
+      "answer": "NADRA KIOSK is a self-service machine installed at NADRA centers for citizens to apply for identity documents, update information, and access services. It provides a convenient and efficient way to interact with NADRA for various needs."
+    }
+  ]
+}

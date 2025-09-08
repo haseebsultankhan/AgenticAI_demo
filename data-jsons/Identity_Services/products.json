@@ -1,0 +1,87 @@
+{
+  "file_name": "products.md",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 20,
+  "qa_data": [
+    {
+      "question": "What types of products does NADRA offer?",
+      "answer": "NADRA offers various types of identity documents and certificates to eligible applicants. These include Identity Cards (National Identity Card, Juvenile Card, Pakistan Origin Card, National Identity Card for Overseas Pakistanis) and Certificates (Cancellation Certificate, Child Registration Certificate, Family Registration Certificate, Succession Certificate)."
+    },
+    {
+      "question": "What is a National Identity Card (NIC)?",
+      "answer": "National Identity Card (NIC) is issued to citizens of Pakistan as a legal form of identification."
+    },
+    {
+      "question": "What is a Juvenile Card and who is it for?",
+      "answer": "Juvenile Card is issued to children under the age of 18 years as their identity document."
+    },
+    {
+      "question": "What is a Pakistan Origin Card (POC)?",
+      "answer": "Pakistan Origin Card (POC) is designed for eligible foreigners with Pakistani roots to help maintain connections with Pakistan."
+    },
+    {
+      "question": "What is NICOP and who can get it?",
+      "answer": "National Identity Card for Overseas Pakistanis (NICOP) is issued to Pakistani citizens living or intending to live abroad."
+    },
+    {
+      "question": "What is a Cancellation Certificate (CC)?",
+      "answer": "Cancellation Certificate (CC) is issued to confirm the cancellation of a record or identity, often in the case of death or legal termination."
+    },
+    {
+      "question": "What is a Child Registration Certificate (CRC)?",
+      "answer": "Child Registration Certificate (CRC) is used to register a newborn into the NADRA database."
+    },
+    {
+      "question": "What is a Family Registration Certificate (FRC)?",
+      "answer": "Family Registration Certificate (FRC) provides a family-level record based on NADRA's database for identification or verification purposes."
+    },
+    {
+      "question": "What is a Succession Certificate?",
+      "answer": "Succession Certificate is issued to the legal successor(s) of a deceased person to facilitate inheritance or legal processes."
+    },
+    {
+      "question": "How many main categories of NADRA products are there?",
+      "answer": "NADRA products are divided into two main categories: Identity Cards (which includes 4 types) and Certificates (which includes 4 types)."
+    },
+    {
+      "question": "What identity documents are available for Pakistani citizens?",
+      "answer": "For Pakistani citizens, NADRA offers National Identity Card (NIC) for those 18 and above, Juvenile Card for children under 18, and National Identity Card for Overseas Pakistanis (NICOP) for those living or intending to live abroad."
+    },
+    {
+      "question": "What documents are available for foreigners with Pakistani connections?",
+      "answer": "Foreigners with Pakistani roots can obtain a Pakistan Origin Card (POC) to help maintain connections with Pakistan."
+    },
+    {
+      "question": "What certificates does NADRA issue for family-related matters?",
+      "answer": "For family-related matters, NADRA issues Child Registration Certificate (CRC) for newborn registration, Family Registration Certificate (FRC) for family-level records, and Succession Certificate for inheritance and legal processes."
+    },
+    {
+      "question": "Which NADRA product is used for newborn registration?",
+      "answer": "Child Registration Certificate (CRC) is used to register a newborn into the NADRA database."
+    },
+    {
+      "question": "What document helps maintain connections with Pakistan for eligible foreigners?",
+      "answer": "Pakistan Origin Card (POC) is designed for eligible foreigners with Pakistani roots to help maintain connections with Pakistan."
+    },
+    {
+      "question": "What certificate is needed for inheritance or legal processes?",
+      "answer": "Succession Certificate is issued to the legal successor(s) of a deceased person to facilitate inheritance or legal processes."
+    },
+    {
+      "question": "What is the main identity document for adult Pakistani citizens?",
+      "answer": "National Identity Card (NIC) is issued to citizens of Pakistan as their main legal form of identification."
+    },
+    {
+      "question": "What certificate confirms the cancellation of a record or identity?",
+      "answer": "Cancellation Certificate (CC) is issued to confirm the cancellation of a record or identity, often in the case of death or legal termination."
+    },
+    {
+      "question": "Which NADRA product provides family-level records for verification?",
+      "answer": "Family Registration Certificate (FRC) provides a family-level record based on NADRA's database for identification or verification purposes."
+    },
+    {
+      "question": "What are all the identity cards offered by NADRA?",
+      "answer": "NADRA offers four types of identity cards: National Identity Card (NIC) for Pakistani citizens, Juvenile Card for children under 18, Pakistan Origin Card (POC) for eligible foreigners with Pakistani roots, and National Identity Card for Overseas Pakistanis (NICOP) for Pakistani citizens living or intending to live abroad."
+    }
+  ]
+}

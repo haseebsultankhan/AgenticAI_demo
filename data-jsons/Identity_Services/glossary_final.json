@@ -1,0 +1,207 @@
+{
+  "file_name": "glossary_final.md",
+  "domain": "Identity_Services", 
+  "total_qa_pairs": 40,
+  "qa_data": [
+    {
+      "question": "What does ACC stand for?",
+      "answer": "ACC stands for Afghan Citizen Card."
+    },
+    {
+      "question": "What is ARC in NADRA terminology?",
+      "answer": "ARC stands for Alien Registration Card."
+    },
+    {
+      "question": "What does BISP mean?",
+      "answer": "BISP stands for Benazir Income Support Program."
+    },
+    {
+      "question": "What is CBRC?",
+      "answer": "CBRC stands for Computerized Birth Registration Certificate."
+    },
+    {
+      "question": "What does CNIC stand for?",
+      "answer": "CNIC stands for Computerized National Identity Card."
+    },
+    {
+      "question": "What is CRC in NADRA services?",
+      "answer": "CRC stands for Child Registration Certificate."
+    },
+    {
+      "question": "What does CSE mean?",
+      "answer": "CSE stands for Customer Service Executive."
+    },
+    {
+      "question": "What is DAU?",
+      "answer": "DAU stands for Data Acquisition Unit."
+    },
+    {
+      "question": "What does DEE stand for?",
+      "answer": "DEE stands for Data Entry Executive."
+    },
+    {
+      "question": "What is DG I&P?",
+      "answer": "DG I&P stands for Directorate General of Immigration and Passport."
+    },
+    {
+      "question": "What does e-KYC mean?",
+      "answer": "e-KYC stands for electronic Know Your Customer."
+    },
+    {
+      "question": "What is ETO?",
+      "answer": "ETO stands for Excise and Taxation Officer."
+    },
+    {
+      "question": "What does FIA stand for?",
+      "answer": "FIA stands for Federal Investigation Agency."
+    },
+    {
+      "question": "What is FRC?",
+      "answer": "FRC stands for Family Registration Certificate."
+    },
+    {
+      "question": "What does GDPR mean?",
+      "answer": "GDPR stands for General Data Protection Regulation."
+    },
+    {
+      "question": "What is HOF in NADRA terminology?",
+      "answer": "HOF stands for Head of Family."
+    },
+    {
+      "question": "What does ICAO stand for?",
+      "answer": "ICAO stands for International Civil Aviation Organization."
+    },
+    {
+      "question": "What is IMPASS?",
+      "answer": "IMPASS stands for Immigration and Passport Services."
+    },
+    {
+      "question": "What does ISO mean?",
+      "answer": "ISO stands for International Organization for Standardization."
+    },
+    {
+      "question": "What is IVR?",
+      "answer": "IVR stands for Interactive Voice Response."
+    },
+    {
+      "question": "What does MOFA stand for?",
+      "answer": "MOFA stands for Ministry of Foreign Affairs."
+    },
+    {
+      "question": "What is MOI?",
+      "answer": "MOI stands for Ministry of Interior."
+    },
+    {
+      "question": "What does MRV mean?",
+      "answer": "MRV stands for Mobile Registration Van."
+    },
+    {
+      "question": "What is NDW?",
+      "answer": "NDW stands for National Data Warehouse."
+    },
+    {
+      "question": "What does NICOP stand for?",
+      "answer": "NICOP stands for National Identity Card for Overseas Pakistanis."
+    },
+    {
+      "question": "What is NID?",
+      "answer": "NID stands for National Identity Document."
+    },
+    {
+      "question": "What does NIMS mean?",
+      "answer": "NIMS stands for National Immunization Management System."
+    },
+    {
+      "question": "What is NRC?",
+      "answer": "NRC stands for NADRA Registration Center."
+    },
+    {
+      "question": "What does PCA stand for?",
+      "answer": "PCA stands for Pakistan Citizenship Act."
+    },
+    {
+      "question": "What is PCO?",
+      "answer": "PCO stands for Public Call Office."
+    },
+    {
+      "question": "What does PIO mean?",
+      "answer": "PIO stands for Public Information Officer."
+    },
+    {
+      "question": "What is POA?",
+      "answer": "POA stands for Power of Attorney."
+    },
+    {
+      "question": "What does POC stand for?",
+      "answer": "POC stands for Pakistan Origin Card."
+    },
+    {
+      "question": "What is POE?",
+      "answer": "POE stands for Proof of Evidence."
+    },
+    {
+      "question": "What does POR mean?",
+      "answer": "POR stands for Proof of Registration."
+    },
+    {
+      "question": "What is PWD?",
+      "answer": "PWD stands for Person with Disabilities."
+    },
+    {
+      "question": "What does RCMS stand for?",
+      "answer": "RCMS stands for Readmission Case Management System."
+    },
+    {
+      "question": "What is SDG?",
+      "answer": "SDG stands for Sustainable Development Goals."
+    },
+    {
+      "question": "What does SESSI mean?",
+      "answer": "SESSI stands for Sindh Employee Social Security Institute."
+    },
+    {
+      "question": "What is SNIC?",
+      "answer": "SNIC stands for Smart National Identity Card."
+    },
+    {
+      "question": "What does UNHCR stand for?",
+      "answer": "UNHCR stands for United Nations High Commissioner for Refugees."
+    },
+    {
+      "question": "What is VRA?",
+      "answer": "VRA stands for Voluntary Repatriation Agreement."
+    },
+    {
+      "question": "What does SMS mean in NADRA services?",
+      "answer": "SMS stands for Short Message Service."
+    },
+    {
+      "question": "What are some security-related abbreviations in NADRA?",
+      "answer": "Security-related abbreviations include: SIEM (Security Information and Event Management), SOAR (Security Orchestration and Automated Response), SOC (Security Operations Center), and SI (System Independent)."
+    },
+    {
+      "question": "What documents are represented by these abbreviations: CBRC, CRC, FRC?",
+      "answer": "CBRC stands for Computerized Birth Registration Certificate, CRC stands for Child Registration Certificate, and FRC stands for Family Registration Certificate."
+    },
+    {
+      "question": "What are the different types of identity cards mentioned in the glossary?",
+      "answer": "The identity cards mentioned include: CNIC (Computerized National Identity Card), SNIC (Smart National Identity Card), NICOP (National Identity Card for Overseas Pakistanis), POC (Pakistan Origin Card), ARC (Alien Registration Card), and ACC (Afghan Citizen Card)."
+    },
+    {
+      "question": "What organizational units are abbreviated in NADRA?",
+      "answer": "Organizational units include: DAU (Data Acquisition Unit), NRC (NADRA Registration Center), MRV (Mobile Registration Van), NDW (National Data Warehouse), and CSE (Customer Service Executive)."
+    },
+    {
+      "question": "What external organizations does NADRA work with based on the glossary?",
+      "answer": "External organizations include: MOFA (Ministry of Foreign Affairs), MOI (Ministry of Interior), FIA (Federal Investigation Agency), UNHCR (United Nations High Commissioner for Refugees), ICAO (International Civil Aviation Organization), and BISP (Benazir Income Support Program)."
+    },
+    {
+      "question": "What technology and system abbreviations are used in NADRA?",
+      "answer": "Technology abbreviations include: e-KYC (electronic Know Your Customer), IVR (Interactive Voice Response), NIMS (National Immunization Management System), RCMS (Readmission Case Management System), and SMS (Short Message Service)."
+    },
+    {
+      "question": "What legal and regulatory terms are abbreviated in the glossary?",
+      "answer": "Legal terms include: PCA (Pakistan Citizenship Act), POA (Power of Attorney), POE (Proof of Evidence), POR (Proof of Registration), GDPR (General Data Protection Regulation), and VRA (Voluntary Repatriation Agreement)."
+    }
+  ]
+}

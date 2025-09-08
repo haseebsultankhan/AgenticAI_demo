@@ -1,0 +1,87 @@
+{
+  "file_name": "change_in_card_final.md",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 20,
+  "qa_data": [
+    {
+      "question": "Why must citizens update changes in their demographic data?",
+      "answer": "Citizens must update any changes in their demographic data to ensure identity verification remains accurate. This helps maintain the integrity and reliability of the national identification system."
+    },
+    {
+      "question": "What documentation is required when making changes to ID card information?",
+      "answer": "Documentation must be provided as per NADRA's registration policy. The specific documents required vary depending on the type of change being requested."
+    },
+    {
+      "question": "How many times can I change my date of birth on my ID card?",
+      "answer": "Date of birth can only be changed once in a lifetime. This is a strict limit to prevent fraudulent alterations of age information."
+    },
+    {
+      "question": "How often can I change my address on my ID card?",
+      "answer": "Addresses can be changed as and when required. There is no specific limit on the number of times you can update your address information."
+    },
+    {
+      "question": "Is there a limit on changing marital status on my ID card?",
+      "answer": "Marital status can be changed as and when required. You can update this field whenever your marital situation changes (marriage, divorce, widowhood)."
+    },
+    {
+      "question": "How many times can I update my mobile number on my ID card?",
+      "answer": "There is no limit on changing your mobile number. You can update your mobile number as many times as needed."
+    },
+    {
+      "question": "Can I change my email address multiple times on my ID card?",
+      "answer": "Yes, there is no limit on changing your email address. You can update your email information as frequently as required."
+    },
+    {
+      "question": "What are the rules for changing my name on my ID card?",
+      "answer": "Name can only be changed once in a lifetime. However, there is a special exception: married females may add or remove their husband's name based on their marital status."
+    },
+    {
+      "question": "Can married women change their name more than once?",
+      "answer": "Yes, married females have a special exception. While the general rule is that name can only be changed once in a lifetime, married females may add or remove their husband's name based on their marital status."
+    },
+    {
+      "question": "What happens in exceptional cases where I need to exceed the standard change limits?",
+      "answer": "In exceptional cases, changes beyond standard limits may be allowed with the consent of the Regional Registration Officer (RRO). You would need to apply for special approval."
+    },
+    {
+      "question": "Who can approve changes beyond the standard limits?",
+      "answer": "The Regional Registration Officer (RRO) has the authority to approve changes beyond standard limits in exceptional cases."
+    },
+    {
+      "question": "What are non-printable fields and how are they handled when changed?",
+      "answer": "Non-printable fields are data fields like education and phone number. When these are updated, the data is changed in the system but a new ID card is not issued. The changes are recorded digitally but don't appear on the physical card."
+    },
+    {
+      "question": "What are printable fields and what happens when I change them?",
+      "answer": "Printable fields are information that appears on the physical ID card, such as name, address, and date of birth. When these are changed, a new ID card is printed with the updated details."
+    },
+    {
+      "question": "Do I get a new card if I change my phone number?",
+      "answer": "No, phone number is a non-printable field. The data is updated in the system but a new ID card is not issued since this information doesn't appear on the physical card."
+    },
+    {
+      "question": "Will I receive a new card if I change my address?",
+      "answer": "Yes, address is a printable field. When you change your address, a new ID card will be printed with the updated address details."
+    },
+    {
+      "question": "What fields can I change without any restrictions?",
+      "answer": "Mobile number and email address can be changed without any restrictions. There is no limit on how many times you can update these fields."
+    },
+    {
+      "question": "Which fields have lifetime change restrictions?",
+      "answer": "Date of birth and name have lifetime change restrictions - they can only be changed once in a lifetime. The exception is that married females can add or remove their husband's name based on marital status."
+    },
+    {
+      "question": "What is the difference between updating education information and name information?",
+      "answer": "Education is a non-printable field, so updating it changes the data in the system but doesn't require a new card. Name is a printable field, so changing it requires printing a new ID card with updated details."
+    },
+    {
+      "question": "Can I change multiple fields at the same time?",
+      "answer": "Yes, you can change multiple fields at the same time. However, each field will be subject to its individual change limits and documentation requirements as per NADRA's registration policy."
+    },
+    {
+      "question": "What should I do if I want to make a change that exceeds the normal limits?",
+      "answer": "If you want to make a change that exceeds normal limits, you should apply through the exception process. This requires consent from the Regional Registration Officer (RRO) who will evaluate your case for exceptional circumstances."
+    }
+  ]
+}

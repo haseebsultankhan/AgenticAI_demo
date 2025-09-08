@@ -1,0 +1,107 @@
+{
+  "file_name": "eligibility_final.md",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 25,
+  "qa_data": [
+    {
+      "question": "What is the general requirement for registration with NADRA?",
+      "answer": "For registration, the applicant must first prove their eligibility for the specific ID card by providing the required original documentary evidence. It is important to note that as per Section 30 (1) of the NADRA Ordinance, it is a criminal offence to provide false or misleading information or fake documents."
+    },
+    {
+      "question": "What are the eligibility criteria for a National Identity Card (NIC)?",
+      "answer": "To be eligible for a National Identity Card (NIC), the applicant must be a Pakistani Citizen who is 18 years or above. This is based on Section 10 of the NADRA Ordinance."
+    },
+    {
+      "question": "What documents are required for a National Identity Card (NIC)?",
+      "answer": "Required documents for NIC include: Birth Certificate, Certificate of Citizenship, Blood Relative/Head of Family's National ID Card or other proof of citizenship. In exceptional cases, other documentary proof may suffice."
+    },
+    {
+      "question": "Who is eligible for a Juvenile Card?",
+      "answer": "Pakistani Citizens who are under 18 years of age are eligible for a Juvenile Card. This is based on Section 9 of the NADRA Ordinance."
+    },
+    {
+      "question": "What documents are needed for a Juvenile Card?",
+      "answer": "Required documents for Juvenile Card include: Birth Certificate or Child Registration Certificate (B-Form), Blood Relative/Head of Family's National ID Card. In exceptional cases, other proof such as pre-1979 government-issued documents may be accepted."
+    },
+    {
+      "question": "What is NICOP and who can apply for it?",
+      "answer": "NICOP (National Identity Card for Overseas Pakistanis) is for Non-Resident Pakistanis or those intending to reside abroad. This is based on Section 12 of the NADRA Ordinance."
+    },
+    {
+      "question": "What documents are required for NICOP?",
+      "answer": "Required documents for NICOP include: Birth Certificate, Blood Relative/Head of Family's National ID Card, Proof of overseas residence. In exceptional cases, pre-1979 official documents may be accepted."
+    },
+    {
+      "question": "Who is eligible for a Child Registration Certificate (CRC)?",
+      "answer": "Pakistani Citizens who are under 18 years of age are eligible for a Child Registration Certificate (CRC). This is based on Section 9 of the NADRA Ordinance."
+    },
+    {
+      "question": "What documents are required for a Child Registration Certificate (CRC)?",
+      "answer": "The only required document for CRC is a Birth Certificate."
+    },
+    {
+      "question": "Who can apply for a Pakistan Origin Card (POC)?",
+      "answer": "POC (Pakistan Origin Card) is available to a prescribed class of foreigners or dual nationals. This is based on Section 11 of the NADRA Ordinance."
+    },
+    {
+      "question": "What documents are needed for a Pakistan Origin Card (POC)?",
+      "answer": "Required documents for POC include: Old Pakistani passport, MNIC, parent's ID documents, Foreign Passport, and Registered Marriage Certificate (if applicable)."
+    },
+    {
+      "question": "Who is eligible for an Alien Registration Card?",
+      "answer": "Foreigners legally residing in Pakistan (except restricted nationalities) are eligible for an Alien Registration Card. This is based on Section 13 and Section 14-D of the Foreigners Act 1946."
+    },
+    {
+      "question": "What documents are required for an Alien Registration Card?",
+      "answer": "Required documents for Alien Registration Card include: Foreign Passport and Valid Pakistani Visa."
+    },
+    {
+      "question": "What is a Cancellation Certificate and who needs it?",
+      "answer": "A Cancellation Certificate (Due to Death) is for deceased Pakistani citizens who had a 13-digit registration number. This is based on Section 17 of the NADRA Ordinance."
+    },
+    {
+      "question": "What documents are required for a Cancellation Certificate due to death?",
+      "answer": "The required document is a Death certificate issued by Union Council or foreign authority."
+    },
+    {
+      "question": "What is the legal consequence of providing false information to NADRA?",
+      "answer": "As per Section 30 (1) of the NADRA Ordinance, it is a criminal offence to provide false or misleading information or fake documents when applying for NADRA services."
+    },
+    {
+      "question": "Can someone under 18 years apply for a regular CNIC?",
+      "answer": "No, someone under 18 years cannot apply for a regular National Identity Card (NIC). They are eligible for either a Juvenile Card or Child Registration Certificate (CRC), both of which are for Pakistani Citizens under 18 years."
+    },
+    {
+      "question": "What is the difference between eligibility for Juvenile Card and CRC?",
+      "answer": "Both Juvenile Card and Child Registration Certificate (CRC) have the same basic eligibility - Pakistani Citizens under 18 years of age, based on Section 9 of the NADRA Ordinance. However, they differ in required documentation, with CRC requiring only a Birth Certificate while Juvenile Card requires additional documents."
+    },
+    {
+      "question": "Can foreigners apply for Pakistani identity documents?",
+      "answer": "Foreigners can apply for specific identity documents: Alien Registration Card (for foreigners legally residing in Pakistan, except restricted nationalities) or Pakistan Origin Card (POC) if they belong to a prescribed class of foreigners or are dual nationals."
+    },
+    {
+      "question": "What proof of overseas residence is needed for NICOP?",
+      "answer": "The eligibility criteria mention that proof of overseas residence is required for NICOP, though specific details of acceptable proof would need to be confirmed from NADRA's detailed documentation policy available at their website."
+    },
+    {
+      "question": "Are there any restrictions on which foreigners can get Alien Registration Cards?",
+      "answer": "Yes, Alien Registration Cards are available to foreigners legally residing in Pakistan, but there are exceptions for restricted nationalities. The specific restricted nationalities would be defined in the detailed policy."
+    },
+    {
+      "question": "What are pre-1979 government-issued documents and when are they accepted?",
+      "answer": "Pre-1979 government-issued documents are historical identification documents issued before 1979. They may be accepted in exceptional cases as alternative proof for Juvenile Card applications when standard documents are not available."
+    },
+    {
+      "question": "Can dual nationals apply for Pakistani identity documents?",
+      "answer": "Yes, dual nationals who belong to a prescribed class can apply for Pakistan Origin Card (POC) based on Section 11 of the NADRA Ordinance."
+    },
+    {
+      "question": "What is the legal basis for each type of NADRA identity document?",
+      "answer": "Each document has specific legal basis: National Identity Card (Section 10), Juvenile Card and CRC (Section 9), NICOP (Section 12), POC (Section 11), Alien Registration Card (Section 13 and Section 14-D of Foreigners Act 1946), and Cancellation Certificate (Section 17)."
+    },
+    {
+      "question": "Where can I find detailed documentation policy for NADRA services?",
+      "answer": "For detailed documentation policy, you can visit: https://www.nadra.gov.pk/download/registration-policy/"
+    }
+  ]
+}

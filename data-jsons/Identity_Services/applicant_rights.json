@@ -1,0 +1,67 @@
+{
+  "file_name": "applicant_rights_final.md",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 15,
+  "qa_data": [
+    {
+      "question": "What are the basic rights of an applicant when applying for NADRA services?",
+      "answer": "Applicants have comprehensive rights including: Timely Service (receiving ID card within specified timeframe), Accurate Processing (error-free information recording), Transparent Procedures (understanding requirements and fees), Fair Treatment (respectful non-discriminatory service), Access to Information (accessing and correcting personal records), Data Privacy and Security (protection from unauthorized access), Grievance Redressal (complaint submission and resolution), Special Assistance (accommodations for disabilities), Fee Transparency (knowing official fees without hidden charges), and Accountability (holding NADRA accountable for service quality)."
+    },
+    {
+      "question": "What is meant by the right to timely service in NADRA?",
+      "answer": "The right to timely service means applicants have the right to receive their ID card within a specified timeframe, with clear updates on application status throughout the process."
+    },
+    {
+      "question": "What does the right to accurate processing guarantee?",
+      "answer": "The right to accurate processing guarantees that personal information will be recorded and processed without error during the application process."
+    },
+    {
+      "question": "What are transparent procedures in NADRA services?",
+      "answer": "Transparent procedures mean applicants have the right to understand procedures, required documents, and official fees clearly before and during the application process."
+    },
+    {
+      "question": "What constitutes fair treatment for NADRA applicants?",
+      "answer": "Fair treatment means applicants have the right to respectful and non-discriminatory service regardless of their background, status, or personal characteristics."
+    },
+    {
+      "question": "What access to information rights do applicants have?",
+      "answer": "Applicants have the right to access and correct their personal records maintained by NADRA."
+    },
+    {
+      "question": "How is data privacy and security protected for NADRA applicants?",
+      "answer": "Applicants have the right to have their personal data protected from unauthorized access, ensuring confidentiality and security of their information."
+    },
+    {
+      "question": "What is the grievance redressal right?",
+      "answer": "The grievance redressal right allows applicants to submit complaints about NADRA services and receive timely resolutions to their concerns."
+    },
+    {
+      "question": "What special assistance rights exist for disabled applicants?",
+      "answer": "Applicants have the right to accommodations in case of disability or special needs to ensure equal access to NADRA services."
+    },
+    {
+      "question": "What does fee transparency mean for NADRA services?",
+      "answer": "Fee transparency means applicants have the right to know official fees without hidden charges or overpricing before paying for any service."
+    },
+    {
+      "question": "What accountability rights do applicants have against NADRA?",
+      "answer": "Applicants have the right to hold NADRA accountable for service quality and to escalate issues if needed when services do not meet standards."
+    },
+    {
+      "question": "Can applicants demand error-free processing of their applications?",
+      "answer": "Yes, applicants have the right to accurate processing, which means their personal information must be recorded and processed without error."
+    },
+    {
+      "question": "Are applicants entitled to know about hidden fees in NADRA services?",
+      "answer": "Yes, applicants have the right to fee transparency, which means they must be informed of all official fees without any hidden charges or overpricing."
+    },
+    {
+      "question": "Do applicants have the right to complain about poor NADRA services?",
+      "answer": "Yes, applicants have the right to grievance redressal, which includes submitting complaints and receiving timely resolutions for any service-related issues."
+    },
+    {
+      "question": "What happens if NADRA violates an applicant's rights?",
+      "answer": "Applicants have the right to accountability, which means they can hold NADRA accountable for service quality and escalate issues through proper channels if their rights are violated or services do not meet standards."
+    }
+  ]
+}

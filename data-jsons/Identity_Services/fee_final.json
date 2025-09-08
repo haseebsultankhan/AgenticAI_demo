@@ -1,0 +1,147 @@
+{
+  "file_name": "fee_final.md",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 35,
+  "qa_data": [
+    {
+      "question": "What is the fee structure effective date and where can I find updated fees?",
+      "answer": "The fee structure is effective as of 16 Sep 2024. The updated list may be checked from the NADRA website: https://www.nadra.gov.pk/fee-structure."
+    },
+    {
+      "question": "What is the fee for a new CNIC?",
+      "answer": "New CNIC fees are: Normal processing - PKR 0 (free), Urgent processing - PKR 1,150, Executive processing - PKR 2,150."
+    },
+    {
+      "question": "How much does CNIC modification, duplicate, or renewal cost?",
+      "answer": "CNIC Modification/Duplicate/Renewal fees are: Normal processing - PKR 400, Urgent processing - PKR 1,150, Executive processing - PKR 2,150."
+    },
+    {
+      "question": "What are the fees for Smart NIC services?",
+      "answer": "New Smart NIC/Modification/Duplicate/Renewal fees are: Normal processing - PKR 750, Urgent processing - PKR 1,500, Executive processing - PKR 2,500."
+    },
+    {
+      "question": "Is there any fee for CNIC cancellation due to death?",
+      "answer": "No, CNIC cancellation due to death is free of cost (PKR 0)."
+    },
+    {
+      "question": "What are the fees for Child Registration Certificate (CRC)?",
+      "answer": "CRC New/Duplicate/Modification fees are: Normal processing - PKR 50, Executive processing - PKR 500."
+    },
+    {
+      "question": "How much does a Family Registration Certificate (FRC) cost?",
+      "answer": "FRC costs PKR 1,000 for Executive processing only."
+    },
+    {
+      "question": "What are NICOP fees for Zone A countries (USA/Europe)?",
+      "answer": "For Zone A (USA/Europe): Regular NICOP - Normal $36, Urgent $54, Executive $72. Smart NICOP - Normal $39, Urgent $57, Executive $75."
+    },
+    {
+      "question": "What are NICOP fees for Zone B countries (Middle East/Africa)?",
+      "answer": "For Zone B (Middle East/Africa): Regular NICOP - Normal $17, Urgent $27, Executive $37. Smart NICOP - Normal $20, Urgent $30, Executive $40."
+    },
+    {
+      "question": "What are the fees for Smart POC services?",
+      "answer": "Smart POC fees: New POC/Renewal - Normal $150, Urgent $200, Executive $200. POC Modification/Duplicate - Normal $200, Urgent $250, Executive $300."
+    },
+    {
+      "question": "How much does POC cancellation cost?",
+      "answer": "POC cancellation fees are: Due to Death/Divorce - $5, Due to Surrender of Nationality - $15."
+    },
+    {
+      "question": "What are Succession Certificate fees in Islamabad?",
+      "answer": "Islamabad Succession Certificate fees: New/Fresh Application - Assets ≥100,000: Rs.20,000, Assets <100,000: Rs.10,000. Duplicate: Rs.5,000. Amendment: Rs.5,000. Decline Certificate - Assets ≥100,000: Rs.15,000, Assets <100,000: Rs.5,000. Office Mistake: Free."
+    },
+    {
+      "question": "What are Succession Certificate fees in Sindh?",
+      "answer": "Sindh Succession Certificate fees: New/Fresh Application - Assets ≥100,000: Rs.22,000, Assets <100,000: Rs.10,000. Duplicate: Rs.5,000. Amendment: Rs.5,000. Decline Certificate - Assets ≥100,000: Rs.17,000, Assets <100,000: Rs.5,000. Office Mistake: Free."
+    },
+    {
+      "question": "Are Succession Certificate fees the same in all provinces?",
+      "answer": "No, Succession Certificate fees vary by province. Sindh has higher fees (Rs.22,000 for assets ≥100,000) compared to Punjab, KPK, and Balochistan (Rs.20,000), while Islamabad/Federal follows the Rs.20,000 structure."
+    },
+    {
+      "question": "What payment modes are accepted for NADRA services?",
+      "answer": "Accepted payment modes include: Cash, Credit Card, Debit Card, e-Sahulat Franchise, Easypaisa, and JazzCash."
+    },
+    {
+      "question": "What is the payment mode for Succession Certificate?",
+      "answer": "For Succession Certificate, the payment mode is CASH ONLY."
+    },
+    {
+      "question": "Can I pay NICOP fees in Pakistani Rupees?",
+      "answer": "Yes, NICOP fees may be paid in PKR based on the official conversion rate applicable on the application date, even though they are listed in USD."
+    },
+    {
+      "question": "What is the difference between Normal, Urgent, and Executive processing?",
+      "answer": "The three processing categories have different fees and delivery timelines: Normal (lowest fee, longest time), Urgent (medium fee, medium time), and Executive (highest fee, fastest delivery). Specific delivery times vary by service type."
+    },
+    {
+      "question": "Are there any free NADRA services?",
+      "answer": "Yes, several services are free: New CNIC (Normal processing), CNIC cancellation due to death, and Office Mistake corrections for all services."
+    },
+    {
+      "question": "What determines the Succession Certificate fee amount?",
+      "answer": "Succession Certificate fees are determined by two factors: the province where you're applying and the total value of deceased assets (whether ≥100,000 or <100,000 rupees)."
+    },
+    {
+      "question": "How much more expensive is Smart NICOP compared to regular NICOP?",
+      "answer": "Smart NICOP is $3 more expensive than regular NICOP across all processing types and zones. For example, in Zone A: Normal NICOP $36 vs Smart NICOP $39."
+    },
+    {
+      "question": "What is the most expensive NADRA service?",
+      "answer": "POC Modification/Duplicate in Executive processing is among the most expensive at $300, followed by POC services and then NICOP services depending on the zone."
+    },
+    {
+      "question": "Can I get a discount on NADRA fees?",
+      "answer": "Office Mistake corrections are provided free of cost for all services. Otherwise, the fee structure is standardized with no general discounts mentioned."
+    },
+    {
+      "question": "What happens if I need to modify my POC?",
+      "answer": "POC Modification costs: Normal processing $200, Urgent processing $250, Executive processing $300. This is more expensive than new POC issuance."
+    },
+    {
+      "question": "Are Zone A countries more expensive than Zone B for NICOP?",
+      "answer": "Yes, Zone A (USA/Europe) NICOP fees are significantly higher than Zone B (Middle East/Africa). For example, Normal NICOP: Zone A $36 vs Zone B $17."
+    },
+    {
+      "question": "What is the fee difference between CRC Normal and Executive processing?",
+      "answer": "CRC Executive processing (PKR 500) costs 10 times more than Normal processing (PKR 50), but offers faster service delivery."
+    },
+    {
+      "question": "Do Succession Certificate decline fees vary by province?",
+      "answer": "Yes, Decline Certificate fees vary by province. Sindh charges Rs.17,000 for assets ≥100,000, while other provinces charge Rs.15,000 for the same category."
+    },
+    {
+      "question": "Can I pay for overseas services through Pakistani payment methods?",
+      "answer": "The fee schedule shows various Pakistani payment methods (Easypaisa, JazzCash, etc.), and fees can be paid in PKR based on official conversion rates, making it accessible for overseas applicants."
+    },
+    {
+      "question": "What is the cheapest NADRA service available?",
+      "answer": "The cheapest services are: New CNIC (Normal) - Free, CNIC cancellation due to death - Free, and CRC (Normal) at PKR 50."
+    },
+    {
+      "question": "Are amendment and duplicate fees the same for Succession Certificates?",
+      "answer": "Yes, both Amendment Application and Duplicate Application for Succession Certificates cost Rs.5,000 across all provinces."
+    },
+    {
+      "question": "How do I know which zone my country falls under for NICOP fees?",
+      "answer": "Zone A includes USA/Europe with higher fees ($36-75), while Zone B includes Middle East/Africa with lower fees ($17-40). Contact NADRA for specific country classifications."
+    },
+    {
+      "question": "Can I upgrade from Normal to Urgent processing after application?",
+      "answer": "The fee structure shows different processing categories, but you would need to contact NADRA directly to confirm if upgrades are possible and what additional fees may apply."
+    },
+    {
+      "question": "What does 'Office Mistake' mean in the fee structure?",
+      "answer": "Office Mistake refers to errors made by NADRA staff during processing. Corrections for such mistakes are provided free of cost across all services."
+    },
+    {
+      "question": "Why are POC services more expensive than NICOP?",
+      "answer": "POC (Pakistan Origin Card) is for foreigners and dual nationals, while NICOP is for Pakistani citizens living abroad. POC services ($150-300) are priced higher than NICOP services ($17-75) due to different processing requirements."
+    },
+    {
+      "question": "Are there any additional charges beyond the listed fees?",
+      "answer": "The fee structure shows the main service charges. However, you should verify with NADRA if there are any additional processing or service charges not listed in this basic fee schedule."
+    }
+  ]
+}

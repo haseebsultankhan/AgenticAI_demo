@@ -1,0 +1,55 @@
+{
+  "file_name": "biometric_update.md",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 12,
+  "qa_data": [
+    {
+      "question": "What is a biometric update in NADRA services?",
+      "answer": "A biometric update is a process where NADRA captures and updates fingerprints and facial biometric data for identity documents when there are authentication issues or system problems during initial registration."
+    },
+    {
+      "question": "Is there any fee for biometric updates?",
+      "answer": "No, biometric updates are performed free of charge if there are authentication issues or if the system was unavailable during registration."
+    },
+    {
+      "question": "When are biometric updates done free of charge?",
+      "answer": "Biometric updates are performed free of charge in two specific situations: when there are authentication issues with existing biometrics, or when the system was unavailable during the original registration process."
+    },
+    {
+      "question": "What happens if there are authentication issues with my biometrics?",
+      "answer": "If there are authentication issues with your biometrics, NADRA will perform a biometric update free of charge to resolve the authentication problems."
+    },
+    {
+      "question": "Do I need to pay if the system was unavailable during my registration?",
+      "answer": "No, if the system was unavailable during your original registration, NADRA will perform the biometric update free of charge."
+    },
+    {
+      "question": "What are authentication issues in biometric systems?",
+      "answer": "Authentication issues refer to problems where the biometric system cannot properly verify or match your fingerprints or facial features, requiring an update to capture clearer biometric data."
+    },
+    {
+      "question": "Can I get a free biometric update if I paid for my original registration?",
+      "answer": "Yes, you can get a free biometric update if there are authentication issues with your biometrics or if the system was unavailable during your original registration, regardless of whether you paid for the initial registration."
+    },
+    {
+      "question": "What should I do if my biometrics are not working properly?",
+      "answer": "If your biometrics are not working properly due to authentication issues, you should visit a NADRA center for a free biometric update to resolve the problem."
+    },
+    {
+      "question": "Are there any conditions for free biometric updates?",
+      "answer": "Yes, free biometric updates are only provided when there are authentication issues or when the system was unavailable during the original registration. Other reasons may incur charges."
+    },
+    {
+      "question": "What types of biometric data are updated during a biometric update?",
+      "answer": "During a biometric update, NADRA typically captures and updates fingerprints and facial biometric data to ensure proper authentication and verification."
+    },
+    {
+      "question": "How do I know if I need a biometric update?",
+      "answer": "You may need a biometric update if you experience authentication issues when using NADRA services, or if you were told during registration that the system was unavailable and biometrics couldn't be properly captured."
+    },
+    {
+      "question": "Where can I get a biometric update done?",
+      "answer": "You can get a biometric update done at any NADRA Data Acquisition Unit (DAU) or National Registration Center (NRC) where biometric capture facilities are available."
+    }
+  ]
+}

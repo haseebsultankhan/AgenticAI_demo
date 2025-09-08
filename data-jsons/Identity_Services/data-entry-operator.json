@@ -1,0 +1,191 @@
+{
+  "file_name": "data-entry-operator.md",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 45,
+  "qa_data": [
+    {
+      "question": "What is NADRA and what are its main functions?",
+      "answer": "The National Database and Registration Authority (NADRA) is an independent and autonomous body that manages the registration and database of all citizens of Pakistan. Its main functions include: issuing Computerized National Identity Cards to Pakistani citizens, issuing registration documents to non-Pakistanis/foreigners (POCs and Alien Registration Cards), registering vital events (births, deaths, marriages, divorces), maintaining a comprehensive national database with demographic and biometric data, providing identity verification services to public and private institutions, supporting e-governance initiatives, and ensuring data security and integrity."
+    },
+    {
+      "question": "When was NADRA established and how?",
+      "answer": "On March 10, 2000, the National Database Organization (NDO) and the Directorate General of Registration (DGR) were merged to form the National Database and Registration Authority (NADRA) as an autonomous (statutory) body."
+    },
+    {
+      "question": "What is NADRA's vision?",
+      "answer": "NADRA's vision is to emerge as the leading organization in citizen registration and identity management, maintain a secure national database by leveraging modern technology and robust cybersecurity measures, remain committed to promoting social development through digital services, align efforts with the United Nations' Sustainable Development Goals (UN SDGs), and follow international best practices to ensure inclusive and sustainable development for all."
+    },
+    {
+      "question": "What is meant by citizen registration according to NADRA?",
+      "answer": "Citizen registration means that every citizen within or outside Pakistan who is eighteen years of age shall be registered. Parents or guardians of every citizen should register their child within one month of birth. At the time of citizen registration, the applicant's biometric data and family data are recorded in the database."
+    },
+    {
+      "question": "What is biometrics in NADRA terminology?",
+      "answer": "Biometrics means fingerprints, facial images, and IRIS scans of the applicant's eye pupils. It can be used for the identification of individuals."
+    },
+    {
+      "question": "What is CNICF and what is its purpose?",
+      "answer": "CNICF is issued after entering the applicant's details, which the applicant verifies to confirm that all entered details are correct. It serves as a confirmation document before final processing."
+    },
+    {
+      "question": "Who is an attester or biometric verifier?",
+      "answer": "An attester is a person who verifies the information entered in the applicant's CNICF. Attesters can be government employees or public representatives. Biometric verification can be done by blood relatives."
+    },
+    {
+      "question": "What does application rejection mean?",
+      "answer": "Application rejection means the stoppage of an application due to a lack of applicant data, system checks, or errors."
+    },
+    {
+      "question": "What is a Tracking ID?",
+      "answer": "Tracking ID is a unique number issued by the automated system against each application, which also includes the NRC code."
+    },
+    {
+      "question": "What does 'Under Verification' status mean?",
+      "answer": "It refers to the complete checking of the details provided by the applicant by the Zonal Board when the OIC uploads the application form."
+    },
+    {
+      "question": "What is validation in NADRA processing?",
+      "answer": "Validation is the process of re-verification and checking at the zonal level after uploading from NRC."
+    },
+    {
+      "question": "What does Office Mistake (OM) mean?",
+      "answer": "An error made while entering applicant data, which can be corrected without a fee."
+    },
+    {
+      "question": "What laws are applicable to NADRA employees?",
+      "answer": "NADRA Employees Service Regulations (NESR) 2002 are applicable to NADRA employees. Additionally, Industrial and Commercial Employment Ordinance 1964 and Factories Act 1973 also apply."
+    },
+    {
+      "question": "What is the probation period for a NADRA employee?",
+      "answer": "The probation period for an employee is one year."
+    },
+    {
+      "question": "What is the retirement age for NADRA employees?",
+      "answer": "The retirement age for NADRA employees is 60 years."
+    },
+    {
+      "question": "How is work and performance evaluated in NADRA?",
+      "answer": "Work and performance in NADRA are evaluated based on various factors: Annual Appraisal Report (AAR), Performance during the year, Key Performance Indicators (KPIs), and Disciplinary record."
+    },
+    {
+      "question": "What are the penalties for negligence in protecting NADRA's database according to section 29?",
+      "answer": "An employee who is negligent in protecting the database and NADRA's information systems, attempts to damage Authority's records, assists in altering database data, or provides unauthorized access to the database may face disciplinary action and penalties."
+    },
+    {
+      "question": "What are the penalties under section 30 of the NADRA Ordinance for individuals?",
+      "answer": "According to section 30, a person may face imprisonment for up to six (6) months and a fine of fifty thousand (50,000) rupees for: obtaining multiple ID cards, providing false information, damaging or altering ID cards, violating section 17 provisions, failing to apply for ID card within 90 days of turning 18, or violating NADRA rules and regulations."
+    },
+    {
+      "question": "What are the more serious penalties under section 30 for repeat offenses?",
+      "answer": "A person may face imprisonment for up to five (5) years and a fine of one hundred thousand (100,000) rupees for: obtaining forged identity cards, possessing or using forged cards, making equipment for forging cards, unlawfully possessing another person's ID card, willfully providing false information, or obstructing officers in their duties. If repeated, punishment may be doubled, and NADRA employees may face termination."
+    },
+    {
+      "question": "What is SNICOP and who is it issued to?",
+      "answer": "SNICOP (Smart National Identity Card for Overseas Pakistanis) is issued to Pakistani citizens or those holding dual nationality who live abroad. The Smart National Identity Card for Overseas Pakistanis facilitates visa-free entry to Pakistan for individuals residing abroad."
+    },
+    {
+      "question": "What is the monitoring procedure at the NRC level?",
+      "answer": "The NADRA Center In-charge (OIC) is responsible for daily monitoring of DEO performance and application processing quality. The OIC reviews applications processed by DEOs for accuracy, completeness of documents, and adherence to policies before final submission. DEOs are responsible for accurately capturing data, scanning documents, and ensuring proper verification. The OIC provides feedback to DEOs on any errors or discrepancies found during review."
+    },
+    {
+      "question": "What is the monitoring procedure at the Zonal level?",
+      "answer": "The Zonal office conducts periodic and surprise inspections of NRCs to monitor DEO performance, adherence to SOPs, and overall operational efficiency. This may involve reviewing DEO logs and processed applications."
+    },
+    {
+      "question": "What is the monitoring procedure at the RHO level?",
+      "answer": "The Regional Head Office (RHO) oversees the performance of all NRCs within its region through regular reports and feedback from Zonal offices. M&E (Monitoring and Evaluation) teams from RHO may also conduct audits and inspections of NRCs and Zonal offices."
+    },
+    {
+      "question": "Why is it important to follow Data Security Guidelines?",
+      "answer": "Following Data Security Guidelines is important to ensure: Data Confidentiality, Data Integrity, Protection against Cyber Threats, and Compliance with NADRA's policies."
+    },
+    {
+      "question": "What are the consequences of violating Data Security Policy?",
+      "answer": "Disciplinary action against the employee, including penalties mentioned in Chapter 2."
+    },
+    {
+      "question": "What are the potential cyber threats identified by NADRA?",
+      "answer": "The potential cyber threats include: Unauthorized access to employee's system, Phishing attacks, Malware/Viruses, Use of unauthorized USB drives, Data leakage, and Zero-day threats."
+    },
+    {
+      "question": "What are the key points of Data Security Policy for DEOs?",
+      "answer": "Key points include: Maintain confidentiality of data and information, Adhere to Information Security and Data Protection policies for all online activities, Recognize that data is a valuable asset, Do not share your password and change it regularly, Always log in to the system with your own ID, Do not share your login credentials (username/password), Keep your system locked when not in use."
+    },
+    {
+      "question": "What is the purpose of OneApp?",
+      "answer": "The purpose of OneApp is to improve the efficiency of all FTRC (Fast Track Registration Centers) processes."
+    },
+    {
+      "question": "What are the features of OneApp?",
+      "answer": "OneApp features include: Offline mode, Integration with CRMS data for birth registration verification, Online verification of applicant's data, Dashboard for performance monitoring, Application tracking, Quality control checks, Distant Verification (Biometric verification from remote locations), and Integration with other NADRA systems and databases."
+    },
+    {
+      "question": "What are the essential points of Applicant Handling for DEOs?",
+      "answer": "Essential points include: Greet applicants with respect and courtesy, Listen carefully to queries and seek clarification if needed, Maintain professional demeanor and avoid arguments, Handle emotional or agitated applicants with patience, Be mindful of applicant's time and avoid delays, Provide clear and accurate information, Ensure priority for applicants with special needs (elderly, disabled, pregnant women), Maintain clean and organized workstation, Adhere to NADRA's dress code and code of conduct, Be polite and cooperative, Refer complex issues to NADRA center in-charge, Focus on work and avoid distractions."
+    },
+    {
+      "question": "What are the common errors during data entry by DEOs?",
+      "answer": "Common errors include: Incorrect spelling (especially in names), Incorrect Date of Birth, Incorrect Address (incomplete present and permanent addresses), Incorrect Attestation (using invalid attester's CNIC), Incorrect Scanning (documents not scanned clearly or illegibly), Incorrect CNIC Entry (wrong CNIC numbers), Incorrect Photograph (blurry or non-standard photos), Incorrect entry of parent's name, and Incorrect entry of FTRC Token Number."
+    },
+    {
+      "question": "What are the DO's for DEOs regarding system security?",
+      "answer": "DO's include: Change your system password regularly, Maintain confidentiality of data and information, Adhere to IS (Information Security) and Data Protection policies for all online activities, and Secure your workstation and change your password regularly."
+    },
+    {
+      "question": "What are the DON'Ts for DEOs regarding system security?",
+      "answer": "DON'Ts include: Do not share official email/system credentials with anyone or use them on untrusted networks, Do not share login credentials (username/password), Do not leave your system unlocked, Do not use easily guessable passwords related to personal information, Do not click on suspicious links and report such emails to IT department, and Do not use unauthorized software/applications."
+    },
+    {
+      "question": "What does DAU stand for and what is its function?",
+      "answer": "DAU stands for Data Acquisition Unit (Registration Unit). It is a facility where citizen registration and data collection activities are performed."
+    },
+    {
+      "question": "What does NRC mean in NADRA terminology?",
+      "answer": "NRC means NADRA Registration Center, which is a facility where citizens can apply for various NADRA services and documents."
+    },
+    {
+      "question": "What is MRV in NADRA services?",
+      "answer": "MRV means Mobile Registration Van, which provides NADRA services in remote or underserved areas where permanent centers may not be available."
+    },
+    {
+      "question": "What does DUP mean in NADRA processing?",
+      "answer": "DUP means an individual holds one or more identity documents, indicating a potential duplication issue that needs to be resolved."
+    },
+    {
+      "question": "What is FTRC and its significance?",
+      "answer": "FTRC refers to Fast Track Registration Center, which is designed to provide expedited NADRA services. The OneApp application has been specifically developed for FTRCs to improve efficiency."
+    },
+    {
+      "question": "What does AFIS stand for and what is its purpose?",
+      "answer": "AFIS refers to Automated Fingerprint Identification System, which is used for biometric identification and verification of individuals through their fingerprints."
+    },
+    {
+      "question": "What is the role of UC (Union Council) in NADRA operations?",
+      "answer": "The Union Council office operates under the provincial local government and is NADRA's stakeholder in the Civil Registration Management System (CRMS), particularly for vital events registration."
+    },
+    {
+      "question": "What happens if an applicant already holds a POC/NICOP when applying for CRC?",
+      "answer": "An applicant cannot apply for CRC if they already hold POC/NICOP, as these are different categories of identity documents with specific eligibility criteria."
+    },
+    {
+      "question": "What should be done if a parent's CNIC is lost during the application process?",
+      "answer": "The applicant should be advised that the parent should apply for a duplicate CNIC first before proceeding with the dependent's application."
+    },
+    {
+      "question": "What is the procedure when a Twin Flag is raised by the system?",
+      "answer": "When a Twin Flag is raised by the system, the case should be referred to the Zonal Verification Officer for further investigation and resolution."
+    },
+    {
+      "question": "What guidance is available for DEOs in NRCs?",
+      "answer": "Guidance for DEOs includes: This guidebook serves as a primary reference, The NADRA system has built-in validations and prompts for data entry guidance, and Zonal officers provide guidance and support for application processing and system usage."
+    },
+    {
+      "question": "What are dual nationality countries in NADRA context?",
+      "answer": "Dual nationality countries are countries with which Pakistani citizens are allowed to have dual citizenship, making them eligible for specific NADRA documents like SNICOP."
+    },
+    {
+      "question": "What is the significance of data being a valuable asset according to NADRA policy?",
+      "answer": "Recognizing data as a valuable asset emphasizes the importance of protecting citizen information, maintaining confidentiality, ensuring proper handling procedures, and preventing unauthorized access or misuse of personal and biometric data stored in NADRA's systems."
+    }
+  ]
+}

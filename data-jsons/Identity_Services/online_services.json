@@ -1,0 +1,55 @@
+{
+  "file_name": "online_services.md",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 12,
+  "qa_data": [
+    {
+      "question": "What online services does NADRA provide?",
+      "answer": "NADRA provides online services through a mobile application called 'PAK-ID' which is available on both Android and iOS platforms. This mobile application enhances accessibility by allowing users to complete various registration and verification processes from their smartphones."
+    },
+    {
+      "question": "What is PAK-ID?",
+      "answer": "PAK-ID is a digital identity application developed by NADRA for Pakistani citizens to access their identity information, documents, and services online through a mobile application. It allows users to manage their identity, apply for documents, and verify their identity securely."
+    },
+    {
+      "question": "On which platforms is PAK-ID available?",
+      "answer": "PAK-ID is available on both Android and iOS platforms. You can download it from Google Play Store and Apple App Store."
+    },
+    {
+      "question": "Is PAK-ID free to download?",
+      "answer": "Yes, the PAK-ID application is free to download and is available on Google Play Store and Apple App Store."
+    },
+    {
+      "question": "Does PAK-ID have a web portal or website version?",
+      "answer": "No, PAK-ID is only available as a mobile application on Android and iOS platforms. PAK-ID has no web portal or web application version."
+    },
+    {
+      "question": "What can I do with the PAK-ID mobile application?",
+      "answer": "With PAK-ID, you can complete various registration and verification processes from your smartphone, manage your identity, apply for documents, verify your identity securely, and access NADRA services digitally."
+    },
+    {
+      "question": "Can I access NADRA services through a computer or laptop?",
+      "answer": "Based on the available information, PAK-ID is only available as a mobile application without a web portal. For computer access, you would need to visit physical NADRA centers or use other available online portals if any."
+    },
+    {
+      "question": "How does PAK-ID enhance accessibility to NADRA services?",
+      "answer": "PAK-ID enhances accessibility by allowing users to complete various registration and verification processes directly from their smartphones, eliminating the need to visit physical NADRA centers for many services."
+    },
+    {
+      "question": "Can I apply for documents through PAK-ID?",
+      "answer": "Yes, PAK-ID allows users to apply for documents and access various NADRA services through the mobile application."
+    },
+    {
+      "question": "Is identity verification secure on PAK-ID?",
+      "answer": "Yes, PAK-ID allows users to verify their identity securely through the mobile application using digital verification methods."
+    },
+    {
+      "question": "What types of processes can I complete through PAK-ID?",
+      "answer": "You can complete various registration and verification processes through PAK-ID, including document applications, identity verification, and accessing different NADRA services from your smartphone."
+    },
+    {
+      "question": "Where can I download PAK-ID from?",
+      "answer": "You can download PAK-ID from Google Play Store for Android devices and Apple App Store for iOS devices. The application is free to download from both platforms."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "file_name": "delivery.md",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 15,
+  "qa_data": [
+    {
+      "question": "How are applicants informed about the progress status of their ID card application?",
+      "answer": "Applicants are informed about the progress status of their card via SMS or email at various stages of processing including: Application Form uploading, Card Dispatch, Card Receiving, Any Rejection in Record, Head of Family updates, and Attester notifications."
+    },
+    {
+      "question": "At which stages do applicants receive SMS or email notifications?",
+      "answer": "Applicants receive notifications at the following stages: Application Form uploading, Card Dispatch, Card Receiving, Any Rejection in Record, Head of Family, and Attester."
+    },
+    {
+      "question": "What delivery options are available for receiving NADRA ID documents?",
+      "answer": "Applicants may choose from three delivery options: Pick-up from Centers (collecting documents directly from NADRA centers), Home Delivery (documents delivered to their address), and Digital Delivery (for certain documents like FRCs that can be downloaded instantly)."
+    },
+    {
+      "question": "Can I pick up my ID documents from NADRA centers?",
+      "answer": "Yes, pick-up from Centers is one of the available delivery options. You can collect your ID documents directly from NADRA registration centers."
+    },
+    {
+      "question": "Is home delivery available for NADRA documents?",
+      "answer": "Yes, Home Delivery is one of the delivery options available for receiving your ID documents at your specified address."
+    },
+    {
+      "question": "What is digital delivery for NADRA documents?",
+      "answer": "Digital Delivery is an option where certain documents, specifically FRCs (Family Registration Certificates) applied for online, can be downloaded instantly from the  PAK ID app inbox."
+    },
+    {
+      "question": "Which documents can be downloaded digitally?",
+      "answer": "FRCs (Family Registration Certificates) applied for online can be downloaded instantly from the app inbox through digital delivery."
+    },
+    {
+      "question": "Can I download my FRC immediately after applying online?",
+      "answer": "Yes, FRCs applied for online can be downloaded instantly from the app inbox through the digital delivery option."
+    },
+    {
+      "question": "Will I be notified when my card is dispatched?",
+      "answer": "Yes, applicants receive SMS or email notifications when their card is dispatched as part of the progress status updates."
+    },
+    {
+      "question": "Do I get notified if there is a rejection in my application?",
+      "answer": "Yes, applicants are informed via SMS or email if there is any rejection in their record during the application processing."
+    },
+    {
+      "question": "What happens when I receive my card at the delivery location?",
+      "answer": "Applicants receive SMS or email notifications when their card is received at the delivery location, confirming successful delivery."
+    },
+    {
+      "question": "Are notifications sent for Head of Family updates?",
+      "answer": "Yes, notifications are sent for Head of Family updates as part of the comprehensive notification system for application progress."
+    },
+    {
+      "question": "Do attesters receive notifications about applications?",
+      "answer": "Yes, Attesters receive notifications as part of the progress status update system for applications they have attested."
+    },
+    {
+      "question": "How can I choose my preferred delivery method?",
+      "answer": "Applicants may choose one of the three available delivery options: Pick-up from Centers, Home Delivery, or Digital Delivery (for applicable documents like FRCs) during the application process."
+    },
+    {
+      "question": "Which delivery method is fastest for getting my documents?",
+      "answer": "Digital Delivery is the fastest option for applicable documents like FRCs, as they can be downloaded instantly from the app inbox. For other documents, you can choose between pick-up from centers or home delivery based on your convenience."
+    }
+  ]
+}

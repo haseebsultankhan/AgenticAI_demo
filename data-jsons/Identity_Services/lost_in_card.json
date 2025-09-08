@@ -1,0 +1,67 @@
+{
+  "file_name": "lost_id_card.md",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 15,
+  "qa_data": [
+    {
+      "question": "What should I do if my ID card is lost or stolen?",
+      "answer": "If your ID card is lost or stolen, you can get a reprint of your card by providing your card number and biometrics for authentication. No further documentation is needed for this process."
+    },
+    {
+      "question": "Do I need to provide documents for a lost ID card reprint?",
+      "answer": "No, you do not need to provide any documents for a lost ID card reprint. You only need to provide your card number and biometrics for authentication."
+    },
+    {
+      "question": "What information do I need to provide for a lost ID card reprint?",
+      "answer": "You need to provide your card number and biometrics (for authentication purposes). No additional documentation is required."
+    },
+    {
+      "question": "How is my identity verified when applying for a lost ID card reprint?",
+      "answer": "Your identity is verified through biometrics authentication. The system will match your fingerprints and other biometric data to confirm your identity."
+    },
+    {
+      "question": "Will my new ID card have the same expiration date as the lost one?",
+      "answer": "Yes, the newly issued ID card will have the same expiration date as the old one that was lost or stolen."
+    },
+    {
+      "question": "Does the reprint process change my card's validity period?",
+      "answer": "No, the reprint process does not change your card's validity period. The new card will maintain the same expiration date as your original lost card."
+    },
+    {
+      "question": "Can I get a reprint if my ID card was stolen?",
+      "answer": "Yes, you can get a reprint whether your ID card was lost or stolen. The same process applies - provide your card number and biometrics for authentication."
+    },
+    {
+      "question": "Do I need to file a police report for a stolen ID card before getting a reprint?",
+      "answer": "Based on the reprint process, no police report is required for getting a reprint of a lost or stolen ID card. You only need your card number and biometric verification."
+    },
+    {
+      "question": "What if I don't remember my card number for the reprint?",
+      "answer": "While the standard process requires your card number, you should contact NADRA directly if you don't remember it. Your biometric data may help them locate your record in their system."
+    },
+    {
+      "question": "Can someone else apply for a reprint of my lost ID card on my behalf?",
+      "answer": "No, since biometric authentication is required for verification, you must personally visit the NADRA center to apply for a reprint of your lost ID card."
+    },
+    {
+      "question": "How long does it take to get a reprint of a lost ID card?",
+      "answer": "The processing time for a reprint would follow the standard NADRA processing categories: Normal (30 days), Urgent (12 days), or Executive (7 days), depending on which service level you choose."
+    },
+    {
+      "question": "Is there a fee for reprinting a lost ID card?",
+      "answer": "Yes, there is a fee for reprinting a lost ID card. The fee would be the same as the standard CNIC modification/duplicate fee according to the processing category you select."
+    },
+    {
+      "question": "Can I use PAK-ID app to apply for a lost ID card reprint?",
+      "answer": "Yes, you can use the PAK-ID mobile application to apply for a reprint of your lost ID card, as it provides various NADRA services including document reprints."
+    },
+    {
+      "question": "What is the difference between a reprint and a duplicate card?",
+      "answer": "For lost or stolen cards, the process is essentially the same as getting a duplicate card. Both involve getting a replacement card with the same information and expiration date as the original."
+    },
+    {
+      "question": "Are there any security measures to prevent misuse of lost ID cards?",
+      "answer": "Yes, when you report your card as lost and get a reprint, the old card number may be flagged in the system to prevent misuse. The biometric verification requirement also adds security to the reprint process."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "file_name": "registeration_process_final.md",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 25,
+  "qa_data": [
+    {
+      "question": "Where can applicants apply for NADRA services?",
+      "answer": "Applicants can apply from anywhere in Pakistan or abroad. A physical visit to the DAU (Data Acquisition Unit) or an online application may be initiated."
+    },
+    {
+      "question": "What is the complete registration process at NADRA?",
+      "answer": "The registration process occurs in 7 sequential steps: Step 1 - Token Issuance, Step 2 - Fee Collection, Step 3 - Biometric Capture, Step 4 - Demographic Data Entry, Step 5 - Application Form Printing, Step 6 - Confirmation of Data Accuracy, and Step 7 - Interview."
+    },
+    {
+      "question": "What happens in Step 1 of the registration process?",
+      "answer": "In Step 1 (Token Issuance), the applicant receives a token with a sequence number upon entering the center. Each DAU follows a token-based queue system for orderly service handling."
+    },
+    {
+      "question": "What is the token-based queue system at NADRA centers?",
+      "answer": "Each DAU follows a token-based queue system where applicants receive a token with a sequence number upon entering the center. This ensures orderly service handling and fair processing of applications."
+    },
+    {
+      "question": "What happens during Step 2 of the registration process?",
+      "answer": "In Step 2 (Fee Collection), the applicant pays the requisite fee in cash or via electronic methods, and a confirmation receipt is issued."
+    },
+    {
+      "question": "What payment methods are accepted for NADRA fees?",
+      "answer": "NADRA accepts payment in cash or via electronic methods during the fee collection step of the registration process."
+    },
+    {
+      "question": "What happens in Step 3 of the registration process?",
+      "answer": "In Step 3 (Biometric Capture), a photograph is taken (without headgear) and all fingerprints are captured for biometric verification and identification purposes."
+    },
+    {
+      "question": "Are there any requirements for the photograph during biometric capture?",
+      "answer": "Yes, during biometric capture, the photograph must be taken without headgear to ensure clear facial recognition and proper identification."
+    },
+    {
+      "question": "What biometric data is collected during the registration process?",
+      "answer": "During Step 3 (Biometric Capture), a photograph is taken without headgear and all fingerprints are captured as part of the biometric data collection."
+    },
+    {
+      "question": "What happens during Step 4 of the registration process?",
+      "answer": "In Step 4 (Demographic Data Entry), personal data is entered into the system, including information about parents, spouse, address, and contact details."
+    },
+    {
+      "question": "What type of personal information is entered during demographic data entry?",
+      "answer": "During demographic data entry, personal data including parents' information, spouse details, address, and contact details are entered into the NADRA system."
+    },
+    {
+      "question": "What happens in Step 5 of the registration process?",
+      "answer": "In Step 5 (Application Form Printing), all entered details are reviewed with the applicant, and upon verbal confirmation from the applicant, the form is printed."
+    },
+    {
+      "question": "How is the application form verified before printing?",
+      "answer": "Before printing the application form, all entered details are reviewed with the applicant, and the form is only printed upon receiving verbal confirmation from the applicant that all information is correct."
+    },
+    {
+      "question": "What happens during Step 6 of the registration process?",
+      "answer": "In Step 6 (Confirmation of Data Accuracy), the applicant reviews and signs the printed form to confirm the accuracy of all data entered."
+    },
+    {
+      "question": "What is the applicant's responsibility in confirming data accuracy?",
+      "answer": "The applicant must review the printed application form and sign it to confirm the accuracy of all data entered. This is their formal confirmation that all information is correct."
+    },
+    {
+      "question": "What is the final step in the registration process?",
+      "answer": "Step 7 (Interview) is the final step, where a NADRA officer conducts a brief interview with the applicant to validate submitted data and assess eligibility, after which the form is collected for final submission."
+    },
+    {
+      "question": "Who conducts the interview in the registration process?",
+      "answer": "A NADRA officer conducts the interview during Step 7 of the registration process to validate submitted data and assess the applicant's eligibility."
+    },
+    {
+      "question": "What is the purpose of the interview in the registration process?",
+      "answer": "The interview conducted by a NADRA officer serves to validate the submitted data and assess the applicant's eligibility for the requested identity document or service."
+    },
+    {
+      "question": "Can I apply for NADRA services online?",
+      "answer": "Yes, an online application may be initiated, though applicants can also apply through a physical visit to the DAU (Data Acquisition Unit) from anywhere in Pakistan or abroad."
+    },
+    {
+      "question": "Do I need to physically visit a NADRA center for registration?",
+      "answer": "While online applications can be initiated, the registration process typically involves a physical visit to the DAU for biometric capture, fee payment, interview, and other steps in the 7-step process."
+    },
+    {
+      "question": "What is a DAU in the registration process?",
+      "answer": "DAU stands for Data Acquisition Unit, which is the NADRA facility where applicants can visit to complete their registration process, following the token-based queue system."
+    },
+    {
+      "question": "Is there a specific order to follow during the registration process?",
+      "answer": "Yes, the registration process follows a specific sequential order with 7 steps that must be completed in sequence: Token Issuance, Fee Collection, Biometric Capture, Demographic Data Entry, Application Form Printing, Confirmation of Data Accuracy, and Interview."
+    },
+    {
+      "question": "What happens after the interview is completed?",
+      "answer": "After the interview is completed, the NADRA officer collects the form for final submission, completing the registration process at the center level."
+    },
+    {
+      "question": "Can overseas Pakistanis apply through this registration process?",
+      "answer": "Yes, applicants can apply from anywhere in Pakistan or abroad, indicating that overseas Pakistanis can also use this registration process, either through physical visits or online applications."
+    },
+    {
+      "question": "What documentation is required during the registration process?",
+      "answer": "While the registration process outlines the procedural steps, specific documentation requirements depend on the type of service being applied for. The demographic data entry step captures personal information, and all details are confirmed before form printing."
+    },
+    {
+      "question": "Are there any steps where I can make corrections to my information?",
+      "answer": "Yes, there are two verification points: during Step 5 when all entered details are reviewed with you before printing (verbal confirmation required), and during Step 6 when you review and sign the printed form to confirm data accuracy before the final interview."
+    }
+  ]
+}

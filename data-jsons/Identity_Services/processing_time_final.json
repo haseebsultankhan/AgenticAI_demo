@@ -1,0 +1,79 @@
+{
+  "file_name": "processing_time_final.md",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 18,
+  "qa_data": [
+    {
+      "question": "What processing categories are available for NADRA applications?",
+      "answer": "NADRA offers three different categories of urgency for processing applications: Normal (30 days delivery), Urgent (12 days delivery), and Executive (7 days delivery). Fees and processing times vary according to the selected priority of delivery timeline."
+    },
+    {
+      "question": "How long does Normal processing take for NADRA applications?",
+      "answer": "Normal processing takes 30 days for delivery of NADRA documents."
+    },
+    {
+      "question": "What is the delivery time for Urgent processing?",
+      "answer": "Urgent processing has a delivery time of 12 days."
+    },
+    {
+      "question": "How fast is Executive processing for NADRA services?",
+      "answer": "Executive processing is the fastest option with a delivery time of 7 days."
+    },
+    {
+      "question": "Do fees vary based on processing priority?",
+      "answer": "Yes, fees and processing times vary according to the selected priority of delivery timeline. Higher priority processing (Executive and Urgent) costs more than Normal processing."
+    },
+    {
+      "question": "What is NADRA's commitment regarding processing timelines?",
+      "answer": "NADRA is committed to meeting the specified timelines for each processing category: Normal (30 days), Urgent (12 days), and Executive (7 days)."
+    },
+    {
+      "question": "Can I choose my processing priority when applying for NADRA services?",
+      "answer": "Yes, applicants can choose from three different categories of urgency for processing their applications: Normal, Urgent, or Executive, each with different delivery times and fees."
+    },
+    {
+      "question": "What is the difference in delivery time between Normal and Executive processing?",
+      "answer": "The difference between Normal and Executive processing is 23 days. Normal processing takes 30 days while Executive processing takes only 7 days."
+    },
+    {
+      "question": "How much faster is Urgent processing compared to Normal processing?",
+      "answer": "Urgent processing (12 days) is 18 days faster than Normal processing (30 days)."
+    },
+    {
+      "question": "What is another name for processing categories in NADRA?",
+      "answer": "Processing categories are also known as 'priority of delivery timeline' or simply 'category' in NADRA terminology."
+    },
+    {
+      "question": "Is Executive processing worth the extra cost?",
+      "answer": "Executive processing delivers documents in 7 days compared to 30 days for Normal processing, making it 23 days faster. Whether it's worth the extra cost depends on your urgency and budget."
+    },
+    {
+      "question": "Can I upgrade my processing priority after submitting my application?",
+      "answer": "The document doesn't specify upgrade options. You should contact NADRA directly to inquire about changing your processing priority after application submission."
+    },
+    {
+      "question": "Are the processing times guaranteed by NADRA?",
+      "answer": "Yes, NADRA is committed to meeting the specified timelines for each category, indicating these are target delivery times they aim to achieve."
+    },
+    {
+      "question": "What factors determine the processing time for NADRA applications?",
+      "answer": "The processing time is primarily determined by the priority category you select: Normal (30 days), Urgent (12 days), or Executive (7 days). The complexity of your case may also affect processing."
+    },
+    {
+      "question": "How should I choose between Normal, Urgent, and Executive processing?",
+      "answer": "Choose based on your urgency and budget. Normal (30 days) is most economical, Urgent (12 days) offers middle ground, and Executive (7 days) is fastest but most expensive."
+    },
+    {
+      "question": "Do all NADRA services offer the same processing time options?",
+      "answer": "While the document suggests these three categories are standard, specific services may have different options. Check the specific service requirements when applying."
+    },
+    {
+      "question": "What happens if NADRA doesn't meet the promised delivery timeline?",
+      "answer": "While NADRA commits to meeting timelines, the document doesn't specify remedies for delays. Contact NADRA customer service if your application exceeds the promised delivery time."
+    },
+    {
+      "question": "Are these processing times the same for all types of NADRA documents?",
+      "answer": "The document presents these as general processing categories. However, different document types (CNIC, NICOP, POC, etc.) may have specific processing considerations, so verify when applying for your specific document."
+    }
+  ]
+}

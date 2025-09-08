@@ -1,0 +1,79 @@
+{
+  "file_name": "cards_process_workflow.md",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 18,
+  "qa_data": [
+    {
+      "question": "What is the complete workflow for ID card processing at NADRA?",
+      "answer": "The ID card processing workflow involves 6 sequential steps: 1) Visit to NADRA Registration Center (NRC), 2) Q-Metic token issuance for queue management, 3) Data capturing (fee payment, photograph capture, fingerprint capture, personal data entry, application form printing), 4) Confirmation and data accuracy review, 5) Interview with NADRA officer, and 6) Data upload to central server for backend processing and validation."
+    },
+    {
+      "question": "What is the first step in the NADRA ID card application process?",
+      "answer": "The first step is to visit a NADRA Registration Center (NRC) to initiate the ID card application process."
+    },
+    {
+      "question": "What is a Q-Metic token and how does it work?",
+      "answer": "A Q-Metic token is a queue management system used at NADRA centers. When applicants arrive, they receive a Q-Metic token that assigns them a queue number for orderly service handling, ensuring systematic and fair processing of applications."
+    },
+    {
+      "question": "What happens during the data capturing stage?",
+      "answer": "During the data capturing stage, several processes occur in sequence: fee payment, photograph capture, fingerprint (biometric) capture, personal data entry, and application form printing. All these steps are completed when it's the applicant's turn based on their Q-Metic token number."
+    },
+    {
+      "question": "What types of biometric data are captured during the application process?",
+      "answer": "During the application process, two types of biometric data are captured: fingerprints (biometric capture) and a photograph of the applicant."
+    },
+    {
+      "question": "What happens after the application form is printed?",
+      "answer": "After the application form is printed, the applicant must review and confirm the printed form details for accuracy. This confirmation step ensures all entered information is correct before proceeding further."
+    },
+    {
+      "question": "What is the purpose of the interview in the NADRA process?",
+      "answer": "The interview is conducted by a NADRA officer to validate the submitted data and assess the applicant's eligibility. This in-person interview serves as a verification step to ensure the authenticity of the application and information provided."
+    },
+    {
+      "question": "What happens to the data after the interview is completed?",
+      "answer": "After the interview is completed, the collected data is uploaded to NADRA's central server for backend processing and further validation."
+    },
+    {
+      "question": "Who conducts the interview during the NADRA application process?",
+      "answer": "The interview is conducted by a NADRA officer who validates the submitted data and assesses the applicant's eligibility."
+    },
+    {
+      "question": "Is fee payment required during the NADRA application process?",
+      "answer": "Yes, fee payment is a mandatory step during the data capturing stage of the NADRA application process."
+    },
+    {
+      "question": "Can I skip any steps in the NADRA ID card processing workflow?",
+      "answer": "No, the NADRA ID card processing workflow involves sequential steps that must be completed in order: visit to NRC, Q-Metic token, data capturing, confirmation, interview, and data upload. Each step is essential for proper processing."
+    },
+    {
+      "question": "What is personal data entry in the NADRA process?",
+      "answer": "Personal data entry is part of the data capturing stage where the applicant's personal information, demographic details, and other required data are entered into the NADRA system."
+    },
+    {
+      "question": "Why is data accuracy confirmation important?",
+      "answer": "Data accuracy confirmation is important because it allows the applicant to review and verify that all information on the printed application form is correct before final submission. This step helps prevent errors and ensures accurate records."
+    },
+    {
+      "question": "What happens at NADRA's central server?",
+      "answer": "At NADRA's central server, the collected applicant data undergoes backend processing and further validation after being uploaded from the registration center."
+    },
+    {
+      "question": "Do I need to bring anything for the photograph during the application?",
+      "answer": "No, the photograph is captured at the NADRA center during the data capturing stage as part of the application process. You don't need to bring passport photos."
+    },
+    {
+      "question": "How does the queue system work at NADRA centers?",
+      "answer": "The queue system works through Q-Metic tokens. When you arrive at a NADRA Registration Center, you receive a Q-Metic token with a queue number. You wait for your turn based on this number, ensuring orderly and systematic service delivery."
+    },
+    {
+      "question": "What validation occurs during the NADRA application process?",
+      "answer": "Validation occurs at two stages: during the in-person interview where a NADRA officer validates submitted data and assesses eligibility, and at the central server where backend processing and further validation of uploaded data takes place."
+    },
+    {
+      "question": "Are there multiple NADRA Registration Centers available?",
+      "answer": "Yes, there are multiple NADRA Registration Centers (NRCs) available where applicants can visit to initiate their ID card application process."
+    }
+  ]
+}

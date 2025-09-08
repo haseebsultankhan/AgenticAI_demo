@@ -1,0 +1,87 @@
+{
+  "file_name": "validity_final.md",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 20,
+  "qa_data": [
+    {
+      "question": "What is the validity period of a National Identity Card (CNIC)?",
+      "answer": "National Identity Card (CNIC) has a validity period of ten years. However, if a person's age is 53 or above, upon renewal of CNIC, their CNIC expiry will be lifetime."
+    },
+    {
+      "question": "What is the validity period of NICOP?",
+      "answer": "NICOP (National Identity Card for Overseas Pakistanis) has a validity period of ten years."
+    },
+    {
+      "question": "What is the validity period of a Juvenile Card?",
+      "answer": "Juvenile Card has a validity period of attaining 18 years or ten years, whichever comes first."
+    },
+    {
+      "question": "What is the validity period of POC?",
+      "answer": "POC (Pakistan Origin Card) has a validity period of seven years."
+    },
+    {
+      "question": "At what age does CNIC become lifetime valid?",
+      "answer": "If a person's age is 53 or above, upon renewal of CNIC, their CNIC expiry will be lifetime and they won't need to renew it again."
+    },
+    {
+      "question": "Do all NADRA identity cards have the same validity period?",
+      "answer": "No, different identity cards have different validity periods: National Identity Card (10 years, lifetime for 53+), NICOP (10 years), Juvenile Card (until 18 years or 10 years, whichever comes first), and POC (7 years)."
+    },
+    {
+      "question": "Which NADRA card has the longest validity period?",
+      "answer": "CNIC for people aged 53 and above has the longest validity as it becomes lifetime valid upon renewal."
+    },
+    {
+      "question": "Which NADRA card has the shortest validity period?",
+      "answer": "POC (Pakistan Origin Card) has the shortest validity period of seven years among the regular identity cards."
+    },
+    {
+      "question": "How long is a Juvenile Card valid for?",
+      "answer": "A Juvenile Card is valid until the holder attains 18 years of age or for ten years, whichever comes first."
+    },
+    {
+      "question": "Are ID cards valid for the period mentioned on the card?",
+      "answer": "Yes, ID cards are valid for the period mentioned on the card and for the specific periods defined by NADRA regulations for each type of document."
+    },
+    {
+      "question": "What happens to Juvenile Card validity when a child turns 18?",
+      "answer": "When a child turns 18, the Juvenile Card becomes invalid as its validity period is until attaining 18 years or ten years, whichever comes first."
+    },
+    {
+      "question": "Do I need to renew my CNIC if I'm over 53 years old?",
+      "answer": "If you're 53 years or above, your CNIC becomes lifetime valid upon renewal, meaning you won't need to renew it again after that renewal."
+    },
+    {
+      "question": "Is there any difference in validity between CNIC and NICOP?",
+      "answer": "Both CNIC and NICOP have the same validity period of ten years. However, CNIC can become lifetime valid for people aged 53 and above upon renewal, while NICOP maintains its 10-year validity regardless of age."
+    },
+    {
+      "question": "What is the maximum validity period for any NADRA identity document?",
+      "answer": "The maximum validity period is lifetime, which applies to CNIC holders who are 53 years of age or above upon renewal."
+    },
+    {
+      "question": "How many years is POC valid compared to other identity cards?",
+      "answer": "POC is valid for seven years, which is shorter than CNIC and NICOP (10 years each) but may be longer than Juvenile Card depending on the holder's age."
+    },
+    {
+      "question": "Can a Juvenile Card be valid for the full 10 years?",
+      "answer": "A Juvenile Card can only be valid for the full 10 years if the holder doesn't turn 18 during that period, as the validity is whichever comes first - attaining 18 years or 10 years."
+    },
+    {
+      "question": "What determines the validity period of NADRA identity documents?",
+      "answer": "The validity period is determined by the type of document and specific regulations: National Identity Card (10 years, lifetime for 53+), NICOP (10 years), Juvenile Card (until 18 or 10 years), and POC (7 years)."
+    },
+    {
+      "question": "Are there any identity cards that never expire?",
+      "answer": "Yes, CNIC becomes lifetime valid (never expires) for holders who are 53 years of age or above upon renewal."
+    },
+    {
+      "question": "Why does POC have a different validity period than other cards?",
+      "answer": "POC has a validity period of seven years, which is different from other cards, likely due to its specific purpose for foreign nationals of Pakistani origin and different regulatory requirements."
+    },
+    {
+      "question": "What should I know about validity periods when applying for NADRA documents?",
+      "answer": "You should know that validity periods vary by document type: CNIC (10 years, lifetime for 53+), NICOP (10 years), Juvenile Card (until 18 or 10 years, whichever comes first), POC (7 years). The validity period mentioned on your card determines when you need to renew."
+    }
+  ]
+}

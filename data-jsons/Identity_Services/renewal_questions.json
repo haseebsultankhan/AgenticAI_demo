@@ -1,0 +1,127 @@
+{
+  "file_name": "renewal_questions.md",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 30,
+  "qa_data": [
+    {
+      "question": "What is the validity period for CNIC for adults under 53?",
+      "answer": "CNIC for adults (18+) has a validity period of 10 years."
+    },
+    {
+      "question": "What is the validity period for CNIC for adults 53 and above?",
+      "answer": "CNIC for adults who are 53 years old and above has lifetime validity and does not require renewal."
+    },
+    {
+      "question": "When should I renew my CNIC?",
+      "answer": "You should renew your CNIC up to 1 month before expiry. You may also need to renew earlier if there are changes to your name, photo, marital status, or address, or if your card is lost, stolen, or damaged."
+    },
+    {
+      "question": "Do children get CNIC renewal?",
+      "answer": "No, children do not get CNIC renewal. CRC (Child Registration Certificate) is issued to children instead, which is valid until age 18."
+    },
+    {
+      "question": "What is the validity period for CRC?",
+      "answer": "CRC (Child Registration Certificate) is valid until the child reaches age 18."
+    },
+    {
+      "question": "When should I update my CRC?",
+      "answer": "You should update CRC to correct parent or child information. The CRC must be replaced with CNIC upon the child turning 18."
+    },
+    {
+      "question": "What happens to CRC when a child turns 18?",
+      "answer": "CRC must be replaced with CNIC when the child turns 18 years old."
+    },
+    {
+      "question": "Does FRC have an expiry date?",
+      "answer": "No, FRC (Family Registration Certificate) has no expiry date and remains valid indefinitely."
+    },
+    {
+      "question": "What is the purpose of FRC?",
+      "answer": "FRC is used for family verification purposes, such as for embassies and schools."
+    },
+    {
+      "question": "When should I reapply for FRC?",
+      "answer": "You should reapply for FRC upon major family changes such as birth, marriage, divorce, or death of family members."
+    },
+    {
+      "question": "What is the validity period for NICOP for adults?",
+      "answer": "NICOP for adults has a validity period of 10 years."
+    },
+    {
+      "question": "What is the validity period for NICOP for minors?",
+      "answer": "NICOP for minors (under 18) has a validity period of 5 years."
+    },
+    {
+      "question": "When should I renew my NICOP?",
+      "answer": "You should renew your NICOP up to 6 months before expiry. You may need to renew earlier if there are changes to your passport, marital status updates, or changes to your name or photo."
+    },
+    {
+      "question": "What is the validity period for POC?",
+      "answer": "POC (Pakistan Origin Card) has a validity period of 5 years."
+    },
+    {
+      "question": "When should I renew my POC?",
+      "answer": "You should renew your POC up to 6 months before expiry. You may need to renew earlier if there are changes in your passport or personal details."
+    },
+    {
+      "question": "Does Succession Certificate have an expiry date?",
+      "answer": "Succession Certificate has no formal expiry date."
+    },
+    {
+      "question": "When might I need to renew or reissue a Succession Certificate?",
+      "answer": "Succession Certificate is not typically renewed, but may require reissuance if new assets are discovered, legal challenges arise, or updates or corrections are necessary."
+    },
+    {
+      "question": "How early can I apply for CNIC renewal before expiry?",
+      "answer": "You can apply for CNIC renewal up to 1 month before the expiry date."
+    },
+    {
+      "question": "How early can I apply for NICOP renewal before expiry?",
+      "answer": "You can apply for NICOP renewal up to 6 months before the expiry date."
+    },
+    {
+      "question": "How early can I apply for POC renewal before expiry?",
+      "answer": "You can apply for POC renewal up to 6 months before the expiry date."
+    },
+    {
+      "question": "What situations require early CNIC renewal before expiry?",
+      "answer": "Early CNIC renewal may be required if your name, photo, marital status, or address changes, or if your card is lost, stolen, or damaged."
+    },
+    {
+      "question": "What situations require early NICOP renewal before expiry?",
+      "answer": "Early NICOP renewal may be required if your passport changes, marital status updates, or if there are changes to your name or photo."
+    },
+    {
+      "question": "What situations require early POC renewal before expiry?",
+      "answer": "Early POC renewal may be required if there are changes in your passport or personal details."
+    },
+    {
+      "question": "Do all NADRA identity documents have the same validity period?",
+      "answer": "No, validity periods vary: CNIC (10 years for adults under 53, lifetime for 53+), CRC (until age 18), FRC (no expiry), NICOP (10 years for adults, 5 years for minors), POC (5 years), Succession Certificate (no formal expiry)."
+    },
+    {
+      "question": "Which NADRA documents never expire?",
+      "answer": "FRC (Family Registration Certificate) never expires, CNIC for people 53+ has lifetime validity, and Succession Certificate has no formal expiry date."
+    },
+    {
+      "question": "What is the difference in NICOP validity for adults versus minors?",
+      "answer": "NICOP for adults is valid for 10 years, while NICOP for minors (under 18) is valid for only 5 years."
+    },
+    {
+      "question": "Which identity document has the shortest validity period?",
+      "answer": "POC (Pakistan Origin Card) and NICOP for minors both have the shortest validity period of 5 years."
+    },
+    {
+      "question": "Can I renew my CNIC if I'm over 53 years old?",
+      "answer": "If you're 53 or above, your CNIC has lifetime validity and does not require renewal unless there are changes to your information or the card is damaged, lost, or stolen."
+    },
+    {
+      "question": "What major family changes require FRC reapplication?",
+      "answer": "Major family changes that require FRC reapplication include birth of a family member, marriage, divorce, or death of family members."
+    },
+    {
+      "question": "At what age must a child transition from CRC to CNIC?",
+      "answer": "A child must transition from CRC to CNIC when they turn 18 years old. The CRC must be replaced with CNIC upon reaching this age."
+    }
+  ]
+}

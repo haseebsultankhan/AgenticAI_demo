@@ -1,0 +1,107 @@
+{
+  "file_name": "sms_short_codes_final.md",
+  "domain": "Identity_Services",
+  "total_qa_pairs": 25,
+  "qa_data": [
+    {
+      "question": "What SMS short codes does NADRA provide?",
+      "answer": "NADRA provides multiple SMS short codes for different services: 8400 (CNIC application tracking), 8009 (CNIC verification), 1777 (Call center service), 1166 (Covid-19 vaccination), 8300 (Vote verification for Election Commission of Pakistan), 8301 (Voter verification for Gilgit Baltistan), 8302 (Voter verification for Azad Jammu & Kashmir), 8500 (Sehat Card eligibility), 9780 (KP Health Sehat card), 7001 (Arms License Sindh), and 9888 (Broadcast Message Service)."
+    },
+    {
+      "question": "How can I track my CNIC application via SMS?",
+      "answer": "You can track your CNIC application by sending an SMS to short code 8400. This is NADRA's CNIC application tracking SMS service."
+    },
+    {
+      "question": "What is the SMS code 8400 used for?",
+      "answer": "SMS short code 8400 is used for CNIC application tracking SMS service. You can use this to check the status of your CNIC application."
+    },
+    {
+      "question": "How can I verify CNIC information via SMS?",
+      "answer": "You can verify CNIC information by using SMS short code 8009, which provides CNIC verification service including verification of family tree."
+    },
+    {
+      "question": "What is the SMS code 8009 used for?",
+      "answer": "SMS short code 8009 is used for CNIC verification, specifically for verification of family tree information."
+    },
+    {
+      "question": "What is the SMS code 1777 for?",
+      "answer": "SMS short code 1777 is for NADRA's call center PRI based service, providing telephone support and assistance."
+    },
+    {
+      "question": "How can I get Covid-19 vaccination information via SMS?",
+      "answer": "You can get Covid-19 vaccination information by using SMS short code 1166, which provides enrollment and status updates on Covid-19 vaccination."
+    },
+    {
+      "question": "What is the SMS code 1166 used for?",
+      "answer": "SMS short code 1166 is used for Covid-19 related services, specifically for enrollment and status updates on Covid-19 vaccination."
+    },
+    {
+      "question": "How can I verify my vote via SMS?",
+      "answer": "For vote verification, you can use SMS short code 8300 for Election Commission of Pakistan services, 8301 for Election Commission of Gilgit Baltistan, or 8302 for Election Commission of Azad Jammu & Kashmir."
+    },
+    {
+      "question": "What is the SMS code 8300 used for?",
+      "answer": "SMS short code 8300 is used for vote verification service for Election Commission of Pakistan."
+    },
+    {
+      "question": "What is the SMS code 8301 used for?",
+      "answer": "SMS short code 8301 is used for voter verification service for Election Commission of Gilgit Baltistan."
+    },
+    {
+      "question": "What is the SMS code 8302 used for?",
+      "answer": "SMS short code 8302 is used for voter verification service for Election Commission of Azad Jammu & Kashmir."
+    },
+    {
+      "question": "How can I check Sehat Card eligibility via SMS?",
+      "answer": "You can check Sehat Card eligibility by using SMS short code 8500 for Prime Minister National Health program or SMS short code 9780 for KP Health (Khyber Pakhtunkhwa) Sehat card eligibility."
+    },
+    {
+      "question": "What is the SMS code 8500 used for?",
+      "answer": "SMS short code 8500 is used for Prime Minister National Health program to check eligibility for Sehat Card."
+    },
+    {
+      "question": "What is the SMS code 9780 used for?",
+      "answer": "SMS short code 9780 is used for KP (Khyber Pakhtunkhwa) Health services to check eligibility for Sehat card."
+    },
+    {
+      "question": "How can I get Arms License information via SMS?",
+      "answer": "You can get Arms License information by using SMS short code 7001, which provides status updates for revalidation of Arms License in Sindh province."
+    },
+    {
+      "question": "What is the SMS code 7001 used for?",
+      "answer": "SMS short code 7001 is used for Arms License Project Sindh, specifically for status updates on revalidation of Arms License."
+    },
+    {
+      "question": "What is the SMS code 9888 used for?",
+      "answer": "SMS short code 9888 is used for Broadcast Message Service, which provides bulk message services."
+    },
+    {
+      "question": "Are there different SMS codes for different provinces for voting?",
+      "answer": "Yes, there are different SMS codes for voting verification in different regions: 8300 for Election Commission of Pakistan (general), 8301 for Election Commission of Gilgit Baltistan, and 8302 for Election Commission of Azad Jammu & Kashmir."
+    },
+    {
+      "question": "Can I get health-related information via NADRA SMS services?",
+      "answer": "Yes, NADRA provides health-related SMS services including: SMS code 1166 for Covid-19 vaccination enrollment/status, SMS code 8500 for Prime Minister National Health program Sehat Card eligibility, and SMS code 9780 for KP Health Sehat card eligibility."
+    },
+    {
+      "question": "What government services can I access through NADRA SMS codes?",
+      "answer": "Through NADRA SMS codes, you can access: CNIC tracking (8400), CNIC verification (8009), call center support (1777), Covid-19 vaccination info (1166), voting verification (8300/8301/8302), health card eligibility (8500/9780), arms license updates (7001), and broadcast messages (9888)."
+    },
+    {
+      "question": "How many SMS short codes does NADRA operate?",
+      "answer": "NADRA operates 11 different SMS short codes: 8400, 8009, 1777, 1166, 8300, 8301, 8302, 8500, 9780, 7001, and 9888, each serving different purposes and government services."
+    },
+    {
+      "question": "Is there a difference between Sehat Card SMS codes for different provinces?",
+      "answer": "Yes, there are different SMS codes for Sehat Card services: SMS code 8500 is for the federal Prime Minister National Health program, while SMS code 9780 is specifically for KP (Khyber Pakhtunkhwa) Health Sehat card eligibility."
+    },
+    {
+      "question": "Can I contact NADRA call center via SMS?",
+      "answer": "Yes, you can access NADRA call center services by using SMS short code 1777, which provides call center PRI based service."
+    },
+    {
+      "question": "What is the purpose of the broadcast message service SMS code?",
+      "answer": "The broadcast message service (SMS code 9888) is used for bulk message services, allowing NADRA to send important announcements and updates to multiple recipients simultaneously."
+    }
+  ]
+}
