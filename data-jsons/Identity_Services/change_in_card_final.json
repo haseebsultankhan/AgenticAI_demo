@@ -1,7 +1,7 @@
 {
   "file_name": "change_in_card_final.md",
   "domain": "Identity_Services",
-  "total_qa_pairs": 20,
+  "total_qa_pairs": 48,
   "qa_data": [
     {
       "question": "Why must citizens update changes in their demographic data?",
@@ -82,6 +82,122 @@
     {
       "question": "What should I do if I want to make a change that exceeds the normal limits?",
       "answer": "If you want to make a change that exceeds normal limits, you should apply through the exception process. This requires consent from the Regional Registration Officer (RRO) who will evaluate your case for exceptional circumstances."
+    },
+    {
+      "question": "How do I apply for changes to my ID card information?",
+      "answer": "You can apply for changes by visiting your nearest NADRA registration center with the required documents. Fill out the modification form and submit it along with supporting documentation as per NADRA's registration policy."
+    },
+    {
+      "question": "Where can I submit my application for ID card changes?",
+      "answer": "You can submit your application for ID card changes at any NADRA registration center or franchise. Visit the nearest NADRA office in your area with the required documents."
+    },
+    {
+      "question": "What forms do I need to fill out for ID card modifications?",
+      "answer": "You need to fill out the modification form available at NADRA centers. The specific form will depend on the type of change you want to make. NADRA staff will guide you to the appropriate form."
+    },
+    {
+      "question": "Can I apply for ID card changes online?",
+      "answer": "Some changes can be processed through digital services. For non-printable fields like mobile number and email, you may be able to update through online services. For printable fields requiring new card issuance, you typically need to visit a NADRA center."
+    },
+    {
+      "question": "How much does it cost to make changes to my ID card?",
+      "answer": "The cost varies depending on the type of change being made. Fees are determined by NADRA's current fee structure. Contact your nearest NADRA center or check the official NADRA website for current fees."
+    },
+    {
+      "question": "What payment methods are accepted for ID card modification fees?",
+      "answer": "NADRA centers typically accept cash payments. Some centers may also accept bank drafts or online payment methods. Check with your local NADRA center for available payment options."
+    },
+    {
+      "question": "How long does it take to process ID card changes?",
+      "answer": "Processing time varies depending on the type of change and verification requirements. Non-printable field updates may be processed quickly, while printable field changes requiring new card issuance take longer due to verification and printing processes."
+    },
+    {
+      "question": "Is expedited processing available for urgent ID card changes?",
+      "answer": "NADRA may offer expedited processing for urgent cases. Contact your local NADRA center to inquire about urgent processing options and any additional fees that may apply."
+    },
+    {
+      "question": "How can I track the status of my ID card modification application?",
+      "answer": "You can track your application status by visiting the NADRA center where you submitted your application, using the tracking number provided, or through NADRA's online services if available."
+    },
+    {
+      "question": "What happens if my supporting documents are rejected during the verification process?",
+      "answer": "If your documents are rejected, NADRA will inform you of the reasons and guide you on what additional or alternative documents are needed. You can resubmit with the correct documentation."
+    },
+    {
+      "question": "Can I appeal if my ID card modification application is rejected?",
+      "answer": "Yes, if your application is rejected, you can appeal the decision or apply through the exception process with Regional Registration Officer (RRO) approval if you believe you have valid grounds for the change."
+    },
+    {
+      "question": "How will I receive my new ID card after changes are approved?",
+      "answer": "For printable field changes, you will need to collect your new ID card from the NADRA center where you applied. You will be notified when your card is ready for collection."
+    },
+    {
+      "question": "Can someone else collect my new ID card on my behalf?",
+      "answer": "Generally, you must collect your ID card personally for security reasons. In exceptional cases, authorized representatives may be allowed with proper documentation and authorization, but this varies by NADRA policy."
+    },
+    {
+      "question": "What should I bring when collecting my new ID card?",
+      "answer": "Bring your original receipt/token from when you submitted the application, a copy of your old ID card if available, and any identification documents requested by the NADRA center."
+    },
+    {
+      "question": "What happens to my old ID card when I get changes made?",
+      "answer": "For printable field changes, your old ID card becomes invalid once the new card is issued. You should surrender the old card to NADRA or destroy it securely to prevent misuse."
+    },
+    {
+      "question": "Are there age restrictions for making changes to ID cards?",
+      "answer": "Minors (under 18) may need parental or guardian consent and presence for making changes. Adults can make changes independently, subject to documentation requirements and change limits."
+    },
+    {
+      "question": "Can overseas Pakistanis make changes to their ID cards?",
+      "answer": "Overseas Pakistanis can make changes through Pakistani consulates/embassies abroad or by visiting Pakistan. The process may involve additional verification steps for overseas applicants."
+    },
+    {
+      "question": "What if I made an error in my change application?",
+      "answer": "If you notice an error before processing, contact the NADRA center immediately. If the error is processed, you may need to apply for another correction, which could be subject to change limits and fees."
+    },
+    {
+      "question": "How do changes to my ID card affect other NADRA services?",
+      "answer": "Changes to your ID card information will be updated across all NADRA systems, potentially affecting your passport, driver's license applications, and other services linked to your CNIC."
+    },
+    {
+      "question": "Do I need to inform other government departments about ID card changes?",
+      "answer": "While NADRA updates its systems, you may need to separately update your information with other departments like banks, employers, or utility companies that use your CNIC information."
+    },
+    {
+      "question": "Can I make changes if I have a juvenile card that's about to expire?",
+      "answer": "If your juvenile card is about to expire, you may want to apply for an adult CNIC instead of modifying the juvenile card. Consult NADRA staff for the best course of action based on your age and timing."
+    },
+    {
+      "question": "What verification process is followed for ID card changes?",
+      "answer": "NADRA verifies your documents against their records and may conduct additional checks through local authorities or verification officers. The process ensures the authenticity of your change request."
+    },
+    {
+      "question": "Can I make changes if my ID card is damaged or expired?",
+      "answer": "Yes, you can make changes even if your ID card is damaged or expired. However, you may need additional verification steps to confirm your identity and the changes requested."
+    },
+    {
+      "question": "What happens if I need urgent changes for visa or travel purposes?",
+      "answer": "For urgent travel-related changes, contact NADRA about expedited processing. You may need to provide proof of travel urgency such as flight tickets or visa appointment letters."
+    },
+    {
+      "question": "Are there any changes that cannot be made to an ID card?",
+      "answer": "Some changes may be restricted or impossible, such as changing information that conflicts with official records or making changes that exceed lifetime limits without proper justification through the exception process."
+    },
+    {
+      "question": "How do I know which documents are required for my specific change?",
+      "answer": "Document requirements vary by the type of change. Visit a NADRA center or check NADRA's official documentation requirements guide. NADRA staff will inform you of the specific documents needed for your type of modification."
+    },
+    {
+      "question": "Can I make changes if I hold dual nationality?",
+      "answer": "Dual nationality holders can make changes, but additional documentation may be required. The process may involve verification of your Pakistani citizenship status and foreign nationality documents."
+    },
+    {
+      "question": "What should I do if the wrong information was updated on my ID card?",
+      "answer": "If wrong information was updated due to NADRA's error, it can be corrected without additional charges. If it was due to your error, you may need to apply for another modification subject to normal fees and change limits."
+    },
+    {
+      "question": "How long are the changes valid on my ID card?",
+      "answer": "Changes made to your ID card are permanent and valid until your card's expiration date. The changes become part of your official record and will carry forward to future card renewals."
     }
   ]
 }
