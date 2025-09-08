@@ -1,7 +1,7 @@
 {
   "file_name": "orphange_policy.md",
   "domain": "Specialized_Services",
-  "total_qa_pairs": 30,
+  "total_qa_pairs": 55,
   "qa_data": [
     {
       "question": "What is the purpose of the Orphanage Registration Policy?",
@@ -122,6 +122,114 @@
     {
       "question": "How does the orphanage registration policy ensure legal identity for vulnerable children?",
       "answer": "The policy ensures legal identity by providing a structured registration process that allows orphan children to obtain CRC or Juvenile cards free of cost, giving them official recognition as Pakistani citizens and access to fundamental rights and services, which is the cornerstone of their recognition as equal citizens under the law."
+    },
+    {
+      "question": "What happens if an orphanage changes its designated guardian?",
+      "answer": "If an orphanage changes its designated guardian, they must submit updated registration documents to NADRA Regional Head Offices with new guardian details (name, CNIC, designation, and signatures) on the prescribed format for approval and database update."
+    },
+    {
+      "question": "How long does the orphanage registration process typically take?",
+      "answer": "The process involves scrutiny at Regional Head Offices, forwarding to HQ NADRA, and approval by Chief Operating Officer/DG (Ops). While specific timeframes aren't mentioned, the multi-level review process suggests it may take several weeks depending on document completeness and approval workflows."
+    },
+    {
+      "question": "Can orphanages register children who were not initially registered with them?",
+      "answer": "The policy refers to children 'against which child was first registered in orphanage,' suggesting children should be registered with the orphanage first. For children transferring from other institutions, proper transfer documentation and updated registration forms would be required."
+    },
+    {
+      "question": "What training do NADRA staff receive for handling orphan registration cases?",
+      "answer": "While not specified in the policy, NADRA staff at DAUs would need training on the special procedures for orphan registration, including understanding court orders for CPIs, handling cases with unknown parentage, and processing gratis applications under the 'Orphan Registration' reason."
+    },
+    {
+      "question": "Are there any age restrictions for orphan registration under this policy?",
+      "answer": "Every child is eligible for registration in CRC/Juvenile card. The presence of minor is required for Juvenile card only, suggesting age-appropriate documentation is issued based on the child's age, but no specific age restrictions are mentioned for eligibility."
+    },
+    {
+      "question": "How does NADRA verify the authenticity of orphanage registration certificates?",
+      "answer": "NADRA Regional Head Offices conduct scrutiny of submitted documents including Registration Certificates with concerned Federal/Provincial Government for Orphanages, and court orders for CPIs, before forwarding cases to HQ NADRA for final verification and approval."
+    },
+    {
+      "question": "What happens if an orphan child is adopted by a family?",
+      "answer": "While not explicitly covered in this policy, adoption would require following standard NADRA procedures for family inclusion, updating the child's records to reflect the new family structure, and potentially issuing new identity documents reflecting the adopted family relationships."
+    },
+    {
+      "question": "Can international orphanages operating in Pakistan use this policy?",
+      "answer": "International orphanages would need to meet the same requirements including Registration Certificate with concerned Federal/Provincial Government and compliance with Pakistani legal frameworks. Court orders for custody would be particularly important for international organizations."
+    },
+    {
+      "question": "How does NADRA handle children who leave orphanages after reaching adulthood?",
+      "answer": "Once children reach adulthood, they would transition to standard NADRA adult identity documents. Their orphanage-issued juvenile/CRC cards would be upgraded to regular CNICs following standard procedures for identity document updates upon reaching legal age."
+    },
+    {
+      "question": "What quality control measures exist for orphan registration?",
+      "answer": "Quality control includes multi-level scrutiny at Regional Head Offices, HQ NADRA review, approval by Chief Operating Officer/DG (Ops), prescribed formats for documentation (Annex-A and Annex-B), and systematic database registration before making names available at DAUs."
+    },
+    {
+      "question": "Are there any reporting requirements for orphanages after registration?",
+      "answer": "While not specified in the policy, orphanages would likely need to report changes in children's status, new admissions, transfers, adoptions, or changes in designated guardians to maintain accurate records in NADRA's database system."
+    },
+    {
+      "question": "How does this policy integrate with other child protection laws in Pakistan?",
+      "answer": "The policy specifically mentions court orders for CPIs, indicating integration with judicial child protection systems. It aligns with fundamental rights protection and complements other child welfare legislation by ensuring vulnerable children have legal identity and access to services."
+    },
+    {
+      "question": "What happens if there are discrepancies in the child's information during registration?",
+      "answer": "Discrepancies would be addressed through the scrutiny process at Regional Head Offices and HQ NADRA. The registration form from when the child was first registered in the orphanage serves as the baseline, and any conflicts would need resolution before proceeding with identity document issuance."
+    },
+    {
+      "question": "Can orphanages register children who were found abandoned?",
+      "answer": "Yes, the policy covers children with unknown parentage where names are randomly selected from NADRA's name library. Court orders (especially for CPIs) would establish legal custody for abandoned children before NADRA registration can proceed."
+    },
+    {
+      "question": "What documentation is required if an orphan child has disabilities?",
+      "answer": "While not specifically mentioned in this policy, disabled orphan children would follow the same registration procedures. Additional documentation might include medical certificates or disability assessments, but the policy ensures all children are eligible for registration regardless of their circumstances."
+    },
+    {
+      "question": "How does NADRA ensure data privacy for orphan children's records?",
+      "answer": "NADRA follows standard data protection protocols for all registrations. Orphan children's records would be subject to the same confidentiality measures, with access restricted to authorized personnel and proper safeguards for sensitive information about their background and circumstances."
+    },
+    {
+      "question": "Can temporary care facilities register children under this policy?",
+      "answer": "Temporary care facilities would likely fall under Child Protection Institutes (CPIs) and would need court orders for custody. However, for permanent registration, children would typically need to be in stable long-term care arrangements rather than temporary placements."
+    },
+    {
+      "question": "What appeal process exists if orphanage registration is denied?",
+      "answer": "While not specified in the policy, denied applications could be appealed through NADRA's standard grievance mechanisms, including the complaint resolution system, escalation to higher management, or seeking judicial intervention given the Supreme Court's endorsement of this policy."
+    },
+    {
+      "question": "How are orphan children's birth dates determined if unknown?",
+      "answer": "While not explicitly stated, birth dates would likely be estimated based on medical assessment or social worker evaluation and documented in the child's registration form. The policy emphasizes using available information and reasonable estimates when exact details are unknown."
+    },
+    {
+      "question": "Can religious organizations' orphanages use this registration policy?",
+      "answer": "Yes, religious organizations operating orphanages can use this policy provided they meet the registration requirements including Federal/Provincial Government registration certificate and compliance with prescribed formats and procedures outlined in the policy."
+    },
+    {
+      "question": "What coordination exists between NADRA and social welfare departments for orphan registration?",
+      "answer": "The policy requires Registration Certificates from Federal/Provincial Government (which often involves social welfare departments) and court orders for CPIs, indicating coordination with government welfare systems and judicial authorities for comprehensive child protection."
+    },
+    {
+      "question": "How does NADRA handle name changes for orphan children?",
+      "answer": "Name changes would follow standard NADRA modification procedures, but for orphan children, changes might require approval from the orphanage administration, court orders (for CPIs), and documentation justifying the name change, especially if children were originally registered with estimated or assigned names."
+    },
+    {
+      "question": "What happens to orphan registration records when an orphanage closes?",
+      "answer": "When an orphanage closes, records would need to be transferred to receiving institutions or government authorities. NADRA would require updated documentation showing where children have been relocated and which institutions now have custody to maintain accurate database records."
+    },
+    {
+      "question": "Are there any special procedures for orphan children from cross-border situations?",
+      "answer": "Cross-border orphan situations would require additional documentation to establish Pakistani citizenship eligibility, compliance with immigration laws, and possibly coordination with international child protection agencies. Court orders establishing legal status would be crucial."
+    },
+    {
+      "question": "How does this policy address children who are separated from families rather than truly orphaned?",
+      "answer": "The policy covers 'orphans/children living in Orphanages/CPIs,' which could include separated children. However, efforts should be made to reunite children with families when possible. For those who cannot be reunited, the registration process provides legal identity protection."
+    },
+    {
+      "question": "What role do Child Protection Institutes play differently from traditional orphanages?",
+      "answer": "Child Protection Institutes require court orders for custody (which orphanages don't specifically need) and may handle more complex cases including children in conflict with law, abuse victims, or those requiring specialized protection services beyond traditional orphan care."
+    },
+    {
+      "question": "Can foster families register children using orphanage registration procedures?",
+      "answer": "Foster families would typically use standard family registration procedures rather than orphanage policies. This policy specifically applies to institutional care in registered orphanages and Child Protection Institutes, not individual family placements."
     }
   ]
 }
