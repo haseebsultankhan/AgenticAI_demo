@@ -1,7 +1,7 @@
 {
   "file_name": "delivery.md",
   "domain": "Identity_Services",
-  "total_qa_pairs": 15,
+  "total_qa_pairs": 65,
   "qa_data": [
     {
       "question": "How are applicants informed about the progress status of their ID card application?",
@@ -25,7 +25,7 @@
     },
     {
       "question": "What is digital delivery for NADRA documents?",
-      "answer": "Digital Delivery is an option where certain documents, specifically FRCs (Family Registration Certificates) applied for online, can be downloaded instantly from the  PAK ID app inbox."
+      "answer": "Digital Delivery is an option where certain documents, specifically FRCs (Family Registration Certificates) applied for online, can be downloaded instantly from the PAK ID app inbox."
     },
     {
       "question": "Which documents can be downloaded digitally?",
@@ -62,6 +62,222 @@
     {
       "question": "Which delivery method is fastest for getting my documents?",
       "answer": "Digital Delivery is the fastest option for applicable documents like FRCs, as they can be downloaded instantly from the app inbox. For other documents, you can choose between pick-up from centers or home delivery based on your convenience."
+    },
+    {
+      "question": "What information is included in SMS notifications?",
+      "answer": "SMS notifications typically include your application tracking number, current status of your application, next steps if required, estimated completion dates, and instructions for any action needed from your side."
+    },
+    {
+      "question": "Can I update my mobile number for receiving SMS notifications?",
+      "answer": "Yes, you can update your mobile number by visiting NADRA centers or through online services to ensure you receive SMS notifications on your current active number."
+    },
+    {
+      "question": "What email address is used for sending notifications?",
+      "answer": "Notifications are sent to the email address you provided during your application process. Ensure your email address is correct and accessible to receive updates."
+    },
+    {
+      "question": "How often do I receive progress notifications?",
+      "answer": "You receive notifications at key milestone stages of your application processing, not daily. The frequency depends on your application's progress through different processing stages."
+    },
+    {
+      "question": "What should I do if I don't receive expected notifications?",
+      "answer": "If you don't receive notifications, check your mobile number and email accuracy, verify they're not blocked by spam filters, contact NADRA helpline, or visit the center to update your contact information."
+    },
+    {
+      "question": "Can I choose to receive only SMS or only email notifications?",
+      "answer": "While NADRA sends notifications via both SMS and email, you can provide only one contact method if preferred. However, providing both ensures better communication reliability."
+    },
+    {
+      "question": "Are notifications sent in multiple languages?",
+      "answer": "NADRA notifications are typically sent in English and Urdu. The language may depend on your application preferences and the service type you're using."
+    },
+    {
+      "question": "What should I do if I receive a notification about application rejection?",
+      "answer": "If you receive a rejection notification, visit the NADRA center with your documents to understand the specific reasons for rejection and get guidance on how to resolve the issues."
+    },
+    {
+      "question": "How long does home delivery take?",
+      "answer": "Home delivery time depends on your processing priority: Normal (30 days), Urgent (12 days), or Executive (7 days), plus additional delivery time based on your location and postal service efficiency."
+    },
+    {
+      "question": "Is there an additional fee for home delivery?",
+      "answer": "Home delivery may involve additional courier charges beyond the standard processing fees. Confirm the total cost including delivery charges when selecting this option."
+    },
+    {
+      "question": "What areas are covered by home delivery service?",
+      "answer": "Home delivery is available in most urban and rural areas across Pakistan, but coverage may vary. Confirm availability for your specific address when applying."
+    },
+    {
+      "question": "Can I change delivery address after application submission?",
+      "answer": "Contact NADRA customer service immediately if you need to change your delivery address. Changes may be possible before card dispatch but could cause processing delays."
+    },
+    {
+      "question": "What identification is required for home delivery?",
+      "answer": "For home delivery, you'll need to show valid identification (like existing CNIC, driving license, or passport) and sign for receipt when the courier delivers your documents."
+    },
+    {
+      "question": "What happens if I'm not available during home delivery?",
+      "answer": "If you're not available, the courier will typically attempt redelivery or leave a notice. You may need to contact the courier service to arrange a convenient delivery time."
+    },
+    {
+      "question": "Can someone else receive my documents on my behalf for home delivery?",
+      "answer": "Generally, you must receive your documents personally for security reasons. In exceptional cases, authorized family members with proper identification may be allowed to receive on your behalf."
+    },
+    {
+      "question": "How secure is home delivery for NADRA documents?",
+      "answer": "Home delivery uses secure courier services with tracking, signature confirmation, and identity verification to ensure your documents reach only the intended recipient safely."
+    },
+    {
+      "question": "What should I do if my documents are lost during home delivery?",
+      "answer": "Immediately contact NADRA customer service and the courier company if documents are lost during delivery. You may need to apply for duplicate documents with proper documentation of the loss."
+    },
+    {
+      "question": "Which NADRA centers offer document pickup services?",
+      "answer": "Most NADRA registration centers, including main offices, satellite centers, and franchises, offer document pickup services. Confirm with your local center for availability."
+    },
+    {
+      "question": "What are the operating hours for document pickup?",
+      "answer": "NADRA centers typically operate during business hours (usually 8 AM to 5 PM, Monday to Friday, and limited Saturday hours). Check your local center's specific timings."
+    },
+    {
+      "question": "What documents do I need to bring for pickup?",
+      "answer": "Bring your original receipt/token from application submission, a copy of your acknowledgment, and valid identification for verification when collecting your documents."
+    },
+    {
+      "question": "Can I authorize someone else to pick up my documents?",
+      "answer": "Generally, personal pickup is required for security. In exceptional cases, you may authorize someone with a written authorization letter and their valid identification, but confirm center policy first."
+    },
+    {
+      "question": "How long are documents held at centers for pickup?",
+      "answer": "Documents are typically held for a specific period (usually 30-60 days) after completion. If not collected within this time, you may need to pay additional fees or apply for duplicate documents."
+    },
+    {
+      "question": "What happens if I lose my receipt for document pickup?",
+      "answer": "If you lose your receipt, bring alternative identification like your CNIC and provide your application details. The center may require additional verification to confirm your identity."
+    },
+    {
+      "question": "Can I check if my documents are ready for pickup?",
+      "answer": "Yes, you can check readiness through SMS tracking services, NADRA website, PAK-ID app, calling the helpline, or visiting the center directly."
+    },
+    {
+      "question": "Are there peak times when pickup centers are crowded?",
+      "answer": "Peak times are typically early mornings, lunch hours, and end of workday. Visit during mid-morning or mid-afternoon for shorter wait times."
+    },
+    {
+      "question": "What should I verify when collecting my documents?",
+      "answer": "Verify all personal information is correct, check document quality and clarity, ensure all requested documents are provided, and confirm expiration dates before leaving the center."
+    },
+    {
+      "question": "What if there's an error in my delivered documents?",
+      "answer": "If you find errors in delivered documents, immediately contact NADRA to report the issue. Office mistakes are typically corrected free of charge, while applicant errors may involve fees."
+    },
+    {
+      "question": "How do I access digital delivery for FRCs?",
+      "answer": "To access digital delivery for FRCs, download the PAK-ID app, log in with your credentials, navigate to your inbox, and download your FRC document instantly after online application approval."
+    },
+    {
+      "question": "Are digitally delivered documents legally valid?",
+      "answer": "Yes, digitally delivered FRCs are legally valid and accepted by government offices and institutions, as they contain the same information and security features as physical documents."
+    },
+    {
+      "question": "Can I print digital documents at home?",
+      "answer": "Yes, you can print digital documents from the PAK-ID app. Ensure you use good quality paper and printer settings for clear, legible printouts."
+    },
+    {
+      "question": "What file format are digital documents provided in?",
+      "answer": "Digital documents are typically provided in PDF format for easy viewing, downloading, and printing while maintaining document integrity and security features."
+    },
+    {
+      "question": "Is there a limit on how many times I can download digital documents?",
+      "answer": "Generally, there's no limit on downloading your digital documents from the PAK-ID app. You can download them multiple times as needed for your records."
+    },
+    {
+      "question": "What if I can't access the PAK-ID app for digital delivery?",
+      "answer": "If you can't access the PAK-ID app, contact NADRA customer support for assistance, try resetting your password, ensure you have a stable internet connection, or visit a NADRA center for help."
+    },
+    {
+      "question": "Can I share digital documents electronically?",
+      "answer": "You can share digital documents electronically for official purposes, but ensure you're sharing with authorized entities and maintain the confidentiality and security of your personal information."
+    },
+    {
+      "question": "What happens if I accidentally delete digital documents?",
+      "answer": "If you delete digital documents, you can re-download them from the PAK-ID app inbox. The documents remain available in your account for future access."
+    },
+    {
+      "question": "Are there size limitations for digital document downloads?",
+      "answer": "Digital documents are optimized for reasonable file sizes. Ensure you have adequate storage space and stable internet connection for downloading, especially on mobile devices."
+    },
+    {
+      "question": "Can I request physical copies after choosing digital delivery?",
+      "answer": "If you initially chose digital delivery but later need physical copies, contact NADRA to inquire about obtaining hard copies. Additional fees may apply for physical document issuance."
+    },
+    {
+      "question": "How can I track my application after submission?",
+      "answer": "You can track your application using the tracking number via SMS services, PAK-ID app, NADRA website, calling helpline 1777, or visiting the center with your receipt."
+    },
+    {
+      "question": "What information do I need for tracking my application?",
+      "answer": "For tracking, you typically need your application tracking number, CNIC number, and the mobile number used during application submission."
+    },
+    {
+      "question": "How long does it take to receive the first notification?",
+      "answer": "The first notification about application form uploading is usually sent within 24-48 hours after your visit to the NADRA center and completion of the initial processing steps."
+    },
+    {
+      "question": "Can I change my delivery method after application submission?",
+      "answer": "Changing delivery method after submission may be possible before card dispatch, but contact NADRA customer service immediately as changes might cause delays and additional fees."
+    },
+    {
+      "question": "What should I do if my delivery address is incorrect in the system?",
+      "answer": "Contact NADRA immediately to correct address information before card dispatch. Provide proper documentation for address correction and expect possible processing delays."
+    },
+    {
+      "question": "Are there any restrictions on delivery to certain areas?",
+      "answer": "Some remote or security-sensitive areas may have delivery restrictions. Confirm with NADRA if your area is covered by their delivery services when applying."
+    },
+    {
+      "question": "How do I report delivery issues or complaints?",
+      "answer": "Report delivery issues through NADRA helpline 1777, visit your local NADRA center, use the PAK-ID app complaint feature, or submit written complaints to customer service."
+    },
+    {
+      "question": "Can I expedite delivery if I have urgent travel plans?",
+      "answer": "For urgent travel, choose Executive processing (7 days) and pick-up delivery for fastest service. Inform NADRA about urgency and provide travel documentation if possible."
+    },
+    {
+      "question": "What happens during public holidays or strikes affecting delivery?",
+      "answer": "During holidays or strikes, delivery services may be suspended. NADRA will notify applicants of delays and resume services once normal operations are restored."
+    },
+    {
+      "question": "How can I provide feedback about delivery services?",
+      "answer": "Provide feedback through NADRA customer satisfaction surveys, online portals, helpline services, or by speaking with staff at NADRA centers about your delivery experience."
+    },
+    {
+      "question": "Are delivery notifications sent in real-time?",
+      "answer": "Notifications are sent as soon as status updates are recorded in the system, typically within a few hours of actual processing milestones, though there may be some delay."
+    },
+    {
+      "question": "What security measures protect my notifications?",
+      "answer": "Notifications contain limited personal information for security, use verified contact details, and include tracking numbers rather than sensitive personal data to protect your privacy."
+    },
+    {
+      "question": "Can I set preferences for notification timing?",
+      "answer": "Notification timing is automated based on processing stages and cannot be customized. However, you can manage your phone and email settings to receive them appropriately."
+    },
+    {
+      "question": "What should I do if I receive duplicate notifications?",
+      "answer": "Duplicate notifications may occur due to system updates. Ignore duplicates and refer to the latest notification status. Contact customer service if duplicates cause confusion."
+    },
+    {
+      "question": "How accurate are the delivery time estimates provided?",
+      "answer": "Delivery time estimates are based on processing categories and are generally reliable. However, factors like document verification, address accuracy, and external circumstances may affect actual delivery times."
+    },
+    {
+      "question": "Can I request special delivery instructions?",
+      "answer": "You can provide special delivery instructions like preferred delivery times, alternative contact persons, or specific address details to ensure successful delivery."
+    },
+    {
+      "question": "What happens if my documents are returned to sender?",
+      "answer": "If documents are returned due to incorrect address or recipient unavailability, contact NADRA immediately to arrange re-delivery or change to pickup option. Additional fees may apply."
     }
   ]
 }
