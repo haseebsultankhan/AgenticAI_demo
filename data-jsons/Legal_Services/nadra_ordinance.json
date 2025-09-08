@@ -1,115 +1,195 @@
 {
   "file_name": "nadra_ordinance.md",
   "domain": "Legal_Services",
-  "total_qa_pairs": 45,
+  "total_qa_pairs": 140,
   "qa_data": [
     {
       "question": "What is the NADRA Ordinance 2000?",
-      "answer": "The National Database and Registration Authority Ordinance, 2000 (Ordinance No. VIII of 2000) is the foundational legal document that provides for the establishment of NADRA to facilitate the registration of all persons and the establishment and maintenance of multipurpose databases, data warehouses, networking, interfacing of databases and related facilities."
+      "answer": "The National Database and Registration Authority Ordinance, 2000 (Ordinance No. VIII of 2000) is the foundational legal document that established NADRA to facilitate registration of all persons and the establishment and maintenance of multipurpose databases, data warehouses, networking, interfacing of databases and related facilities."
     },
     {
-      "question": "When did the NADRA Ordinance 2000 come into force?",
-      "answer": "The NADRA Ordinance 2000 came into force on 10th March, 2000, and it extends to the whole of Pakistan."
+      "question": "When did the NADRA Ordinance come into force?",
+      "answer": "The NADRA Ordinance came into force on 10th March, 2000, and was effective immediately upon promulgation."
     },
     {
-      "question": "What are the main purposes and objects of NADRA according to the Ordinance?",
-      "answer": "The main purposes and objects of NADRA are to: (a) develop and establish an improved and modernized system of registration through technologically advanced means like computerization, automation, and database creation, (b) broaden the registration base to include all persons and things as laid down in the Ordinance, and (c) establish and maintain multi-purpose databases, data warehousing, networking, and interfacing of databases."
+      "question": "What is the territorial extent of the NADRA Ordinance?",
+      "answer": "The NADRA Ordinance extends to the whole of Pakistan, including applications to FATA and Northern Areas as per subsequent notifications."
     },
     {
-      "question": "What powers does NADRA have for issuing identity cards according to the Ordinance?",
-      "answer": "NADRA may issue or renew cards to any prescribed class of persons, including citizens, foreigners and emigrants, who have registered in the prescribed manner. Cards are issued in prescribed form and manner, on specified criteria, for defined validity periods, and on prescribed terms and conditions."
+      "question": "What law did the NADRA Ordinance repeal?",
+      "answer": "The NADRA Ordinance repealed the National Registration Act, 1973 (LVI of 1973), though rights, liabilities, and actions under the old Act continue under the new Ordinance if not inconsistent."
     },
     {
-      "question": "What types of identity cards are authorized under the NADRA Ordinance?",
-      "answer": "The Ordinance authorizes four main types of cards: National Identity Cards (for citizens 18+), Pakistan Origin Cards (for prescribed classes of foreigners and dual nationals), Overseas Identity Cards (for citizens resident abroad or emigrants), and Alien Registration Cards (for prescribed classes of foreigners resident in Pakistan)."
+      "question": "What is the primary purpose of establishing NADRA according to the Ordinance?",
+      "answer": "The primary purpose is to formulate and implement policies for developing an improved and modernized registration system, broadening the registration base to include all persons and things, and establishing multipurpose databases, data warehousing, networking, and interfacing facilities."
     },
     {
-      "question": "What is the National Data Warehouse according to the Ordinance?",
-      "answer": "The National Data Warehouse is a comprehensive system based on data extracted from the Citizen Database and other registration systems. It includes interfacing with user and feeder agencies, data sharing, data mining, data cleansing, and maintenance of historical data, accessible online through the National Information Infrastructure."
+      "question": "How is NADRA defined in the Ordinance?",
+      "answer": "NADRA is defined as 'the National Database and Registration Authority established under section 3' of the Ordinance, functioning as an autonomous body with specific powers and functions."
     },
     {
-      "question": "What are the registration requirements for citizens under the Ordinance?",
-      "answer": "Every citizen in or out of Pakistan who has attained 18 years of age shall get registered. Parents or guardians of citizens under 18 must register them within one month of birth. The Authority may extend this period on a case-to-case basis for those under 18."
+      "question": "What is meant by 'citizen' in the NADRA Ordinance?",
+      "answer": "A 'citizen' means a person who is, or is deemed to be a citizen of Pakistan, under the Pakistan Citizenship Act, 1951 (II of 1951)."
     },
     {
-      "question": "Who are considered public servants under the NADRA Ordinance?",
-      "answer": "The Chairman, members, Registration Officers, staff members, experts, consultants, advisors, and other officers and employees of NADRA are deemed to be public servants within the meaning of section 21 of the Pakistan Penal Code, 1860."
+      "question": "How does the Ordinance define 'foreigner'?",
+      "answer": "A 'foreigner' is defined as a person who is not a citizen of Pakistan."
     },
     {
-      "question": "What is the penalty for obtaining multiple identity cards?",
-      "answer": "According to Section 30, obtaining or attempting to obtain more than one ID card can result in imprisonment for up to six months and a fine of fifty thousand rupees. For repeated offenses, the punishment may be doubled."
+      "question": "What are 'Registration Officers' according to the Ordinance?",
+      "answer": "Registration Officers include the Director General, Director, Deputy Director, Assistant Director, District Registrar, Registrar, or Inspector, appointed under section 35, and include any person to whom powers are delegated."
     },
     {
-      "question": "What penalties apply for providing false information to NADRA?",
-      "answer": "Providing false information to obtain an ID card or other official document can result in imprisonment for up to six months and a fine of fifty thousand rupees. Willfully providing false information or concealing information for more serious offenses can result in imprisonment for up to five years and a fine of one hundred thousand rupees."
+      "question": "What powers does NADRA have regarding registration systems?",
+      "answer": "NADRA may develop and maintain registration systems, automated or otherwise, for any class of persons wherever they may be (including citizens, foreigners, emigrants) and for any class of things, in the prescribed manner."
     },
     {
-      "question": "What are the penalties for forging identity cards?",
-      "answer": "Obtaining, possessing, or using a forged or counterfeit identity card can result in imprisonment for up to five years and a fine of one hundred thousand rupees. Making, possessing, or using equipment for forging identity cards carries the same penalties."
+      "question": "What types of cards can NADRA issue according to the Ordinance?",
+      "answer": "NADRA can issue National Identity Cards, Pakistan Origin Cards, Overseas Identity Cards (NICOP), and Alien Registration Cards to prescribed classes of persons who have registered in the prescribed manner."
     },
     {
-      "question": "What penalties apply to NADRA employees for data breaches?",
-      "answer": "Under Section 29, NADRA employees who are negligent in protecting the database, attempt to damage Authority records, assist in altering database data, or provide unauthorized access can face imprisonment for up to fourteen years and a fine of one million rupees or more."
+      "question": "What are NADRA's obligations regarding data security?",
+      "answer": "NADRA must ensure and provide by regulations for due security, secrecy and necessary safeguards for protection and confidentiality of data and information contained in registration and database systems, including databases, data warehouses and networking infrastructure."
     },
     {
-      "question": "Can NADRA cancel or confiscate identity cards?",
-      "answer": "Yes, under Section 18, NADRA can cancel, impound, or confiscate cards if obtained by ineligible persons, if multiple cards were obtained on same criteria, if particulars are tampered with, or if the card is forged. Notice must be given and opportunity for hearing provided before such action."
-    },
-    {
-      "question": "What is the NADRA Fund and how is it operated?",
-      "answer": "The NADRA Fund is a non-lapsable fund for meeting charges related to NADRA's functions and operations, including salaries and remuneration. It is maintained in scheduled banks in Pakistan in local or foreign currency and operated according to NADRA regulations."
-    },
-    {
-      "question": "Does the NADRA Ordinance override other laws?",
-      "answer": "Yes, according to Section 46, the provisions of the NADRA Ordinance have effect notwithstanding anything contained in any other law for the time being in force."
-    },
-    {
-      "question": "What happens when someone fails to apply for an ID card after turning 18?",
-      "answer": "Failing to apply for an ID card within ninety days of reaching 18 years of age can result in imprisonment for up to six months and a fine of fifty thousand rupees."
-    },
-    {
-      "question": "Can identity cards be surrendered and what are the requirements?",
-      "answer": "Yes, cards must be surrendered within sixty days of the holder's death by spouse, heir, next of kin, parent or guardian. Cards must also be surrendered when holders become ineligible or cards become invalid, within prescribed periods."
-    },
-    {
-      "question": "What powers does NADRA have to request information from other agencies?",
-      "answer": "NADRA may request information and assistance from user or feeder agencies, and all such agencies must comply with reasonable requests in a timely, complete and effective manner. NADRA may fix deadlines for compliance."
-    },
-    {
-      "question": "Can NADRA require proof of information provided?",
-      "answer": "Yes, under Section 23, NADRA or any authorized person may require anyone who has given information to furnish documentary or other evidence of the truth of that information, if it is within their power to provide."
-    },
-    {
-      "question": "What information must be reported to NADRA?",
-      "answer": "The birth of newly born citizens and death of citizens must be reported to the District Registrar by prescribed authorities. Marriage or divorce of citizens must also be reported to the District Registrar by prescribed authorities."
-    },
-    {
-      "question": "Are there exemptions from card requirements?",
-      "answer": "Yes, the Federal Government or NADRA with Federal approval may exempt any person or class of persons from possessing or producing cards in special circumstances that must be recorded in writing."
-    },
-    {
-      "question": "What cards are necessary for obtaining a passport?",
-      "answer": "No citizen who has attained 18 years but does not possess or produce a National Identity Card shall be granted a passport, permit or other travel document for going out of Pakistan."
-    },
-    {
-      "question": "How does NADRA ensure data security and confidentiality?",
-      "answer": "NADRA must ensure and provide by regulations for due security, secrecy and necessary safeguards for protection and confidentiality of data and information in registration and database systems, including databases, data warehouses and networking infrastructure."
-    },
-    {
-      "question": "What standards does NADRA enforce for government databases?",
-      "answer": "NADRA prescribes and enforces standards for establishment and maintenance of databases, data warehouses, networking, and interfacing in all Federal Government entities to achieve optimum utilization and application of such systems."
+      "question": "What reporting obligations does NADRA have?",
+      "answer": "NADRA must prepare and submit annual reports to the Federal Government by January 31st each year regarding its performance, exercise of functions and powers, achievements, and the state of registration and database systems in the country."
     },
     {
       "question": "Can NADRA charge fees for its services?",
-      "answer": "Yes, NADRA may charge prescribed fees for its services and transactions, including fees for registration, issuance or renewal of cards, and provision of information or reports to governmental, private, or other entities from its databases."
-    },
-    {
-      "question": "How are NADRA's decisions made?",
-      "answer": "Decisions of the Authority are taken by majority of members present, and in case of a tie, the presiding member has a casting vote. All orders, determinations and decisions must be in writing and identify each member's determination separately."
+      "answer": "Yes, NADRA may charge prescribed fees for its services and transactions, including fees for registration, card issuance or renewal, and provision of information or reports from its databases to governmental, private, or other entities."
     },
     {
       "question": "What research powers does NADRA have?",
-      "answer": "NADRA may cause research, studies, surveys, experiments and investigations to be made or contribute toward costs of such activities by any person or entity related to the Authority's purposes and objects."
+      "answer": "NADRA may cause research, studies, surveys, experiments and investigations to be made or contribute towards the cost of such activities made by any person or entity in relation to its purposes and objects."
+    },
+    {
+      "question": "Can NADRA seek external assistance?",
+      "answer": "Yes, NADRA may seek advice and assistance for carrying out the purposes of the Ordinance from any governmental or private body, person or entity, both domestic and international."
+    },
+    {
+      "question": "What is the composition of NADRA's governing body?",
+      "answer": "NADRA is governed by an Authority consisting of members appointed by the Federal Government, including a Chairman. The specific composition and appointment procedures are determined by the Federal Government."
+    },
+    {
+      "question": "How are decisions made by the NADRA Authority?",
+      "answer": "Decisions of the Authority are taken by majority of members present. In case of a tie, the member presiding the meeting has a casting vote. All orders and decisions must be in writing and identify each member's determination separately."
+    },
+    {
+      "question": "What is the National Data Warehouse?",
+      "answer": "The National Data Warehouse is a comprehensive database system that NADRA establishes and maintains to store, process, and manage registration and identification data for various purposes as defined in the Ordinance."
+    },
+    {
+      "question": "Who must register under the NADRA Ordinance?",
+      "answer": "All citizens of Pakistan must register under the Ordinance. The registration requirement extends to citizens both within Pakistan and abroad, with specific procedures for different categories of persons."
+    },
+    {
+      "question": "What happens to registration under the old National Registration Act?",
+      "answer": "Citizens registered under the National Registration Act, 1973 must get themselves registered afresh under the NADRA Ordinance within specified timeframes, unless they have already applied or opted for computerized identity cards."
+    },
+    {
+      "question": "What is a National Identity Card under the Ordinance?",
+      "answer": "A National Identity Card means a card issued under section 14 of the Ordinance and includes identity cards issued under the previous National Registration Act, 1973, providing legal identification for Pakistani citizens."
+    },
+    {
+      "question": "Who is eligible for Pakistan Origin Cards?",
+      "answer": "Pakistan Origin Cards are issued to prescribed classes of foreigners and prescribed classes of citizens with dual nationality who have registered in the prescribed manner, helping maintain connections with Pakistan."
+    },
+    {
+      "question": "What are Overseas Identity Cards?",
+      "answer": "Overseas Identity Cards (NICOP) are issued to prescribed classes of citizens resident abroad or emigrants who have registered in the prescribed manner, facilitating their identification and services while overseas."
+    },
+    {
+      "question": "Who receives Alien Registration Cards?",
+      "answer": "Alien Registration Cards are issued to prescribed classes of foreigners resident in Pakistan, whether legally or otherwise, who have registered in the prescribed manner."
+    },
+    {
+      "question": "What are the responsibilities of cardholders?",
+      "answer": "Every person to whom a card is issued must be responsible for its safe custody and maintaining it in proper shape. NADRA may prescribe standards for custody and maintenance of various cards."
+    },
+    {
+      "question": "Can NADRA inspect identity cards?",
+      "answer": "Yes, the Ordinance provides NADRA with powers to inspect cards, though specific inspection procedures and circumstances are defined in regulations and rules."
+    },
+    {
+      "question": "When must cards be surrendered?",
+      "answer": "Cards must be surrendered in circumstances prescribed by regulations, such as when they expire, are replaced, or when the holder's status changes in ways that affect eligibility."
+    },
+    {
+      "question": "What powers does NADRA have to cancel or confiscate cards?",
+      "answer": "Under section 18, NADRA has the power to cancel, impound, or confiscate cards in prescribed circumstances, such as when they are obtained fraudulently or when the holder violates conditions of issuance."
+    },
+    {
+      "question": "For what purposes are identity cards necessary?",
+      "answer": "Identity cards are necessary for purposes prescribed in the regulations, which typically include banking, property transactions, travel, employment, and access to government services."
+    },
+    {
+      "question": "Can anyone be exempted from card requirements?",
+      "answer": "Yes, NADRA has the power to exempt certain classes of persons or specific individuals from card requirements under circumstances and conditions prescribed in the regulations."
+    },
+    {
+      "question": "What information must be provided to NADRA?",
+      "answer": "Information relating to births, deaths, marriages, divorces, and other vital events must be provided to NADRA as prescribed. User and feeder agencies must also provide prescribed information and assistance."
+    },
+    {
+      "question": "Can NADRA call for proof of information?",
+      "answer": "Yes, under section 23, NADRA has the power to call for proof of information and may summon any person to verify information provided during registration or card application processes."
+    },
+    {
+      "question": "What is the NADRA Fund?",
+      "answer": "The NADRA Fund is established to finance NADRA's operations, consisting of money received from fees, government grants, and other sources. It is used for carrying out NADRA's functions and purposes."
+    },
+    {
+      "question": "What borrowing powers does NADRA have?",
+      "answer": "NADRA is deemed to be a local authority under the Local Authorities Loans Act, 1914, for the purpose of borrowing money under that Act for carrying out its schemes, proposals, plans or functions."
+    },
+    {
+      "question": "How is NADRA's budget prepared?",
+      "answer": "NADRA must submit for Federal Government approval a statement showing estimated receipts and expenditure and sums required from the Federal Government for each financial year, by the date and in the form specified by the Federal Government."
+    },
+    {
+      "question": "What happens to surplus funds?",
+      "answer": "Any surplus remaining in the NADRA Fund at the end of a financial year, after meeting all expenses and obligations, must be remitted to the Federal Consolidated Fund."
+    },
+    {
+      "question": "What are the audit requirements for NADRA?",
+      "answer": "NADRA must maintain proper accounts and is subject to audit procedures as prescribed. The accounts must be audited in the manner prescribed by the Federal Government."
+    },
+    {
+      "question": "What constitutes information disclosure offenses?",
+      "answer": "Under section 28, it's an offense for NADRA employees to disclose, reveal, or publish prohibited information without permission from the competent authority, with penalties of imprisonment up to five years and fines up to one million rupees."
+    },
+    {
+      "question": "What are the penalties for breaching data security?",
+      "answer": "Section 29 prescribes penalties for employees who are negligent in protecting the database, attempt to damage records, assist in data tampering, or provide unauthorized access, with imprisonment up to six months and fines up to fifty thousand rupees."
+    },
+    {
+      "question": "What are the penalties for obtaining multiple identity cards?",
+      "answer": "Attempting to obtain more than one ID card, providing false information, damaging cards, or violating prescribed provisions can result in imprisonment up to six months and fines up to fifty thousand rupees."
+    },
+    {
+      "question": "What are the penalties for forgery and counterfeiting?",
+      "answer": "Obtaining forged identity cards, possessing or using counterfeit cards, making forging equipment, or unlawfully possessing others' cards can result in imprisonment up to five years and fines up to one hundred thousand rupees."
+    },
+    {
+      "question": "Where are fines and penalties deposited?",
+      "answer": "All fines and penalties imposed under the Ordinance are credited to the Federal Consolidated Fund."
+    },
+    {
+      "question": "How are offenses prosecuted under the Ordinance?",
+      "answer": "Courts take cognizance of offenses only upon complaint by NADRA or an officer authorized by it. Trials are conducted according to prescribed procedures with specific courts having jurisdiction."
+    },
+    {
+      "question": "Who are considered public servants under the Ordinance?",
+      "answer": "Registration Officers and other officers appointed under the Ordinance are deemed to be public servants for the purposes of the Pakistan Penal Code and other applicable laws."
+    },
+    {
+      "question": "What delegation powers does NADRA have?",
+      "answer": "NADRA may delegate any of its powers or functions to the Chairman, members, Registration Officers, staff, experts, consultants, advisers, or other officers and employees, subject to conditions it deems fit."
+    },
+    {
+      "question": "What indemnity provisions exist?",
+      "answer": "No suit, prosecution or legal proceeding lies against the Federal Government, Provincial Governments, Local Authorities, Registration Officers, or others exercising powers under the Ordinance for anything done in good faith."
     },
     {
       "question": "What happens to assets when NADRA was established?",
@@ -120,44 +200,24 @@
       "answer": "All suits and legal proceedings instituted by or against the Federal Government, Directorate of National Registration and National Database Organization before NADRA's establishment are deemed to be proceedings by or against NADRA."
     },
     {
-      "question": "What is the validity of cards issued under previous laws?",
-      "answer": "Cards issued under the National Registration Act, 1973 to citizens registered under that Act before the NADRA Ordinance are deemed to have been issued under the Ordinance and remain valid until the underlying registration expires or as prescribed."
+      "question": "What tax exemptions does NADRA have?",
+      "answer": "NADRA is exempt from certain taxes as prescribed in the Ordinance and rules, facilitating its operations as a public sector organization."
+    },
+    {
+      "question": "What rule-making powers does the Federal Government have?",
+      "answer": "The Federal Government may make rules for carrying out the purposes of the Ordinance, including procedures for registration, card issuance, fees, and other operational matters."
     },
     {
       "question": "Can NADRA make regulations?",
       "answer": "Yes, NADRA may make regulations by notification in the official Gazette, not inconsistent with the Ordinance or rules, for carrying out its functions and any other matters for which provision may be made by regulations."
     },
     {
-      "question": "What delegation powers does NADRA have?",
-      "answer": "NADRA may delegate any of its powers or functions to the Chairman, members, Registration Officers, staff, experts, consultants, advisers, or other officers and employees, subject to conditions it deems fit."
-    },
-    {
-      "question": "How is NADRA's budget determined?",
-      "answer": "NADRA must submit for Federal Government approval a statement showing estimated receipts and expenditure and sums required from the Federal Government for each financial year, by the date and in the form specified by the Federal Government."
-    },
-    {
-      "question": "What borrowing powers does NADRA have?",
-      "answer": "NADRA is deemed to be a local authority under the Local Authorities Loans Act, 1914, for the purpose of borrowing money under that Act for carrying out its schemes, proposals, plans or functions."
-    },
-    {
-      "question": "What happens to surplus funds?",
-      "answer": "Any surplus remaining in the NADRA Fund at the end of a financial year, after meeting all expenses and obligations, must be remitted to the Federal Consolidated Fund."
-    },
-    {
-      "question": "Who enforces the NADRA Ordinance?",
-      "answer": "The Ordinance empowers NADRA itself, Registration Officers, and authorized officers to enforce various provisions, with specific enforcement mechanisms for different violations and requirements."
+      "question": "Does the NADRA Ordinance override other laws?",
+      "answer": "Yes, the provisions of the NADRA Ordinance have effect notwithstanding anything contained in any other law for the time being in force."
     },
     {
       "question": "Can difficulties in implementation be resolved?",
       "answer": "Yes, if any difficulty arises in giving effect to any provision of the Ordinance, the Federal Government may make orders not inconsistent with the Ordinance as necessary to remove the difficulty."
-    },
-    {
-      "question": "What law did the NADRA Ordinance repeal?",
-      "answer": "The NADRA Ordinance repealed the National Registration Act, 1973 (LVI of 1973), though rights, liabilities, and actions under the old Act continue under the new Ordinance if not inconsistent."
-    },
-    {
-      "question": "Are there territorial limitations to the Ordinance?",
-      "answer": "The NADRA Ordinance extends to the whole of Pakistan, including applications to FATA and Northern Areas as per subsequent notifications."
     },
     {
       "question": "What is the scope of NADRA's registration systems?",
@@ -186,6 +246,190 @@
     {
       "question": "What happens to employees transferred to NADRA?",
       "answer": "Employees transferred from the Registration Organization and National Database Organization to NADRA are not entitled to compensation for the transfer, and their service terms continue under NADRA regulations."
+    },
+    {
+      "question": "What is the legal status of cards issued under previous laws?",
+      "answer": "Cards issued under the National Registration Act, 1973 to citizens registered under that Act before the NADRA Ordinance are deemed to have been issued under the Ordinance and remain valid until the underlying registration expires or as prescribed."
+    },
+    {
+      "question": "What schemes can NADRA propose?",
+      "answer": "NADRA may frame schemes, proposals or plans for development, establishment or maintenance of registration systems, databases, data warehouses, networking, or interfacing facilities for optimum utilization at national, provincial or local levels."
+    },
+    {
+      "question": "What information must be included in NADRA's schemes?",
+      "answer": "Schemes must include a description and execution manner, cost and benefit estimates with allocation to various purposes, amounts to be repaid by beneficiaries, and other information necessary for informed judgment of desirability and feasibility."
+    },
+    {
+      "question": "What powers do governments have over NADRA's schemes?",
+      "answer": "The Federal Government or concerned Provincial Government or local authority may sanction, refuse to sanction, or return for reconsideration any scheme submitted by NADRA, and may call for further details or examination."
+    },
+    {
+      "question": "What is NADRA's role in database standardization?",
+      "answer": "NADRA may prescribe and enforce standards for establishment and maintenance of databases, data warehouses, networking, and interfacing in all Federal Government entities to achieve optimum utilization."
+    },
+    {
+      "question": "What emergency powers exist under the Ordinance?",
+      "answer": "The Ordinance was promulgated under emergency powers when the National Assembly and Senate were suspended, reflecting its urgent importance for national registration and database systems."
+    },
+    {
+      "question": "What constitutional basis supports the Ordinance?",
+      "answer": "The Ordinance was issued under the Proclamation of Emergency of October 14, 1999, and Provisional Constitution Order No. 1 of 1999, providing constitutional foundation for its enactment."
+    },
+    {
+      "question": "What definitions are crucial for understanding the Ordinance?",
+      "answer": "Key definitions include Authority (NADRA), citizen, foreigner, emigrant, cards, Registration Officer, prescribed (by rules), regulations, and the broad definition of 'things' covering all animate and inanimate objects."
+    },
+    {
+      "question": "How does the Ordinance define 'emigrant'?",
+      "answer": "An 'emigrant' means a person who is an emigrant under the Emigration Ordinance, 1979 (XVIII of 1979), covering Pakistanis who have emigrated to other countries."
+    },
+    {
+      "question": "What is the scope of NADRA's card issuance powers?",
+      "answer": "NADRA may issue cards to any prescribed class of persons (citizens, foreigners, emigrants) or things, who have registered in prescribed manner, in prescribed form and validity period, on prescribed criteria and conditions."
+    },
+    {
+      "question": "What integrated approach can NADRA adopt?",
+      "answer": "NADRA may manage and conduct its affairs, perform functions and exercise powers in such integrated, coordinated or other efficient manner as it deems fit for development, establishment or maintenance of registration and database systems."
+    },
+    {
+      "question": "What coordination mechanisms exist between NADRA and provincial governments?",
+      "answer": "NADRA must submit copies of relevant portions of annual reports identifying problems and prospects to concerned Provincial Governments or local authorities for their consideration and action."
+    },
+    {
+      "question": "What continuity provisions exist for pre-NADRA arrangements?",
+      "answer": "All contracts, agreements, negotiations, working arrangements, and liabilities of the National Database Organization and Registration Organization are deemed to have been made by NADRA and continue under the Ordinance."
+    },
+    {
+      "question": "What procurement and contracting powers does NADRA have?",
+      "answer": "NADRA inherits all bidding processes and contractor arrangements initiated by predecessor organizations and can continue or modify them according to its requirements under the Ordinance."
+    },
+    {
+      "question": "How are NADRA's members remunerated?",
+      "answer": "Members of NADRA receive remuneration as prescribed by the Federal Government, though specific amounts and conditions are determined through separate regulations."
+    },
+    {
+      "question": "What business restrictions apply to NADRA officials?",
+      "answer": "The Chairman and members of NADRA are restricted from engaging in certain business activities to prevent conflicts of interest, as prescribed in the regulations."
+    },
+    {
+      "question": "What happens to NADRA's surplus at year-end?",
+      "answer": "After meeting all expenses and obligations, any surplus in the NADRA Fund at the end of a financial year must be remitted to the Federal Consolidated Fund, ensuring public funds return to the treasury."
+    },
+    {
+      "question": "What specific ordinance does not apply to NADRA?",
+      "answer": "Ordinance XCL of 2002 does not apply to NADRA, providing it with exemptions from certain general government regulations to facilitate its specialized functions."
+    },
+    {
+      "question": "What transfer provisions exist for Alien Registration Authority?",
+      "answer": "Section 41A provides for transfer of assets and liabilities of the Alien Registration Authority to NADRA, consolidating alien registration functions under NADRA's umbrella."
+    },
+    {
+      "question": "What penalties apply to repeated offenses?",
+      "answer": "If a person commits offenses mentioned in section 30 repeatedly, the punishment may be doubled. If the person is a NADRA employee, they may also face termination from service in addition to other penalties."
+    },
+    {
+      "question": "What constitutes willful obstruction under the Ordinance?",
+      "answer": "Willfully obstructing an officer in discharge of duties under the Ordinance is an offense punishable with imprisonment up to five years and fines up to one hundred thousand rupees."
+    },
+    {
+      "question": "What age-related obligations exist under the Ordinance?",
+      "answer": "Citizens must apply for identity cards within ninety days of reaching eighteen years of age, with failure to do so constituting an offense punishable under section 30."
+    },
+    {
+      "question": "What data confidentiality obligations exist?",
+      "answer": "NADRA must ensure confidentiality of data and information in its systems, with strict penalties for employees who breach security, reveal unauthorized information, or provide database access to unauthorized persons."
+    },
+    {
+      "question": "What multilateral cooperation provisions exist?",
+      "answer": "The Ordinance enables NADRA to seek advice and assistance from governmental or private bodies, facilitating international cooperation on registration and database technologies."
+    },
+    {
+      "question": "What technological advancement powers does NADRA have?",
+      "answer": "NADRA may employ technologically advanced, effective and efficient means including computerization, automation, creation of databases, data warehousing, and networking for registration systems."
+    },
+    {
+      "question": "What quality control mechanisms exist under the Ordinance?",
+      "answer": "The Ordinance requires NADRA to maintain standards for databases and registration systems, with regular reporting to government on performance and achievements ensuring accountability."
+    },
+    {
+      "question": "What emergency identification provisions exist?",
+      "answer": "The Ordinance provides NADRA with broad powers to facilitate identification in various circumstances, supporting national security and administrative efficiency through comprehensive registration systems."
+    },
+    {
+      "question": "What citizen service obligations does NADRA have?",
+      "answer": "NADRA must develop improved and modernized registration systems to efficiently serve citizens, with the ultimate goal of good governance, public service, and minimizing corruption and inefficiency."
+    },
+    {
+      "question": "What database integration requirements exist?",
+      "answer": "NADRA must establish standards for database integration across Federal Government entities and may require their compliance to achieve optimum utilization of registration and database systems."
+    },
+    {
+      "question": "What appeal mechanisms exist under the Ordinance?",
+      "answer": "While specific appeal procedures are detailed in rules and regulations, the Ordinance provides framework for grievance redress and review of NADRA's decisions through prescribed channels."
+    },
+    {
+      "question": "What territorial jurisdiction does NADRA have?",
+      "answer": "NADRA's jurisdiction extends throughout Pakistan and to Pakistani citizens abroad, with authority to register persons and maintain databases regardless of their physical location."
+    },
+    {
+      "question": "What modernization objectives does the Ordinance establish?",
+      "answer": "The Ordinance aims to create a new, improved and modernized registration and database system for multiple beneficial uses in efficiently running state affairs and serving the public."
+    },
+    {
+      "question": "What privacy protection framework does the Ordinance establish?",
+      "answer": "The Ordinance mandates NADRA to provide necessary safeguards for protection and confidentiality of data, establishing a comprehensive privacy protection framework for personal information."
+    },
+    {
+      "question": "What public interest considerations guide the Ordinance?",
+      "answer": "The Ordinance is designed to achieve good governance, public service, and minimize corruption and inefficiency through establishment of comprehensive, secure, and efficient registration and database systems."
+    },
+    {
+      "question": "What evolution from previous registration systems does the Ordinance represent?",
+      "answer": "The Ordinance represents a significant evolution from the National Registration Act, 1973, introducing computerization, automation, and advanced database technologies for more efficient citizen services."
+    },
+    {
+      "question": "What future-proofing provisions exist in the Ordinance?",
+      "answer": "The Ordinance provides NADRA with broad powers to adapt to technological changes, conduct research, and modify systems as needed, ensuring long-term viability of registration and database infrastructure."
+    },
+    {
+      "question": "What cross-border registration provisions exist?",
+      "answer": "The Ordinance enables NADRA to register Pakistani citizens abroad and foreigners in Pakistan, facilitating comprehensive population registration regardless of geographical boundaries."
+    },
+    {
+      "question": "What service delivery standards does the Ordinance establish?",
+      "answer": "The Ordinance requires NADRA to maintain high standards of service delivery through modern technology, efficient processes, and regular performance reporting to ensure citizen satisfaction."
+    },
+    {
+      "question": "What institutional independence does NADRA have?",
+      "answer": "As an autonomous authority, NADRA has significant operational independence while remaining accountable to the Federal Government through prescribed reporting and oversight mechanisms."
+    },
+    {
+      "question": "What capacity building provisions exist under the Ordinance?",
+      "answer": "The Ordinance allows NADRA to engage experts, consultants, and advisers, and to conduct research and training, supporting continuous capacity building and institutional development."
+    },
+    {
+      "question": "What performance measurement requirements exist?",
+      "answer": "NADRA must submit annual performance reports and maintain accounts subject to audit, establishing comprehensive performance measurement and accountability frameworks."
+    },
+    {
+      "question": "What legal continuity does the Ordinance ensure?",
+      "answer": "The Ordinance ensures legal continuity by deeming actions under previous laws as valid under the new framework, preventing disruption of ongoing registration and identification processes."
+    },
+    {
+      "question": "What enforcement mechanisms does the Ordinance establish?",
+      "answer": "The Ordinance establishes comprehensive enforcement mechanisms through Registration Officers deemed public servants, specific penalties for violations, and prescribed legal procedures for prosecution."
+    },
+    {
+      "question": "What intergovernmental coordination does the Ordinance facilitate?",
+      "answer": "The Ordinance facilitates coordination between Federal, Provincial, and local governments through shared reporting requirements, cooperative schemes, and standardized database systems."
+    },
+    {
+      "question": "What legislative supremacy does the Ordinance establish?",
+      "answer": "The Ordinance overrides other laws and provides Federal Government with powers to remove implementation difficulties, establishing clear legislative supremacy in registration and database matters."
+    },
+    {
+      "question": "What comprehensive coverage does the Ordinance provide?",
+      "answer": "The Ordinance provides comprehensive coverage of all aspects of registration and database management, from establishment and operations to penalties and accountability, creating a complete legal framework."
     }
   ]
 }
