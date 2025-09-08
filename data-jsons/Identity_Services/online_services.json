@@ -1,7 +1,7 @@
 {
   "file_name": "online_services.md",
   "domain": "Identity_Services",
-  "total_qa_pairs": 12,
+  "total_qa_pairs": 60,
   "qa_data": [
     {
       "question": "What online services does NADRA provide?",
@@ -50,6 +50,198 @@
     {
       "question": "Where can I download PAK-ID from?",
       "answer": "You can download PAK-ID from Google Play Store for Android devices and Apple App Store for iOS devices. The application is free to download from both platforms."
+    },
+    {
+      "question": "What are the minimum system requirements for PAK-ID?",
+      "answer": "While specific requirements may vary, PAK-ID generally requires a modern Android or iOS device with internet connectivity. Check the app store listing for detailed compatibility requirements for your device."
+    },
+    {
+      "question": "Do I need to create an account to use PAK-ID?",
+      "answer": "Yes, you typically need to register and create an account on PAK-ID to access NADRA services. The registration process involves verifying your identity and linking your NADRA records to the app."
+    },
+    {
+      "question": "Can I use PAK-ID without internet connection?",
+      "answer": "PAK-ID requires an active internet connection to access NADRA's databases and complete most services. Some basic information may be viewable offline, but transactions require connectivity."
+    },
+    {
+      "question": "What specific NADRA documents can I apply for through PAK-ID?",
+      "answer": "Through PAK-ID, you can apply for various NADRA documents including identity card renewals, reprints, and certain other services. The specific services available may be updated regularly, so check the app for current offerings."
+    },
+    {
+      "question": "Can I track my application status through PAK-ID?",
+      "answer": "Yes, PAK-ID allows you to track your application status using your tracking ID and PIN code received from NADRA, providing real-time updates on your application progress."
+    },
+    {
+      "question": "How do I register for PAK-ID?",
+      "answer": "To register for PAK-ID, download the app from your device's app store, install it, and follow the signup process which typically involves providing your CNIC information and verification details."
+    },
+    {
+      "question": "What should I do if I forgot my PAK-ID login credentials?",
+      "answer": "If you forget your PAK-ID login credentials, use the password reset option in the app, or contact NADRA support at 1777 for assistance with account recovery."
+    },
+    {
+      "question": "Can overseas Pakistanis use PAK-ID?",
+      "answer": "Yes, overseas Pakistanis can use PAK-ID for various services. The app supports NICOP holders and provides services for Pakistani nationals living abroad."
+    },
+    {
+      "question": "Are there any fees for using services through PAK-ID?",
+      "answer": "While the PAK-ID app itself is free, the NADRA services accessed through the app may have their standard fees as per NADRA's fee schedule. Payment can be made through the app's integrated payment system."
+    },
+    {
+      "question": "What payment methods are accepted in PAK-ID?",
+      "answer": "PAK-ID supports various digital payment methods for service fees. Check within the app for available payment options including mobile banking, credit/debit cards, and other digital payment systems."
+    },
+    {
+      "question": "How secure is my personal data on PAK-ID?",
+      "answer": "PAK-ID implements security measures to protect personal data, including encryption and secure authentication. NADRA follows data protection protocols as per Pakistani data protection regulations."
+    },
+    {
+      "question": "Can I use PAK-ID on multiple devices?",
+      "answer": "You can install PAK-ID on multiple devices, but you'll need to authenticate each device. For security reasons, active sessions may be limited or require re-authentication when switching devices."
+    },
+    {
+      "question": "What should I do if PAK-ID is not working properly?",
+      "answer": "For PAK-ID technical issues, try updating the app, restarting your device, checking internet connectivity, or contacting NADRA technical support at 1777 for assistance."
+    },
+    {
+      "question": "How often should I update the PAK-ID app?",
+      "answer": "Keep PAK-ID updated to the latest version available in your app store to ensure you have the newest features, security updates, and bug fixes."
+    },
+    {
+      "question": "Can I delete my PAK-ID account?",
+      "answer": "For account deletion or deactivation, contact NADRA customer service at 1777 as this may require verification and specific procedures to protect your data and identity."
+    },
+    {
+      "question": "What languages is PAK-ID available in?",
+      "answer": "PAK-ID typically supports multiple languages relevant to Pakistani users. Check the app settings for available language options including Urdu and English."
+    },
+    {
+      "question": "Can I download documents directly from PAK-ID?",
+      "answer": "Yes, PAK-ID allows you to download certain documents like Family Registration Certificates (FRC) directly to your device for immediate access and printing."
+    },
+    {
+      "question": "How do I verify my identity on PAK-ID for the first time?",
+      "answer": "Initial identity verification on PAK-ID typically involves providing your CNIC details, answering verification questions, and possibly undergoing biometric verification depending on the service."
+    },
+    {
+      "question": "Can I apply for family members' documents through my PAK-ID account?",
+      "answer": "You may be able to apply for certain family documents depending on your relationship and authorization. Check the app for specific family services and required permissions."
+    },
+    {
+      "question": "What should I do if my PAK-ID application is rejected?",
+      "answer": "If your application is rejected through PAK-ID, check the rejection reason provided in the app, gather any required additional documents, or contact NADRA at 1777 for clarification."
+    },
+    {
+      "question": "Can I schedule appointments at NADRA centers through PAK-ID?",
+      "answer": "Check PAK-ID for appointment scheduling features, as this functionality may be available in some regions or for specific services. Alternatively, contact centers directly."
+    },
+    {
+      "question": "How do I contact customer support from within PAK-ID?",
+      "answer": "PAK-ID may have built-in customer support features, help sections, or direct links to NADRA's helpline 1777 for assistance with app or service-related queries."
+    },
+    {
+      "question": "Can I use PAK-ID for emergency document services?",
+      "answer": "PAK-ID may offer expedited processing options for urgent document needs. Check the app for urgent service categories and their respective processing times and fees."
+    },
+    {
+      "question": "What happens if I lose my phone with PAK-ID installed?",
+      "answer": "If you lose your phone, immediately contact NADRA at 1777 to secure your account. You can reinstall PAK-ID on a new device and go through the authentication process again."
+    },
+    {
+      "question": "Are there any age restrictions for using PAK-ID?",
+      "answer": "PAK-ID is generally for individuals who can legally apply for NADRA documents. Minors may need parental consent or may have limited access to certain services."
+    },
+    {
+      "question": "Can I use PAK-ID to verify someone else's identity?",
+      "answer": "PAK-ID is primarily for personal use. Identity verification of others may require separate verification services or official procedures through NADRA centers."
+    },
+    {
+      "question": "How do I provide feedback about PAK-ID?",
+      "answer": "You can provide feedback about PAK-ID through the app's feedback feature, app store reviews, NADRA's website, or by calling 1777 to share your experience and suggestions."
+    },
+    {
+      "question": "Can I access PAK-ID services during system maintenance?",
+      "answer": "During scheduled maintenance, some PAK-ID services may be temporarily unavailable. The app will typically notify users of maintenance schedules and alternative contact methods."
+    },
+    {
+      "question": "What accessibility features does PAK-ID offer?",
+      "answer": "PAK-ID may include accessibility features for users with disabilities. Check the app settings for options like larger text, voice assistance, or other accessibility tools."
+    },
+    {
+      "question": "Can I use PAK-ID to report lost or stolen documents?",
+      "answer": "PAK-ID may have features to report lost or stolen documents and initiate replacement processes. Check the app for document reporting and reprint services."
+    },
+    {
+      "question": "How do I know if my PAK-ID transaction was successful?",
+      "answer": "PAK-ID provides transaction confirmations, receipt numbers, and status updates for completed services. Save these confirmations for your records and tracking purposes."
+    },
+    {
+      "question": "Can I cancel a service request made through PAK-ID?",
+      "answer": "Cancellation policies may vary by service type. Check the app for cancellation options or contact NADRA at 1777 to inquire about canceling pending requests."
+    },
+    {
+      "question": "Does PAK-ID work on tablets and other devices?",
+      "answer": "PAK-ID is designed for mobile phones but may work on tablets with compatible Android or iOS systems. Performance may vary on different device types."
+    },
+    {
+      "question": "How do I enable notifications for PAK-ID?",
+      "answer": "Enable notifications in your device settings for PAK-ID to receive updates about application status, maintenance schedules, and important announcements from NADRA."
+    },
+    {
+      "question": "Can I use PAK-ID for business or commercial purposes?",
+      "answer": "PAK-ID is primarily for individual identity services. For business verification or commercial services, check with NADRA about specialized business verification solutions."
+    },
+    {
+      "question": "What should I do if PAK-ID shows incorrect information about me?",
+      "answer": "If PAK-ID displays incorrect personal information, contact NADRA at 1777 immediately as this may indicate data synchronization issues or require record corrections."
+    },
+    {
+      "question": "Can I use PAK-ID to get digital copies of my documents?",
+      "answer": "PAK-ID may provide digital copies or QR codes for certain documents that can be verified electronically. Check the app for digital document options and their acceptance."
+    },
+    {
+      "question": "How long does it take for changes made through PAK-ID to take effect?",
+      "answer": "Processing times for changes made through PAK-ID vary by service type, from instant for some updates to several days for document applications. Check specific service timelines in the app."
+    },
+    {
+      "question": "Can I use PAK-ID if I'm traveling internationally?",
+      "answer": "Yes, PAK-ID can be used internationally as long as you have internet connectivity. This is particularly useful for overseas Pakistanis accessing NADRA services."
+    },
+    {
+      "question": "What biometric features does PAK-ID support?",
+      "answer": "PAK-ID may support various biometric authentication methods available on your device, such as fingerprint scanning or facial recognition, depending on your device capabilities."
+    },
+    {
+      "question": "Can I link multiple NADRA documents to one PAK-ID account?",
+      "answer": "Yes, you can typically link multiple NADRA documents (CNIC, NICOP, POC) to your PAK-ID account if you hold multiple valid documents from NADRA."
+    },
+    {
+      "question": "How do I update my contact information in PAK-ID?",
+      "answer": "Update your contact information through the PAK-ID app settings or profile section. Some changes may require verification before taking effect in NADRA's records."
+    },
+    {
+      "question": "Does PAK-ID integrate with other government services?",
+      "answer": "PAK-ID may integrate with other government services for seamless access to various public services. Check the app for available integrated services and partnerships."
+    },
+    {
+      "question": "Can I get technical support for PAK-ID in different languages?",
+      "answer": "NADRA provides customer support in multiple languages. Call 1777 and request assistance in your preferred language for PAK-ID related technical issues."
+    },
+    {
+      "question": "What should I do if PAK-ID asks for permissions I'm not comfortable granting?",
+      "answer": "Review app permissions carefully. PAK-ID may need certain permissions for functionality like camera access for document scanning. Contact NADRA support if you have concerns about specific permissions."
+    },
+    {
+      "question": "Can I use PAK-ID to apply for services for elderly family members?",
+      "answer": "You may be able to assist elderly family members with PAK-ID applications if you have proper authorization. Check the app for family assistance features and required documentation."
+    },
+    {
+      "question": "How does PAK-ID compare to visiting NADRA centers in person?",
+      "answer": "PAK-ID offers convenience and time-saving for many services, while in-person visits may be required for complex cases, initial registrations, or when biometric capture is needed."
+    },
+    {
+      "question": "What future updates or features are planned for PAK-ID?",
+      "answer": "For information about upcoming PAK-ID features and updates, check NADRA's official announcements, app store update notes, or contact NADRA at 1777 for the latest development news."
     }
   ]
 }
