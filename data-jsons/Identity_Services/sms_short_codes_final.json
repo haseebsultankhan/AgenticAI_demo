@@ -1,7 +1,7 @@
 {
   "file_name": "sms_short_codes_final.md",
   "domain": "Identity_Services",
-  "total_qa_pairs": 25,
+  "total_qa_pairs": 120,
   "qa_data": [
     {
       "question": "What SMS short codes does NADRA provide?",
@@ -102,6 +102,270 @@
     {
       "question": "What is the purpose of the broadcast message service SMS code?",
       "answer": "The broadcast message service (SMS code 9888) is used for bulk message services, allowing NADRA to send important announcements and updates to multiple recipients simultaneously."
+    },
+    {
+      "question": "What format should I use when sending SMS to NADRA short codes?",
+      "answer": "The specific format for each SMS service may vary. For tracking services like 8400, you typically need to include your CNIC number or tracking ID. Check the specific instructions for each service or contact 1777 for format guidance."
+    },
+    {
+      "question": "Are NADRA SMS services available 24/7?",
+      "answer": "Most NADRA SMS services are available 24/7, including tracking and verification services. However, response times may vary depending on system load and maintenance schedules."
+    },
+    {
+      "question": "Do NADRA SMS services charge fees?",
+      "answer": "SMS charges may apply according to your mobile network operator's standard SMS rates. Check with your mobile service provider for specific charges for sending SMS to short codes."
+    },
+    {
+      "question": "Which mobile networks support NADRA SMS services?",
+      "answer": "NADRA SMS services are generally supported by all major Pakistani mobile networks including Jazz, Telenor, Zong, and Ufone. If you experience issues, contact your network provider or NADRA at 1777."
+    },
+    {
+      "question": "What should I do if I don't receive a response from NADRA SMS services?",
+      "answer": "If you don't receive a response: check your mobile network signal, ensure you're sending to the correct short code, verify your SMS format is correct, wait a few minutes for delayed responses, or contact NADRA helpline 1777 for assistance."
+    },
+    {
+      "question": "Can I use NADRA SMS services from outside Pakistan?",
+      "answer": "NADRA SMS services are primarily designed for domestic use within Pakistan. International SMS to these short codes may not work or may incur high charges. For overseas inquiries, use international helpline numbers or contact Pakistani consulates."
+    },
+    {
+      "question": "How quickly do NADRA SMS services respond?",
+      "answer": "Response times for NADRA SMS services typically range from a few seconds to several minutes, depending on system load and the complexity of the query. During peak hours, responses may take longer."
+    },
+    {
+      "question": "Can I send multiple queries to the same SMS short code?",
+      "answer": "Yes, you can send multiple queries to NADRA short codes, but avoid sending the same query repeatedly in a short time as this may be considered spam and could result in temporary blocking."
+    },
+    {
+      "question": "What information do I need to provide for CNIC tracking via SMS 8400?",
+      "answer": "For CNIC tracking via SMS 8400, you typically need to provide your CNIC number or the tracking number provided when you submitted your application. Follow the specific format instructions for accurate results."
+    },
+    {
+      "question": "Can I verify someone else's CNIC using SMS 8009?",
+      "answer": "CNIC verification via SMS 8009 is typically for verifying your own or family members' information for legitimate purposes. Unauthorized verification of others' CNIC data may violate privacy policies."
+    },
+    {
+      "question": "What type of Covid-19 information can I get via SMS 1166?",
+      "answer": "Via SMS 1166, you can get information about Covid-19 vaccination enrollment, vaccination status updates, vaccination schedules, and related health program information."
+    },
+    {
+      "question": "How do I know which voting verification code to use - 8300, 8301, or 8302?",
+      "answer": "Use SMS 8300 for general Election Commission of Pakistan services, SMS 8301 if you're registered in Gilgit Baltistan, and SMS 8302 if you're registered in Azad Jammu & Kashmir. Choose based on your voter registration location."
+    },
+    {
+      "question": "What happens if I send SMS to the wrong short code?",
+      "answer": "If you send SMS to the wrong short code, you may receive an error message or no response. Simply send your query to the correct short code. Standard SMS charges may still apply for the incorrect message."
+    },
+    {
+      "question": "Can I get technical support for NADRA SMS services?",
+      "answer": "Yes, for technical support with NADRA SMS services, contact the main helpline at 1777. They can assist with SMS format issues, service problems, and alternative methods to access the information you need."
+    },
+    {
+      "question": "Are NADRA SMS services secure?",
+      "answer": "NADRA implements security measures for SMS services, but avoid sending sensitive personal information via SMS. For detailed personal data queries, use secure channels like visiting NADRA centers or official online portals."
+    },
+    {
+      "question": "What should I do if I receive an error message from NADRA SMS services?",
+      "answer": "If you receive an error message: check if you used the correct format, verify the short code number, ensure your query contains valid information, try again after a few minutes, or contact 1777 for assistance with the specific error."
+    },
+    {
+      "question": "Can I use NADRA SMS services if my phone doesn't support English?",
+      "answer": "NADRA SMS services primarily operate in English and may include some Urdu text. If your phone has language display issues, try using a phone with better Unicode support or contact 1777 for alternative assistance methods."
+    },
+    {
+      "question": "How long are the responses from NADRA SMS services?",
+      "answer": "NADRA SMS responses are typically concise to fit within standard SMS length limits (160 characters). For detailed information that doesn't fit in SMS format, you may be directed to call 1777 or visit NADRA centers."
+    },
+    {
+      "question": "Can I save responses from NADRA SMS services?",
+      "answer": "Yes, you can save SMS responses in your phone's message history for future reference. However, for official documentation purposes, you may need formal certificates or documents from NADRA centers."
+    },
+    {
+      "question": "What privacy measures protect my information when using NADRA SMS services?",
+      "answer": "NADRA follows data protection protocols for SMS services, but responses typically contain limited information for privacy. Detailed personal data is not transmitted via SMS for security reasons."
+    },
+    {
+      "question": "Are there daily limits on using NADRA SMS services?",
+      "answer": "While not explicitly stated, excessive use of SMS services may trigger spam protection measures. Use services reasonably and avoid sending duplicate queries in short time periods."
+    },
+    {
+      "question": "Can I use NADRA SMS services during system maintenance?",
+      "answer": "During scheduled maintenance, some SMS services may be temporarily unavailable. NADRA typically announces maintenance schedules in advance. Try again later or contact 1777 for urgent matters during maintenance."
+    },
+    {
+      "question": "How do I report problems with NADRA SMS services?",
+      "answer": "Report SMS service problems by calling NADRA helpline 1777, visiting NADRA centers, or using official complaint channels. Provide details about the specific short code, message sent, and problem encountered."
+    },
+    {
+      "question": "Can I get historical information through NADRA SMS services?",
+      "answer": "NADRA SMS services typically provide current status information. For historical records or detailed past information, you may need to visit NADRA centers or use other official channels."
+    },
+    {
+      "question": "Are NADRA SMS services available during holidays?",
+      "answer": "Most automated SMS services continue to operate during holidays, though response times may be affected. For immediate assistance during holidays, try alternative contact methods or wait for normal business hours."
+    },
+    {
+      "question": "What should I do if my mobile number is blocked from NADRA SMS services?",
+      "answer": "If your number is blocked from SMS services, contact NADRA at 1777 to resolve the issue. Blocks may occur due to excessive usage, spam detection, or technical issues."
+    },
+    {
+      "question": "Can businesses use NADRA SMS services for verification purposes?",
+      "answer": "Business use of NADRA SMS services may have different requirements and limitations. Contact NADRA directly to discuss business verification needs and available enterprise services."
+    },
+    {
+      "question": "How accurate is the information provided by NADRA SMS services?",
+      "answer": "NADRA SMS services provide information based on current database records. For critical decisions, verify information through official NADRA centers or documents, especially for legal or official purposes."
+    },
+    {
+      "question": "Can I use NADRA SMS services for family members?",
+      "answer": "You can use SMS services for legitimate family verification purposes, but each person's consent and proper authorization may be required for accessing their personal information."
+    },
+    {
+      "question": "What alternatives exist if NADRA SMS services are not working?",
+      "answer": "Alternative methods include: calling 1777, using PAK-ID mobile app, visiting NADRA centers, using online portals at www.nadra.gov.pk, or accessing services through NADRA's official digital channels."
+    },
+    {
+      "question": "Are NADRA SMS services integrated with other government systems?",
+      "answer": "Yes, NADRA SMS services are integrated with various government systems including health programs, election commissions, and other departmental databases to provide comprehensive information access."
+    },
+    {
+      "question": "Can I get notifications about NADRA services through SMS?",
+      "answer": "Yes, NADRA provides notifications through SMS for application updates, service announcements, and important alerts via the broadcast service and other notification systems."
+    },
+    {
+      "question": "How do I update my mobile number for NADRA SMS notifications?",
+      "answer": "To update your mobile number for NADRA notifications, visit a NADRA center with proper identification, use PAK-ID app if available, or contact 1777 for guidance on the mobile number update process."
+    },
+    {
+      "question": "What language options are available for NADRA SMS services?",
+      "answer": "NADRA SMS services primarily operate in English with some Urdu support. The specific language options may vary by service. Contact 1777 if you need assistance with language-related issues."
+    },
+    {
+      "question": "Can I request custom information through NADRA SMS services?",
+      "answer": "NADRA SMS services provide predefined information types. For custom or specific information requests, contact 1777 or visit NADRA centers where staff can provide personalized assistance."
+    },
+    {
+      "question": "How do NADRA SMS services handle network congestion?",
+      "answer": "During network congestion, SMS services may experience delays. NADRA systems queue messages and process them as network capacity allows. During peak times, responses may take longer than usual."
+    },
+    {
+      "question": "Are there age restrictions for using NADRA SMS services?",
+      "answer": "While there are no specific age restrictions for SMS services, accessing personal CNIC information typically requires being 18+ or having parental consent for minors. Verify with 1777 for specific service requirements."
+    },
+    {
+      "question": "Can I use NADRA SMS services for urgent matters?",
+      "answer": "For urgent matters, SMS services can provide quick information access, but for immediate processing or emergency situations, calling 1777 or visiting NADRA centers may be more effective."
+    },
+    {
+      "question": "What encryption or security measures protect NADRA SMS communications?",
+      "answer": "While SMS inherently has limited security, NADRA implements appropriate security measures for data transmission. For highly sensitive matters, use secure channels like official portals or in-person visits."
+    },
+    {
+      "question": "How do I know if my SMS query was successful?",
+      "answer": "Successful SMS queries typically receive a response within minutes. If you don't receive a response or get an error message, the query may have failed. Try again or contact 1777 for assistance."
+    },
+    {
+      "question": "Can I provide feedback about NADRA SMS services?",
+      "answer": "Yes, you can provide feedback about SMS services through NADRA's feedback channels including calling 1777, visiting centers, using online feedback forms, or through official complaint mechanisms."
+    },
+    {
+      "question": "Are NADRA SMS services accessible for people with disabilities?",
+      "answer": "SMS services provide text-based access which may be compatible with assistive technologies. For specific accessibility needs, contact 1777 to discuss alternative access methods or assistance options."
+    },
+    {
+      "question": "What backup systems exist for NADRA SMS services?",
+      "answer": "NADRA maintains backup systems and redundancy for SMS services. If primary systems are unavailable, backup systems may handle requests, though responses might be delayed during system switches."
+    },
+    {
+      "question": "Can I use NADRA SMS services for legal verification purposes?",
+      "answer": "While SMS services provide helpful information, for legal verification purposes, obtain official documents and certificates from NADRA centers, as SMS responses may not constitute legal proof."
+    },
+    {
+      "question": "How do seasonal demands affect NADRA SMS services?",
+      "answer": "During peak seasons (like election periods or mass vaccination campaigns), SMS services may experience higher demand and slower response times. Plan accordingly and consider alternative methods during peak periods."
+    },
+    {
+      "question": "What training do NADRA staff receive for SMS service support?",
+      "answer": "NADRA staff receive training on SMS service operations, troubleshooting, and customer support. For complex SMS-related issues, trained staff at 1777 can provide specialized assistance."
+    },
+    {
+      "question": "Can I automate queries to NADRA SMS services?",
+      "answer": "Automated queries or bulk SMS sending to NADRA services may be restricted or blocked by spam protection measures. For business or automated needs, contact NADRA to discuss appropriate access methods."
+    },
+    {
+      "question": "How do NADRA SMS services handle data validation?",
+      "answer": "NADRA SMS services validate input data against database records and provide appropriate responses or error messages. Invalid or incorrectly formatted queries may receive error responses or no response."
+    },
+    {
+      "question": "What future improvements are planned for NADRA SMS services?",
+      "answer": "NADRA continuously works on improving SMS services including faster response times, enhanced security, better integration, and expanded service offerings. Check official announcements for updates on new features."
+    },
+    {
+      "question": "Can I use NADRA SMS services through messaging apps like WhatsApp?",
+      "answer": "NADRA SMS services are designed for traditional SMS. For messaging app services, check if NADRA offers official WhatsApp or other messaging app channels, or use traditional SMS to the specified short codes."
+    },
+    {
+      "question": "How do NADRA SMS services comply with telecommunications regulations?",
+      "answer": "NADRA SMS services comply with Pakistani telecommunications regulations and work with licensed mobile operators. Services follow regulatory requirements for data protection and communication standards."
+    },
+    {
+      "question": "What happens to my SMS data after I use NADRA services?",
+      "answer": "NADRA follows data protection policies for SMS communications. Query logs may be maintained for service improvement and security purposes, following applicable data retention and privacy regulations."
+    },
+    {
+      "question": "Can I request SMS format examples for each NADRA service?",
+      "answer": "Yes, you can request SMS format examples by calling 1777, visiting NADRA centers, or checking official documentation. Staff can provide specific format requirements for each short code service."
+    },
+    {
+      "question": "Are there special SMS services for emergency situations?",
+      "answer": "While regular SMS services continue during emergencies, NADRA may activate special communication protocols during major emergencies. Monitor official announcements for emergency-specific services."
+    },
+    {
+      "question": "How do NADRA SMS services integrate with the PAK-ID mobile app?",
+      "answer": "NADRA SMS services and PAK-ID app provide complementary access methods. While SMS offers quick queries, PAK-ID provides more comprehensive features. Both use the same underlying database systems."
+    },
+    {
+      "question": "Can I opt out of NADRA broadcast SMS messages?",
+      "answer": "For broadcast messages via 9888, check if opt-out options are provided in the messages, or contact 1777 to discuss preference settings for non-essential notifications."
+    },
+    {
+      "question": "What quality assurance measures exist for NADRA SMS services?",
+      "answer": "NADRA implements quality assurance through system monitoring, response time tracking, accuracy verification, regular testing, and user feedback analysis to maintain service quality."
+    },
+    {
+      "question": "How do NADRA SMS services handle concurrent requests?",
+      "answer": "NADRA SMS systems are designed to handle concurrent requests through load balancing, queuing systems, and scalable infrastructure. During peak loads, responses may be slightly delayed but will be processed."
+    },
+    {
+      "question": "Can I get detailed error explanations for failed SMS queries?",
+      "answer": "SMS responses are typically brief due to character limits. For detailed error explanations and troubleshooting, contact 1777 where staff can provide comprehensive assistance and error analysis."
+    },
+    {
+      "question": "Are NADRA SMS services environmentally sustainable?",
+      "answer": "SMS services contribute to environmental sustainability by reducing paper usage and physical visits. Digital service delivery supports NADRA's efforts toward more sustainable operations."
+    },
+    {
+      "question": "What disaster recovery plans exist for NADRA SMS services?",
+      "answer": "NADRA maintains disaster recovery plans including backup systems, alternate communication channels, and restoration procedures to ensure SMS services remain available during emergencies or system failures."
+    },
+    {
+      "question": "How do international standards affect NADRA SMS services?",
+      "answer": "NADRA SMS services follow international standards for telecommunications, data security, and digital government services, ensuring compatibility and security in line with global best practices."
+    },
+    {
+      "question": "Can I contribute to improving NADRA SMS services?",
+      "answer": "Yes, you can contribute by providing feedback through official channels, reporting issues, suggesting improvements via 1777, and participating in user satisfaction surveys when available."
+    },
+    {
+      "question": "What coordination exists between NADRA SMS services and other government departments?",
+      "answer": "NADRA SMS services coordinate with various government departments including health ministries, election commissions, and provincial governments to provide integrated service access through common platforms."
+    },
+    {
+      "question": "How do NADRA SMS services ensure service continuity?",
+      "answer": "Service continuity is maintained through redundant systems, regular maintenance schedules, backup procedures, monitoring systems, and coordination with telecommunications providers to minimize service interruptions."
+    },
+    {
+      "question": "What role do NADRA SMS services play in digital Pakistan initiatives?",
+      "answer": "NADRA SMS services support Digital Pakistan initiatives by providing accessible, technology-enabled government services, promoting digital inclusion, and enabling efficient citizen-government interaction through mobile platforms."
     }
   ]
 }
