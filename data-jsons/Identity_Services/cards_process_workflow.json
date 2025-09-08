@@ -1,7 +1,7 @@
 {
   "file_name": "cards_process_workflow.md",
   "domain": "Identity_Services",
-  "total_qa_pairs": 18,
+  "total_qa_pairs": 35,
   "qa_data": [
     {
       "question": "What is the complete workflow for ID card processing at NADRA?",
@@ -74,6 +74,74 @@
     {
       "question": "Are there multiple NADRA Registration Centers available?",
       "answer": "Yes, there are multiple NADRA Registration Centers (NRCs) available where applicants can visit to initiate their ID card application process."
+    },
+    {
+      "question": "How long does the complete ID card processing workflow take at the center?",
+      "answer": "The complete workflow typically takes 2-4 hours depending on crowd, queue position, and application complexity. Individual steps take: Q-Metic token (5 minutes), Data capturing (30-45 minutes), Confirmation (10 minutes), Interview (15-20 minutes), Data upload (5-10 minutes). Peak times may increase waiting periods."
+    },
+    {
+      "question": "What happens if there are technical issues during biometric capture?",
+      "answer": "If biometric capture fails: staff will attempt multiple captures using different techniques, clean the scanner and try again, use alternative fingers if some are damaged, escalate to technical support if needed, and document the issue for potential free re-capture later. The process may be paused until technical issues are resolved."
+    },
+    {
+      "question": "Can I leave the center between steps and return later?",
+      "answer": "No, the workflow is designed as a continuous process. Once you receive your Q-Metic token, you should remain at the center to complete all steps in sequence. Leaving may require restarting the entire process with a new token and queue number."
+    },
+    {
+      "question": "What specific questions are asked during the NADRA interview?",
+      "answer": "The interview typically covers: verification of personal details on the form, confirmation of family information, explanation of any document discrepancies, address verification questions, purpose of application, relationship verification with family members, and assessment of document authenticity. The officer may ask for clarification on any inconsistencies."
+    },
+    {
+      "question": "What happens after the data upload to central server?",
+      "answer": "After data upload: your application enters the backend processing queue, automated verification checks are performed, document authenticity is verified, biometric matching occurs, final approval or rejection decision is made, and your application status is updated in the system. You'll receive SMS/email notifications about progress."
+    },
+    {
+      "question": "Can family members be processed together in the same workflow?",
+      "answer": "Family members can apply together and may receive consecutive Q-Metic tokens, but each person must complete their individual workflow steps including separate biometric capture, data entry, confirmation, and interview. The process cannot be combined but can be coordinated."
+    },
+    {
+      "question": "What if I make an error during the confirmation stage?",
+      "answer": "If you find errors during confirmation: immediately inform the staff before proceeding, corrections can be made during the data capturing stage, the form will be reprinted with correct information, you'll need to re-confirm the corrected form, and there's no additional fee for corrections made during the same visit."
+    },
+    {
+      "question": "Are there any accessibility accommodations in the workflow process?",
+      "answer": "NADRA provides accessibility accommodations including: priority queue for disabled persons and elderly, wheelchair accessible facilities, assistance from staff for form filling, alternative biometric methods if needed, family member assistance permission, and special seating arrangements during waiting periods."
+    },
+    {
+      "question": "What are the peak hours at NADRA centers and how can I avoid long queues?",
+      "answer": "Peak hours are typically 9 AM-12 PM and 2 PM-4 PM on weekdays. To avoid crowds: visit early morning (8 AM) or late afternoon (4-5 PM), avoid Mondays and days after holidays, consider visiting smaller centers, use appointment systems where available, and visit mid-week (Tuesday-Thursday) for shorter queues."
+    },
+    {
+      "question": "Can I track my application status after completing the workflow?",
+      "answer": "Yes, you can track your application using: the tracking number provided after data upload, SMS service by sending your CNIC to designated short codes, PAK-ID mobile app, NADRA website tracking portal, calling NADRA helpline 1777, or visiting the center with your receipt number."
+    },
+    {
+      "question": "What backup procedures exist if the central server is down during data upload?",
+      "answer": "If the central server is down: data is temporarily stored locally at the center, you'll receive a temporary receipt, upload will occur automatically when connectivity is restored, you'll be notified via SMS when upload is complete, and no re-visit is required unless specifically requested by NADRA."
+    },
+    {
+      "question": "Who else besides NADRA officers might I interact with during the workflow?",
+      "answer": "During the workflow you may interact with: reception staff for initial guidance, Q-Metic token issuer, fee collection personnel, biometric capture technicians, data entry operators, form printing staff, the interviewing NADRA officer, and security personnel. Each has specific roles in ensuring smooth processing."
+    },
+    {
+      "question": "What privacy and security measures are in place during the workflow?",
+      "answer": "Security measures include: restricted access to processing areas, biometric data encryption, secure document handling protocols, limited staff access to personal information, CCTV monitoring for security, confidential interview areas, secure data transmission to central servers, and disposal protocols for any temporary documents."
+    },
+    {
+      "question": "Are there any additional fees during the workflow process?",
+      "answer": "No additional fees are charged during the workflow process itself. The fee paid at the beginning covers all workflow steps including biometric capture, data entry, form printing, interview, and data upload. Additional fees only apply for optional services like expedited processing or delivery options."
+    },
+    {
+      "question": "What should I do if I feel the interview process was unfair or biased?",
+      "answer": "If you experience unfair treatment: note the officer's name and time, request to speak with the supervisor immediately, file a formal complaint at the center, use NADRA's complaint portal online, call the helpline 1777 to report the incident, and request a different officer if available. NADRA takes fairness complaints seriously."
+    },
+    {
+      "question": "Can I request a specific time slot for my workflow processing?",
+      "answer": "Some NADRA centers offer appointment systems for specific time slots, while others operate on first-come-first-served basis. Check with your local center for appointment availability, book online if the system is available, or visit during off-peak hours to reduce waiting time. Appointments may have limited slots per day."
+    },
+    {
+      "question": "What quality checks are performed during the workflow to ensure accuracy?",
+      "answer": "Quality checks include: document verification against originals, biometric quality assessment during capture, data entry cross-checking, supervisor review of applications, automated system validations, interview-based verification, and final review before data upload. Multiple checkpoints ensure accuracy and prevent errors."
     }
   ]
 }
